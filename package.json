@@ -1,0 +1,14 @@
+{
+  "name": "onepace-hebrew-stremio",
+  "version": "1.0.0",
+  "description": "Stremio subtitles addon serving Hebrew One Pace subtitles (SRT primary, ASS for mpv).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build-mapping": "node scripts/build-mapping.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
