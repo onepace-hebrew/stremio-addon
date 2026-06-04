@@ -26,11 +26,13 @@ jobs:
       - name: Install dependencies
         run: npm ci || npm i
 
-      - name: Rebuild mapping.json
-        run: node scripts/build-mapping.js
+      - name: Rebuild mapping.json + static addon (docs/)
+        run: |
+          node scripts/build-mapping.js
+          node scripts/build-static.js
 
-      - name: Commit mapping.json if changed
+      - name: Commit regenerated files if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: rebuild mapping.json from subtitles'
-          file_pattern: mapping.json
+          commit_message: 'chore: rebuild mapping.json + docs from subtitles'
+          file_pattern: 'mapping.json docs/**'

@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build-mapping": "node scripts/build-mapping.js"
+    "build-mapping": "node scripts/build-mapping.js",
+    "build-static": "node scripts/build-static.js",
+    "build": "node scripts/build-mapping.js && node scripts/build-static.js"
   },
   "license": "MIT",
   "dependencies": {
