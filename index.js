@@ -26,7 +26,7 @@ try {
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.0',
+  version: '1.0.1',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
