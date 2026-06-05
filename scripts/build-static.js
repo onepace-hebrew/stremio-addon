@@ -202,22 +202,23 @@ fs.writeFileSync(
 
       <section class="card">
         <h2>התקנה</h2>
-        <p>העתיקו את הכתובת הזו ל־Stremio ← <strong>Add-ons</strong> ← <strong>"Add-on Repository URL"</strong>:</p>
+        <p>העתיקו את הכתובת הזו והדביקו אותה בתוסף <bdi>Stremio</bdi>:</p>
         <div class="urlbox">
           <code class="url" id="url-he">${MANIFEST_URL}</code>
           <button class="copy" type="button" data-copy="${MANIFEST_URL}">העתקה</button>
         </div>
-        <p><a class="btn" href="${STREMIO_DEEPLINK}">➕ התקנה ב־Stremio</a></p>
+        <p><a class="btn" href="${STREMIO_DEEPLINK}">➕ התקנה ב־<bdi>Stremio</bdi></a></p>
         <ol>
-          <li>הוסיפו את הכתובת שלמעלה ב־Stremio.</li>
-          <li>הפעילו פרק של One Pace (צריך שיהיה מותקן תוסף הסטרימינג של One Pace).</li>
-          <li>בחרו את מסלול הכתוביות ב<strong>עברית</strong>.</li>
+          <li>פתחו את <bdi>Stremio</bdi>, ואז עברו אל מסך התוספים <bdi>Add-ons</bdi>.</li>
+          <li>הדביקו את הכתובת שלמעלה בתיבה <bdi>"Add-on Repository URL"</bdi> ולחצו על <bdi>Install</bdi> (התקנה).</li>
+          <li>הפעילו פרק של <bdi>One Pace</bdi> (צריך שיהיה מותקן תוסף הסטרימינג של <bdi>One Pace</bdi>).</li>
+          <li>בחרו ב<strong>כתוביות בעברית</strong>.</li>
         </ol>
-        <p class="muted">מסלול הכתוביות הרגיל עובד בנגן של Stremio; לעיצוב מושקע יותר השתמשו ב־<a href="https://mpv.io/">mpv</a>.</p>
+        <p class="muted">הכתוביות הרגילות עובדות בנגן של <bdi>Stremio</bdi>; לעיצוב מושקע יותר השתמשו ב־<a href="https://mpv.io/"><bdi>mpv</bdi></a>.</p>
       </section>
 
       <p class="credits">מבוסס על הכתוביות באנגלית של
-        <a href="https://onepace.net">פרויקט One Pace</a>. תרגום לעברית: <strong>That One Gerbil</strong>.</p>
+        <a href="https://onepace.net">פרויקט <bdi>One Pace</bdi></a>. תרגום לעברית: <strong>That One Gerbil</strong>.</p>
     </div>
   </main>
 
