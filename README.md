@@ -10,7 +10,7 @@ Hebrew subtitles for One Pace (the fan-made recut of One Piece) — as a Stremio
 2. Paste this URL into the **"Add-on Repository URL"** box and click **Install**:
 
    ```
-   https://onepace-hebrew.github.io/stremio-addon/manifest.json
+   https://stremio-addon.onepace-hebrew.workers.dev/manifest.json
    ```
 
 3. Play a One Pace episode (you need the One Pace stream addon installed) and pick the **Hebrew** subtitle track.
@@ -37,7 +37,7 @@ Based on the English subtitles from the [One Pace project](https://onepace.net).
 2. הדביקו את הכתובת הבאה בתיבה ‎"Add-on Repository URL"‎ ולחצו על ‎Install‎ (התקנה):
 
    ```
-   https://onepace-hebrew.github.io/stremio-addon/manifest.json
+   https://stremio-addon.onepace-hebrew.workers.dev/manifest.json
    ```
 
 3. הפעילו פרק של ‎One Pace‎ (צריך שיהיה מותקן תוסף הסטרימינג של ‎One Pace‎).

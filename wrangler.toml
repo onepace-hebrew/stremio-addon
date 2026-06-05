@@ -1,3 +1,4 @@
-name = "onepace-hebrew"
+name = "stremio-addon"
+workers_dev = true
 main = "worker.js"
 compatibility_date = "2026-06-01"

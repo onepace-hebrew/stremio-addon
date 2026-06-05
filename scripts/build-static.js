@@ -1,58 +1,36 @@
 #!/usr/bin/env node
 /**
- * build-static.js — generate the static Stremio addon served by GitHub Pages.
+ * build-static.js — generate the GitHub Pages landing page (docs/index.html).
  *
- * A Stremio addon is just HTTP GET endpoints returning JSON, so it can be fully static:
- *   docs/manifest.json                       — the addon manifest
- *   docs/subtitles/series/<ID>.json          — the subtitles response per episode id
- * GitHub Pages (source: main /docs) serves these with CORS, so users install
- *   https://onepace-hebrew.github.io/stremio-addon/manifest.json
- * and never download or run anything. Regenerated from mapping.json on every push.
+ * The ADDON itself is served by the Cloudflare Worker, not Pages:
+ *   https://stremio-addon.onepace-hebrew.workers.dev/manifest.json
+ * Stremio requests subtitles at /subtitles/series/<id>/<extra...>.json where
+ * <extra> carries videoHash/etc. A static host only has the base file, so the
+ * extra-path 404s and no subtitles show — that's why Pages can't host the addon.
+ * The Worker matches any such path dynamically (see worker.js).
+ *
+ * Pages is therefore JUST the pretty front door: a landing page whose Install
+ * button / copy box point at the Worker URL. We do NOT emit a static
+ * manifest.json or subtitles/ here — a working-looking manifest with dead
+ * subtitle endpoints would be a footgun. Regenerated on every push.
  */
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
 const DOCS = path.join(ROOT, 'docs');
-const mapping = JSON.parse(fs.readFileSync(path.join(ROOT, 'mapping.json'), 'utf8'));
 
-const manifest = {
-  id: 'community.onepace.hebrew',
-  version: '1.0.1',
-  name: 'One Pace Hebrew Subtitles',
-  description:
-    'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
-    'track and watch. AI-generated; may contain errors.',
-  logo: 'https://onepace-hebrew.github.io/stremio-addon/icon.png',
-  resources: ['subtitles'],
-  types: ['series'],
-  catalogs: [],
-  behaviorHints: { configurable: false },
-};
-
-// Reset docs/ subtitle output (keep index.html if present is fine — we rewrite it).
+// Remove any stale static addon endpoints from earlier versions — the Worker
+// owns these now; leaving them would let someone install a dead Pages addon.
+fs.rmSync(path.join(DOCS, 'manifest.json'), { force: true });
 fs.rmSync(path.join(DOCS, 'subtitles'), { recursive: true, force: true });
-fs.mkdirSync(path.join(DOCS, 'subtitles', 'series'), { recursive: true });
 
 // .nojekyll: stop GitHub Pages' Jekyll from touching our files/paths.
+fs.mkdirSync(DOCS, { recursive: true });
 fs.writeFileSync(path.join(DOCS, '.nojekyll'), '');
 
-fs.writeFileSync(path.join(DOCS, 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n');
-
-const ids = Object.keys(mapping).sort();
-for (const id of ids) {
-  const e = mapping[id];
-  const subtitles = [];
-  if (e.srt) subtitles.push({ id: `${id}-he-srt`, url: e.srt, lang: 'heb' });
-  if (e.ass) subtitles.push({ id: `${id}-he-ass`, url: e.ass, lang: 'heb' });
-  fs.writeFileSync(
-    path.join(DOCS, 'subtitles', 'series', `${id}.json`),
-    JSON.stringify({ subtitles, cacheMaxAge: 86400 }, null, 2) + '\n',
-  );
-}
-
-const MANIFEST_URL = 'https://onepace-hebrew.github.io/stremio-addon/manifest.json';
-const STREMIO_DEEPLINK = 'stremio://onepace-hebrew.github.io/stremio-addon/manifest.json';
+const MANIFEST_URL = 'https://stremio-addon.onepace-hebrew.workers.dev/manifest.json';
+const STREMIO_DEEPLINK = 'stremio://stremio-addon.onepace-hebrew.workers.dev/manifest.json';
 
 fs.writeFileSync(
   path.join(DOCS, 'index.html'),
@@ -240,4 +218,4 @@ fs.writeFileSync(
 `,
 );
 
-console.log(`build-static: wrote docs/manifest.json + ${ids.length} subtitle responses (${ids.join(', ')})`);
+console.log('build-static: wrote docs/index.html (landing page → Worker addon URL); removed stale docs/manifest.json + docs/subtitles');
