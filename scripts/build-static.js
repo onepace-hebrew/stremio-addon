@@ -23,7 +23,7 @@ const manifest = {
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
     'track and watch. AI-generated; may contain errors.',
-  logo: 'https://onepace.net/images/one-pace-logo.png',
+  logo: 'https://onepace-hebrew.github.io/stremio-addon/icon.png',
   resources: ['subtitles'],
   types: ['series'],
   catalogs: [],
