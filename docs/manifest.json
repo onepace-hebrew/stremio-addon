@@ -2,7 +2,7 @@
   "id": "community.onepace.hebrew",
   "version": "1.0.0",
   "name": "One Pace Hebrew Subtitles",
-  "description": "Hebrew subtitles for One Pace. SRT works in Stremio's default player; the styled ASS version is best viewed in mpv. Translation by the One Pace Hebrew community (That One Gerbil).",
+  "description": "Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew track and watch. AI-generated; may contain errors.",
   "logo": "https://onepace.net/images/one-pace-logo.png",
   "resources": [
     "subtitles"

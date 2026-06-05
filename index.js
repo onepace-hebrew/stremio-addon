@@ -29,9 +29,8 @@ const manifest = {
   version: '1.0.0',
   name: 'One Pace Hebrew Subtitles',
   description:
-    'Hebrew subtitles for One Pace. Serves SRT (works in Stremio\'s default player) ' +
-    'plus the styled ASS version (best viewed in mpv) for each available episode. ' +
-    'Translation by the One Pace Hebrew community.',
+    'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
+    'track and watch. AI-generated; may contain errors.',
   logo: 'https://onepace.net/images/one-pace-logo.png',
   resources: ['subtitles'],
   types: ['series'],
