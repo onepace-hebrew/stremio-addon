@@ -4,6 +4,8 @@ Hebrew subtitles for One Pace (the fan-made recut of One Piece) — as a Stremio
 
 > ⚠️ These Hebrew subtitles are AI-generated and may contain errors.
 
+🌐 **Website / one-click install:** https://onepace-hebrew.github.io/stremio-addon/
+
 ## Install
 
 1. Open **Stremio** → **Add-ons**.
@@ -30,6 +32,8 @@ Based on the English subtitles from the [One Pace project](https://onepace.net).
 כתוביות בעברית ל־‎One Pace‎ (הגרסה המקוצרת של ‎One Piece‎ שנעשתה על־ידי מעריצים) — כתוסף ל־‎Stremio‎.
 
 > ⚠️ הכתוביות בעברית נוצרו על־ידי בינה מלאכותית ועלולות להכיל טעויות.
+
+🌐 **אתר / התקנה בלחיצה אחת:** ‎https://onepace-hebrew.github.io/stremio-addon/‎
 
 ## התקנה
 
