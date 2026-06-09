@@ -175,6 +175,19 @@ function build() {
   // path stem (no extension); both <stem>.srt and <stem>.ass must exist.
   const ID_OVERRIDES = {
     'EN_1': 'fedew/17 Enies Lobby/01/enieslobby 01 he',
+    'EN_2': 'fedew/17 Enies Lobby/02/enieslobby 02 he',
+    'EN_3': 'fedew/17 Enies Lobby/03/enieslobby 03 he',
+    'EN_4': 'fedew/17 Enies Lobby/04/enieslobby 04 he',
+    'EN_5': 'fedew/17 Enies Lobby/05/enieslobby 05 he',
+    'EN_6': 'fedew/17 Enies Lobby/06/enieslobby 06 he',
+    'EN_7': 'fedew/17 Enies Lobby/07/enieslobby 07 he',
+    'EN_8': 'fedew/17 Enies Lobby/08/enieslobby 08 he',
+    'EN_9': 'fedew/17 Enies Lobby/09/enieslobby 09 he',
+    'EN_14': 'fedew/17 Enies Lobby/14/enieslobby 14 he',
+    'EN_15': 'fedew/17 Enies Lobby/15/enieslobby 15 he',
+    'EN_19': 'fedew/17 Enies Lobby/19/enieslobby 19 he',
+    'EN_21': 'fedew/17 Enies Lobby/21/enieslobby 21 he',
+    'EN_25': 'fedew/17 Enies Lobby/25/enieslobby 25 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');
