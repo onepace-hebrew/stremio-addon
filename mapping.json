@@ -383,66 +383,6 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/09/egghead%2009%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/09/egghead%2009%20he.ass"
   },
-  "EN_1": {
-    "arc": "17 Enies Lobby",
-    "ep": 1,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/01/enieslobby%2001%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/01/enieslobby%2001%20he.ass"
-  },
-  "EN_10": {
-    "arc": "17 Enies Lobby",
-    "ep": 10,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/10/enieslobby%2010%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/10/enieslobby%2010%20he.ass"
-  },
-  "EN_2": {
-    "arc": "17 Enies Lobby",
-    "ep": 2,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/02/enieslobby%2002%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/02/enieslobby%2002%20he.ass"
-  },
-  "EN_3": {
-    "arc": "17 Enies Lobby",
-    "ep": 3,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/03/enieslobby%2003%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/03/enieslobby%2003%20he.ass"
-  },
-  "EN_4": {
-    "arc": "17 Enies Lobby",
-    "ep": 4,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/04/enieslobby%2004%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/04/enieslobby%2004%20He.ass"
-  },
-  "EN_5": {
-    "arc": "17 Enies Lobby",
-    "ep": 5,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/05/enieslobby%2005%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/05/enieslobby%2005%20he.ass"
-  },
-  "EN_6": {
-    "arc": "17 Enies Lobby",
-    "ep": 6,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/06/enieslobby%2006%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/06/enieslobby%2006%20he.ass"
-  },
-  "EN_7": {
-    "arc": "17 Enies Lobby",
-    "ep": 7,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/07/enieslobby%2007%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/07/enieslobby%2007%20he.ass"
-  },
-  "EN_8": {
-    "arc": "17 Enies Lobby",
-    "ep": 8,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/08/enieslobby%2008%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/08/enieslobby%2008%20he.ass"
-  },
-  "EN_9": {
-    "arc": "17 Enies Lobby",
-    "ep": 9,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/09/enieslobby%2009%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/09/enieslobby%2009%20he.ass"
-  },
   "GA_1": {
     "arc": "04 Gaimon",
     "ep": 1,
