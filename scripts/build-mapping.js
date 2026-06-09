@@ -167,6 +167,26 @@ function build() {
     }
   }
 
+  // Explicit per-id overrides for episodes whose Hebrew is timed to a cut that
+  // differs from the repo's main/ layout. Used for fedew-cut arcs (e.g. Enies
+  // Lobby) re-translated from fedew's own embedded English so they sync on
+  // fedew04 (the source-of-truth addon). Files live under subtitles/fedew/ to
+  // not collide with the repo's main/ cut. Each value is a subtitles-relative
+  // path stem (no extension); both <stem>.srt and <stem>.ass must exist.
+  const ID_OVERRIDES = {
+    'EN_1': 'fedew/17 Enies Lobby/01/enieslobby 01 he',
+  };
+  for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
+    const parts = stem.split('/');
+    const ep = parseEpNumber(parts[parts.length - 2]);
+    mapping[id] = {
+      arc: parts.slice(0, -2).join('/'),
+      ep,
+      srt: `${RAW_BASE}/${encodeRelPath(stem + '.srt')}`,
+      ass: `${RAW_BASE}/${encodeRelPath(stem + '.ass')}`,
+    };
+  }
+
   return { mapping, warnings };
 }
 
