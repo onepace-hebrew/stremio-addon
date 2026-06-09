@@ -28,12 +28,36 @@ const RAW_BASE =
 
 // Arc folder name -> Stremio arc code. Extend this as more arcs are added.
 // Keys are the exact "<NN Arc>" folder names under subtitles/main/.
+//
+// Codes match the One Pace stream addons (au2001/onepace-stremio and the
+// current fedew04/OnePaceStremio) which share the <ARC>_<ep> id namespace.
+//
+// Only arcs whose per-arc episode count matches the stream addon's cut are
+// listed — those map 1:1 (folder number == addon episode number) and stay in
+// sync. Arcs whose One Pace cut diverges from the addon (Baratie, Alabasta,
+// Enies Lobby, Wano, Egghead) are intentionally OMITTED until each episode is
+// title/timing-aligned to the addon ids; a blind numeric map there would
+// mislabel/desync subtitles.
 const ARC_CODES = {
+  '01 Romance Dawn': 'RO',
+  '02 Orange Town': 'OR',
+  '03 Syrup Village': 'SY',
+  '04 Gaimon': 'GA',
+  '06 Arlong Park': 'AR',
+  '07 Loguetown': 'LO',
+  '08 Reverse Mountain': 'RM',
+  '09 Whisky Peak': 'WH',
+  '10 Little Garden': 'LI',
+  '11 Drum Island': 'DI',
+  '13 Jaya': 'JA',
+  '14 Skypiea': 'SK',
   '16 Water Seven': 'WS',
-  '17 Enies Lobby': 'EN',
-  // Future arcs, e.g.:
-  // '18 Thriller Bark': 'TB',
-  // '19 Sabaody Archipelago': 'SA',
+  '24 Post War': 'PW',
+  '25 Return to Sabaody': 'RTS',
+  '30 Whole Cake Island': 'WC',
+  '31 Reverie': 'REV',
+  // Pending per-episode alignment (cut diverges from the stream addon):
+  // '05 Baratie', '12 Alabasta', '17 Enies Lobby', '32 Wano', '33 Egghead'.
 };
 
 const SUBTITLES_ROOT = path.join(__dirname, '..', 'subtitles');
@@ -102,15 +126,22 @@ function build() {
       const epDir = path.join(arcDir, epFolder);
       const files = fs.readdirSync(epDir);
 
-      // Find the Hebrew SRT: "<stem> he.srt"
-      const srtFile = files.find((f) => /\she\.srt$/i.test(f));
+      // Find the Hebrew SRT: "<stem> he.srt". A folder may also hold an
+      // "<stem> extended he.srt" alternate cut — prefer the standard one so the
+      // id maps to the canonical episode the addon serves.
+      const pickHe = (re) => {
+        const all = files.filter((f) => re.test(f));
+        const standard = all.find((f) => !/\bextended\b/i.test(f));
+        return standard || all[0] || null;
+      };
+      const srtFile = pickHe(/\she\.srt$/i);
       if (!srtFile) {
         warnings.push(`Skipping "${arc}/${epFolder}" - no "<stem> he.srt" found.`);
         continue;
       }
 
       // Optional Hebrew ASS: "<stem> he.ass"
-      const assFile = files.find((f) => /\she\.ass$/i.test(f)) || null;
+      const assFile = pickHe(/\she\.ass$/i);
 
       const id = `${arcCode}_${epNum}`;
       mapping[id] = {
