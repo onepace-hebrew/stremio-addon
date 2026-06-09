@@ -54,7 +54,11 @@ const ARC_CODES = {
   '13 Jaya': 'JA',
   '14 Skypiea': 'SK',
   '16 Water Seven': 'WS',
-  '17 Enies Lobby': 'EN', // onepace-premium (and any addon sourcing subs from this repo) cuts EN as repo folder n == EN_n, so folders 01-10 map 1:1 & sync. NB: fedew04/au2001 use a different 25-ep EN cut where this drifts — acceptable; the repo-cut addons are the target.
+  // '17 Enies Lobby' (EN) intentionally OMITTED: fedew04 (our source of truth)
+  // cuts EN as 25 episodes; this repo's Hebrew is timed to an 18-ep cut, so the
+  // ids don't align and would serve drifted/wrong subs on fedew. (It DID align
+  // 1:1 on onepace-premium, which sources subs from this repo — but fedew is the
+  // target now.) Needs a manual re-time to fedew's 25 boundaries to ever map.
   '24 Post War': 'PW',
   '25 Return to Sabaody': 'RTS',
   '28 Dressrosa': 'DR', // es->he (no English in repo); folder n == DR_n (onepace-premium sources subs from this repo). Pilot: only folder 01 translated so far.
