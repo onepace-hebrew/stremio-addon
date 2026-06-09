@@ -193,8 +193,10 @@ function build() {
     'EN_17': 'fedew/17 Enies Lobby/17/enieslobby 17 he',
     'EN_18': 'fedew/17 Enies Lobby/18/enieslobby 18 he',
     'EN_19': 'fedew/17 Enies Lobby/19/enieslobby 19 he',
+    'EN_20': 'fedew/17 Enies Lobby/20/enieslobby 20 he',
     'EN_21': 'fedew/17 Enies Lobby/21/enieslobby 21 he',
     'EN_22': 'fedew/17 Enies Lobby/22/enieslobby 22 he',
+    'EN_23': 'fedew/17 Enies Lobby/23/enieslobby 23 he',
     'EN_24': 'fedew/17 Enies Lobby/24/enieslobby 24 he',
     'EN_25': 'fedew/17 Enies Lobby/25/enieslobby 25 he',
   };
