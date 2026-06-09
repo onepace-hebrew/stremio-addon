@@ -57,6 +57,7 @@ const ARC_CODES = {
   '17 Enies Lobby': 'EN', // onepace-premium (and any addon sourcing subs from this repo) cuts EN as repo folder n == EN_n, so folders 01-10 map 1:1 & sync. NB: fedew04/au2001 use a different 25-ep EN cut where this drifts — acceptable; the repo-cut addons are the target.
   '24 Post War': 'PW',
   '25 Return to Sabaody': 'RTS',
+  '28 Dressrosa': 'DR', // es->he (no English in repo); folder n == DR_n (onepace-premium sources subs from this repo). Pilot: only folder 01 translated so far.
   '30 Whole Cake Island': 'WC',
   '31 Reverie': 'REV',
   '32 Wano': 'WA', // folders 01-57 → WA_1..57 (content-verified clean prefix; addon WA_58/59 absent from repo)
