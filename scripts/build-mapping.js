@@ -43,12 +43,14 @@ const ARC_CODES = {
   '02 Orange Town': 'OR',
   '03 Syrup Village': 'SY',
   '04 Gaimon': 'GA',
+  '05 Baratie': 'BA', // folders 01-08 → BA_1..8 (content-verified 1:1; folder 09 is a re-timed dup of BA_8 "The Fourth", maps to a phantom BA_9 the addon never requests)
   '06 Arlong Park': 'AR',
   '07 Loguetown': 'LO',
   '08 Reverse Mountain': 'RM',
   '09 Whisky Peak': 'WH',
   '10 Little Garden': 'LI',
   '11 Drum Island': 'DI',
+  '12 Alabasta': 'AL', // identical cut to addon; folders 01-04,10-21 → same-numbered AL ids (AL_5-9 absent from repo). content-verified
   '13 Jaya': 'JA',
   '14 Skypiea': 'SK',
   '16 Water Seven': 'WS',
@@ -56,8 +58,13 @@ const ARC_CODES = {
   '25 Return to Sabaody': 'RTS',
   '30 Whole Cake Island': 'WC',
   '31 Reverie': 'REV',
-  // Pending per-episode alignment (cut diverges from the stream addon):
-  // '05 Baratie', '12 Alabasta', '17 Enies Lobby', '32 Wano', '33 Egghead'.
+  '32 Wano': 'WA', // folders 01-57 → WA_1..57 (content-verified clean prefix; addon WA_58/59 absent from repo)
+  '33 Egghead': 'EH', // 20 folders == 20 released fedew04 ids, canonical order → 1:1
+  // STILL DEFERRED — genuine re-segmentation, NOT mappable by number:
+  //   '17 Enies Lobby' (EN): our 10 Hebrew episodes are an 18-ep recut that
+  //   COMBINES 2-3 addon episodes each; every .ass is timed to our combined
+  //   episode's 0:00, so no EN_<n> id can be served in-sync. Needs a manual
+  //   re-split/re-time to the 25 addon boundaries, not a lookup.
 };
 
 const SUBTITLES_ROOT = path.join(__dirname, '..', 'subtitles');
