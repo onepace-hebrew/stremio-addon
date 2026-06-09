@@ -1,63 +1,789 @@
 {
-  "EN_1": {
-    "arc": "17 Enies Lobby",
+  "AR_1": {
+    "arc": "06 Arlong Park",
     "ep": 1,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/01/enieslobby%2001%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/01/enieslobby%2001%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/01/arlongpark%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/01/arlongpark%2001%20he.ass"
   },
-  "EN_10": {
-    "arc": "17 Enies Lobby",
+  "AR_10": {
+    "arc": "06 Arlong Park",
     "ep": 10,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/10/enieslobby%2010%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/10/enieslobby%2010%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/10/arlongpark%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/10/arlongpark%2010%20he.ass"
   },
-  "EN_2": {
-    "arc": "17 Enies Lobby",
+  "AR_2": {
+    "arc": "06 Arlong Park",
     "ep": 2,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/02/enieslobby%2002%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/02/enieslobby%2002%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/02/arlongpark%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/02/arlongpark%2002%20he.ass"
   },
-  "EN_3": {
-    "arc": "17 Enies Lobby",
+  "AR_3": {
+    "arc": "06 Arlong Park",
     "ep": 3,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/03/enieslobby%2003%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/03/enieslobby%2003%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/03/arlongpark%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/03/arlongpark%2003%20he.ass"
   },
-  "EN_4": {
-    "arc": "17 Enies Lobby",
+  "AR_4": {
+    "arc": "06 Arlong Park",
     "ep": 4,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/04/enieslobby%2004%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/04/enieslobby%2004%20He.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/04/arlongpark%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/04/arlongpark%2004%20he.ass"
   },
-  "EN_5": {
-    "arc": "17 Enies Lobby",
+  "AR_5": {
+    "arc": "06 Arlong Park",
     "ep": 5,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/05/enieslobby%2005%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/05/enieslobby%2005%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/05/arlongpark%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/05/arlongpark%2005%20he.ass"
   },
-  "EN_6": {
-    "arc": "17 Enies Lobby",
+  "AR_6": {
+    "arc": "06 Arlong Park",
     "ep": 6,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/06/enieslobby%2006%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/06/enieslobby%2006%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/06/arlongpark%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/06/arlongpark%2006%20He.ass"
   },
-  "EN_7": {
-    "arc": "17 Enies Lobby",
+  "AR_7": {
+    "arc": "06 Arlong Park",
     "ep": 7,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/07/enieslobby%2007%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/07/enieslobby%2007%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/07/arlongpark%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/07/arlongpark%2007%20He.ass"
   },
-  "EN_8": {
-    "arc": "17 Enies Lobby",
+  "AR_8": {
+    "arc": "06 Arlong Park",
     "ep": 8,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/08/enieslobby%2008%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/08/enieslobby%2008%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/08/arlongpark%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/08/arlongpark%2008%20he.ass"
   },
-  "EN_9": {
-    "arc": "17 Enies Lobby",
+  "AR_9": {
+    "arc": "06 Arlong Park",
     "ep": 9,
-    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/09/enieslobby%2009%20he.srt",
-    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/09/enieslobby%2009%20he.ass"
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/09/arlongpark%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/09/arlongpark%2009%20he.ass"
+  },
+  "DI_1": {
+    "arc": "11 Drum Island",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/01/drumisland%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/01/drumisland%2001%20he.ass"
+  },
+  "DI_2": {
+    "arc": "11 Drum Island",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/02/drumisland%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/02/drumisland%2002%20he.ass"
+  },
+  "DI_3": {
+    "arc": "11 Drum Island",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/03/drumisland%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/03/drumisland%2003%20he.ass"
+  },
+  "DI_4": {
+    "arc": "11 Drum Island",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/04/drumisland%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/04/drumisland%2004%20he.ass"
+  },
+  "DI_5": {
+    "arc": "11 Drum Island",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/05/drumisland%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/05/drumisland%2005%20he.ass"
+  },
+  "DI_6": {
+    "arc": "11 Drum Island",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/06/drumisland%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/06/drumisland%2006%20he.ass"
+  },
+  "DI_7": {
+    "arc": "11 Drum Island",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/07/drumisland%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/07/drumisland%2007%20he.ass"
+  },
+  "DI_8": {
+    "arc": "11 Drum Island",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/08/drumisland%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/08/drumisland%2008%20he.ass"
+  },
+  "GA_1": {
+    "arc": "04 Gaimon",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/04%20Gaimon/01/gaimon%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/04%20Gaimon/01/gaimon%2001%20He.ass"
+  },
+  "JA_1": {
+    "arc": "13 Jaya",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/01/jaya%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/01/jaya%2001%20he.ass"
+  },
+  "JA_2": {
+    "arc": "13 Jaya",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/02/jaya%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/02/jaya%2002%20he.ass"
+  },
+  "JA_3": {
+    "arc": "13 Jaya",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/03/jaya%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/03/jaya%2003%20he.ass"
+  },
+  "JA_4": {
+    "arc": "13 Jaya",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/04/jaya%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/04/jaya%2004%20he.ass"
+  },
+  "JA_5": {
+    "arc": "13 Jaya",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/05/jaya%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/05/jaya%2005%20he.ass"
+  },
+  "JA_6": {
+    "arc": "13 Jaya",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/06/jaya%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/06/jaya%2006%20he.ass"
+  },
+  "JA_7": {
+    "arc": "13 Jaya",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/07/jaya%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/07/jaya%2007%20he.ass"
+  },
+  "JA_8": {
+    "arc": "13 Jaya",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/08/jaya%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/08/jaya%2008%20he.ass"
+  },
+  "LI_1": {
+    "arc": "10 Little Garden",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/01/littlegarden%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/01/littlegarden%2001%20he.ass"
+  },
+  "LI_2": {
+    "arc": "10 Little Garden",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/02/littlegarden%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/02/littlegarden%2002%20he.ass"
+  },
+  "LI_3": {
+    "arc": "10 Little Garden",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/03/littlegarden%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/03/littlegarden%2003%20he.ass"
+  },
+  "LI_4": {
+    "arc": "10 Little Garden",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/04/littlegarden%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/04/littlegarden%2004%20he.ass"
+  },
+  "LI_5": {
+    "arc": "10 Little Garden",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/05/littlegarden%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/10%20Little%20Garden/05/littlegarden%2005%20he.ass"
+  },
+  "LO_1": {
+    "arc": "07 Loguetown",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/01/loguetown%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/01/loguetown%2001%20he.ass"
+  },
+  "LO_2": {
+    "arc": "07 Loguetown",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/02/loguetown%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/02/loguetown%2002%20he.ass"
+  },
+  "LO_3": {
+    "arc": "07 Loguetown",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/03/loguetown%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/03/loguetown%2003%20he.ass"
+  },
+  "OR_1": {
+    "arc": "02 Orange Town",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/01/orangetown%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/01/orangetown%2001%20he.ass"
+  },
+  "OR_2": {
+    "arc": "02 Orange Town",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/02/orangetown%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/02/orangetown%2002%20He.ass"
+  },
+  "OR_3": {
+    "arc": "02 Orange Town",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/03/orangetown%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/03/orangetown%2003%20he.ass"
+  },
+  "PW_1": {
+    "arc": "24 Post War",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/01/postwar%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/01/postwar%2001%20he.ass"
+  },
+  "PW_2": {
+    "arc": "24 Post War",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/02/postwar%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/02/postwar%2002%20he.ass"
+  },
+  "PW_3": {
+    "arc": "24 Post War",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/03/postwar%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/03/postwar%2003%20he.ass"
+  },
+  "PW_4": {
+    "arc": "24 Post War",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/04/postwar%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/04/postwar%2004%20he.ass"
+  },
+  "PW_5": {
+    "arc": "24 Post War",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/05/postwar%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/05/postwar%2005%20he.ass"
+  },
+  "PW_6": {
+    "arc": "24 Post War",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/06/postwar%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/06/postwar%2006%20he.ass"
+  },
+  "PW_7": {
+    "arc": "24 Post War",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/07/postwar%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/07/postwar%2007%20he.ass"
+  },
+  "PW_8": {
+    "arc": "24 Post War",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/08/postwar%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/24%20Post%20War/08/postwar%2008%20he.ass"
+  },
+  "REV_1": {
+    "arc": "31 Reverie",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/31%20Reverie/01/reverie%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/31%20Reverie/01/reverie%2001%20he.ass"
+  },
+  "REV_2": {
+    "arc": "31 Reverie",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/31%20Reverie/02/reverie%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/31%20Reverie/02/reverie%2002%20he.ass"
+  },
+  "REV_3": {
+    "arc": "31 Reverie",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/31%20Reverie/03/reverie%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/31%20Reverie/03/reverie%2003%20he.ass"
+  },
+  "RM_1": {
+    "arc": "08 Reverse Mountain",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/08%20Reverse%20Mountain/01/reversemountain%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/08%20Reverse%20Mountain/01/reversemountain%2001%20he.ass"
+  },
+  "RM_2": {
+    "arc": "08 Reverse Mountain",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/08%20Reverse%20Mountain/02/reversemountain%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/08%20Reverse%20Mountain/02/reversemountain%2002%20he.ass"
+  },
+  "RO_1": {
+    "arc": "01 Romance Dawn",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/01/romancedawn%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/01/romancedawn%2001%20he.ass"
+  },
+  "RO_2": {
+    "arc": "01 Romance Dawn",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/02/romancedawn%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/02/romancedawn%2002%20he.ass"
+  },
+  "RO_3": {
+    "arc": "01 Romance Dawn",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/03/romancedawn%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/03/romancedawn%2003%20he.ass"
+  },
+  "RO_4": {
+    "arc": "01 Romance Dawn",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/04/romancedawn%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/01%20Romance%20Dawn/04/romancedawn%2004%20he.ass"
+  },
+  "RTS_1": {
+    "arc": "25 Return to Sabaody",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/01/rts%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/01/rts%2001%20he.ass"
+  },
+  "RTS_2": {
+    "arc": "25 Return to Sabaody",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/02/rts%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/02/rts%2002%20he.ass"
+  },
+  "RTS_3": {
+    "arc": "25 Return to Sabaody",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/03/rts%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/03/rts%2003%20he.ass"
+  },
+  "SK_1": {
+    "arc": "14 Skypiea",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/01/skypiea%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/01/skypiea%2001%20he.ass"
+  },
+  "SK_10": {
+    "arc": "14 Skypiea",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/10/skypiea%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/10/skypiea%2010%20he.ass"
+  },
+  "SK_11": {
+    "arc": "14 Skypiea",
+    "ep": 11,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/11/skypiea%2011%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/11/skypiea%2011%20he.ass"
+  },
+  "SK_12": {
+    "arc": "14 Skypiea",
+    "ep": 12,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/12/skypiea%2012%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/12/skypiea%2012%20he.ass"
+  },
+  "SK_13": {
+    "arc": "14 Skypiea",
+    "ep": 13,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/13/skypiea%2013%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/13/skypiea%2013%20he.ass"
+  },
+  "SK_14": {
+    "arc": "14 Skypiea",
+    "ep": 14,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/14/skypiea%2014%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/14/skypiea%2014%20he.ass"
+  },
+  "SK_15": {
+    "arc": "14 Skypiea",
+    "ep": 15,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/15/skypiea%2015%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/15/skypiea%2015%20he.ass"
+  },
+  "SK_16": {
+    "arc": "14 Skypiea",
+    "ep": 16,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/16/skypiea%2016%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/16/skypiea%2016%20he.ass"
+  },
+  "SK_17": {
+    "arc": "14 Skypiea",
+    "ep": 17,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/17/skypiea%2017%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/17/skypiea%2017%20he.ass"
+  },
+  "SK_18": {
+    "arc": "14 Skypiea",
+    "ep": 18,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/18/skypiea%2018%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/18/skypiea%2018%20he.ass"
+  },
+  "SK_19": {
+    "arc": "14 Skypiea",
+    "ep": 19,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/19/skypiea%2019%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/19/skypiea%2019%20he.ass"
+  },
+  "SK_2": {
+    "arc": "14 Skypiea",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/02/skypiea%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/02/skypiea%2002%20he.ass"
+  },
+  "SK_20": {
+    "arc": "14 Skypiea",
+    "ep": 20,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/20/skypiea%2020%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/20/skypiea%2020%20he.ass"
+  },
+  "SK_21": {
+    "arc": "14 Skypiea",
+    "ep": 21,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/21/skypiea%2021%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/21/skypiea%2021%20he.ass"
+  },
+  "SK_22": {
+    "arc": "14 Skypiea",
+    "ep": 22,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/22/skypiea%2022%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/22/skypiea%2022%20he.ass"
+  },
+  "SK_23": {
+    "arc": "14 Skypiea",
+    "ep": 23,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/23/skypiea%2023%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/23/skypiea%2023%20he.ass"
+  },
+  "SK_24": {
+    "arc": "14 Skypiea",
+    "ep": 24,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/24/skypiea%2024%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/24/skypiea%2024%20he.ass"
+  },
+  "SK_25": {
+    "arc": "14 Skypiea",
+    "ep": 25,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/25/skypiea%2025%20alternate%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/25/skypiea%2025%20alternate%20he.ass"
+  },
+  "SK_3": {
+    "arc": "14 Skypiea",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/03/skypiea%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/03/skypiea%2003%20he.ass"
+  },
+  "SK_4": {
+    "arc": "14 Skypiea",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/04/skypiea%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/04/skypiea%2004%20he.ass"
+  },
+  "SK_5": {
+    "arc": "14 Skypiea",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/05/skypiea%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/05/skypiea%2005%20he.ass"
+  },
+  "SK_6": {
+    "arc": "14 Skypiea",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/06/skypiea%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/06/skypiea%2006%20he.ass"
+  },
+  "SK_7": {
+    "arc": "14 Skypiea",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/07/skypiea%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/07/skypiea%2007%20he.ass"
+  },
+  "SK_8": {
+    "arc": "14 Skypiea",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/08/skypiea%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/08/skypiea%2008%20he.ass"
+  },
+  "SK_9": {
+    "arc": "14 Skypiea",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/09/skypiea%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/14%20Skypiea/09/skypiea%2009%20he.ass"
+  },
+  "SY_1": {
+    "arc": "03 Syrup Village",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/01/syrupvillage%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/01/syrupvillage%2001%20he.ass"
+  },
+  "SY_2": {
+    "arc": "03 Syrup Village",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/02/syrupvillage%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/02/syrupvillage%2002%20He.ass"
+  },
+  "SY_3": {
+    "arc": "03 Syrup Village",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/03/syrupvillage%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/03/syrupvillage%2003%20He.ass"
+  },
+  "SY_4": {
+    "arc": "03 Syrup Village",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/04/syrupvillage%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/04/syrupvillage%2004%20He.ass"
+  },
+  "SY_5": {
+    "arc": "03 Syrup Village",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/05/syrupvillage%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/05/syrupvillage%2005%20He.ass"
+  },
+  "SY_6": {
+    "arc": "03 Syrup Village",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/06/syrupvillage%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/06/syrupvillage%2006%20He.ass"
+  },
+  "SY_7": {
+    "arc": "03 Syrup Village",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/07/syrupvillage%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/07/syrupvillage%2007%20He.ass"
+  },
+  "WC_1": {
+    "arc": "30 Whole Cake Island",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/01/wci%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/01/wci%2001%20he.ass"
+  },
+  "WC_10": {
+    "arc": "30 Whole Cake Island",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/10/wci%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/10/wci%2010%20he.ass"
+  },
+  "WC_11": {
+    "arc": "30 Whole Cake Island",
+    "ep": 11,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/11/wci%2011%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/11/wci%2011%20he.ass"
+  },
+  "WC_12": {
+    "arc": "30 Whole Cake Island",
+    "ep": 12,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/12/wci%2012%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/12/wci%2012%20he.ass"
+  },
+  "WC_13": {
+    "arc": "30 Whole Cake Island",
+    "ep": 13,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/13/wci%2013%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/13/wci%2013%20he.ass"
+  },
+  "WC_14": {
+    "arc": "30 Whole Cake Island",
+    "ep": 14,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/14/wci%2014%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/14/wci%2014%20he.ass"
+  },
+  "WC_15": {
+    "arc": "30 Whole Cake Island",
+    "ep": 15,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/15/wci%2015%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/15/wci%2015%20he.ass"
+  },
+  "WC_16": {
+    "arc": "30 Whole Cake Island",
+    "ep": 16,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/16/wci%2016%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/16/wci%2016%20he.ass"
+  },
+  "WC_17": {
+    "arc": "30 Whole Cake Island",
+    "ep": 17,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/17/wci%2017%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/17/wci%2017%20he.ass"
+  },
+  "WC_18": {
+    "arc": "30 Whole Cake Island",
+    "ep": 18,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/18/wci%2018%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/18/wci%2018%20he.ass"
+  },
+  "WC_19": {
+    "arc": "30 Whole Cake Island",
+    "ep": 19,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/19/wci%2019%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/19/wci%2019%20he.ass"
+  },
+  "WC_2": {
+    "arc": "30 Whole Cake Island",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/02/wci%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/02/wci%2002%20he.ass"
+  },
+  "WC_20": {
+    "arc": "30 Whole Cake Island",
+    "ep": 20,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/20/wci%2020%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/20/wci%2020%20he.ass"
+  },
+  "WC_21": {
+    "arc": "30 Whole Cake Island",
+    "ep": 21,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/21/wci%2021%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/21/wci%2021%20he.ass"
+  },
+  "WC_22": {
+    "arc": "30 Whole Cake Island",
+    "ep": 22,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/22/wci%2022%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/22/wci%2022%20he.ass"
+  },
+  "WC_23": {
+    "arc": "30 Whole Cake Island",
+    "ep": 23,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/23/wci%2023%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/23/wci%2023%20he.ass"
+  },
+  "WC_24": {
+    "arc": "30 Whole Cake Island",
+    "ep": 24,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/24/wci%2024%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/24/wci%2024%20he.ass"
+  },
+  "WC_25": {
+    "arc": "30 Whole Cake Island",
+    "ep": 25,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/25/wci%2025%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/25/wci%2025%20he.ass"
+  },
+  "WC_26": {
+    "arc": "30 Whole Cake Island",
+    "ep": 26,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/26/wci%2026%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/26/wci%2026%20he.ass"
+  },
+  "WC_27": {
+    "arc": "30 Whole Cake Island",
+    "ep": 27,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/27/wci%2027%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/27/wci%2027%20he.ass"
+  },
+  "WC_28": {
+    "arc": "30 Whole Cake Island",
+    "ep": 28,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/28/wci%2028%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/28/wci%2028%20he.ass"
+  },
+  "WC_29": {
+    "arc": "30 Whole Cake Island",
+    "ep": 29,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/29/wci%2029%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/29/wci%2029%20he.ass"
+  },
+  "WC_3": {
+    "arc": "30 Whole Cake Island",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/03/wci%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/03/wci%2003%20he.ass"
+  },
+  "WC_30": {
+    "arc": "30 Whole Cake Island",
+    "ep": 30,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/30/wci%2030%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/30/wci%2030%20he.ass"
+  },
+  "WC_31": {
+    "arc": "30 Whole Cake Island",
+    "ep": 31,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/31/wci%2031%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/31/wci%2031%20he.ass"
+  },
+  "WC_32": {
+    "arc": "30 Whole Cake Island",
+    "ep": 32,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/32/wci%2032%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/32/wci%2032%20he.ass"
+  },
+  "WC_33": {
+    "arc": "30 Whole Cake Island",
+    "ep": 33,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/33/wci%2033%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/33/wci%2033%20he.ass"
+  },
+  "WC_34": {
+    "arc": "30 Whole Cake Island",
+    "ep": 34,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/34/wci%2034%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/34/wci%2034%20he.ass"
+  },
+  "WC_35": {
+    "arc": "30 Whole Cake Island",
+    "ep": 35,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/35/wci%2035%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/35/wci%2035%20he.ass"
+  },
+  "WC_36": {
+    "arc": "30 Whole Cake Island",
+    "ep": 36,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/36/wci%2036%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/36/wci%2036%20he.ass"
+  },
+  "WC_37": {
+    "arc": "30 Whole Cake Island",
+    "ep": 37,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/37/wci%2037%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/37/wci%2037%20he.ass"
+  },
+  "WC_38": {
+    "arc": "30 Whole Cake Island",
+    "ep": 38,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/38/wci%2038%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/38/wci%2038%20he.ass"
+  },
+  "WC_39": {
+    "arc": "30 Whole Cake Island",
+    "ep": 39,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/39/wci%2039%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/39/wci%2039%20he.ass"
+  },
+  "WC_4": {
+    "arc": "30 Whole Cake Island",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/04/wci%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/04/wci%2004%20he.ass"
+  },
+  "WC_5": {
+    "arc": "30 Whole Cake Island",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/05/wci%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/05/wci%2005%20he.ass"
+  },
+  "WC_6": {
+    "arc": "30 Whole Cake Island",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/06/wci%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/06/wci%2006%20he.ass"
+  },
+  "WC_7": {
+    "arc": "30 Whole Cake Island",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/07/wci%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/07/wci%2007%20he.ass"
+  },
+  "WC_8": {
+    "arc": "30 Whole Cake Island",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/08/wci%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/08/wci%2008%20he.ass"
+  },
+  "WC_9": {
+    "arc": "30 Whole Cake Island",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/09/wci%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/30%20Whole%20Cake%20Island/09/wci%2009%20he.ass"
+  },
+  "WH_1": {
+    "arc": "09 Whisky Peak",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/09%20Whisky%20Peak/01/whiskypeak%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/09%20Whisky%20Peak/01/whiskypeak%2001%20he.ass"
+  },
+  "WH_2": {
+    "arc": "09 Whisky Peak",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/09%20Whisky%20Peak/02/whiskypeak%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/09%20Whisky%20Peak/02/whiskypeak%2002%20he.ass"
   },
   "WS_1": {
     "arc": "16 Water Seven",
