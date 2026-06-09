@@ -1,4 +1,100 @@
 {
+  "AL_1": {
+    "arc": "12 Alabasta",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/01/alabasta%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/01/alabasta%2001%20he.ass"
+  },
+  "AL_10": {
+    "arc": "12 Alabasta",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/10/alabasta%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/10/alabasta%2010%20he.ass"
+  },
+  "AL_11": {
+    "arc": "12 Alabasta",
+    "ep": 11,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/11/alabasta%2011%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/11/alabasta%2011%20he.ass"
+  },
+  "AL_12": {
+    "arc": "12 Alabasta",
+    "ep": 12,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/12/alabasta%2012%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/12/alabasta%2012%20he.ass"
+  },
+  "AL_13": {
+    "arc": "12 Alabasta",
+    "ep": 13,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/13/alabasta%2013%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/13/alabasta%2013%20he.ass"
+  },
+  "AL_14": {
+    "arc": "12 Alabasta",
+    "ep": 14,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/14/alabasta%2014%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/14/alabasta%2014%20he.ass"
+  },
+  "AL_15": {
+    "arc": "12 Alabasta",
+    "ep": 15,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/15/alabasta%2015%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/15/alabasta%2015%20he.ass"
+  },
+  "AL_16": {
+    "arc": "12 Alabasta",
+    "ep": 16,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/16/alabasta%2016%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/16/alabasta%2016%20he.ass"
+  },
+  "AL_17": {
+    "arc": "12 Alabasta",
+    "ep": 17,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/17/alabasta%2017%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/17/alabasta%2017%20he.ass"
+  },
+  "AL_18": {
+    "arc": "12 Alabasta",
+    "ep": 18,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/18/alabasta%2018%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/18/alabasta%2018%20he.ass"
+  },
+  "AL_19": {
+    "arc": "12 Alabasta",
+    "ep": 19,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/19/alabasta%2019%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/19/alabasta%2019%20he.ass"
+  },
+  "AL_2": {
+    "arc": "12 Alabasta",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/02/alabasta%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/02/alabasta%2002%20he.ass"
+  },
+  "AL_20": {
+    "arc": "12 Alabasta",
+    "ep": 20,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/20/alabasta%2020%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/20/alabasta%2020%20he.ass"
+  },
+  "AL_21": {
+    "arc": "12 Alabasta",
+    "ep": 21,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/21/alabasta%2021%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/21/alabasta%2021%20he.ass"
+  },
+  "AL_3": {
+    "arc": "12 Alabasta",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/03/alabasta%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/03/alabasta%2003%20he.ass"
+  },
+  "AL_4": {
+    "arc": "12 Alabasta",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/04/alabasta%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/04/alabasta%2004%20he.ass"
+  },
   "AR_1": {
     "arc": "06 Arlong Park",
     "ep": 1,
@@ -59,6 +155,60 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/09/arlongpark%2009%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/06%20Arlong%20Park/09/arlongpark%2009%20he.ass"
   },
+  "BA_1": {
+    "arc": "05 Baratie",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/01/baratie%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/01/baratie%2001%20He.ass"
+  },
+  "BA_2": {
+    "arc": "05 Baratie",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/02/baratie%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/02/baratie%2002%20He.ass"
+  },
+  "BA_3": {
+    "arc": "05 Baratie",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/03/baratie%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/03/baratie%2003%20He.ass"
+  },
+  "BA_4": {
+    "arc": "05 Baratie",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/04/baratie%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/04/baratie%2004%20He.ass"
+  },
+  "BA_5": {
+    "arc": "05 Baratie",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/05/baratie%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/05/baratie%2005%20He.ass"
+  },
+  "BA_6": {
+    "arc": "05 Baratie",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/06/baratie%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/06/baratie%2006%20He.ass"
+  },
+  "BA_7": {
+    "arc": "05 Baratie",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/07/baratie%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/07/baratie%2007%20He.ass"
+  },
+  "BA_8": {
+    "arc": "05 Baratie",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/08/baratie%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/08/baratie%2008%20He.ass"
+  },
+  "BA_9": {
+    "arc": "05 Baratie",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/09/baratie%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/09/baratie%2009%20he.ass"
+  },
   "DI_1": {
     "arc": "11 Drum Island",
     "ep": 1,
@@ -106,6 +256,126 @@
     "ep": 8,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/08/drumisland%2008%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/08/drumisland%2008%20he.ass"
+  },
+  "EH_1": {
+    "arc": "33 Egghead",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/01/egghead%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/01/egghead%2001%20he.ass"
+  },
+  "EH_10": {
+    "arc": "33 Egghead",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/10/egghead%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/10/egghead%2010%20he.ass"
+  },
+  "EH_11": {
+    "arc": "33 Egghead",
+    "ep": 11,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/11/egghead%2011%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/11/egghead%2011%20he.ass"
+  },
+  "EH_12": {
+    "arc": "33 Egghead",
+    "ep": 12,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/12/egghead%2012%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/12/egghead%2012%20he.ass"
+  },
+  "EH_13": {
+    "arc": "33 Egghead",
+    "ep": 13,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/13/egghead%2013%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/13/egghead%2013%20he.ass"
+  },
+  "EH_14": {
+    "arc": "33 Egghead",
+    "ep": 14,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/14/egghead%2014%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/14/egghead%2014%20he.ass"
+  },
+  "EH_15": {
+    "arc": "33 Egghead",
+    "ep": 15,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/15/egghead%2015%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/15/egghead%2015%20he.ass"
+  },
+  "EH_16": {
+    "arc": "33 Egghead",
+    "ep": 16,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/16/egghead%2016%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/16/egghead%2016%20he.ass"
+  },
+  "EH_17": {
+    "arc": "33 Egghead",
+    "ep": 17,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/17/egghead%2017%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/17/egghead%2017%20he.ass"
+  },
+  "EH_18": {
+    "arc": "33 Egghead",
+    "ep": 18,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/18/egghead%2018%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/18/egghead%2018%20he.ass"
+  },
+  "EH_19": {
+    "arc": "33 Egghead",
+    "ep": 19,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/19/egghead%2019%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/19/egghead%2019%20he.ass"
+  },
+  "EH_2": {
+    "arc": "33 Egghead",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/02/egghead%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/02/egghead%2002%20he.ass"
+  },
+  "EH_20": {
+    "arc": "33 Egghead",
+    "ep": 20,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/20/egghead%2020%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/20/egghead%2020%20he.ass"
+  },
+  "EH_3": {
+    "arc": "33 Egghead",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/03/egghead%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/03/egghead%2003%20he.ass"
+  },
+  "EH_4": {
+    "arc": "33 Egghead",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/04/egghead%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/04/egghead%2004%20he.ass"
+  },
+  "EH_5": {
+    "arc": "33 Egghead",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/05/egghead%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/05/egghead%2005%20he.ass"
+  },
+  "EH_6": {
+    "arc": "33 Egghead",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/06/egghead%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/06/egghead%2006%20he.ass"
+  },
+  "EH_7": {
+    "arc": "33 Egghead",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/07/egghead%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/07/egghead%2007%20he.ass"
+  },
+  "EH_8": {
+    "arc": "33 Egghead",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/08/egghead%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/08/egghead%2008%20he.ass"
+  },
+  "EH_9": {
+    "arc": "33 Egghead",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/09/egghead%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/09/egghead%2009%20he.ass"
   },
   "GA_1": {
     "arc": "04 Gaimon",
@@ -538,6 +808,348 @@
     "ep": 7,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/07/syrupvillage%2007%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/03%20Syrup%20Village/07/syrupvillage%2007%20He.ass"
+  },
+  "WA_1": {
+    "arc": "32 Wano",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/01/wano%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/01/wano%2001%20he.ass"
+  },
+  "WA_10": {
+    "arc": "32 Wano",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/10/wano%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/10/wano%2010%20he.ass"
+  },
+  "WA_11": {
+    "arc": "32 Wano",
+    "ep": 11,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/11/wano%2011%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/11/wano%2011%20he.ass"
+  },
+  "WA_12": {
+    "arc": "32 Wano",
+    "ep": 12,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/12/wano%2012%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/12/wano%2012%20he.ass"
+  },
+  "WA_13": {
+    "arc": "32 Wano",
+    "ep": 13,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/13/wano%2013%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/13/wano%2013%20he.ass"
+  },
+  "WA_14": {
+    "arc": "32 Wano",
+    "ep": 14,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/14/wano%2014%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/14/wano%2014%20he.ass"
+  },
+  "WA_15": {
+    "arc": "32 Wano",
+    "ep": 15,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/15/wano%2015%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/15/wano%2015%20he.ass"
+  },
+  "WA_16": {
+    "arc": "32 Wano",
+    "ep": 16,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/16/wano%2016%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/16/wano%2016%20he.ass"
+  },
+  "WA_17": {
+    "arc": "32 Wano",
+    "ep": 17,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/17/wano%2017%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/17/wano%2017%20he.ass"
+  },
+  "WA_18": {
+    "arc": "32 Wano",
+    "ep": 18,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/18/wano%2018%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/18/wano%2018%20he.ass"
+  },
+  "WA_19": {
+    "arc": "32 Wano",
+    "ep": 19,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/19/wano%2019%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/19/wano%2019%20he.ass"
+  },
+  "WA_2": {
+    "arc": "32 Wano",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/02/wano%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/02/wano%2002%20he.ass"
+  },
+  "WA_20": {
+    "arc": "32 Wano",
+    "ep": 20,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/20/wano%2020%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/20/wano%2020%20he.ass"
+  },
+  "WA_21": {
+    "arc": "32 Wano",
+    "ep": 21,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/21/wano%2021%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/21/wano%2021%20he.ass"
+  },
+  "WA_22": {
+    "arc": "32 Wano",
+    "ep": 22,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/22/wano%2022%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/22/wano%2022%20he.ass"
+  },
+  "WA_23": {
+    "arc": "32 Wano",
+    "ep": 23,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/23/wano%2023%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/23/wano%2023%20he.ass"
+  },
+  "WA_24": {
+    "arc": "32 Wano",
+    "ep": 24,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/24/wano%2024%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/24/wano%2024%20he.ass"
+  },
+  "WA_25": {
+    "arc": "32 Wano",
+    "ep": 25,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/25/wano%2025%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/25/wano%2025%20he.ass"
+  },
+  "WA_26": {
+    "arc": "32 Wano",
+    "ep": 26,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/26/wano%2026%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/26/wano%2026%20he.ass"
+  },
+  "WA_27": {
+    "arc": "32 Wano",
+    "ep": 27,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/27/wano%2027%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/27/wano%2027%20he.ass"
+  },
+  "WA_28": {
+    "arc": "32 Wano",
+    "ep": 28,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/28/wano%2028%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/28/wano%2028%20he.ass"
+  },
+  "WA_29": {
+    "arc": "32 Wano",
+    "ep": 29,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/29/wano%2029%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/29/wano%2029%20he.ass"
+  },
+  "WA_3": {
+    "arc": "32 Wano",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/03/wano%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/03/wano%2003%20he.ass"
+  },
+  "WA_30": {
+    "arc": "32 Wano",
+    "ep": 30,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/30/wano%2030%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/30/wano%2030%20he.ass"
+  },
+  "WA_31": {
+    "arc": "32 Wano",
+    "ep": 31,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/31/wano%2031%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/31/wano%2031%20he.ass"
+  },
+  "WA_32": {
+    "arc": "32 Wano",
+    "ep": 32,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/32/wano%2032%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/32/wano%2032%20he.ass"
+  },
+  "WA_33": {
+    "arc": "32 Wano",
+    "ep": 33,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/33/wano%2033%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/33/wano%2033%20he.ass"
+  },
+  "WA_34": {
+    "arc": "32 Wano",
+    "ep": 34,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/34/wano%2034%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/34/wano%2034%20he.ass"
+  },
+  "WA_35": {
+    "arc": "32 Wano",
+    "ep": 35,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/35/wano%2035%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/35/wano%2035%20he.ass"
+  },
+  "WA_36": {
+    "arc": "32 Wano",
+    "ep": 36,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/36/wano%2036%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/36/wano%2036%20he.ass"
+  },
+  "WA_37": {
+    "arc": "32 Wano",
+    "ep": 37,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/37/wano%2037%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/37/wano%2037%20he.ass"
+  },
+  "WA_38": {
+    "arc": "32 Wano",
+    "ep": 38,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/38/wano%2038%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/38/wano%2038%20he.ass"
+  },
+  "WA_39": {
+    "arc": "32 Wano",
+    "ep": 39,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/39/wano%2039%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/39/wano%2039%20he.ass"
+  },
+  "WA_4": {
+    "arc": "32 Wano",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/04/wano%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/04/wano%2004%20he.ass"
+  },
+  "WA_40": {
+    "arc": "32 Wano",
+    "ep": 40,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/40/wano%2040%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/40/wano%2040%20he.ass"
+  },
+  "WA_41": {
+    "arc": "32 Wano",
+    "ep": 41,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/41/wano%2041%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/41/wano%2041%20he.ass"
+  },
+  "WA_42": {
+    "arc": "32 Wano",
+    "ep": 42,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/42/wano%2042%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/42/wano%2042%20he.ass"
+  },
+  "WA_43": {
+    "arc": "32 Wano",
+    "ep": 43,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/43/wano%2043%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/43/wano%2043%20he.ass"
+  },
+  "WA_44": {
+    "arc": "32 Wano",
+    "ep": 44,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/44/wano%2044%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/44/wano%2044%20he.ass"
+  },
+  "WA_45": {
+    "arc": "32 Wano",
+    "ep": 45,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/45/wano%2045%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/45/wano%2045%20he.ass"
+  },
+  "WA_46": {
+    "arc": "32 Wano",
+    "ep": 46,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/46/wano%2046%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/46/wano%2046%20he.ass"
+  },
+  "WA_47": {
+    "arc": "32 Wano",
+    "ep": 47,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/47/wano%2047%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/47/wano%2047%20he.ass"
+  },
+  "WA_48": {
+    "arc": "32 Wano",
+    "ep": 48,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/48/wano%2048%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/48/wano%2048%20he.ass"
+  },
+  "WA_49": {
+    "arc": "32 Wano",
+    "ep": 49,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/49/wano%2049%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/49/wano%2049%20he.ass"
+  },
+  "WA_5": {
+    "arc": "32 Wano",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/05/wano%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/05/wano%2005%20he.ass"
+  },
+  "WA_50": {
+    "arc": "32 Wano",
+    "ep": 50,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/50/wano%2050%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/50/wano%2050%20he.ass"
+  },
+  "WA_51": {
+    "arc": "32 Wano",
+    "ep": 51,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/51/wano%2051%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/51/wano%2051%20he.ass"
+  },
+  "WA_52": {
+    "arc": "32 Wano",
+    "ep": 52,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/52/wano%2052%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/52/wano%2052%20he.ass"
+  },
+  "WA_53": {
+    "arc": "32 Wano",
+    "ep": 53,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/53/wano%2053%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/53/wano%2053%20he.ass"
+  },
+  "WA_54": {
+    "arc": "32 Wano",
+    "ep": 54,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/54/wano%2054%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/54/wano%2054%20he.ass"
+  },
+  "WA_55": {
+    "arc": "32 Wano",
+    "ep": 55,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/55/wano%2055%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/55/wano%2055%20he.ass"
+  },
+  "WA_56": {
+    "arc": "32 Wano",
+    "ep": 56,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/56/wano%2056%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/56/wano%2056%20he.ass"
+  },
+  "WA_57": {
+    "arc": "32 Wano",
+    "ep": 57,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/57/wano%2057%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/57/wano%2057%20he.ass"
+  },
+  "WA_6": {
+    "arc": "32 Wano",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/06/wano%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/06/wano%2006%20he.ass"
+  },
+  "WA_7": {
+    "arc": "32 Wano",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/07/wano%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/07/wano%2007%20he.ass"
+  },
+  "WA_8": {
+    "arc": "32 Wano",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/08/wano%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/08/wano%2008%20he.ass"
+  },
+  "WA_9": {
+    "arc": "32 Wano",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/09/wano%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/32%20Wano/09/wano%2009%20he.ass"
   },
   "WC_1": {
     "arc": "30 Whole Cake Island",
