@@ -61,7 +61,6 @@ const ARC_CODES = {
   // target now.) Needs a manual re-time to fedew's 25 boundaries to ever map.
   '24 Post War': 'PW',
   '25 Return to Sabaody': 'RTS',
-  '28 Dressrosa': 'DR', // es->he (no English in repo); folder n == DR_n (onepace-premium sources subs from this repo). Pilot: only folder 01 translated so far.
   '30 Whole Cake Island': 'WC',
   '31 Reverie': 'REV',
   '32 Wano': 'WA', // folders 01-57 → WA_1..57 (content-verified clean prefix; addon WA_58/59 absent from repo)
