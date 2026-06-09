@@ -21,14 +21,19 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.1',
+  version: '1.0.2',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
     'track and watch. AI-generated; may contain errors.',
   logo: 'https://onepace-hebrew.github.io/stremio-addon/icon.png',
   resources: ['subtitles'],
-  types: ['series'],
+  // Different One Pace stream addons label the same <ARC>_<ep> ids under
+  // different content types — au2001/fedew04 use 'series', onepace-premium uses
+  // 'anime'. Stremio only queries a subtitles addon for its declared types, so
+  // we must cover all three or playback under the "wrong" type shows no Hebrew.
+  // No idPrefixes (left undefined = match all ids of these types).
+  types: ['series', 'anime', 'movie'],
   catalogs: [],
   behaviorHints: { configurable: false },
 };
@@ -88,8 +93,10 @@ export default {
 
     if (path === '/' || path.endsWith('/manifest.json')) return json(manifest);
 
-    // /subtitles/series/<id>.json  OR  /subtitles/series/<id>/<extra...>.json
-    const m = path.match(/^\/subtitles\/series\/(.+)\.json$/);
+    // /subtitles/<type>/<id>.json  OR  /subtitles/<type>/<id>/<extra...>.json
+    // <type> is series|anime|movie — Stremio uses the playing content's type,
+    // which varies by stream addon (onepace-premium serves One Pace as 'anime').
+    const m = path.match(/^\/subtitles\/[^/]+\/(.+)\.json$/);
     if (m) {
       const idSegment = m[1].split('/')[0]; // strip any /<extra...> suffix
       const mapping = await getMapping();
