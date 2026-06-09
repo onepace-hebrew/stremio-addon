@@ -257,6 +257,12 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/08/drumisland%2008%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/11%20Drum%20Island/08/drumisland%2008%20he.ass"
   },
+  "DR_1": {
+    "arc": "28 Dressrosa",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/28%20Dressrosa/01/dressrosa%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/28%20Dressrosa/01/dressrosa%2001%20he.ass"
+  },
   "EH_1": {
     "arc": "33 Egghead",
     "ep": 1,
