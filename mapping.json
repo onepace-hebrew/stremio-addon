@@ -5,16 +5,178 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/01/enieslobby%2001%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/01/enieslobby%2001%20he.ass"
   },
+  "EN_10": {
+    "arc": "17 Enies Lobby",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/10/enieslobby%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/10/enieslobby%2010%20he.ass"
+  },
+  "EN_2": {
+    "arc": "17 Enies Lobby",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/02/enieslobby%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/02/enieslobby%2002%20he.ass"
+  },
+  "EN_3": {
+    "arc": "17 Enies Lobby",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/03/enieslobby%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/03/enieslobby%2003%20he.ass"
+  },
+  "EN_4": {
+    "arc": "17 Enies Lobby",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/04/enieslobby%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/04/enieslobby%2004%20He.ass"
+  },
+  "EN_5": {
+    "arc": "17 Enies Lobby",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/05/enieslobby%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/05/enieslobby%2005%20he.ass"
+  },
+  "EN_6": {
+    "arc": "17 Enies Lobby",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/06/enieslobby%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/06/enieslobby%2006%20he.ass"
+  },
+  "EN_7": {
+    "arc": "17 Enies Lobby",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/07/enieslobby%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/07/enieslobby%2007%20he.ass"
+  },
+  "EN_8": {
+    "arc": "17 Enies Lobby",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/08/enieslobby%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/08/enieslobby%2008%20he.ass"
+  },
+  "EN_9": {
+    "arc": "17 Enies Lobby",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/09/enieslobby%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/17%20Enies%20Lobby/09/enieslobby%2009%20he.ass"
+  },
+  "WS_1": {
+    "arc": "16 Water Seven",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/01/waterseven%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/01/waterseven%2001%20he.ass"
+  },
+  "WS_10": {
+    "arc": "16 Water Seven",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/10/waterseven%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/10/waterseven%2010%20he.ass"
+  },
+  "WS_11": {
+    "arc": "16 Water Seven",
+    "ep": 11,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/11/waterseven%2011%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/11/waterseven%2011%20he.ass"
+  },
+  "WS_12": {
+    "arc": "16 Water Seven",
+    "ep": 12,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/12/waterseven%2012%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/12/waterseven%2012%20he.ass"
+  },
+  "WS_13": {
+    "arc": "16 Water Seven",
+    "ep": 13,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/13/waterseven%2013%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/13/waterseven%2013%20he.ass"
+  },
+  "WS_14": {
+    "arc": "16 Water Seven",
+    "ep": 14,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/14/waterseven%2014%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/14/waterseven%2014%20he.ass"
+  },
+  "WS_15": {
+    "arc": "16 Water Seven",
+    "ep": 15,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/15/waterseven%2015%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/15/waterseven%2015%20he.ass"
+  },
+  "WS_16": {
+    "arc": "16 Water Seven",
+    "ep": 16,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/16/waterseven%2016%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/16/waterseven%2016%20he.ass"
+  },
+  "WS_17": {
+    "arc": "16 Water Seven",
+    "ep": 17,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/17/waterseven%2017%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/17/waterseven%2017%20he.ass"
+  },
+  "WS_18": {
+    "arc": "16 Water Seven",
+    "ep": 18,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/18/waterseven%2018%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/18/waterseven%2018%20he.ass"
+  },
   "WS_19": {
     "arc": "16 Water Seven",
     "ep": 19,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/19/waterseven%2019%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/19/waterseven%2019%20he.ass"
   },
+  "WS_2": {
+    "arc": "16 Water Seven",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/02/waterseven%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/02/waterseven%2002%20he.ass"
+  },
   "WS_20": {
     "arc": "16 Water Seven",
     "ep": 20,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/20/waterseven%2020%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/20/waterseven%2020%20he.ass"
+  },
+  "WS_3": {
+    "arc": "16 Water Seven",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/03/waterseven%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/03/waterseven%2003%20he.ass"
+  },
+  "WS_4": {
+    "arc": "16 Water Seven",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/04/waterseven%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/04/waterseven%2004%20he.ass"
+  },
+  "WS_5": {
+    "arc": "16 Water Seven",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/05/waterseven%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/05/waterseven%2005%20he.ass"
+  },
+  "WS_6": {
+    "arc": "16 Water Seven",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/06/waterseven%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/06/waterseven%2006%20he.ass"
+  },
+  "WS_7": {
+    "arc": "16 Water Seven",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/07/waterseven%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/07/waterseven%2007%20he.ass"
+  },
+  "WS_8": {
+    "arc": "16 Water Seven",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/08/waterseven%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/08/waterseven%2008%20he.ass"
+  },
+  "WS_9": {
+    "arc": "16 Water Seven",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/09/waterseven%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/16%20Water%20Seven/09/waterseven%2009%20he.ass"
   }
 }
