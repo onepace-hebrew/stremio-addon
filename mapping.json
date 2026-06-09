@@ -383,6 +383,12 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/09/egghead%2009%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/33%20Egghead/09/egghead%2009%20he.ass"
   },
+  "EN_1": {
+    "arc": "fedew/17 Enies Lobby",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/17%20Enies%20Lobby/01/enieslobby%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/17%20Enies%20Lobby/01/enieslobby%2001%20he.ass"
+  },
   "GA_1": {
     "arc": "04 Gaimon",
     "ep": 1,
