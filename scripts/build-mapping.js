@@ -127,11 +127,12 @@ function build() {
       const files = fs.readdirSync(epDir);
 
       // Find the Hebrew SRT: "<stem> he.srt". A folder may also hold an
-      // "<stem> extended he.srt" alternate cut — prefer the standard one so the
-      // id maps to the canonical episode the addon serves.
+      // "<stem> extended he.srt" / "<stem> alternate he.srt" variant cut —
+      // prefer the standard one so the id maps to the canonical episode the
+      // addon serves.
       const pickHe = (re) => {
         const all = files.filter((f) => re.test(f));
-        const standard = all.find((f) => !/\bextended\b/i.test(f));
+        const standard = all.find((f) => !/\b(extended|alternate)\b/i.test(f));
         return standard || all[0] || null;
       };
       const srtFile = pickHe(/\she\.srt$/i);
