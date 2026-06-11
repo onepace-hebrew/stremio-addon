@@ -41,8 +41,7 @@ Style: Flashbacks-720p,Guttman Yad-Brush,55,&H00FFFFFF,&H00FFFFFF,&H00525252,&H7
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
 Dialogue: 0,0:14:05.37,0:14:16.08,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 5,0:10:08.37,0:10:09.69,Flashbacks-720p,,0,0,0,,‫וואו!
-Dialogue: 0,0:00:00.00,0:00:06.49,Title,,0,0,0,,{\fad(750,750)}A Gentle Snowfall of Remembrance
+Dialogue: 0,0:00:00.00,0:00:06.49,Title,,0,0,0,,{\fad(750,750)}‫שלג עדין של זיכרון
 Dialogue: 5,0:00:00.76,0:00:04.00,Main-207-,,0,0,0,,‫היי! היי, היי, היי! אוסופ!
 Dialogue: 5,0:00:04.00,0:00:06.76,Main-207-,,0,0,0,,‫איפה אתה, אוסופ?!
 Dialogue: 5,0:00:06.76,0:00:08.36,Main-207-,,0,0,0,,‫היי!
@@ -79,7 +78,7 @@ Dialogue: 5,0:01:39.80,0:01:44.16,Main-207-,,0,0,0,,‫קצת הרגשתי ככ�
 Dialogue: 5,0:01:45.11,0:01:49.88,Main-207-,,0,0,0,,‫אבל משהו כזה אמור להיות בלתי אפשרי, נכון?
 Dialogue: 5,0:01:59.82,0:02:01.22,Main-207-,,0,0,0,,‫יש ספינה שמתקרבת אלינו!
 Dialogue: 5,0:02:01.81,0:02:03.27,Main-207-,,0,0,0,,‫מ-מה?! מי זה?!
-Dialogue: 5,0:02:05.40,0:02:06.74,Main-207-,,0,0,0,,‫אלה כובעי הקש!
+Dialogue: 5,0:02:05.40,0:02:06.74,Main-207-,,0,0,0,,‫אלו כובעי הקש!
 Dialogue: 5,0:02:06.74,0:02:07.81,Main-207-,,0,0,0,,‫הם בחיים!
 Dialogue: 5,0:02:07.81,0:02:10.58,Main-207-,,0,0,0,,‫אז אתם בסדר!
 Dialogue: 5,0:02:10.58,0:02:12.82,Main-207-,,0,0,0,,‫ספינה של חברת גלי-לה?
@@ -91,7 +90,7 @@ Dialogue: 5,0:02:25.87,0:02:27.51,Main-207-,,0,0,0,,‫טיפש-ברג.
 Dialogue: 5,0:02:29.99,0:02:31.58,Main-207-,,0,0,0,,‫ניקו רובין.
 Dialogue: 5,0:02:37.27,0:02:39.01,Main-207-,,0,0,0,,‫איזו חבורה מטורפת.
 Dialogue: 5,0:02:39.61,0:02:41.47,Main-207-,,0,0,0,,‫הם התעמתו עם הממשלה העולמית...
-Dialogue: 5,0:02:48.25,0:02:51.75,Main-207-,,0,0,0,,‫ובאמת השיגו הכול בחזרה.
+Dialogue: 5,0:02:48.25,0:02:51.75,Main-207-,,0,0,0,,‫ובאמת השיגו הכל בחזרה.
 Dialogue: 5,0:03:06.50,0:03:07.50,Main-207-,,0,0,0,,‫מרי!
 Dialogue: 5,0:03:09.96,0:03:11.79,Main-207-,,0,0,0,,‫תראו! הספינה שלהם!
 Dialogue: 5,0:03:12.39,0:03:14.63,Main-207-,,0,0,0,,‫היי, מה קורה?!\N‫מה קרה ככה פתאום?!
@@ -198,36 +197,16 @@ Dialogue: 5,0:15:13.72,0:15:16.60,Main-207-,,0,0,0,,‫רציתי לחלוק א�
 Dialogue: 5,0:15:16.60,0:15:19.69,Main-207-,,0,0,0,,‫מרי!
 Dialogue: 5,0:15:20.71,0:15:21.96,Main-207-,,0,0,0,,‫קול!
 Dialogue: 5,0:15:25.16,0:15:26.18,Main-207-,,0,0,0,,‫אבל אני–
-Dialogue: 5,0:15:26.18,0:15:30.20,Main-207-,,0,0,0,,‫אנחנו אלה שצריכים להתנצל, מרי!
+Dialogue: 5,0:15:26.18,0:15:30.20,Main-207-,,0,0,0,,‫אנחנו אלו שצריכים להתנצל, מרי!
 Dialogue: 5,0:15:31.08,0:15:33.77,Main-207-,,0,0,0,,‫אני לא טוב בהיגוי,
 Dialogue: 5,0:15:33.77,0:15:36.20,Main-207-,,0,0,0,,‫אז לפעמים הכנסתי אותך לתוך קרחונים.
 Dialogue: 5,0:15:36.20,0:15:39.34,Main-207-,,0,0,0,,‫גם פעם קרעתי לך את המפרשים!
 Dialogue: 5,0:15:41.27,0:15:46.79,Main-207-,,0,0,0,,‫זורו וסאנג'י מתנהגים כמו טיפשים ביחד,\N‫אז הם שברו כל מיני דברים!
 Dialogue: 5,0:15:46.80,0:15:51.48,Main-207-,,0,0,0,,‫אוסופ היה מתקן אותך כל פעם,\N‫אבל הוא לא היה ממש טוב בזה!
-Dialogue: 5,0:15:52.51,0:15:54.70,Main-207-,,0,0,0,,‫אז אנחנו אלה שצריכים להתנצל!
+Dialogue: 5,0:15:52.51,0:15:54.70,Main-207-,,0,0,0,,‫אז אנחנו אלו שצריכים להתנצל!
 Dialogue: 5,0:16:01.58,0:16:04.56,Main-207-,,0,0,0,,‫אבל הייתי מאושרת.
 Dialogue: 5,0:16:08.70,0:16:13.60,Main-207-,,0,0,0,,‫תודה רבה רבה\N‫שטיפלתם בי כל כך יפה כל הזמן הזה.
 Dialogue: 5,0:16:18.74,0:16:22.75,Main-207-,,0,0,0,,‫באמת הייתי מאושרת...
 Dialogue: 5,0:16:26.75,0:16:29.00,Main-207-,,0,0,0,,‫כי הייתם לי.
 Dialogue: 5,0:16:38.81,0:16:44.50,Main-207-,,0,0,0,,‫מרי!
 Dialogue: 0,0:16:42.10,0:16:45.15,Credits,c,0,0,0,,Editing:\N Galaxy 9000\N\NTiming:\NPhosCity\N\NQuality Control:\Ndanpmss,\NGalaxy 9000,\NPepperjack,\NZenef\N\NSoundtracking:\N Halee\N\NGraphics:\N Datenshi\N\NKaraoke:\NKaitouYahiko\N\NTranslation:\NCrunchyroll,\NGaijin
-Dialogue: 5,0:10:09.88,0:10:19.02,Lyrics,song,0,0,0,,{\an8\i1}We spent every day covered in mud until the sun set
-Dialogue: 5,0:10:19.12,0:10:28.22,Lyrics,song,0,0,0,,{\an8\i1}It's hard to leave behind those innocent days
-Dialogue: 5,0:10:29.01,0:10:38.52,Lyrics,song,0,0,0,,{\an8\i1}I'm a dreamer because that's who I am
-Dialogue: 5,0:10:38.67,0:10:47.14,Lyrics,song,0,0,0,,{\an8\i1}I don't need to fit in like a piece of a jigsaw puzzle
-Dialogue: 5,0:10:47.76,0:10:57.04,Lyrics,song,0,0,0,,{\an8\i1}Just as someone's "Yes" could be a "No" to you,
-Dialogue: 5,0:10:57.04,0:11:07.16,Lyrics,song,0,0,0,,{\an8\i1}You should always be free
-Dialogue: 5,0:11:07.16,0:11:17.29,Lyrics,song,0,0,0,,{\an8\i1}If the puzzle is missing a piece\Nwhen the wind passes through tomorrow,
-Dialogue: 5,0:11:17.29,0:11:26.18,Lyrics,song,0,0,0,,{\an8\i1}no one would blame you for that
-Dialogue: 5,0:11:26.18,0:11:31.79,Lyrics,song,0,0,0,,{\an8\i1}We knew we weren't wrong
-Dialogue: 5,0:11:31.79,0:11:36.41,Lyrics,song,0,0,0,,{\an8\i1}For the dreams we had before
-Dialogue: 5,0:11:36.41,0:11:45.66,Lyrics,song,0,0,0,,{\an8\i1}That helps us cross a wildly surging ocean
-Dialogue: 5,0:11:45.66,0:11:55.16,Lyrics,song,0,0,0,,{\an8\i1}We know the pain that's in your heart,
-Dialogue: 5,0:11:55.16,0:12:05.04,Lyrics,song,0,0,0,,{\an8\i1}so even if you were to get off this ship\Nand find yourself on the other side,
-Dialogue: 5,0:12:05.04,0:12:14.95,Lyrics,song,0,0,0,,{\an8\i1}you'll surely smile in the end.
-Dialogue: 5,0:13:17.25,0:13:26.95,Lyrics,song,0,0,0,,{\an8\i1}We still have our dreams
-Dialogue: 5,0:13:26.95,0:13:37.16,Lyrics,song,0,0,0,,{\an8\i1}And the memories given to us
-Dialogue: 5,0:13:37.16,0:13:46.20,Lyrics,song,0,0,0,,{\an8\i1}Today, we continue fighting the pain as we cross these rough seas
-Dialogue: 5,0:13:46.20,0:13:54.41,Lyrics,song,0,0,0,,{\an8\i1}So that our promises won't become lies
-Dialogue: 5,0:13:54.41,0:14:05.37,Lyrics,song,0,0,0,,{\an8\i1}And someday, to you who departed our ship to live on the other side,
-Dialogue: 5,0:14:05.37,0:14:16.08,Lyrics,song,0,0,0,,{\an8\i1}we'll deliver a completed puzzle

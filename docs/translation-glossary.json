@@ -1,0 +1,307 @@
+{
+  "source": "One Pace Enies Lobby 04 — 'You're Fired' — human: That One Gerbil vs AI",
+  "terms": {
+    "underling / subordinate (of a pirate)": {
+      "ai": "משרת",
+      "human": "כפוף",
+      "count": 2
+    },
+    "Marines (organization)": {
+      "ai": "המארינס",
+      "human": "הצי",
+      "count": 2
+    },
+    "Marine Headquarters": {
+      "ai": "מטה המארינס",
+      "human": "מפקדת הצי",
+      "count": 1
+    },
+    "Water 7": {
+      "ai": "וואטר סבן",
+      "human": "ווטר 7",
+      "count": 6
+    },
+    "Enies Lobby": {
+      "ai": "אניס לובי",
+      "human": "אניאס לובי",
+      "count": 1,
+      "note": "בכתוביות־על (captions) המאויש: אניאס לובי"
+    },
+    "King Bull(s)": {
+      "ai": "שור מלך / שוורי מלך",
+      "human": "קינג בול / קינג בולים",
+      "count": 2
+    },
+    "Kalifa": {
+      "ai": "קליפה",
+      "human": "קאליפה",
+      "count": 1
+    },
+    "Tom": {
+      "ai": "טום",
+      "human": "תום",
+      "count": 2
+    },
+    "Ohara": {
+      "ai": "אוהארה",
+      "human": "אוהרה",
+      "count": 1
+    },
+    "Clima-Tact": {
+      "ai": "מטה האקלים",
+      "human": "שרביט האקלים",
+      "count": 1
+    },
+    "bounty (wanted poster)": {
+      "ai": "פרס",
+      "human": "מודעת מבוקש",
+      "count": 1
+    },
+    "cannon fodder": {
+      "ai": "מזון לתותחים",
+      "human": "בשר תותחים",
+      "count": 1
+    },
+    "Ancient Weapon": {
+      "ai": "הנשק העתיק",
+      "human": "הנשק הקדום",
+      "count": 1
+    },
+    "blueprints (of Pluton)": {
+      "ai": "התוכניות",
+      "human": "התרשימים",
+      "count": 1
+    },
+    "my subordinates (CP9)": {
+      "ai": "הכפיפים שלי",
+      "human": "הפקודים שלי",
+      "count": 1
+    },
+    "Cease fire!": {
+      "ai": "הפסקת אש!",
+      "human": "חדל אש!",
+      "count": 1
+    },
+    "assassin squad": {
+      "ai": "קבוצת המתנקשים הראשית",
+      "human": "יחידת הרוצחים",
+      "count": 1
+    },
+    "courtroom (the room, not the building)": {
+      "ai": "בית המשפט",
+      "human": "אולם המשפט",
+      "count": 1
+    },
+    "thrown into the sea/ocean": {
+      "ai": "לים",
+      "human": "לאוקיינוס",
+      "count": 1
+    },
+    "honorific -san (Chopper-san, Usopp-san)": {
+      "ai": "צ'ופר / אוסופ",
+      "human": "אדון צ'ופר / אדון אוסופ",
+      "count": 3
+    },
+    "Pirate A / B / C (rank letters)": {
+      "ai": "פיראט א' / ב' / ג'",
+      "human": "פיראט A / B / C",
+      "count": 3
+    },
+    "CP9": {
+      "ai": "CP9",
+      "human": "CP9",
+      "count": 4,
+      "note": "נשאר בלטינית אצל שניהם"
+    },
+    "Buster Call — to call one": {
+      "ai": "להפעיל באסטר קול",
+      "human": "לקרוא לבאסטר קול",
+      "count": 2
+    },
+    "attack: Thunderbolt Tempo": {
+      "ai": "Thunderbolt Tempo! (לא תורגם)",
+      "human": "טמפו ברק!",
+      "count": 1
+    },
+    "attack: Gum-Gum... Spear!": {
+      "ai": "Gum-Gum... / Spear! (לא תורגם)",
+      "human": "גומי-גומי... / רומח!",
+      "count": 1
+    },
+    "attack: Half-Knot Air Drive": {
+      "ai": "Half-Knot Air Drive! (לא תורגם)",
+      "human": "צלילת חצי-קשר!",
+      "count": 1
+    },
+    "technique: Air Door": {
+      "ai": "Air Door. (לא תורגם)",
+      "human": "דלת אוויר.",
+      "count": 1
+    },
+    "interjection: Huh?! (surprise)": {
+      "ai": "האה?!",
+      "human": "הא?!",
+      "count": 5
+    },
+    "interjection: Huh? (pondering)": {
+      "ai": "האה?",
+      "human": "הממ?",
+      "count": 2
+    },
+    "interjection: Man!/Jeez!": {
+      "ai": "איש!",
+      "human": "בחיי!",
+      "count": 2
+    },
+    "interjection: Whoa/Man": {
+      "ai": "ואו",
+      "human": "בנאדם!",
+      "count": 1
+    },
+    "interjection: Oh": {
+      "ai": "אה",
+      "human": "הו / או",
+      "count": 2
+    },
+    "Damn it! (strong)": {
+      "ai": "לעזאזל!",
+      "human": "שיט! / לעזאזל!",
+      "count": 2
+    },
+    "Hit the bullseye": {
+      "ai": "בול בפוני!",
+      "human": "בול פגיעה!",
+      "count": 1
+    },
+    "eat dust/dirt": {
+      "ai": "תאכלו עפר",
+      "human": "תאכלו אבק",
+      "count": 1
+    },
+    "No way!": {
+      "ai": "איך?! / הם לא...!",
+      "human": "אין מצב!",
+      "count": 2
+    },
+    "you two": {
+      "ai": "אתם השניים",
+      "human": "שניכם",
+      "count": 1
+    },
+    "these guys": {
+      "ai": "הבחורים האלה",
+      "human": "החבר'ה האלו",
+      "count": 3
+    },
+    "demonstrative: this (f.)": {
+      "ai": "זאת",
+      "human": "זו",
+      "count": 6
+    },
+    "demonstrative plural: these/those": {
+      "ai": "האלה / כאלה",
+      "human": "האלו / כאלו",
+      "count": 7
+    },
+    "everything (spelling)": {
+      "ai": "הכול",
+      "human": "הכל",
+      "count": 4
+    },
+    "too (much/many) (spelling)": {
+      "ai": "יותר מדי",
+      "human": "יותר מידי",
+      "count": 3
+    },
+    "quite (spelling)": {
+      "ai": "די",
+      "human": "דיי",
+      "count": 2
+    },
+    "nif'al infinitives (spelling)": {
+      "ai": "ליהנות / להילחם / להיזהר",
+      "human": "להנות / להלחם / להזהר",
+      "count": 4
+    },
+    "on me (spelling)": {
+      "ai": "עליי",
+      "human": "עלי",
+      "count": 2
+    }
+  },
+  "captions": {
+    "Courthouse": "בית המשפט",
+    "Island Gate": "שערי האי",
+    "Main Island, Enies Lobby": "אי ראשי, אניאס לובי",
+    "Main Island\\NAt the Island Gate": "אי ראשי\\N‫השערים לאי",
+    "Tower of Justice\\NEnies Lobby": "מגדל הצדק\\N‫אניאס לובי",
+    "You're Fired": "אתם מפוטרים"
+  },
+  "caption_variants_observed": {
+    "Island Gate": {
+      "שערי האי": 113,
+      "‫שערי האי": 11
+    },
+    "Main Island\\NAt the Island Gate": {
+      "אי ראשי\\N‫השערים לאי": 1,
+      "‫אי ראשי\\N‫השערים לאי": 1
+    },
+    "Tower of Justice\\NEnies Lobby": {
+      "מגדל הצדק\\N‫אניאס לובי": 1,
+      "‫מגדל הצדק\\N‫אניאס לובי": 1
+    }
+  },
+  "conventions": {
+    "rtl_marks": {
+      "dialogue_line_start": "כל אירוע דיאלוג מתחיל ב-U+202B (RLE) מיד אחרי בלוק התגיות אם קיים: {\\fad(150,150)}‫טמפו ברק!",
+      "after_line_break": "כל שורת המשך אחרי \\N מתחילה ב-U+202B — 88/88 אצל המתרגם האנושי",
+      "compliance": "319/320 אירועי דיאלוג אנושיים פותחים ב-RLE (החריג היחיד: 'סוגקינג!' — כנראה השמטה)",
+      "captions": "בשלטים רב-שורתיים: U+202B אחרי כל \\N תמיד; U+202B מוביל בתחילת השלט — רצוי אך לא עקבי במקור",
+      "no_other_marks": "אין שימוש ב-RLM/LRM/LRE/PDF — רק U+202B (RLE) ללא PDF סוגר"
+    },
+    "punctuation": {
+      "interrupted_word": "מילה שנקטעת מסתיימת במקף ASCII רגיל '-' (הפתע- / תקפ- / אלים-), לא בקו מפריד '–'",
+      "dual_speaker_dash": "שני דוברים בו-זמנית: '– ' (en dash + רווח) בתחילת כל שורה, בשתי השורות",
+      "quote_period": "נקודה אחרי המירכאות הסוגרות: \"אתם מפוטרים\". (לא בתוכן)",
+      "mid_sentence_dash": "קו מפריד באמצע משפט: ' - ' מקף עם רווחים",
+      "no_maqaf": "אין שימוש במקף עברי ־ (U+05BE)",
+      "no_niqqud": "אין ניקוד בכלל"
+    },
+    "formatting": {
+      "q2": "{\\q2} (ביטול שבירת שורות אוטומטית) מוצמד בסוף השורה או לפני \\N בשורות ארוכות — לא בתחילת האירוע",
+      "no_italics": "אין שימוש ב-{\\i1} להדגשה (0 אצל האנושי, 6 אצל ה-AI); הדגשה מובעת בסדר מילים ובניסוח: 'תתנצלי את, טמבלית!'",
+      "attack_lines": "שמות מתקפות: שומרים את {\\fad(150,150)} ומתרגמים לעברית עם RLE מוביל",
+      "signs": "בשלטים (Captions/Title) משאירים את כל תגיות העיצוב בדיוק כמו במקור ומחליפים רק את הטקסט",
+      "line_breaks": "שורות מאוזנות; מקסימום ~44 תווים לשורה; מותר לאחד שני אירועים עוקבים למשפט אחד ולהשאיר את השני ריק/מאוחד",
+      "numbers": "ספרות לשמות מקומות (ווטר 7) ולמספרים גדולים (10,000)"
+    },
+    "credits_style": {
+      "rule": "בסגנון Credits הטקסט העברי נכתב בסדר אותיות הפוך (סדר חזותי): 'עריכת וידאו' נשמר כ-'ואדיו תכירע'; שמות לטיניים נשארים כרגיל",
+      "mapping_logical": {
+        "Video Editing": "עריכת וידאו",
+        "Graphics": "גרפיקה",
+        "Karaoke": "קראוקה",
+        "Quality Control": "בקרת איכות",
+        "Soundtracking": "עריכת סאונד",
+        "Timing": "תזמון",
+        "Subtitle Editing": "עריכת כתוביות",
+        "Translation": "תרגום"
+      },
+      "mapping_stored": {
+        "Video Editing": "ואדיו תכירע",
+        "Graphics": "הקיפרג",
+        "Karaoke": "הקוארק",
+        "Quality Control": "תוכיא תרקב",
+        "Soundtracking": "דנואס תכירע",
+        "Timing": "ןומזת",
+        "Subtitle Editing": "תויבותכ תכירע",
+        "Translation": "םוגרת"
+      },
+      "extra": "המתרגם הוסיף את ReshaFlame לרשימת קרדיט התרגום"
+    },
+    "grammar": {
+      "gender_number_agreement": "התאמת מין ומספר לדובר ולנמען על המסך היא קטגוריית התיקון הגדולה ביותר (15+ שורות): אזרחית ותיקה (קוקורו), קטינה (צ'ימני), קחו/באתם/הייתם אמורים/אתם מפרים לפי הסצנה",
+      "singular_context": "כשהקשר העלילה ידוע — יחיד ולא רבים: 'איזה אידיוט שפלש' (רק לופי פלש), 'חמש נפגעים'"
+    }
+  }
+}
