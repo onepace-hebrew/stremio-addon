@@ -358,7 +358,6 @@ Dialogue: 0,0:27:52.42,0:27:55.52,Main-207-,,0,0,0,,‫אולי היא נראי�
 Dialogue: 0,0:27:55.52,0:27:57.35,Main-207-,,0,0,0,,‫אל תעשה את זה, ראש שבט ג'ורל!
 Dialogue: 0,0:27:57.35,0:27:59.09,Main-207-,,0,0,0,,‫...אבל היא שד!
 Dialogue: 0,0:28:08.57,0:28:15.51,Main-207-,,0,0,0,,{\fad(0,5000)\i1}‫סמלור{\i0}...
-Comment: 0,0:28:15.60,0:28:15.60,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.15,0:00:05.08,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.15,0:00:05.08,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.15,0:00:05.08,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -403,7 +402,6 @@ Dialogue: 1,0:01:29.74,0:01:34.27,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.74,0:01:34.27,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.74,0:01:34.27,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.74,0:01:34.27,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:28:15.60,0:28:15.60,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:02:16.18,0:02:19.92,Title,,0,0,0,,{\blur0.3\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Hey, Mother
 Dialogue: 1,0:02:16.18,0:02:19.92,Title,,0,0,0,,{\bord0\blur0.3\fad(500,0)\4a&HFF&}Hey, Mother
 Dialogue: 0,0:12:34.47,0:12:38.47,Captions,,0,0,0,,{\blur0.3\fs55\fad(500,0)\pos(640,480)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Charlotte Linlin\N{\fs45}(Human, Five Years Old)

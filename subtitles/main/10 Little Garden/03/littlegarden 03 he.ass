@@ -32,16 +32,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:28:01.16,0:28:01.20,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.10,0:00:41.15,Main-207-,OP,0,0,0,,
-Comment: 0,0:28:03.16,0:28:03.20,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 5,0:01:54.22,0:01:56.55,Main-207-,,0,0,0,,‫לופי!
 Dialogue: 5,0:01:56.55,0:01:58.56,Main-207-,,0,0,0,,‫לופי! לופי! לופי! לופי!
 Dialogue: 5,0:01:58.56,0:01:59.35,Main-207-,,0,0,0,,‫לופי! לופי!
@@ -451,12 +443,8 @@ Dialogue: 5,0:27:50.06,0:27:51.27,Main-207-,,0,0,0,,‫אוה, כן!
 Dialogue: 5,0:27:51.27,0:27:52.48,Main-207-,,0,0,0,,‫הבנתי!
 Dialogue: 5,0:27:52.48,0:27:55.40,Main-207-,,0,0,0,,‫אני לא אותו אדם כמו לפני!
 Dialogue: 5,0:27:58.07,0:28:01.16,Main-207-,,0,0,0,,‫מהרו לפני שנתקשה!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:01:53.72,0:01:56.55,Title-207-,,0,0,0,,{\blur0.5\fad(477,0)\3c&H1E1E1E&\c&H1E1E1E&\bord2.3\1a&HFF&\t(436,477,\1a&H00&)}Foul Play
 Dialogue: 1,0:01:53.72,0:01:56.55,Title-207-,,0,0,0,,{\blur0.5\fad(477,0)\c&HE7E6E6&\bord0\4a&HFF&}Foul Play
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Galaxy 9000\NGigglebot\NZenef
@@ -497,5 +485,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:28:03.20,0:28:08.20,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

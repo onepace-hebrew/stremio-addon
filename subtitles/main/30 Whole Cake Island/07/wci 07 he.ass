@@ -266,8 +266,6 @@ Dialogue: 0,0:19:48.92,0:19:50.56,Main-207-,,0,0,0,,‫ביג מאמא?!
 Dialogue: 0,0:19:54.56,0:19:56.78,Main-207-,,0,0,0,,‫והאיש הזה הוא...
 Dialogue: 0,0:19:56.78,0:19:59.72,Main-207-,,0,0,0,,‫האבא של לולה?!
 Dialogue: 0,0:19:59.05,0:19:59.72,Secondary-207-,,0,0,0,,‫מה?
-Dialogue: 0,0:20:10.23,0:20:14.10,Main-207-,,0,0,0,,
-Dialogue: 0,0:20:19.72,0:20:22.45,Main-207-,,0,0,0,,
 Dialogue: 0,0:20:22.45,0:20:25.04,Main-207-,,0,0,0,,‫הם חזרו!\N‫הארנב והעגור!
 Dialogue: 0,0:20:25.04,0:20:26.41,Main-207-,,0,0,0,,‫הם... טסים!
 Dialogue: 0,0:20:31.82,0:20:34.94,Main-207-,,0,0,0,,‫עצור! ראנדולף!
@@ -275,7 +273,6 @@ Dialogue: 0,0:21:00.13,0:21:02.55,Main-207-,,0,0,0,,‫זה היה האקי?! ל
 Dialogue: 0,0:21:02.55,0:21:04.03,Main-207-,,0,0,0,,‫אז מה זה היה?!
 Dialogue: 0,0:21:09.82,0:21:10.97,Main-207-,,0,0,0,,‫הם צרחו...
 Dialogue: 0,0:21:12.87,0:21:14.96,Main-207-,,0,0,0,,‫והתכווצו מפחד?!
-Dialogue: 0,0:21:37.40,0:21:39.48,Main-207-,,0,0,0,,
 Dialogue: 0,0:21:47.20,0:21:52.74,Main-207-,,0,0,0,,‫כנראה שאתה חושב שאתה גדול... \N‫אם אתה חושב שאתה יכול לעמוד בדרכי.
 Dialogue: 0,0:21:53.73,0:21:55.66,Main-207-,,0,0,0,,‫ראנדולף!
 Dialogue: 0,0:21:57.57,0:21:59.96,Main-207-,,0,0,0,,‫סליחה. זה היה הרעיון שלו.
@@ -396,7 +393,6 @@ Dialogue: 0,0:30:52.76,0:30:57.74,Main-207-,,0,0,0,,‫לופי! לא! אל תה
 Dialogue: 0,0:30:57.74,0:31:00.52,Main-207-,,0,0,0,,‫אנחנו צריכים לצאת מפה כדי להחזיר את סאנג'י-{\i1}קון{\i0} חזרה!
 Dialogue: 0,0:31:03.40,0:31:05.82,Main-207-,,0,0,0,,‫אני הופך כל קרב לרציני...
 Dialogue: 0,0:31:05.82,0:31:08.76,Main-207-,,0,0,0,,‫אני לא מכיר דרך אחרת!
-Comment: 0,0:31:08.76,0:31:10.76,Main-207-,,0,0,0,,‫קרדיטים
 Dialogue: 0,0:00:54.14,0:00:57.72,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Team One Pace
 Dialogue: 1,0:00:54.14,0:00:57.72,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
 Dialogue: 2,0:00:54.14,0:00:57.72,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
@@ -436,15 +432,12 @@ Dialogue: 1,0:01:41.77,0:01:44.39,Credits,,0,0,0,,{\pos(524,420)\blur0.1\bord0\f
 Dialogue: 0,0:01:41.77,0:01:44.39,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Feeso\NZenef
 Dialogue: 1,0:01:41.77,0:01:44.39,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
 Dialogue: 2,0:01:41.77,0:01:44.39,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:02:20.58,0:02:22.69,Credits,,0,0,0,,{\pos(820,430)}
-Dialogue: 0,0:02:24.16,0:02:26.86,Credits,,0,0,0,,{\pos(820,410)}
 Dialogue: 0,0:02:26.99,0:02:31.48,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Translation
 Dialogue: 1,0:02:26.99,0:02:31.48,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 2,0:02:26.99,0:02:31.48,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 0,0:02:26.99,0:02:31.48,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Crunchyroll
 Dialogue: 1,0:02:26.99,0:02:31.48,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
 Dialogue: 2,0:02:26.99,0:02:31.48,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
-Comment: 0,0:02:31.48,0:02:33.48,Credits,,0,0,0,,CAPTIONS
 Dialogue: 0,0:02:35.83,0:02:38.17,Title,,0,0,0,,{\blur0.3\fad(825,825)\c&H000000&\1a&HFF&\t(780,825,\1a&H00&)\t(1515,1560,\1a&HFF&)}Lola's Vivre Card
 Dialogue: 1,0:02:35.83,0:02:38.17,Title,,0,0,0,,{\bord0\blur0.3\fad(825,825)\4a&HFF&}Lola's Vivre Card
 Dialogue: 0,0:00:00.01,0:00:06.50,Captions,,0,0,0,,{\blur0.3\fs50\fad(550,300)\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)\t(6190,6235,\1a&HFF&)\pos(1125,408.667)}Chocolat Town\NTotto Land

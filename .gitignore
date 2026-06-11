@@ -3,3 +3,4 @@ node_modules/
 
 # Cloudflare Wrangler local cache/state
 .wrangler/
+.DS_Store

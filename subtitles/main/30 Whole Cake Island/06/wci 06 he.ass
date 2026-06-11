@@ -370,7 +370,6 @@ Dialogue: 0,0:31:29.00,0:31:30.53,Main-207-,,0,0,0,,‫מצאתי עוד אחד.
 Dialogue: 0,0:31:33.70,0:31:36.90,Main-207-,,0,0,0,,‫יש כל כך הרבה מהם!
 Dialogue: 0,0:31:52.13,0:31:54.70,Main-207-,,0,0,0,,‫בכל מקרה...
 Dialogue: 0,0:32:11.57,0:32:14.62,Main-207-,,0,0,0,,‫איך אתם התרבתם?!
-Comment: 0,0:02:46.18,0:02:46.18,Title,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Team One Pace
 Dialogue: 1,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
 Dialogue: 2,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
@@ -410,15 +409,12 @@ Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(524,420)\blur0.1\bord0\f
 Dialogue: 0,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Feeso\NZenef
 Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
 Dialogue: 2,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:01:26.47,0:01:28.58,Credits,,0,0,0,,{\pos(820,430)}
-Dialogue: 0,0:01:30.05,0:01:32.75,Credits,,0,0,0,,{\pos(820,410)}
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Translation
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
-Comment: 0,0:01:37.38,0:01:39.38,Credits,,0,0,0,,CAPTIONS
 Dialogue: 0,0:02:43.30,0:02:46.10,Title,,0,0,0,,{\blur0.3\fad(1000,825)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(1975,2020,\1a&HFF&)}Vinsmoke Judge
 Dialogue: 1,0:02:43.30,0:02:46.10,Title,,0,0,0,,{\bord0\blur0.3\fad(1000,825)\c&HF7FBF5&\4a&HFF&}Vinsmoke Judge
 Dialogue: 0,0:01:55.58,0:01:59.09,Captions,,0,0,175,,{\blur0.3\fs55\fad(525,0)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)}Yonji's Castle, Kingdom of Germa

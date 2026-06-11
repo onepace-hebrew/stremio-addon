@@ -31,16 +31,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.88,0:01:49.92,Main-207-,chptr,0,0,0,,
-Comment: 0,0:21:08.96,0:21:09.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:46.11,0:00:46.15,Main-207-,OP,0,0,0,,
-Comment: 0,0:21:52.96,0:21:53.00,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.88,0:01:59.87,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:50.67,0:01:52.55,Flashbacks-207-,,0,0,0,,‫תפסיק! סאול!
 Dialogue: 0,0:01:52.55,0:01:53.89,Flashbacks-207-,,0,0,0,,‫היכון!
 Dialogue: 0,0:01:53.89,0:01:58.47,Flashbacks-207-,,0,0,0,,‫לעשות ממני אויב\N‫יהיה הדבר האחרון שתעשה!
@@ -324,15 +316,11 @@ Dialogue: 0,0:20:28.83,0:20:31.46,Main-207-,,0,0,0,,{\fad(0,1148)}‫אני רו
 Dialogue: 0,0:20:31.46,0:20:36.72,Main-207-,,0,0,0,,{\fad(0,985)}‫קחו אותי חזרה לים איתכם!
 Dialogue: 0,0:20:59.86,0:21:03.91,Main-207-,,0,0,0,,‫אתם...! אני אוהבת אתכם, לעזאזל!
 Dialogue: 0,0:21:05.83,0:21:06.66,Main-207-,,0,0,0,,‫יאללה!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 2,0:01:56.89,0:02:00.85,Title-207-,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(477,0)}Declaration of War
 Dialogue: 1,0:01:56.89,0:02:00.85,Title-207-,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(477,0)\t(436,477,\1a&H00&)}Declaration of War
 Dialogue: 0,0:06:32.96,0:06:36.38,Captions-207-,,0,0,0,,{\an5\pos(425,222)\fscx150\fscy150\bord2.5\b600\c&H0E0E11&\3c&H0E0E11&\4c&H0E0E11&\1a&HFF&\blur0.8\fad(476,0)\t(434,476,\1a&H00&)}Vice Admiral Sakazuki\NMarine Headquarters\N(Later to Become\NAdmiral Akainu)
 Dialogue: 1,0:06:32.96,0:06:36.38,Captions-207-,,0,0,0,,{\an5\pos(425,222)\fscx150\fscy150\b600\bord0\c&HFFFEFF&\blur0.8\fad(476,0)}Vice Admiral Sakazuki\N{\c&HE6E6E6&}Marine Headquarters\N(Later to Become\NAdmiral Akainu)
 Dialogue: 1,0:06:32.96,0:06:36.38,Captions-207-,,0,0,0,,{\an5\pos(425,222)\fscx150\fscy150\b600\bord0\c&HFFFEFF&\blur0.8\fad(476,0)}Vice Admiral Sakazuki\N{\c&HE6E6E6&}Marine Headquarters\N(Later to Become\NAdmiral Akainu)
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:00.00,0:00:02.48,Credits-207-,,0,0,0,,{\pos(90,225)\fad(607,610)\blur0.6\bord3\c&H000000&\1a&HFF&\t(566,607,\1a&H00&)\t(1900,1942,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:00.00,0:00:02.48,Credits-207-,,0,0,0,,{\pos(90,225)\fad(607,610)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.00,0:00:02.48,Credits-207-,,0,0,0,,{\pos(130,270)\fad(607,610)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(566,607,\1a&H00&)\t(1900,1942,\1a&HFF&)}Feeso\NGalaxy 9000
@@ -365,5 +353,4 @@ Dialogue: 0,0:00:14.99,0:00:17.46,Credits-207-,,0,0,0,,{\pos(90,225)\fad(602,0)\
 Dialogue: 1,0:00:14.99,0:00:17.46,Credits-207-,,0,0,0,,{\pos(90,225)\fad(602,0)\blur0.6\bord0\4a&HFF&}Translation
 Dialogue: 0,0:00:14.99,0:00:17.46,Credits-207-,,0,0,0,,{\pos(130,270)\fad(602,0)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(561,602,\1a&H00&)}Crunchyroll\NDemonRin\NGaijin\NPamkinPinguin\Nrangicus
 Dialogue: 1,0:00:14.99,0:00:17.46,Credits-207-,,0,0,0,,{\pos(130,270)\fad(602,0)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Crunchyroll\NDemonRin\NGaijin\NPamkinPinguin\Nrangicus
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,==============================CREDITS==============================
 Dialogue: 0,0:21:53.00,0:21:58.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

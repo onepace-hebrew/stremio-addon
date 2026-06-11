@@ -34,18 +34,11 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:31.86,0:01:31.90,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:19.00,0:00:19.04,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:31.86,0:01:41.85,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:33.53,0:01:37.33,Main-207-,,0,0,0,,‫אני לא מאמין שהם הצליחו\N‫לכבול אותך, אדון ססאקי.
 Dialogue: 0,0:01:38.20,0:01:39.50,Main-207-,,0,0,0,,‫די מטומטם, נכון?
 Dialogue: 0,0:01:39.87,0:01:43.92,Main-207-,,0,0,0,,‫אף פעם לא חשבתי שקיושירו, מי שכביכול\N‫היה חבר שלי, ירמה אותי ככה.
-Comment: 0,0:01:47.96,0:01:50.92,Main-207-,,0,0,0,,‫עכשיו... מה הקטע עם זה?
 Dialogue: 0,0:01:47.96,0:01:49.09,Main-207-,,0,0,0,,‫עכשיו...
 Dialogue: 0,0:01:49.09,0:01:50.92,Main-207-,,0,0,0,,‫מה לעזאזל גרם לזה?
 Dialogue: 0,0:01:50.92,0:01:55.18,Main-207-,,0,0,0,,‫טוב, ביג מאם נלחמה בכיפה...
@@ -152,7 +145,6 @@ Dialogue: 0,0:09:26.46,0:09:28.96,Main-207-,,0,0,0,,‫אני לא מאמין ש
 Dialogue: 0,0:09:29.34,0:09:31.72,Main-207-,,0,0,0,,‫אל תהססו! עלינו להפיל אותו!
 Dialogue: 0,0:09:31.72,0:09:33.47,Main-207-,,0,0,0,,‫תקפו את רגליו!
 Dialogue: 0,0:10:06.67,0:10:09.13,Main-207-,,0,0,0,,‫אוי, זה היה קרוב.
-Comment: 0,0:10:09.55,0:10:10.17,Main-207-,,0,0,0,,‫חבר'ה.
 Dialogue: 0,0:10:10.67,0:10:11.80,Main-207-,,0,0,0,,‫ג'ינביי!
 Dialogue: 0,0:10:43.96,0:10:47.17,Main-207-,,0,0,0,,‫מספיק כבר, שניכם.
 Dialogue: 0,0:10:52.51,0:10:53.55,Main-207-,,0,0,0,,‫קאידו!
@@ -333,8 +325,6 @@ Dialogue: 0,0:23:04.45,0:23:05.95,Main-207-,,0,0,0,,‫גוקי!
 Dialogue: 0,0:23:09.95,0:23:11.70,Main-207-,,0,0,0,,‫ג'וקי!
 Dialogue: 0,0:23:13.96,0:23:17.08,Main-207-,,0,0,0,,‫כל כך כואב לראות אתכם ככה!
 Dialogue: 0,0:23:17.08,0:23:21.17,Main-207-,,0,0,0,,‫ע-עשרתכם...
-Comment: 0,0:23:17.08,0:23:18.04,Main-207-,,0,0,0,,‫ע...
-Comment: 0,0:23:19.09,0:23:21.17,Main-207-,,0,0,0,,‫עשרתכם...
 Dialogue: 0,0:23:21.63,0:23:26.51,Main-207-,,0,0,0,,‫החרבתם אינספור עיירות יחד!
 Dialogue: 0,0:23:29.39,0:23:31.85,Main-207-,,0,0,0,,‫בגלל זה...
 Dialogue: 0,0:23:32.64,0:23:37.94,Main-207-,,0,0,0,,‫זה פשוט לא הוגן לקבל\N‫מכות בזמן שאתם שיכורים...
@@ -418,15 +408,9 @@ Dialogue: 0,0:30:36.90,0:30:38.78,Main-207-,,0,0,0,,‫כמה משעשע!
 Dialogue: 0,0:30:39.40,0:30:41.69,Main-207-,,0,0,0,,‫סיימנו לברוח!
 Dialogue: 0,0:30:42.11,0:30:44.45,Main-207-,,0,0,0,,‫וסיימנו להסתתר!
 Dialogue: 0,0:30:44.45,0:30:49.54,Main-207-,,0,0,0,,‫הבה נמות כסמוראים של האדון אודן!
-Comment: 0,0:30:44.45,0:30:47.45,Main-207-,,0,0,0,,‫הבה נמות כסמוראים של האדון אודן!
-Comment: 0,0:30:47.45,0:30:49.54,Main-207-,,0,0,0,,‫הבה נמות כסמוראים של האדון אודן!
 Dialogue: 0,0:30:51.66,0:30:54.50,Main-207-,,0,0,0,,‫אוחזים היטב בראשך הכרות!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 2,0:01:31.90,0:01:33.53,Title-207-,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(734,0)}Army of One
 Dialogue: 1,0:01:31.90,0:01:33.53,Title-207-,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(734,0)\t(693,734,\1a&H00&)}Army of One
-Comment: 0,0:22:04.64,0:22:06.97,Captions-207-,,0,0,0,,SLASH
-Comment: 1,0:22:06.51,0:22:06.56,Captions-207-,,0,0,0,,sync
 Dialogue: 2,0:22:05.38,0:22:05.42,Captions-207-,,0,0,0,,{\fnAdHoc\fscx546.28\fscy546.28\c&H50D850&\bord0\blur117.84\org(849.37,387.33)\frz706.3\pos(880.46,-20.56)\fade(255,0,255,-80,-80,1154,1590)}SLASH
 Dialogue: 2,0:22:05.42,0:22:05.47,Captions-207-,,0,0,0,,{\fnAdHoc\fscx510.76\fscy510.76\c&H50D850&\bord0\blur113.1\org(924.27,420.8)\frz706.3\pos(953.33,39.43)\fade(255,0,255,-120,-120,1114,1550)}SLASH
 Dialogue: 2,0:22:05.47,0:22:05.51,Captions-207-,,0,0,0,,{\fnAdHoc\fscx476.5\fscy476.5\c&H50D850&\bord0\blur108.53\org(996.46,453.07)\frz706.3\pos(1023.58,97.28)\fade(255,0,255,-170,-170,1064,1500)}SLASH
@@ -541,11 +525,8 @@ Dialogue: 0,0:22:06.80,0:22:06.84,Captions-207-,,0,0,0,,{\fnAdHoc\fscx224.76\fsc
 Dialogue: 0,0:22:06.84,0:22:06.88,Captions-207-,,0,0,0,,{\fnAdHoc\fscx224.27\fscy224.27\c&HFFFFFF&\bord3.99\3c&HFFFFFF&\blur0.8\org(1534.13,684.21)\frz706.14\pos(1547.35,516.79)\fade(255,0,255,-1540,-1540,-306,130)\1a&HFF&}SLASH
 Dialogue: 0,0:22:06.88,0:22:06.93,Captions-207-,,0,0,0,,{\fnAdHoc\fscx223.61\fscy223.61\c&HFFFFFF&\bord3.98\3c&HFFFFFF&\blur0.8\org(1523.48,694.64)\frz705.99\pos(1537.1,527.75)\fade(255,0,255,-1580,-1580,-346,90)\1a&HFF&}SLASH
 Dialogue: 0,0:22:06.93,0:22:06.97,Captions-207-,,0,0,0,,{\fnAdHoc\fscx223.86\fscy223.86\c&HFFFFFF&\bord3.98\3c&HFFFFFF&\blur0.8\org(1524.72,683.55)\frz706.05\pos(1538.18,516.46)\fade(255,0,255,-1630,-1630,-396,40)\1a&HFF&}SLASH
-Comment: 0,0:22:04.64,0:22:06.97,Captions-207-,,0,0,0,,SLASH
 Dialogue: 1,0:22:25.41,0:22:29.70,Captions-207-,,0,0,0,,{\b400\fnIwata Mincho Old Pro H Strp\fscx125\fscy125\bord3.5\shad3\blur1\c&HEAE8EA&\3c&HEAE8EA&\4c&H030303&\pos(960,590)\1a&HFF&\fad(226,0)\t(184,226,\1a&H00&)}Scratchmen Apoo\N{\fscx75\fscy75}(Captain of the On Air Pirates)\NInformant to the Beast Pirates\N{\fscx90\fscy90}Bounty: 350 Million Berries
 Dialogue: 2,0:22:25.41,0:22:29.70,Captions-207-,,0,0,0,,{\b400\fnIwata Mincho Old Pro H Strp\fscx125\fscy125\bord0\blur1\c&H000000&\pos(960,590)\fad(226,0)}Scratchmen Apoo\N{\fscx75\fscy75}(Captain of the On Air Pirates)\NInformant to the Beast Pirates\N{\fscx90\fscy90}Bounty: 350 Million Berries
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:25.17,0:00:27.22,Credits-207-,,0,0,0,,{\pos(330,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\b600\c&H000000&}Video Editing
 Dialogue: 1,0:00:25.17,0:00:27.22,Credits-207-,,0,0,0,,{\pos(330,669)\blur0.4\bord0\fscx83\fscy88\fsp2\b600\4a&HFF&}Video Editing
 Dialogue: 0,0:00:25.17,0:00:27.22,Credits-207-,,0,0,0,,{\pos(350,720)\blur0.3\bord4\fscx120\fscy120\b600\c&H000000&}fedew
@@ -582,11 +563,6 @@ Dialogue: 1,0:00:43.19,0:00:44.69,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx85\fs
 Dialogue: 0,0:00:43.19,0:00:44.69,Credits-207-,,0,0,0,,{\blur0.3\bord4\fscx110\fscy110\c&H000000&\b600\pos(830,711)}funnynaoto\NPollychan\NZenef
 Dialogue: 1,0:00:43.19,0:00:44.69,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx110\fscy110\4a&HFF&\b600\pos(830,711)}funnynaoto\NPollychan\NZenef
 Dialogue: 2,0:00:43.19,0:00:44.69,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx110\fscy110\4a&HFF&\b600\pos(830,711)}funnynaoto\NPollychan\NZenef
-Comment: 0,0:00:44.74,0:00:46.11,Credits-207-,,0,0,0,,{\blur0.3\bord3.4\fscx75\fscy80\fsp3\c&H000000&\b600\pos(810,808)}Subtitle Editing
-Comment: 1,0:00:44.74,0:00:46.11,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx75\fscy80\fsp3\4a&HFF&\b600\pos(810,808)}Subtitle Editing
-Comment: 0,0:00:44.74,0:00:46.11,Credits-207-,,0,0,0,,{\blur0.3\bord4\fscx90\fscy90\c&H000000&\b600\pos(834,860)}
-Comment: 1,0:00:44.74,0:00:46.11,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx90\fscy90\4a&HFF&\b600\pos(834,860)}
-Comment: 2,0:00:44.74,0:00:46.11,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx90\fscy90\4a&HFF&\b600\pos(834,860)}
 Dialogue: 0,0:00:47.24,0:00:48.53,Credits-207-,,0,0,0,,{\an1\pos(811,328)\blur0.3\bord3.4\fscx83\fscy88\fsp3\b600\c&H000000&}Quality Control
 Dialogue: 1,0:00:47.24,0:00:48.53,Credits-207-,,0,0,0,,{\an1\pos(811,328)\blur0.4\bord0\fscx83\fscy88\fsp3\b600\4a&HFF&}Quality Control
 Dialogue: 0,0:00:47.24,0:00:48.53,Credits-207-,,0,0,0,,{\an1\pos(831,520)\blur0.3\bord4\fscx110\fscy110\b600\c&H000000&}FishyBusyness\NGab\NGalaxy 9000
@@ -602,5 +578,4 @@ Dialogue: 1,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx85\fs
 Dialogue: 0,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.3\bord4\fscx110\fscy110\c&H000000&\b600\pos(834,740)}Gab
 Dialogue: 1,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx110\fscy110\4a&HFF&\b600\pos(834,740)}Gab
 Dialogue: 2,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx110\fscy110\4a&HFF&\b600\pos(834,740)}Gab
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:30:54.50,0:30:59.50,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

@@ -34,16 +34,8 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:50.05,0:01:50.09,Main-207-,chptr,0,0,0,,
-Comment: 0,0:27:11.69,0:27:11.73,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.07,0:00:03.11,Main-207-,OP,0,0,0,,
-Comment: 0,0:28:08.33,0:28:08.37,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.05,0:02:00.04,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:58.72,0:02:02.35,Main-207-,,0,0,0,,‫לעזאזל! הוא לא מחזיק חזרה!\N‫אנחנו חייבים לברוח מכאן!
 Dialogue: 0,0:02:02.35,0:02:05.31,Main-207-,,0,0,0,,‫המקום הזה נגמר!
 Dialogue: 0,0:02:10.03,0:02:15.82,Main-207-,,0,0,0,,‫אז שם היה מסתתר הכפר של\N‫לוחמי שאנדיה המרושעים האלה?
@@ -268,7 +260,6 @@ Dialogue: 0,0:17:22.48,0:17:25.57,Main-207-,,0,0,0,,‫קלגארה! אמור מ
 Dialogue: 0,0:17:25.57,0:17:28.28,Main-207-,,0,0,0,,‫אם ארגיש שהכפר\N‫בסכנה אפילו הכי קטנה,
 Dialogue: 0,0:17:28.28,0:17:32.95,Main-207-,,0,0,0,,‫אקח את ראשו של האיש הזה\N{\i}‫לפני{\i0} השקיעה מחר.
 Dialogue: 0,0:17:33.95,0:17:37.37,Main-207-,,0,0,0,,‫אין לי את הכוח\N‫לשמוע את קולות האלים...
-Comment: 0,0:17:37.95,0:17:45.84,Main-207-,,0,0,0,,‫אבל אני יודע מתי אדם\N‫מדבר בכנות. זה הכל.
 Dialogue: 0,0:17:37.95,0:17:38.79,Main-207-,,0,0,0,,‫אולם...
 Dialogue: 0,0:17:39.54,0:17:44.28,Main-207-,,0,0,0,,‫גם אני יכול לשמוע את דברי\N‫אדם כן.
 Dialogue: 0,0:17:44.28,0:17:45.84,Main-207-,,0,0,0,,‫זה הכל.
@@ -381,8 +372,6 @@ Dialogue: 0,0:25:37.47,0:25:44.73,Main-207-,,0,0,0,,‫אבל אתה קורא ל
 Dialogue: 0,0:25:49.19,0:25:54.57,Main-207-,,0,0,0,,‫האם תציל באמת\N‫את הכפר האהוב עלי?!
 Dialogue: 0,0:25:54.57,0:25:56.66,Main-207-,,0,0,0,,‫אתה יכול להציל אותו?!
 Dialogue: 0,0:25:57.70,0:25:59.00,Main-207-,,0,0,0,,‫אני יכול!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:50.09,0:01:56.01,Title-207-,,0,0,0,,{\bord2\c&H181818&\3c&H181818&\1a&HFF&\blur0.6\fad(979,478)\t(938,979,\1a&H00&)\t(5442,5484,\1a&HFF&)}Godkiller
 Dialogue: 1,0:01:50.09,0:01:56.01,Title-207-,,0,0,0,,{\bord0\c&HE5E6E6&\4a&HFF&\blur0.6\fad(979,478)}Godkiller
 Dialogue: 1,0:04:06.35,0:04:11.65,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,564)\fad(480,232)}Jaya, the Grand Line\N400 Years Ago
@@ -403,8 +392,6 @@ Dialogue: 0,0:06:49.68,0:07:01.82,Captions-207-,,0,0,0,,{\an8\fnFOT-Greco Std DB
 Dialogue: 1,0:18:18.70,0:18:24.71,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,650)\fad(481,732)}Dawn
 Dialogue: 1,0:18:18.70,0:18:24.71,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,650)\fad(481,732)}Dawn
 Dialogue: 0,0:18:18.70,0:18:24.71,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord3.5\fsp2\fscx90\fscy90\c&H171615&\1a&HFF&\blur1.3\pos(720,650)\3c&H171615&\fad(481,732)\t(440,481,\1a&H00&)\t(5278,5320,\1a&HFF&)}Dawn
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Video Editing
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(583.02,619.65)}fedew\NZenef
 Dialogue: 0,0:00:51.78,0:00:55.70,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Graphics
@@ -421,5 +408,4 @@ Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\p
 Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(67.02,153.65)}CraigyBoi\NKustogg\NPollychan\NZenef
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\pos(964,111.4)}Translation
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(1007.02,152.05)}Funimation\NghostDunk\NPamkinPinguin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:28:08.37,0:28:13.37,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

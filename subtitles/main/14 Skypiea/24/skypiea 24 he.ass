@@ -35,16 +35,8 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:50.05,0:01:50.09,Main-207-,chptr,0,0,0,,
-Comment: 0,0:18:42.73,0:18:42.77,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.07,0:00:03.11,Main-207-,OP,0,0,0,,
-Comment: 0,0:19:39.37,0:19:39.41,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.05,0:02:00.04,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:58.93,0:02:02.73,Narrator-207-,,0,0,0,,‫ארבע מאות שנות לחימה הגיעו סוף סוף לקיצן,\N
 Dialogue: 0,0:02:02.73,0:02:07.27,Narrator-207-,,0,0,0,,‫ואנשי השמיים המשיכו\N‫בחגיגתם ימים על גבי ימים.
 Dialogue: 0,0:02:08.78,0:02:12.11,Main-207-,,0,0,0,,‫אני... אני... אני לא יכול לשתות יותר...
@@ -74,7 +66,6 @@ Dialogue: 0,0:03:19.80,0:03:22.22,Secondary-207-,,0,0,0,,‫הא? עוד לא ב
 Dialogue: 0,0:03:08.08,0:03:10.46,Main-207-,,0,0,0,,{\an8}‫אוסופ הכה אותי!
 Dialogue: 0,0:03:10.46,0:03:11.38,Main-207-,,0,0,0,,{\an8}‫מה?!
 Dialogue: 0,0:03:11.38,0:03:13.59,Main-207-,,0,0,0,,{\an8\q2}‫מעולם לא עשיתי דבר כזה!
-Comment: 0,0:03:11.38,0:03:13.59,Main-207-,,0,0,0,,{\an8\q2}‫אין סיכוי שאעשה משהו כזה!
 Dialogue: 0,0:03:13.59,0:03:15.68,Main-207-,,0,0,0,,{\an8}‫אל תאשים אותי בזה!
 Dialogue: 0,0:03:15.68,0:03:17.51,Main-207-,,0,0,0,,{\an8}‫אבל אתה {\i1}כן{\i0} הכית אותי!
 Dialogue: 0,0:03:17.51,0:03:19.10,Main-207-,,0,0,0,,{\an8}‫ממש פה, הרגשתי את זה!
@@ -348,12 +339,8 @@ Dialogue: 0,0:18:26.63,0:18:29.76,Secondary-207-,,0,0,0,,{\an8}‫– היי! ח
 Dialogue: 0,0:18:29.76,0:18:31.42,Main-207-,,0,0,0,,‫חברה!
 Dialogue: 0,0:18:31.42,0:18:35.34,Main-207-,,0,0,0,,‫תמשיכו לרוץ כל הדרך\N‫עד קצה השמיים!
 Dialogue: 0,0:18:35.34,0:18:39.10,Main-207-,,0,0,0,,‫– כן!\N‫– כן!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:50.09,0:01:55.51,Title-207-,,0,0,0,,{\bord2\c&H181818&\3c&H181818&\1a&HFF&\blur0.6\fad(729,0)\t(687,729,\1a&H00&)}I Made It Here
 Dialogue: 1,0:01:50.09,0:01:55.51,Title-207-,,0,0,0,,{\bord0\c&HE5E6E6&\4a&HFF&\blur0.6\fad(729,0)}I Made It Here
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Video Editing
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(583.02,619.65)}fedew\NZenef
 Dialogue: 0,0:00:51.78,0:00:55.70,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Graphics
@@ -370,5 +357,4 @@ Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\p
 Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(67.02,153.65)}funnynaoto\NGordingus\NPollychan\NZenef
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\pos(964,111.4)}Translation
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(1007.02,152.05)}Funimation\NPamkinPinguin\Nspicyapples
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:19:39.41,0:19:44.41,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

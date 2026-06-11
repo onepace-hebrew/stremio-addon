@@ -31,14 +31,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.10,0:00:41.15,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:56.74,0:01:58.30,Main-207-,,0,0,0,,‫אתה לא...
 Dialogue: 0,0:01:59.34,0:02:00.51,Main-207-,,0,0,0,,‫מציץ בכיוון הלא נכון?
 Dialogue: 0,0:02:07.59,0:02:11.04,Main-207-,,0,0,0,,‫כבר מאוחר מדי...\N‫ואתה עדיין נראה לגמרי.
@@ -180,7 +174,6 @@ Dialogue: 0,0:11:28.63,0:11:32.21,Main-207-,,0,0,0,,‫רגע, נאמי! אני 
 Dialogue: 0,0:11:33.59,0:11:37.34,Main-207-,,0,0,0,,‫לפני זה, אני אאכל אתכם!
 Dialogue: 0,0:11:37.72,0:11:39.05,Main-207-,,0,0,0,,‫– הזקנה!\N‫– הזקנה!
 Dialogue: 0,0:11:39.05,0:11:40.89,Main-207-,,0,0,0,,‫מאיפה לעזאזל היא באה?!
-Comment: 0,0:11:41.47,0:11:43.47,Main-207-,,0,0,0,,{\k23}‫היא באה! {\k28}היא באה!\N{\k32}‫היא באה! {\k103}היא באה!
 Dialogue: 0,0:11:41.47,0:11:41.72,Main-207-,,0,0,0,,‫היא באה! {\alpha&HFF&}היא באה!\N‫היא באה! היא באה!
 Dialogue: 0,0:11:41.72,0:11:42.01,Main-207-,,0,0,0,,‫היא באה! היא באה!\N{\alpha&HFF&}‫היא באה! היא באה!
 Dialogue: 0,0:11:42.01,0:11:42.31,Main-207-,,0,0,0,,‫היא באה! היא באה!\N‫היא באה! {\alpha&HFF&}היא באה!
@@ -310,12 +303,8 @@ Dialogue: 0,0:19:46.87,0:19:48.92,Main-207-,,200,1,0,,‫הוא גדל...
 Dialogue: 0,0:19:48.92,0:19:50.96,Main-207-,,0,0,0,,‫– והוא מפלצת!\N‫– והוא מפלצת!
 Dialogue: 0,0:20:05.35,0:20:07.89,Main-207-,,0,0,0,,‫איזה בחור מגניב! אני אוהב אותו!
 Dialogue: 0,0:20:08.19,0:20:12.11,Main-207-,,0,0,0,,‫סאנג'י! בואו שהוא יצטרף אלינו!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:49.96,0:01:53.30,Title-207-,,0,0,290,,{\fad(700,0)\bord2\3c&H141414&\c&H141414&\blur0.5\1a&HFF&\t(655,700,\1a&H00&)}Enter: Tony Tony Chopper
 Dialogue: 1,0:01:49.96,0:01:53.30,Title-207-,,0,0,290,,{\fad(700,0)\c&HE6E6E6&\bord0\blur0.5\4a&HFF&}Enter: Tony Tony Chopper
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Galaxy 9000\NGigglebot
@@ -352,5 +341,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================CREDITS==============================
 Dialogue: 0,0:20:12.11,0:20:17.11,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

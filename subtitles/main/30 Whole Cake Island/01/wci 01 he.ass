@@ -370,7 +370,6 @@ Dialogue: 0,0:27:10.76,0:27:11.96,Main-207-,,0,0,0,,‫לופי...
 Dialogue: 0,0:27:13.02,0:27:16.08,Main-207-,,0,0,0,,‫היי, אני רעב...
 Dialogue: 0,0:27:16.08,0:27:19.53,Main-207-,,0,0,0,,‫סאנג'י{\i1}{\fs10} {\r}! תעזור לנו!
 Dialogue: 0,0:27:20.16,0:27:27.94,Narrator,,0,0,0,,‫וכך, ביום הראשון בלבד של מסע לופי...\N‫הצוות היה בסכנת רעב.
-Dialogue: 0,0:27:29.42,0:27:34.79,Musical,,0,0,0,,{\fad(150,150)}♪ Ship! Ship! Ship! Ship! ♪
 Dialogue: 0,0:27:37.36,0:27:39.04,Main-207-,,0,0,0,,‫חשבתי שזה שלג, אבל...
 Dialogue: 0,0:27:40.43,0:27:42.76,Main-207-,,0,0,0,,‫זה סופת סוכריות כותנה{\i1}{\fs12} {\r}!
 Dialogue: 0,0:27:45.46,0:27:48.52,Main-207-,,0,0,0,,‫חילזון הטרנספונדר לא מפסיק לצלצל...
@@ -412,7 +411,6 @@ Dialogue: 0,0:30:40.35,0:30:41.79,Main-207-,,0,0,0,,‫ובכן, בוא.
 Dialogue: 0,0:30:41.79,0:30:43.50,Main-207-,,0,0,0,,‫תפסיק...
 Dialogue: 0,0:30:52.44,0:30:54.93,Main-207-,,0,0,0,,‫זאת כלת השידוכים שלך...
 Dialogue: 0,0:30:54.93,0:31:00.73,Main-207-,,0,0,0,,‫הבת ה-35 של משפחת שרלוט.\N‫ליידי שרלוט פודינג!
-Comment: 0,0:31:00.73,0:31:02.73,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.07,0:00:03.66,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Team One Pace
 Dialogue: 1,0:00:00.07,0:00:03.66,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
 Dialogue: 2,0:00:00.07,0:00:03.66,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
@@ -452,15 +450,12 @@ Dialogue: 1,0:00:47.72,0:00:50.35,Credits,,0,0,0,,{\pos(524,420)\blur0.1\bord0\f
 Dialogue: 0,0:00:47.72,0:00:50.35,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Feeso\NZenef
 Dialogue: 1,0:00:47.72,0:00:50.35,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
 Dialogue: 2,0:00:47.72,0:00:50.35,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:01:26.49,0:01:28.58,Credits,,0,0,0,,{\pos(820,430)}
-Dialogue: 0,0:01:30.13,0:01:32.75,Credits,,0,0,0,,{\pos(820,410)}
 Dialogue: 0,0:01:32.90,0:01:37.39,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Translation
 Dialogue: 1,0:01:32.90,0:01:37.39,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 2,0:01:32.90,0:01:37.39,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 0,0:01:32.90,0:01:37.39,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:32.90,0:01:37.39,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:32.90,0:01:37.39,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
-Comment: 0,0:01:37.39,0:01:39.39,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:41.78,0:01:45.72,Title,,0,0,0,,{\blur0.3\fad(850,850)\c&H000000&\1a&HFF&\t(805,850,\1a&H00&)\t(3090,3135,\1a&HFF&)}A World Abuzz
 Dialogue: 1,0:01:41.78,0:01:45.72,Title,,0,0,0,,{\bord0\blur0.3\fad(850,850)\c&HFAF9F7&\4a&HFF&}A World Abuzz
 Dialogue: 0,0:01:45.88,0:01:49.40,Captions,,0,0,240,,{\blur0.3\fs55\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Arabasta\N{\fs45}The Kingdom of Sand
@@ -513,7 +508,6 @@ Dialogue: 0,0:25:46.12,0:25:49.99,Captions,,0,0,0,,{\blur0.3\fad(525,525)\fs40\p
 Dialogue: 1,0:25:46.12,0:25:49.99,Captions,,0,0,0,,{\bord0\blur0.3\fad(525,525)\fs40\pos(1130,393.334)\4a&HFF&}Back on the\N{\i1}Thousand Sunny{\i0}
 Dialogue: 0,0:27:29.49,0:27:34.77,Captions,,0,0,0,,{\blur0.3\fad(525,575)\fs45\pos(182.667,346)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(4705,4750,\1a&HFF&)}A Few Days Later\Non Big Mom's Ship
 Dialogue: 1,0:27:29.49,0:27:34.77,Captions,,0,0,0,,{\bord0\blur0.3\fad(525,575)\fs45\pos(182.667,346)\4a&HFF&}A Few Days Later\Non Big Mom's Ship
-Comment: 0,0:27:34.80,0:27:36.80,Munch Chomp,,0,0,0,,TYPESETTING
 Dialogue: 0,0:11:20.32,0:11:20.35,Munch Chomp,,0,0,0,,{\blur0.6\fs150\pos(60,180)\c&H000000&}MUNCH!
 Dialogue: 1,0:11:20.32,0:11:20.35,Munch Chomp,,0,0,0,,{\bord0\blur0.6\fs150\c&HF1A8F1&\pos(60,180)\4a&HFF&}MUNCH!
 Dialogue: 0,0:11:20.35,0:11:20.39,Munch Chomp,,0,0,0,,{\blur0.6\fs150\pos(326,180)\c&H000000&}MUNCH!

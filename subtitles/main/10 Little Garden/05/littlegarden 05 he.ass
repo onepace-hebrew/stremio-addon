@@ -33,16 +33,8 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:25:46.98,0:25:47.03,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.10,0:00:41.15,Main-207-,OP,0,0,0,,
-Comment: 0,0:25:48.99,0:25:49.03,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.91,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 5,0:01:56.43,0:01:58.47,Main-207-,,0,0,0,,‫וואו! תסתכל מאחוריו!
 Dialogue: 5,0:01:58.97,0:02:00.56,Main-207-,,0,0,0,,‫קשת! יש קשת!
 Dialogue: 5,0:02:03.56,0:02:05.27,Main-207-,,0,0,0,,‫אפילו הבכי שלו ענקי!
@@ -406,8 +398,6 @@ Dialogue: 5,0:25:30.43,0:25:31.76,Main-207-,,0,0,0,,‫אין צורך להתע�
 Dialogue: 5,0:25:31.76,0:25:34.14,Main-207-,,0,0,0,,‫בואו ננפה את זה, אחת ולתמיד!
 Dialogue: 5,0:25:34.55,0:25:35.85,Main-207-,,0,0,0,,‫צודק!
 Dialogue: 5,0:25:35.85,0:25:37.97,Main-207-,,0,0,0,,‫נסדר את זה אחר כך!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:49.96,0:01:56.01,Title-207-,,0,0,0,,{\blur0.5\fad(984,978)\3c&H1E1E1E&\c&H1E1E1E&\bord2.3\1a&HFF&\t(942,984,\1a&H00&)\t(5072,5113,\1a&HFF&)}Straight Ahead!
 Dialogue: 1,0:01:49.96,0:01:56.01,Title-207-,,0,0,0,,{\blur0.5\fad(984,978)\c&HE7E6E6&\bord0\4a&HFF&}Straight Ahead!
 Dialogue: 0,0:09:03.90,0:09:09.70,Captions-207-,,0,0,0,,{\blur0.7\fad(978,0)\an2\bord5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,715)\c&H000000&\3c&H000000&\1a&HFF&\t(936,978,\1a&H00&)}At Sea (The Grand Line)
@@ -422,8 +412,6 @@ Dialogue: 2,0:10:05.46,0:10:10.13,Captions-207-,,0,0,0,,{\blur0.7\fad(479,0)\an2
 Dialogue: 0,0:10:35.24,0:10:43.16,Captions-207-,,0,0,0,,{\blur0.7\fad(478,476)\an8\bord5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,450)\c&H000000&\3c&H000000&\1a&HFF&\t(437,478,\1a&H00&)\t(7444,7485,\1a&HFF&)}Mr. 11\NFrontier Agent, Baroque Works
 Dialogue: 1,0:10:35.24,0:10:43.16,Captions-207-,,0,0,0,,{\blur0.7\fad(478,476)\an8\bord0.5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,450)\3c&HFAFAFB&\c&HFAFAFB&\1a&HFF&\t(437,478,\1a&H00&)\4a&HFF&\t(7444,7485,\1a&HFF&)}Mr. 11\NFrontier Agent, Baroque Works
 Dialogue: 2,0:10:35.24,0:10:43.16,Captions-207-,,0,0,0,,{\blur0.7\fad(478,476)\an8\bord0\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,450)\c&HFAFAFB&\4a&HFF&}Mr. 11\NFrontier Agent, Baroque Works
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot
@@ -464,5 +452,4 @@ Dialogue: 0,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,600)
 Dialogue: 1,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,600)\blur0.6\bord0\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,600)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,600)\blur0.6\bord0\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================CREDITS==============================
 Dialogue: 0,0:25:49.03,0:25:54.03,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

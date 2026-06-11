@@ -32,14 +32,8 @@ Style: Secondary-207-,Guttman Yad-Brush,36,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.10,0:00:41.15,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.01,0:02:00.01,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:01:58.80,0:02:02.64,Main-207-,,0,0,0,,‫סוף סוף לילה שקט ונחמד.
 Dialogue: 0,0:02:02.64,0:02:05.08,Main-207-,,0,0,0,,‫מה? למה אני בחוץ?
 Dialogue: 0,0:02:05.08,0:02:08.07,Main-207-,,0,0,0,,‫נו, לא משנה. אני ישנוני. אני הולך לישון.
@@ -705,12 +699,8 @@ Dialogue: 0,0:39:52.73,0:39:56.40,Main-207-,,0,0,0,,‫מי יודע! יאללה
 Dialogue: 0,0:39:56.40,0:39:57.53,Main-207-,,0,0,0,,‫– כן!\N‫– כן!
 Dialogue: 0,0:40:00.18,0:40:01.94,Main-207-,,0,0,0,,‫זה יהיה מחזה...
 Dialogue: 0,0:40:01.94,0:40:03.48,Main-207-,,0,0,0,,Little Garden...
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרות=========================
 Dialogue: 0,0:05:48.50,0:05:57.47,Title-207-,,0,0,125,,{\fad(1850,2250)}The Secret Criminal Organization
 Dialogue: 0,0:34:18.16,0:34:22.71,Captions-207-,,0,0,0,,{\fad(500,0)\fs35\pos(323.56,290)}Miss All-Sunday\N{\fs20}Vice President (Supreme Commander)\N{\fs30}Baroque Works
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרות=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.267\pos(26.667,17.778)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(26.667,17.778)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Galaxy9000\NSewil
@@ -721,8 +711,6 @@ Dialogue: 0,0:00:03.73,0:00:05.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,36.889
 Dialogue: 1,0:00:03.73,0:00:05.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\4a&HFF&}Sewil
 Dialogue: 0,0:00:03.73,0:00:05.73,Credits-207-,,0,0,0,,{\blur0.267\pos(26.667,106.667)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Typesetting
 Dialogue: 1,0:00:03.73,0:00:05.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(26.667,106.667)\fad(600,200)\4a&HFF&}Typesetting
-Dialogue: 0,0:00:03.73,0:00:05.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,125.778)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}
-Dialogue: 1,0:00:03.73,0:00:05.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(40,125.778)\fad(600,200)\fscx115\fscy120\4a&HFF&}
 Dialogue: 0,0:00:05.73,0:00:09.73,Credits-207-,,0,0,0,,{\blur0.267\pos(26.667,17.778)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(3800,3845,\1a&HFF&)}Quality Control
 Dialogue: 1,0:00:05.73,0:00:09.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(26.667,17.778)\fad(600,200)\4a&HFF&}Quality Control
 Dialogue: 0,0:00:05.73,0:00:09.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(3800,3845,\1a&HFF&)}Feeso\NMr. Luffy\NPepperjack\NZenef
@@ -741,8 +729,6 @@ Dialogue: 0,0:00:13.73,0:00:15.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,36.889
 Dialogue: 1,0:00:13.73,0:00:15.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\4a&HFF&}KaitouYahiko
 Dialogue: 0,0:00:15.73,0:00:17.73,Credits-207-,,0,0,0,,{\blur0.267\pos(26.667,17.778)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Subtitle Editing
 Dialogue: 1,0:00:15.73,0:00:17.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(26.667,17.778)\fad(600,200)\4a&HFF&}Subtitle Editing
-Dialogue: 0,0:00:15.73,0:00:17.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}
-Dialogue: 1,0:00:15.73,0:00:17.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\4a&HFF&}
 Dialogue: 0,0:00:17.73,0:00:19.73,Credits-207-,,0,0,0,,{\blur0.267\pos(26.667,17.778)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Translation
 Dialogue: 1,0:00:17.73,0:00:19.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(26.667,17.778)\fad(600,200)\4a&HFF&}Translation
 Dialogue: 0,0:00:17.73,0:00:19.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Funimation
@@ -751,5 +737,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.267\pos(26.667,17
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(26.667,17.778)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.267\pos(40,36.889)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:40:03.48,0:40:08.48,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

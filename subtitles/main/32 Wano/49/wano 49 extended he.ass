@@ -34,14 +34,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:31.86,0:01:31.90,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:19.00,0:00:19.04,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:31.86,0:01:41.85,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:32.70,0:01:34.24,Main-207-,,0,0,0,,‫אה, נכון...
 Dialogue: 0,0:01:34.24,0:01:40.50,Main-207-,,0,0,0,,‫הירח המלא הופך אתכם, המינקים,\N‫ללוחמי הסולונג המשתוללים האלה.
 Dialogue: 0,0:01:53.30,0:01:54.72,Main-207-,,0,0,0,,‫ג'ק!
@@ -333,7 +327,6 @@ Dialogue: 0,0:25:35.81,0:25:38.27,Main-207-,,0,0,0,,‫היא תחזור כוע�
 Dialogue: 0,0:25:40.52,0:25:43.31,Main-207-,,0,0,0,,‫את בהחלט אישה מרשימה!
 Dialogue: 0,0:25:43.31,0:25:45.07,Main-207-,,0,0,0,,‫אשמתי!
 Dialogue: 0,0:25:45.07,0:25:48.40,Main-207-,,0,0,0,,‫תודה על העזרה, שניכם!
-Comment: 0,0:25:48.40,0:25:49.94,Main-207-,,0,0,0,,‫אהם.
 Dialogue: 0,0:25:49.94,0:25:51.78,Main-207-,,0,0,0,,‫אני פשוט שמח שאת לא נפגעת!
 Dialogue: 0,0:25:52.45,0:25:54.16,Main-207-,,0,0,0,,‫ועכשיו...
 Dialogue: 0,0:25:58.70,0:26:01.21,Main-207-,,0,0,0,,‫זה הרגע שכולכם חיכיתם לו.
@@ -438,8 +431,6 @@ Dialogue: 0,0:32:28.18,0:32:31.35,Main-207-,,0,0,0,,‫כולם! אני משאי
 Dialogue: 0,0:32:31.35,0:32:33.10,Main-207-,,0,0,0,,‫גבו אותנו!
 Dialogue: 0,0:32:48.36,0:32:50.11,Main-207-,,0,0,0,,‫אני הולך...
 Dialogue: 0,0:32:51.37,0:32:53.41,Main-207-,,0,0,0,,‫לבעוט לקאידו בתחת!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 2,0:01:45.17,0:01:47.55,Title-207-,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(727,0)}I Can't Imagine Losing
 Dialogue: 1,0:01:45.17,0:01:47.55,Title-207-,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(727,0)\t(686,727,\1a&H00&)}I Can't Imagine Losing
 Dialogue: 1,0:04:02.76,0:04:05.89,Captions-207-,,0,0,0,,{\an2\pos(960,715)\fnDFGKanTeiRyu-XB-CP\bord0\c&H000000&\blur0.8}Roddy & BB\N{\fnVAG Rounded Std Light}Whale Forest Guardians
@@ -448,8 +439,6 @@ Dialogue: 1,0:04:19.53,0:04:22.99,Captions-207-,,0,0,0,,{\an2\pos(960,735)\fnDFG
 Dialogue: 0,0:04:19.53,0:04:22.99,Captions-207-,,0,0,0,,{\an2\pos(960,735)\fnDFGKanTeiRyu-XB-CP\bord3\c&HF7F6FC&\blur0.8\3c&HF7F6FC&}Giovanni, Shishilian, & Concelot\N{\fnVAG Rounded Std Light\fscx125\fscy125}Inuarashi's Three Musketeers
 Dialogue: 1,0:04:43.43,0:04:46.39,Captions-207-,,0,0,0,,{\pos(987,590)\fnCC Ultimatum\fscx125\fscy125\blur0.8\c&HF5F4F5&\bord0}Nangi of the Numbers
 Dialogue: 0,0:04:43.43,0:04:46.39,Captions-207-,,0,0,0,,{\pos(987,590)\fnCC Ultimatum\fscx125\fscy125\blur0.8\c&HF5F4F5&\3c&H111A2F&}Nangi of the Numbers
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:25.17,0:00:27.22,Credits-207-,,0,0,0,,{\pos(330,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\b600\c&H000000&}Video Editing
 Dialogue: 1,0:00:25.17,0:00:27.22,Credits-207-,,0,0,0,,{\pos(330,669)\blur0.4\bord0\fscx83\fscy88\fsp2\b600\4a&HFF&}Video Editing
 Dialogue: 0,0:00:25.17,0:00:27.22,Credits-207-,,0,0,0,,{\pos(350,720)\blur0.3\bord4\fscx120\fscy120\b600\c&H000000&}fedew
@@ -506,5 +495,4 @@ Dialogue: 1,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx85\fs
 Dialogue: 0,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.3\bord4\fscx110\fscy110\c&H000000&\b600\pos(834,740)}Gab\NVillager
 Dialogue: 1,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx110\fscy110\4a&HFF&\b600\pos(834,740)}Gab\NVillager
 Dialogue: 2,0:00:51.24,0:00:53.74,Credits-207-,,0,0,0,,{\blur0.4\bord0\fscx110\fscy110\4a&HFF&\b600\pos(834,740)}Gab\NVillager
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:32:53.41,0:32:58.41,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

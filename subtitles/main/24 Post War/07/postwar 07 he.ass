@@ -34,14 +34,8 @@ Style: Captions-PTS,Guttman Yad-Brush,59,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.01,Main-207-,chptr,0,0,0,,
-Comment: 0,0:02:31.00,0:02:31.03,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.62,0:00:03.65,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 5,0:02:43.51,0:02:45.58,Narrator-207-,,0,0,0,,‫זה האיסט בלו.
 Dialogue: 5,0:02:45.58,0:02:49.72,Narrator-207-,,0,0,0,,‫צבא המהפכה\N‫זה עתה שחרר את רובין מהעבדות.
 Dialogue: 5,0:02:54.69,0:02:57.06,Flashbacks-207-,,0,0,0,,{\t(1653,2254,1,\3c&HFFFFFF&\4c&HFFFFFF&)}‫אור המהפכה:
@@ -208,7 +202,6 @@ Dialogue: 5,0:12:37.80,0:12:40.31,Main-207-,,0,0,0,,‫גם אם המארינס 
 Dialogue: 5,0:12:40.31,0:12:44.08,Main-207-,,0,0,0,,‫אף אחד לא ייקח {\i1}את{\i0} הספינה הזאת!
 Dialogue: 5,0:12:44.88,0:12:46.48,Main-207-,,0,0,0,,‫אני סומך עליכם.
 Dialogue: 5,0:12:49.11,0:12:52.78,Main-207-,,0,0,0,,‫בוס דוואל! חדשות רעות!\N‫זה קומה! הוא כמו דוב ענקי!
-Comment: 5,0:12:53.22,0:12:56.39,Note-207-,,0,0,0,,Kuma = Bear
 Dialogue: 5,0:12:53.22,0:12:56.39,Main-207-,,0,0,0,,‫דוב?! אין דובים באי הזה!
 Dialogue: 5,0:12:57.06,0:12:57.69,Main-207-,,0,0,0,,‫זה...!
 Dialogue: 5,0:13:05.13,0:13:08.40,Main-207-,,0,0,0,,‫זה בארתולומיאו קומה משבעת הלורדים!
@@ -527,8 +520,6 @@ Dialogue: 5,0:36:23.73,0:36:28.83,Main-207-,,0,0,0,,‫כל מי שאין לו �
 Dialogue: 5,0:36:28.83,0:36:33.57,Main-207-,,0,0,0,,‫אין לו מקום... בים הזה!
 Dialogue: 5,0:36:38.48,0:36:41.65,Main-207-,,0,0,0,,‫אני אקח את הראשות בזמן קצר!
 Dialogue: 5,0:36:41.65,0:36:46.48,Main-207-,,0,0,0,,‫אז תיזהר ותחכה, כובע הקש!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 1,0:02:44.71,0:02:49.72,Captions-PTS,,0,0,260,,{\blur0.3\fad(1000,0)\bord2.5\fscx121\fscy137\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}Atop a Colossal Bridge in the East Blue
 Dialogue: 2,0:02:44.71,0:02:49.72,Captions-PTS,,0,0,260,,{\blur0.3\fad(1000,0)\bord0\fscx121\fscy137\4a&HFF&}Atop a Colossal Bridge in the East Blue
 Dialogue: 0,0:05:22.90,0:05:26.61,Captions-PTS,,0,0,370,,{\blur0.3\fad(750,0)\bord2.5\fscx152\fscy155\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Kamabakka Queendom\NPeachy Island, Grand Line
@@ -561,8 +552,6 @@ Dialogue: 0,0:34:31.68,0:34:36.49,Captions-PTS,,0,0,200,,{\blur0.4\fad(1000,0)\b
 Dialogue: 1,0:34:31.68,0:34:36.49,Captions-PTS,,0,0,200,,{\blur0.4\fad(1000,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\4a&HFF&}Basil Hawkins
 Dialogue: 1,0:35:27.77,0:35:30.97,Captions-PTS,,0,0,200,,{\blur0.4\fad(750,0)\bord2.2\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Urouge
 Dialogue: 2,0:35:27.77,0:35:30.97,Captions-PTS,,0,0,200,,{\blur0.4\fad(750,0)\bord0\fsp2\fnIwata Mincho Old Pro H-Fate\b0\fscx166\fscy166\c&HFFFFFE&\4a&HFF&}Urouge
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hPhosCity
@@ -579,8 +568,6 @@ Dialogue: 0,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60
 Dialogue: 1,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Translation\N{\fs75}\h\hCrunchyroll\N\h\hYibis
 Dialogue: 0,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(880,925,\1a&HFF&)}Opening Raw\N{\fs75}\h\hGavynnnnn
 Dialogue: 1,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Opening Raw\N{\fs75}\h\hGavynnnnn
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================עיצוב טקסט=========================
 Dialogue: 1,0:23:41.67,0:23:41.70,Captions-PTS,,0,0,0,,{\pos(-366.855,1123.29)\fscx99.99\fscy99.99\bord0\c&H070707&\4a&HFF&\blur1.2}Straw Hat Luffy Appears at Marineford
 Dialogue: 1,0:23:41.70,0:23:41.73,Captions-PTS,,0,0,0,,{\pos(-356.01,1112.205)\bord0\c&H070707&\4a&HFF&\blur1.2}Straw Hat Luffy Appears at Marineford
 Dialogue: 1,0:23:41.73,0:23:41.77,Captions-PTS,,0,0,0,,{\pos(-345.21,1101.105)\bord0\c&H070707&\4a&HFF&\blur1.2}Straw Hat Luffy Appears at Marineford
@@ -755,5 +742,4 @@ Dialogue: 1,0:23:48.64,0:23:48.67,Captions-PTS,,0,0,0,,{\pos(509.82,224.22)\fscx
 Dialogue: 1,0:23:48.67,0:23:48.71,Captions-PTS,,0,0,0,,{\pos(509.955,224.19)\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HE6&\4a&HFF&\blur1.2}Straw Hat Luffy Appears at Marineford
 Dialogue: 1,0:23:48.71,0:23:48.74,Captions-PTS,,0,0,0,,{\pos(509.955,224.19)\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HF0&\4a&HFF&\blur1.2}Straw Hat Luffy Appears at Marineford
 Dialogue: 1,0:23:48.74,0:23:48.77,Captions-PTS,,0,0,0,,{\pos(509.94,224.205)\fscx100.1\fscy100.1\bord0\c&H070707&\alpha&HF7&\4a&HFF&\blur1.2}Straw Hat Luffy Appears at Marineford
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================עיצוב טקסט=========================
 Dialogue: 0,0:36:46.48,0:36:51.48,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

@@ -36,15 +36,8 @@ Style: Captions Wano,Guttman Yad-Brush,53,&H00070707,&H0000FFFF,&H00F7F7F7,&H7F4
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:01.89,0:00:04.89,Main-207-,chptr,0,0,0,,
-Comment: 0,0:03:45.01,0:03:45.87,Main-207-,chptr,0,0,0,,
-Comment: 0,0:05:26.59,0:05:26.65,Main-207-,chptr,0,0,0,,
-Comment: 0,0:03:54.71,0:03:54.76,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:41.87,0:01:51.86,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 5,0:00:04.89,0:00:06.81,Main-207-,Dealer,0,0,0,,‫חמש ואחד; ניצחו הזוגיות.
 Dialogue: 5,0:00:13.53,0:00:14.78,Main-207-,Yasuie,0,0,0,,‫וואו!
 Dialogue: 5,0:00:15.43,0:00:19.27,Main-207-,Yasuie,0,0,0,,‫אומרים שהכל תלוי\N‫בקובייה...
@@ -316,7 +309,6 @@ Dialogue: 5,0:25:29.71,0:25:33.46,Main-207-,Sanji,0,0,0,,‫אתה הולך לא
 Dialogue: 5,0:25:34.17,0:25:37.26,Main-207-,Sanji,0,0,0,,‫הנה, אכול! אל תתן לשום דבר להתבזבז!
 Dialogue: 5,0:25:35.14,0:25:37.26,Secondary-207-,Kaku,0,0,0,,‫אח גדול! אח גדול!
 Dialogue: 5,0:25:37.26,0:25:39.69,Main-207-,Sanji,0,0,0,,‫מה? אתה רוצה גם?!
-Comment: 0,0:25:39.69,0:25:40.35,Main-207-,Kaku,0,0,0,,‫[זה התחלת גמגום של משפט שנגדע...]
 Dialogue: 5,0:25:40.35,0:25:43.12,Main-207-,Kaku,0,0,0,,‫תתחרט על זה!
 Dialogue: 5,0:25:45.20,0:25:47.85,Main-207-,Franky,0,0,0,,‫עכשיו, תתעורר!
 Dialogue: 5,0:25:50.52,0:25:53.15,Main-207-,Sanji,0,0,0,,‫כיף לעשות איתך עסקים!
@@ -493,8 +485,6 @@ Dialogue: 5,0:37:30.64,0:37:34.39,Main-207-,Official,0,0,0,,‫ה{\i1}אואיר
 Dialogue: 5,0:37:35.20,0:37:36.78,Main-207-,Orochi,0,0,0,,‫מצוין...
 Dialogue: 5,0:37:37.78,0:37:39.48,Main-207-,Orochi,0,0,0,,‫קומוראסאקי...
 Dialogue: 5,0:37:42.49,0:37:48.52,Main-207-,Orochi,0,0,0,,‫אחרי היום, תהיי שלי!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫=============================כותרת ושלטים==============================
 Dialogue: 0,0:05:40.61,0:05:49.45,Title-207-,,0,0,0,,{\blur0.9\fad(550,0)\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}Otoko the Kamuro
 Dialogue: 1,0:05:40.61,0:05:49.45,Title-207-,,0,0,0,,{\bord0\blur0.9\fad(550,0)\4a&HFF&}Otoko the Kamuro
 Dialogue: 0,0:05:26.59,0:05:33.27,Captions Wano,,0,0,0,,{\blur0.9\c&HF7F7F7&\pos(1423.5,55.5)}Ruins of Kibi, Wano
@@ -545,7 +535,6 @@ Dialogue: 0,0:20:44.55,0:20:47.80,Captions Wano,,0,0,0,,{\blur0.9\pos(1336.005,5
 Dialogue: 1,0:20:44.55,0:20:47.80,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1336.005,526.5)\4a&HFF&}Kaku, Kuni, Suke
 Dialogue: 0,0:20:44.55,0:20:47.80,Captions Wano,,0,0,0,,{\blur0.9\pos(1336.001,586.5)\i\i\i1\i\c&HF7F7F7&}Kyoshiro Family
 Dialogue: 1,0:20:44.55,0:20:47.80,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1336.001,586.5)\i\i\i1\i\4a&HFF&}Kyoshiro Family
-Comment: 0,0:27:48.89,0:27:48.89,Captions Wano,,0,0,0,,Toko, a Child from the Capital
 Dialogue: 1,0:27:48.89,0:27:48.93,Captions Wano,,0,0,0,dissolve 23,{\blur0.9\b1\pos(1615.995,378)\c&HF7F7F7&\1a&HFF&\iclip(m 1317 354 l 1383 387 1383 453 1317 486 1251 453 1251 387 m 1455 354 l 1521 387 1521 453 1455 486 1389 453 1389 387 m 1593 354 l 1659 387 1659 453 1593 486 1527 453 1527 387 m 1731 354 l 1797 387 1797 453 1731 486 1665 453 1665 387 m 1869 354 l 1935 387 1935 453 1869 486 1803 453 1803 387)\t(895,940,\1a&H00&)}TOKO {\b1\fs52.5\fnT3}\NA CHILD FROM THE CAPITAL
 Dialogue: 1,0:27:48.93,0:27:48.98,Captions Wano,,0,0,0,,{\blur0.9\b1\pos(1615.995,378)\c&HF7F7F7&\1a&HFF&\iclip(m 1317 357 l 1380 388.5 1380 451.5 1317 483 1254 451.5 1254 388.5 m 1455 357 l 1518 388.5 1518 451.5 1455 483 1392 451.5 1392 388.5 m 1593 357 l 1656 388.5 1656 451.5 1593 483 1530 451.5 1530 388.5 m 1731 357 l 1794 388.5 1794 451.5 1731 483 1668 451.5 1668 388.5 m 1869 357 l 1932 388.5 1932 451.5 1869 483 1806 451.5 1806 388.5)\t(895,940,\1a&H00&)}TOKO {\b1\fs52.5\fnT3}\NA CHILD FROM THE CAPITAL
 Dialogue: 1,0:27:48.98,0:27:49.02,Captions Wano,,0,0,0,,{\blur0.9\b1\pos(1615.995,378)\c&HF7F7F7&\1a&HFF&\iclip(m 1317 360 l 1377 390 1377 450 1317 480 1257 450 1257 390 m 1455 360 l 1515 390 1515 450 1455 480 1395 450 1395 390 m 1593 360 l 1653 390 1653 450 1593 480 1533 450 1533 390 m 1731 360 l 1791 390 1791 450 1731 480 1671 450 1671 390 m 1869 360 l 1929 390 1929 450 1869 480 1809 450 1809 390)\t(895,940,\1a&H00&)}TOKO {\b1\fs52.5\fnT3}\NA CHILD FROM THE CAPITAL
@@ -594,8 +583,6 @@ Dialogue: 2,0:27:49.73,0:27:49.77,Captions Wano,,0,0,0,,{\bord0\blur0.9\c&H100C0
 Dialogue: 2,0:27:49.77,0:27:49.81,Captions Wano,,0,0,0,,{\bord0\blur0.9\c&H100C0B&\b1\pos(1615.995,378)\4a&HFF&\iclip(m 1593 417 l 1596 418.5 1596 421.5 1593 423 1590 421.5 1590 418.5)}TOKO {\b1\fs52.5\fnT3}\NA CHILD FROM THE CAPITAL
 Dialogue: 2,0:27:49.81,0:27:49.85,Captions Wano,,0,0,0,,{\bord0\blur0.9\c&H100C0B&\b1\pos(1615.995,378)\4a&HFF&}TOKO {\b1\fs52.5\fnT3}\NA CHILD FROM THE CAPITAL
 Dialogue: 2,0:27:49.85,0:27:53.23,Captions Wano,,0,0,0,,{\bord0\blur0.9\c&H100C0B&\b1\pos(1615.995,378)\4a&HFF&}TOKO {\b1\fs52.5\fnT3}\NA CHILD FROM THE CAPITAL
-Comment: 0,0:27:48.89,0:27:48.89,Captions Wano,,0,0,0,,Toko, a Child from the Capital
-Comment: 0,0:28:44.74,0:28:44.74,Sign - Otoko,,0,0,0,,O-TOKO
 Dialogue: 0,0:28:44.74,0:28:48.29,Sign - Otoko,,0,0,0,,{\blur0.9\fad(197,0)\pos(1060.365,77.115)\c&H2274D1&\1a&HFF&\fax0.1\t(152,197,\1a&H00&)}TOKO
 Dialogue: 0,0:28:48.29,0:28:48.33,Sign - Otoko,,0,0,0,,{\alpha&H00&\blur0.9\pos(1057.11,76.995)\c&H2274D1&\1a&H00&\fax0.1}TOKO
 Dialogue: 0,0:28:48.33,0:28:48.37,Sign - Otoko,,0,0,0,,{\alpha&H00&\blur0.9\pos(1053.345,76.995)\c&H2274D1&\1a&H00&\fax0.1}TOKO
@@ -692,8 +679,6 @@ Dialogue: 1,0:28:48.62,0:28:48.66,Sign - Otoko,,0,0,0,,{\alpha&H00&\bord0\blur0.
 Dialogue: 1,0:28:48.66,0:28:48.95,Sign - Otoko,,0,0,0,,{\alpha&H00&\bord0\blur0.9\c&HF4C550&\pos(867,77.985)\4a&HFF&\fax0.1}O
 Dialogue: 1,0:28:48.95,0:28:49.87,Sign - Otoko,,0,0,0,,{\alpha&H00&\bord0\blur0.9\c&HF4C550&\pos(867,78)\4a&HFF&\fax0.1}O
 Dialogue: 1,0:28:49.87,0:28:49.95,Sign - Otoko,,0,0,0,,{\alpha&H00&\bord0\blur0.9\c&HF4C550&\pos(867,78)\4a&HFF&\fax0.1\clip(m 847.5 3 b 862.5 21 894 109.5 900 46.5 945 85.5 937.5 85.5 955.5 6 l 1047 7.5 b 1047 37.5 1044 79.5 1038 105 l 1092 90 1146 3)}O
-Comment: 0,0:28:44.74,0:28:44.74,Sign - Otoko,,0,0,0,,O-TOKO
-Comment: 0,0:28:50.08,0:28:50.08,Sign - Otoko2,,0,0,0,,OTOKO (MAN)?
 Dialogue: 2,0:28:50.08,0:28:54.87,Sign - Otoko2,,0,0,0,,{\blur0.9\xshad1.74\yshad1.74\pos(943.5,48)\c&H392B39&}OTOKO (MAN)?
 Dialogue: 2,0:28:54.87,0:28:54.96,Sign - Otoko2,,0,0,0,,{\blur0.9\xshad1.74\yshad1.74\pos(943.5,48)\c&H392B39&\iclip(m 763.5 54 b 916.5 -1.5 1057.5 10.5 1159.5 39)}OTOKO (MAN)?
 Dialogue: 3,0:28:50.08,0:28:54.87,Sign - Otoko2,,0,0,0,,{\bord0\blur0.9\xshad1.74\yshad1.74\pos(943.5,48)\shad5.25\4a&HFF&}OTOKO (MAN)?
@@ -702,8 +687,6 @@ Dialogue: 1,0:28:50.08,0:28:54.87,Sign - Otoko2,,0,0,0,,{\xshad3.495\yshad3.495\
 Dialogue: 1,0:28:54.87,0:28:54.96,Sign - Otoko2,,0,0,0,,{\xshad3.495\yshad3.495\pos(943.5,48)\3a&HFF&\1a&HFE&\blur0.9\iclip(m 763.5 54 b 916.5 -1.5 1057.5 10.5 1159.5 39)}OTOKO (MAN)?
 Dialogue: 0,0:28:50.08,0:28:54.87,Sign - Otoko2,,0,0,0,,{\xshad5.25\yshad5.25\pos(943.5,48)\3a&HFF&\1a&HFE&\blur0.9}OTOKO (MAN)?
 Dialogue: 0,0:28:54.87,0:28:54.96,Sign - Otoko2,,0,0,0,,{\xshad5.25\yshad5.25\pos(943.5,48)\3a&HFF&\1a&HFE&\blur0.9\iclip(m 763.5 54 b 916.5 -1.5 1057.5 10.5 1159.5 39)}OTOKO (MAN)?
-Comment: 0,0:28:50.08,0:28:50.08,Sign - Otoko2,,0,0,0,,OTOKO (MAN)?
-Comment: 0,0:30:22.71,0:30:22.71,Sign - Otoko2,,0,0,0,,OIRAN
 Dialogue: 0,0:30:22.71,0:30:24.30,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(195,0)\bord2.25\shad0\fs225\3c&H4D575A&\c&H4D575A&\1a&HFF&\t(150,195,\1a&H00&)\pos(168.799,159.3)}O
 Dialogue: 1,0:30:22.71,0:30:24.30,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(195,0)\bord0\shad0\fs225\c&H4793EF&\4a&HFF&\pos(168.799,159.3)}O
 Dialogue: 0,0:30:22.92,0:30:24.30,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(235,0)\bord2.25\shad0\fs225\3c&H4D575A&\c&H4D575A&\1a&HFF&\t(190,235,\1a&H00&)\pos(277.8,199.2)}i
@@ -712,16 +695,12 @@ Dialogue: 0,0:30:23.17,0:30:24.30,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(235,0)\bor
 Dialogue: 1,0:30:23.17,0:30:24.30,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(235,0)\bord0\shad0\fs225\c&H7BC65C&\4a&HFF&\pos(412.666,132.167)}ra
 Dialogue: 0,0:30:23.42,0:30:24.30,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(235,0)\bord2.25\shad0\fs225\3c&H4D575A&\c&H4D575A&\1a&HFF&\t(190,235,\1a&H00&)\pos(564.101,170.9)}n
 Dialogue: 1,0:30:23.42,0:30:24.30,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(235,0)\bord0\shad0\fs225\c&H7065EA&\4a&HFF&\pos(564.101,170.9)}n
-Comment: 0,0:30:22.71,0:30:22.71,Sign - Otoko2,,0,0,0,,OIRAN
-Comment: 0,0:30:24.59,0:30:24.59,Sign - Otoko2,,0,0,0,,KAMURO
 Dialogue: 0,0:30:24.59,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord1.95\shad0\3c&H4D575A&\c&H4D575A&\fs225\pos(984,310.5)\frz8.525\1a&HFF&\t(189,234,\1a&H00&)}Ka
 Dialogue: 1,0:30:24.59,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord0\shad0\fs225\pos(984,310.5)\c&H478EEB&\frz8.525\4a&HFF&}Ka
 Dialogue: 0,0:30:24.84,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord1.95\shad0\3c&H4D575A&\c&H4D575A&\fs225\pos(1212,196.5)\frz6.05\1a&HFF&\t(189,234,\1a&H00&)}mu
 Dialogue: 1,0:30:24.84,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord0\shad0\fs225\pos(1212,196.5)\c&H5454E7&\frz6.05\4a&HFF&}mu
 Dialogue: 0,0:30:25.09,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord1.95\shad0\3c&H4D575A&\c&H4D575A&\fs225\pos(1491,154.5)\frz352.8\1a&HFF&\t(189,234,\1a&H00&)}ro
 Dialogue: 1,0:30:25.09,0:30:26.17,Sign - Otoko2,,0,0,0,,{\blur0.9\fad(234,0)\bord0\shad0\fs225\pos(1491,154.5)\c&H55BD6B&\frz352.8\4a&HFF&}ro
-Comment: 0,0:30:24.59,0:30:24.59,Sign - Otoko2,,0,0,0,,KAMURO
-Comment: 0,0:32:55.11,0:32:55.11,Captions Wano,,0,0,0,,Old Man Hyo, a Veteran Prisoner
 Dialogue: 0,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}Ol{\alpha&HFF&}d M{\alpha&H50&}an {\alpha&HFF&}Hyo
 Dialogue: 1,0:32:55.11,0:32:55.16,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(940.5,567)\alpha&HFF&\4a&HFF&}Ol{\alpha&HFF&}d M{\alpha&H50&}an {\alpha&HFF&}Hyo
 Dialogue: 0,0:32:55.16,0:32:55.20,Captions Wano,,0,0,0,,{\blur0.9\pos(940.5,567)\alpha&HFF&\c&HF7F7F7&}O{\alpha&HFF&}ld M{\alpha&H20&}a{\alpha&H20&}n H{\alpha&HFF&}yo
@@ -750,7 +729,6 @@ Dialogue: 0,0:32:55.41,0:32:55.45,Captions Wano,,0,0,0,0.5/0,{\blur0.9\pos(940.5
 Dialogue: 1,0:32:55.41,0:32:55.45,Captions Wano,,0,0,0,0.5/0,{\bord0\blur0.9\pos(940.5,627)\alpha&HA0&\4a&HFF&}A {\alpha&H00&}Veteran Prisone{\alpha&HA0&}r
 Dialogue: 0,0:32:55.45,0:33:00.79,Captions Wano,,0,0,0,0.5/0,{\blur0.9\pos(940.5,627)\c&HF7F7F7&}A Veteran Prisoner
 Dialogue: 1,0:32:55.45,0:33:00.79,Captions Wano,,0,0,0,0.5/0,{\bord0\blur0.9\pos(940.5,627)\4a&HFF&}A Veteran Prisoner
-Comment: 0,0:32:55.11,0:32:55.11,Captions Wano,,0,0,0,,Old Man Hyo, a Veteran Prisoner
 Dialogue: 0,0:34:49.48,0:34:49.52,Captions Wano,,0,0,0,,{\fnT3\b1\bord3\shad3\fscx130\fscy120\pos(964.5,487.5)\alpha&HFF&}"We{\alpha&H50&}t-Haired"{\alpha&H00&} Ca{\alpha&HFF&}ribou
 Dialogue: 0,0:34:49.52,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnT3\b1\bord3\shad3\fscx130\fscy120\pos(964.5,487.5)\alpha&H00&\c&HF7F7F7&}"Wet-Haired" Caribou
 Dialogue: 1,0:34:49.52,0:34:57.32,Captions Wano,,0,0,0,,{\blur0.9\fnT3\b1\bord0\fscx130\fscy120\pos(964.5,487.5)\alpha&H00&\shad3\4a&HFF&}"Wet-Haired" Caribou
@@ -767,8 +745,6 @@ Dialogue: 0,0:36:54.98,0:36:58.65,Captions Wano,,0,0,0,,{\blur0.9\pos(1686,454.5
 Dialogue: 1,0:36:54.98,0:36:58.65,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1686,454.5)\c&H2C2725&\4a&HFF&}Sakyo
 Dialogue: 0,0:36:54.98,0:36:58.65,Captions Wano,,0,0,0,,{\blur0.9\pos(1686,514.5)\3c&HF4F3F3&\c&HF4F3F3&}Flower Capital
 Dialogue: 1,0:36:54.98,0:36:58.65,Captions Wano,,0,0,0,,{\bord0\blur0.9\pos(1686,514.5)\c&H2C2725&\4a&HFF&}Flower Capital
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫=============================כותרת ושלטים==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:04:10.90,0:04:14.86,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:04:10.90,0:04:14.86,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:04:10.90,0:04:14.86,Credits-207-,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso
@@ -815,5 +791,4 @@ Dialogue: 1,0:04:42.85,0:04:45.89,Credits-207-,,0,0,0,,{\pos(1259,578)\blur0.4\b
 Dialogue: 0,0:04:42.85,0:04:45.89,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.3\bord4\fscx120\fscy120\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:04:42.85,0:04:45.89,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
 Dialogue: 2,0:04:42.85,0:04:45.89,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:37:48.52,0:37:53.52,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

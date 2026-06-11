@@ -183,10 +183,6 @@ Dialogue: 0,0:12:33.27,0:12:38.23,Main-207-,,0,0,0,,‫הבת השלושים ו�
 Dialogue: 0,0:12:38.23,0:12:42.61,Main-207-,,0,0,0,,‫והבן השלישי של משפחת וינסמוק,\N‫הנסיך וינסמוק סאנג'י...
 Dialogue: 0,0:12:42.61,0:12:44.82,Main-207-,,0,0,0,,‫חתונתם המלכותית...
 Dialogue: 0,0:12:44.82,0:12:47.33,Main-207-,,0,0,0,,‫מתחילה עכשיו!
-Dialogue: 0,0:12:51.83,0:12:53.12,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:12:53.12,0:12:55.62,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:12:55.62,0:12:58.00,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:13:10.06,0:13:11.81,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! Marriage! ♪
 Dialogue: 0,0:13:13.44,0:13:15.81,Main-207-,,0,0,0,,‫זה מדהים!
 Dialogue: 0,0:13:16.69,0:13:21.48,Main-207-,,0,0,0,,‫ללא דחיינות,\N‫הנה הכלה והחתן!
 Dialogue: 0,0:13:32.16,0:13:33.12,Main-207-,,0,0,0,,‫וואו!
@@ -223,24 +219,8 @@ Dialogue: 0,0:16:32.26,0:16:35.97,Main-207-,,0,0,0,,‫גם... גם אני!
 Dialogue: 0,0:16:40.76,0:16:44.18,Thoughts-207-,,0,0,0,,‫לא! לא! תישאר רציונלי!
 Dialogue: 0,0:16:44.18,0:16:47.98,Thoughts-207-,,0,0,0,,‫אם לא תהיה זהיר, אתה...
 Dialogue: 0,0:16:47.99,0:16:50.23,Thoughts-207-,,0,0,0,,‫תיהרג!
-Dialogue: 0,0:16:52.15,0:16:53.28,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:16:53.28,0:16:54.32,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:16:54.32,0:16:55.28,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:16:55.28,0:16:56.32,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:16:56.32,0:17:00.20,Musical,,0,0,0,,{\fad(150,150)}♪ Marriage! ♪
-Dialogue: 0,0:17:00.20,0:17:02.87,Musical,,0,0,0,,{\fad(150,150)}♪ Tough love... ♪
-Dialogue: 0,0:17:02.87,0:17:04.25,Musical,,0,0,0,,{\fad(150,150)}♪ I've been there... ♪
-Dialogue: 0,0:17:04.25,0:17:06.76,Musical,,0,0,0,,{\fad(150,150)}♪ Bitter love... ♪
-Dialogue: 0,0:17:06.76,0:17:08.22,Musical,,0,0,0,,{\fad(150,150)}♪ I've been there... ♪
-Dialogue: 0,0:17:08.22,0:17:14.01,Musical,,0,0,0,,{\fad(150,150)}♪ Yet despite it all, when it's true love... ♪
-Dialogue: 0,0:17:14.01,0:17:18.30,Musical,,0,0,0,,{\fad(150,150)}♪ I must reach the aisle ♪
-Dialogue: 0,0:17:18.30,0:17:22.10,Musical,,0,0,0,,{\fad(150,150)}♪ Even if I were drenched with rain ♪
-Dialogue: 0,0:17:22.10,0:17:25.85,Musical,,0,0,0,,{\fad(150,150)}♪ Even if spears rain down on me ♪
-Dialogue: 0,0:17:25.85,0:17:30.87,Musical,,0,0,0,,{\fad(150,150)}♪ Never let that hand go! ♪
 Dialogue: 0,0:17:30.87,0:17:32.78,Main-207-,,0,0,0,,‫– שף ראשי!\N‫ – שף ראשי!
 Dialogue: 0,0:17:32.78,0:17:34.24,Main-207-,,0,0,0,,‫שף ראשי!
-Dialogue: 0,0:17:34.24,0:17:40.78,Musical,,0,0,0,,{\fad(150,150)}♪ It's time to unveil the... ♪
-Dialogue: 0,0:17:40.78,0:17:47.87,Musical,,0,0,0,,{\fad(150,150)}♪ wedding cake! ♪
 Dialogue: 0,0:18:43.76,0:18:45.28,Main-207-,,0,0,0,,‫ברבו!
 Dialogue: 0,0:18:45.81,0:18:48.09,Main-207-,,0,0,0,,‫יפהפה! מבריק!
 Dialogue: 0,0:18:48.09,0:18:50.92,Main-207-,,0,0,0,,‫כל כך גדול ומפואר!
@@ -365,7 +345,6 @@ Dialogue: 0,0:28:34.62,0:28:37.40,Main-207-,,0,0,0,,‫הם יצאו משם!
 Dialogue: 0,0:28:37.40,0:28:38.65,Main-207-,,0,0,0,,‫מה?!
 Dialogue: 0,0:28:57.59,0:29:00.81,Main-207-,,0,0,0,,‫ביג מאם!
 Dialogue: 0,0:29:23.73,0:29:27.37,Main-207-,,0,0,0,,‫מה?!
-Comment: 0,0:29:32.33,0:29:32.33,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.10,0:00:05.02,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.10,0:00:05.02,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.10,0:00:05.02,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -410,7 +389,6 @@ Dialogue: 1,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:29:32.33,0:29:32.33,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.28,0:01:38.03,Title,,0,0,0,,{\blur0.3\fad(700,450)\c&H000000&\1a&HFF&\t(655,700,\1a&H00&)\t(3300,3345,\1a&HFF&)}Veteran Actor
 Dialogue: 1,0:01:34.28,0:01:38.03,Title,,0,0,0,,{\bord0\blur0.3\fad(700,450)\c&HFAFAFC&\4a&HFF&}Veteran Actor
 Dialogue: 0,0:01:39.03,0:01:42.37,Captions,,0,0,0,,{\blur0.3\fs45\fad(550,275)\pos(196,465)\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)\t(3065,3110,\1a&HFF&)}Rooftop\N{\fs35}Whole Cake Chateau

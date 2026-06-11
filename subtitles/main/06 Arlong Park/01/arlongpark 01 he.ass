@@ -35,16 +35,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=71}========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,{Opening}
-Comment: 0,0:01:50.01,0:01:50.05,Main-207-,chptr,0,0,0,,{Episode}
-Comment: 0,0:29:37.63,0:29:37.67,Main-207-,chptr,0,0,0,,{Ending}
-Comment: 0,0:00:47.90,0:00:47.94,Main-207-,OP,0,0,0,,
-Comment: 0,0:29:38.63,0:29:38.67,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.01,0:02:00.01,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=72}========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=69}===============================DIALOGUE============================
 Dialogue: 0,0:02:18.99,0:02:21.75,Main-207-,,0,0,0,,‫מזג האויר נפלא!
 Dialogue: 0,0:02:25.42,0:02:29.25,Main-207-,,0,0,0,,‫הקו הגדול רחוק, רחוק\N‫בכיוון הזה?!
 Dialogue: 0,0:02:30.55,0:02:32.72,Main-207-,,0,0,0,,‫או שאולי בכיוון הזה?!
@@ -516,19 +508,11 @@ Dialogue: 0,0:28:55.00,0:28:57.30,Main-207-,,0,0,0,,‫א-אימפריית אר�
 Dialogue: 0,0:28:58.80,0:29:03.47,Main-207-,,0,0,0,,‫הם מתכננים להפוך את כל {\q2}\N‫הכחול המזרחי לאימפריית אנשי-דג?!
 Dialogue: 0,0:29:23.24,0:29:24.87,Main-207-,,0,0,0,,‫לך מכאן.
 Dialogue: 0,0:29:24.87,0:29:26.87,Main-207-,,0,0,0,,‫לפני שארלונג חוזר.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=70}===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=73}============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:50.05,0:01:58.39,Title-207-,,0,0,0,,{\blur0.5\fad(978,981)\3c&H1E1E1E&\c&H1E1E1E&\bord2.3\1a&HFF&\t(936,978,\1a&H00&)\t(7359,7401,\1a&HFF&)}‫ארלונג פארק
 Dialogue: 1,0:01:50.05,0:01:58.39,Title-207-,,0,0,0,,{\blur0.5\fad(978,981)\c&HE7E6E6&\bord0\4a&HFF&}ארלונג פארק
-Comment: 0,0:06:14.44,0:06:18.19,Captions-207-,,0,0,0,,{=34}Namfish
-Dialogue: 0,0:06:14.44,0:06:14.56,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFCFEFE&}m 848 508 l 845 512 840 513 840 518 817 528 814 466 834 445 851 480
-Dialogue: 0,0:06:14.44,0:06:14.56,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,1)\p1\c&HF9FAFE&}m 895 501 l 896 512 896 524 896 539 920 553 921 541 920 529 919 524 919 507
 Dialogue: 1,0:06:14.44,0:06:14.56,Captions-207-,,0,0,0,,{=64}{\fnGuttman Yad\blur1\c&H030B0F&\fax0.839206\fscx22.15\fscy33.33\frx0.8981\fry53.7564\xbord0.00\ybord0.00\org(908.34,493.07)\pos(899.15,509.57)\frz318.8}‫ימאנ
-Dialogue: 0,0:06:14.56,0:06:14.69,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1}m 768 555 l 706 540 713 451 824 444 843 444 878 454 991 496 995 547 919 542 858 450 847 446 782 458
 Dialogue: 1,0:06:14.56,0:06:14.69,Captions-207-,,0,0,0,,{=59}{\fnGuttman Yad\blur1\c&H030B0F&\fax0.288573\fscx52.47\fscy55.10\frx0.4169\fry18.2206\xbord0.00\ybord0.00\org(961.3,493.9)\pos(953.81,521.18)\frz329.2}‫ימאנ
-Dialogue: 0,0:06:14.69,0:06:18.19,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1}m 709 581 l 618 581 615 468 771 443 895 433 1067 458 1072 565 963 554 867 437 744 445 708 552
 Dialogue: 1,0:06:14.69,0:06:18.19,Captions-207-,,0,0,0,,{\fnGuttman Yad\blur1\c&H030B0F&\fax0.000001\fscx75.00\fscy75.00\frz-24.5000\frx0.0001\fry-0.0001\xbord0.00\ybord0.00\org(999.47,495.68)\pos(999.47,532.8)}‫ימאנ
-Comment: 0,0:06:14.44,0:06:18.19,Captions-207-,,0,0,0,,{=35}Namfish
 Dialogue: 0,0:07:03.36,0:07:09.74,Captions-207-,,0,0,0,,{\blur0.7\fad(480,1729)\an8\bord4\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,635)\c&H000000&\3c&H000000&\1a&HFF&\t(438,480,\1a&H00&)\t(4651,4693,\1a&HFF&)}יחרזמה לוחכ ברעמ-ןופצ
 Dialogue: 2,0:07:03.36,0:07:09.74,Captions-207-,,0,0,0,,{\blur0.7\fad(480,1729)\an8\bord0\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,635)\c&HFAFAFB&\4a&HFF&}יחרזמה לוחכ ברעמ-ןופצ
 Dialogue: 0,0:07:20.34,0:07:26.01,Captions-207-,,0,0,0,,{\blur0.7\fad(475,482)\an2\bord4.5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,640)\c&H000000&\3c&H000000&\1a&HFF&\t(434,475,\1a&H00&)\t(5188,5230,\1a&HFF&)}‫ימוזנ ןטפק\N‫יצה ,16 ףנע
@@ -551,8 +535,6 @@ Dialogue: 0,0:26:45.38,0:26:48.04,Captions-207-,,0,0,0,,{\blur0.7\fad(479,0)\an8
 Dialogue: 2,0:26:45.38,0:26:48.04,Captions-207-,,0,0,0,,{\blur0.7\fad(479,0)\an8\bord0\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,635)\c&HFAFAFB&\4a&HFF&}ישאיוקוק רפכ
 Dialogue: 0,0:27:19.78,0:27:24.12,Captions-207-,,0,0,0,,{\blur0.7\fad(484,478)\an2\bord4.5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,640)\c&H000000&\3c&H000000&\1a&HFF&\t(442,484,\1a&H00&)\t(3862,3904,\1a&HFF&)}וזנג\Nישאיוקוק רפכ
 Dialogue: 2,0:27:19.78,0:27:24.12,Captions-207-,,0,0,0,,{\blur0.7\fad(475,478)\an2\bord0\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,640)\c&HFAF9FA&\4a&HFF&}וזנג\Nישאיוקוק רפכ
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=74}============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=65}===============================CREDITS==============================
 Dialogue: 0,0:00:01.77,0:00:04.28,Credits-207-,,0,0,0,,{\pos(90,225)\fad(607,610)\blur0.6\bord3\c&H000000&\1a&HFF&\t(566,607,\1a&H00&)\t(1900,1942,\1a&HFF&)}ואדיו תכירע
 Dialogue: 1,0:00:01.77,0:00:04.28,Credits-207-,,0,0,0,,{\pos(90,225)\fad(607,610)\blur0.6\bord0\4a&HFF&}ואדיו תכירע
 Dialogue: 0,0:00:01.77,0:00:04.28,Credits-207-,,0,0,0,,{\pos(130,270)\fad(607,610)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(566,607,\1a&H00&)\t(1900,1942,\1a&HFF&)}Gigglebot\NZenef
@@ -589,5 +571,4 @@ Dialogue: 0,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(90,350)\fad(602,0)\
 Dialogue: 1,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(90,350)\fad(602,0)\blur0.6\bord0\4a&HFF&}םוגרת
 Dialogue: 0,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(130,395)\fad(602,0)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(561,602,\1a&H00&)}arch1t3cht\Ndanpmss\NFunimation\NGaijin\NPamkinPinguin\NReshaFlame
 Dialogue: 1,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(130,395)\fad(602,0)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}arch1t3cht\Ndanpmss\NFunimation\NGaijin\NPamkinPinguin\NReshaFlame
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,{=66}===============================CREDITS==============================
 Dialogue: 0,0:29:38.67,0:29:43.67,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

@@ -29,14 +29,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:50.13,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.06,0:00:41.10,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:02:03.01,0:02:04.52,Main-207-,,0,0,0,,‫אתה בסדר?
 Dialogue: 0,0:02:03.95,0:02:04.52,Secondary-207-,,0,0,0,,‫כ-כן.
 Dialogue: 0,0:02:08.24,0:02:10.98,Main-207-,,0,0,0,,‫קוזה! אתה בסדר?!
@@ -172,17 +166,12 @@ Dialogue: 0,0:10:54.12,0:10:56.68,Main-207-,,0,0,0,,{\t(1535,2560,\c&HFCFDFD&\3c
 Dialogue: 0,0:11:00.97,0:11:04.31,Flashbacks-207-,,0,0,0,,‫אך, הוד מעלתך, בקצב הזה,
 Dialogue: 0,0:11:04.31,0:11:06.32,Flashbacks-207-,,0,0,0,,‫המדינה תהיה בסכנה קיומית!
 Dialogue: 0,0:11:06.32,0:11:08.14,Flashbacks-207-,,0,0,0,,‫ומה בכך?
-Comment: 0,0:11:08.98,0:11:10.64,Flashbacks-207-,,0,0,0,,‫האם היית רוצה שאהרוס
-Comment: 0,0:11:10.64,0:11:15.57,Flashbacks-207-,,0,0,0,,‫קבוצה של אזרחי ארץ זו\N‫לפני שנדע את הסיבה?
 Dialogue: 0,0:11:08.98,0:11:15.57,Flashbacks-207-,,0,0,0,,{\q2}‫אתה רוצה להשמיד את בני ארצנו\N‫מבלי לדעת מי מושך בחוטים?
 Dialogue: 0,0:11:16.35,0:11:19.62,Flashbacks-207-,,0,0,0,,‫זה{\i0}יהיה{\i1}חורבן המדינה.\N
-Comment: 0,0:11:19.87,0:11:24.58,Flashbacks-207-,,0,0,0,,‫ניסע לריינבייס,\N‫שם נמצא קרוקודיל.
 Dialogue: 0,0:11:19.87,0:11:21.87,Flashbacks-207-,,0,0,0,,‫נפעל מיד!
 Dialogue: 0,0:11:21.87,0:11:24.58,Flashbacks-207-,,0,0,0,,‫אנחנו נוסעים לריינבייס,\N‫ביתו של קרוקודיל!
 Dialogue: 0,0:11:25.51,0:11:28.92,Flashbacks-207-,,0,0,0,,‫סלח על דברי, אבל אם ניפנה נגד קרוקודיל עכשיו...\N
 Dialogue: 0,0:11:29.63,0:11:31.88,Flashbacks-207-,,0,0,0,,‫נוסיף שמן\N‫למדורת האי-שקט.
-Comment: 0,0:11:32.92,0:11:35.49,Flashbacks-207-,,0,0,0,,‫אם נתקוף את ריינבייס,
-Comment: 0,0:11:35.49,0:11:37.80,Flashbacks-207-,,0,0,0,,‫צבא המורדים ייסע\N‫לארמון אלוברנה!
 Dialogue: 0,0:11:32.92,0:11:37.80,Flashbacks-207-,,0,0,0,,{\q2}‫אם נתקוף את ריינבייס, צבא המורדים\N‫ישתמש בזה כהזדמנות לסתור את הארמון!
 Dialogue: 0,0:11:38.56,0:11:43.42,Flashbacks-207-,,0,0,0,,‫ואז מה אם צבא המורדים\N‫ייקח את הארמון?
 Dialogue: 0,0:11:44.35,0:11:47.81,Flashbacks-207-,,0,0,0,,‫גם אם אנחנו, הצבא המלכותי,\N‫ניפול,
@@ -310,7 +299,6 @@ Dialogue: 0,0:19:20.50,0:19:22.64,Main-207-,,0,0,0,,‫הגיע הזמן למו�
 Dialogue: 0,0:19:28.35,0:19:30.06,Main-207-,,0,0,0,,‫חבל. מה אתה אומר על זה?
 Dialogue: 0,0:19:30.06,0:19:32.57,Main-207-,,0,0,0,,‫הי, יש משהו תקוע\N‫על הלחי השמאלית שלך.
 Dialogue: 0,0:19:33.56,0:19:34.41,Main-207-,,0,0,0,,‫באמת?
-Comment: 0,0:19:47.85,0:19:48.54,Main-207-,,0,0,0,,=================BON KUREI ATTACK START===================
 Dialogue: 0,0:19:47.85,0:19:48.54,Secondary-207-,,0,0,0,,{\an8\fad(150,150)}Un!
 Dialogue: 0,0:19:52.75,0:19:54.01,Main-207-,,0,0,0,,{\an8\fad(150,150)}Deux!
 Dialogue: 0,0:19:54.01,0:19:55.17,Secondary-207-,,0,0,0,,{\an8\fad(150,150)}Ourrois!
@@ -326,8 +314,6 @@ Dialogue: 0,0:20:22.33,0:20:24.70,Secondary-207-,,0,0,0,,{\an8\fad(150,150)}Un! 
 Dialogue: 0,0:20:24.70,0:20:26.12,Secondary-207-,,0,0,0,,{\an8\fad(150,150)}Un! Deux!
 Dialogue: 0,0:20:26.12,0:20:27.62,Secondary-207-,,0,0,0,,{\an8\fad(150,150)}Korrois!
 Dialogue: 0,0:20:50.52,0:20:54.43,Secondary-207-,,0,0,0,,{\fad(150,150)\an8}Bombardier Arabesque!
-Comment: 0,0:19:35.46,0:19:36.99,Main-207-,,0,0,0,,=================BON KUREI ATTACK END===================
-Comment: 0,0:19:35.46,0:19:36.99,Main-207-,,0,0,0,,=================SANJI ATTACK START===================
 Dialogue: 0,0:19:35.27,0:19:36.99,Main-207-,,0,0,0,,{\fad(150,150)}Basse Côte!
 Dialogue: 0,0:19:40.03,0:19:41.54,Main-207-,,0,0,0,,{\fad(150,150)}Longe!
 Dialogue: 0,0:19:42.29,0:19:43.62,Main-207-,,0,0,0,,{\fad(150,150)}Tendron!
@@ -342,7 +328,6 @@ Dialogue: 0,0:20:15.85,0:20:18.78,Main-207-,,0,0,0,,{\fad(150,150)}Queue! Jarret
 Dialogue: 0,0:20:18.78,0:20:21.16,Main-207-,,0,0,0,,{\fad(150,150)}Flanchet! Gigot! Selle! Queue!
 Dialogue: 0,0:20:26.12,0:20:27.62,Main-207-,,0,0,0,,{\fad(150,150)}Queue!
 Dialogue: 0,0:20:50.52,0:20:52.36,Main-207-,,0,0,0,,{\fad(150,150)}Veau Shot!
-Comment: 0,0:20:50.52,0:20:52.36,Main-207-,,0,0,0,,=================SANJI ATTACK END===================
 Dialogue: 0,0:21:49.12,0:21:51.21,Main-207-,,0,0,0,,‫א-אני מוותר...
 Dialogue: 0,0:21:52.08,0:21:55.92,Main-207-,,0,0,0,,‫אתה מדהים. אתה עדיין חי?
 Dialogue: 0,0:21:57.29,0:22:00.40,Main-207-,,0,0,0,,‫מה קרה? אם תתחפש שוב\N‫לנאמי,
@@ -383,8 +368,6 @@ Dialogue: 0,0:25:16.70,0:25:17.95,Main-207-,,0,0,0,,‫א-איפה לופי?
 Dialogue: 0,0:25:18.45,0:25:24.42,Main-207-,,0,0,0,,‫הה? אתה מתכוון לכובע קש?\N‫אותו טירון זעיר?
 Dialogue: 0,0:25:28.09,0:25:29.25,Main-207-,,0,0,0,,‫הוא...
 Dialogue: 0,0:25:29.25,0:25:31.09,Main-207-,,0,0,0,,‫מת.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Captions-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:49.96,0:01:55.85,Title-207-,,0,0,0,,{\fad(700,0)\bord2\blur0.5\c&H000000&\1a&HFF&\t(655,700,\1a&H00&)}Okama Kenpo
 Dialogue: 1,0:01:49.96,0:01:55.85,Title-207-,,0,0,0,,{\fad(700,0)\bord0\c&HE6E6E6&\blur0.5\4a&HFF&}Okama Kenpo
 Dialogue: 0,0:03:58.43,0:04:04.56,Captions-207-,,0,0,0,,{\fad(500,0)\bord4.3\blur0.5\fnDFPGiHi-W7-Strp\pos(720,603)\fsp3\fscy105\c&H000000&\1a&HFF&\fscx90\t(455,500,\1a&H00&)}Polka Street, South Block\NAlubarna
@@ -393,18 +376,6 @@ Dialogue: 0,0:04:07.69,0:04:14.82,Captions-207-,,0,0,0,,{\fad(1450,0)\bord4.3\bl
 Dialogue: 1,0:04:07.69,0:04:14.82,Captions-207-,,0,0,0,,{\fad(1450,0)\bord0\blur0.5\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\pos(720,540)\4a&HFF&}Mr. 2 Bon Kurei vs. Sanji
 Dialogue: 0,0:09:07.28,0:09:14.24,Captions-207-,,0,0,0,,{\fad(480,0)\bord4.3\blur0.5\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\c&H000000&\1a&HFF&\t(435,480,\1a&H00&)\pos(720,681.1)}Alubarna Palace
 Dialogue: 1,0:09:07.28,0:09:14.24,Captions-207-,,0,0,0,,{\fad(480,0)\bord0\blur0.5\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\4a&HFF&\pos(720,681.1)}Alubarna Palace
-Comment: 0,0:23:09.35,0:23:17.29,Captions-207-,,0,0,0,,============================TYPEWRITER SIGN=========================
-Comment: 0,0:23:09.35,0:23:17.29,Captions-207-,,0,0,0,,============================K-TIMED=========================
-Comment: 0,0:23:09.45,0:23:17.29,Captions-207-,,0,0,0,,{\k4\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}B{\k13}a{\k4}tt{\k8}le {\k50}of         {\k17}Pol{\k13}ka {\k8}Str{\k8}ee{\k71}t
-Comment: 1,0:23:09.45,0:23:17.29,Captions-207-,,0,0,0,,{\k4\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}B{\k13}a{\k4}tt{\k8}le {\k50}of         {\k17}Pol{\k13}ka {\k8}Str{\k8}ee{\k71}t
-Comment: 0,0:23:11.41,0:23:17.29,Captions-207-,,0,0,0,,{\k17\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}So{\k17}u{\k8}th {\k8}B{\k9}lo{\k12}ck, {\k21}Alu{\k87}barna
-Comment: 1,0:23:11.41,0:23:17.29,Captions-207-,,0,0,0,,{\k17\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}So{\k17}u{\k8}th {\k8}B{\k9}lo{\k12}ck, {\k21}Alu{\k87}barna
-Comment: 0,0:23:13.20,0:23:17.29,Captions-207-,,0,0,0,,{\k13\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\3c&H121217&\c&H121217&&\an4\pos(164.01,679.24)}Vic{\k67}tor:              {\k25}Sa{\k25}n{\k75}ji
-Comment: 1,0:23:13.20,0:23:17.29,Captions-207-,,0,0,0,,{\k13\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\an4\4a&HFF&\pos(164.01,679.24)}Vic{\k67}tor:              {\k25}Sa{\k25}n{\k75}ji
-Comment: 0,0:23:15.25,0:23:17.29,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H121217&\c&H121217&\an4\pos(294.65,1000.41)}Prize:    A Little Camaraderie
-Comment: 1,0:23:15.25,0:23:17.29,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(294.65,1000.41)\4a&HFF&}Prize:    A Little Camaraderie
-Comment: 0,0:23:09.35,0:23:17.29,Captions-207-,,0,0,0,,============================END K-TIMED=========================
-Comment: 0,0:23:09.45,0:23:17.29,Captions-207-,,0,0,0,,{\k4\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}B{\k13}a{\k4}tt{\k8}le {\k50}of         {\k17}Pol{\k13}ka {\k8}Str{\k8}ee{\k71}t
 Dialogue: 0,0:23:09.45,0:23:09.49,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}B{\alpha&HFF&}attle of         Polka Street
 Dialogue: 0,0:23:09.49,0:23:09.62,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}Ba{\alpha&HFF&}ttle of         Polka Street
 Dialogue: 0,0:23:09.62,0:23:09.66,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}Batt{\alpha&HFF&}le of         Polka Street
@@ -415,7 +386,6 @@ Dialogue: 0,0:23:10.41,0:23:10.54,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPG
 Dialogue: 0,0:23:10.54,0:23:10.62,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}Battle of         Polka Str{\alpha&HFF&}eet
 Dialogue: 0,0:23:10.62,0:23:10.70,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}Battle of         Polka Stree{\alpha&HFF&}t
 Dialogue: 0,0:23:10.70,0:23:17.29,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(340.42,53.21)}Battle of         Polka Street
-Comment: 1,0:23:09.45,0:23:17.29,Captions-207-,,0,0,0,,{\k4\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}B{\k13}a{\k4}tt{\k8}le {\k50}of         {\k17}Pol{\k13}ka {\k8}Str{\k8}ee{\k71}t
 Dialogue: 1,0:23:09.45,0:23:09.49,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}B{\alpha&HFF&}attle of         Polka Street
 Dialogue: 1,0:23:09.49,0:23:09.62,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}Ba{\alpha&HFF&}ttle of         Polka Street
 Dialogue: 1,0:23:09.62,0:23:09.66,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}Batt{\alpha&HFF&}le of         Polka Street
@@ -426,7 +396,6 @@ Dialogue: 1,0:23:10.41,0:23:10.54,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiH
 Dialogue: 1,0:23:10.54,0:23:10.62,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}Battle of         Polka Str{\alpha&HFF&}eet
 Dialogue: 1,0:23:10.62,0:23:10.70,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}Battle of         Polka Stree{\alpha&HFF&}t
 Dialogue: 1,0:23:10.70,0:23:17.29,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(340.42,53.21)\4a&HFF&}Battle of         Polka Street
-Comment: 0,0:23:11.41,0:23:17.29,Captions-207-,,0,0,0,,{\k17\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}So{\k17}u{\k8}th {\k8}B{\k9}lo{\k12}ck, {\k21}Alu{\k87}barna
 Dialogue: 0,0:23:11.41,0:23:11.58,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}So{\alpha&HFF&}uth Block, Alubarna
 Dialogue: 0,0:23:11.58,0:23:11.75,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}Sou{\alpha&HFF&}th Block, Alubarna
 Dialogue: 0,0:23:11.75,0:23:11.83,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}South {\alpha&HFF&}Block, Alubarna
@@ -435,7 +404,6 @@ Dialogue: 0,0:23:11.91,0:23:12.00,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPG
 Dialogue: 0,0:23:12.00,0:23:12.12,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}South Block, {\alpha&HFF&}Alubarna
 Dialogue: 0,0:23:12.12,0:23:12.33,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}South Block, Alu{\alpha&HFF&}barna
 Dialogue: 0,0:23:12.33,0:23:17.29,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H18181F&\c&H18181F&\an4\pos(512.18,372.19)}South Block, Alubarna
-Comment: 1,0:23:11.41,0:23:17.29,Captions-207-,,0,0,0,,{\k17\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}So{\k17}u{\k8}th {\k8}B{\k9}lo{\k12}ck, {\k21}Alu{\k87}barna
 Dialogue: 1,0:23:11.41,0:23:11.58,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}So{\alpha&HFF&}uth Block, Alubarna
 Dialogue: 1,0:23:11.58,0:23:11.75,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}Sou{\alpha&HFF&}th Block, Alubarna
 Dialogue: 1,0:23:11.75,0:23:11.83,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}South {\alpha&HFF&}Block, Alubarna
@@ -444,27 +412,20 @@ Dialogue: 1,0:23:11.91,0:23:12.00,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiH
 Dialogue: 1,0:23:12.00,0:23:12.12,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}South Block, {\alpha&HFF&}Alubarna
 Dialogue: 1,0:23:12.12,0:23:12.33,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}South Block, Alu{\alpha&HFF&}barna
 Dialogue: 1,0:23:12.33,0:23:17.29,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(512.18,372.19)\4a&HFF&}South Block, Alubarna
-Comment: 0,0:23:13.20,0:23:17.29,Captions-207-,,0,0,0,,{\k13\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\3c&H121217&\c&H121217&&\an4\pos(164.01,679.24)}Vic{\k67}tor:              {\k25}Sa{\k25}n{\k75}ji
 Dialogue: 0,0:23:13.20,0:23:13.33,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\3c&H121217&\c&H121217&&\an4\pos(164.01,679.24)}Vic{\alpha&HFF&}tor:              Sanji
 Dialogue: 0,0:23:13.33,0:23:14.00,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\3c&H121217&\c&H121217&&\an4\pos(164.01,679.24)}Victor:              {\alpha&HFF&}Sanji
 Dialogue: 0,0:23:14.00,0:23:14.25,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\3c&H121217&\c&H121217&&\an4\pos(164.01,679.24)}Victor:              Sa{\alpha&HFF&}nji
 Dialogue: 0,0:23:14.25,0:23:14.50,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\3c&H121217&\c&H121217&&\an4\pos(164.01,679.24)}Victor:              San{\alpha&HFF&}ji
 Dialogue: 0,0:23:14.50,0:23:17.29,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\3c&H121217&\c&H121217&&\an4\pos(164.01,679.24)}Victor:              Sanji
-Comment: 1,0:23:13.20,0:23:17.29,Captions-207-,,0,0,0,,{\k13\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\an4\4a&HFF&\pos(164.01,679.24)}Vic{\k67}tor:              {\k25}Sa{\k25}n{\k75}ji
 Dialogue: 1,0:23:13.20,0:23:13.33,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\an4\4a&HFF&\pos(164.01,679.24)}Vic{\alpha&HFF&}tor:              Sanji
 Dialogue: 1,0:23:13.33,0:23:14.00,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\an4\4a&HFF&\pos(164.01,679.24)}Victor:              {\alpha&HFF&}Sanji
 Dialogue: 1,0:23:14.00,0:23:14.25,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\an4\4a&HFF&\pos(164.01,679.24)}Victor:              Sa{\alpha&HFF&}nji
 Dialogue: 1,0:23:14.25,0:23:14.50,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\an4\4a&HFF&\pos(164.01,679.24)}Victor:              San{\alpha&HFF&}ji
 Dialogue: 1,0:23:14.50,0:23:17.29,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs95\an4\4a&HFF&\pos(164.01,679.24)}Victor:              Sanji
-Comment: 0,0:23:15.25,0:23:17.29,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H121217&\c&H121217&\an4\pos(294.65,1000.41)}Prize:    A Little Camaraderie
 Dialogue: 0,0:23:15.25,0:23:17.29,Captions-207-,,0,0,0,,{\bord4.3\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\3c&H121217&\c&H121217&\an4\pos(294.65,1000.41)}Prize:    A Little Camaraderie
-Comment: 1,0:23:15.25,0:23:17.29,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(294.65,1000.41)\4a&HFF&}Prize:    A Little Camaraderie
 Dialogue: 1,0:23:15.25,0:23:17.29,Captions-207-,,0,0,0,,{\bord0\blur0.6\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\fs80\an4\pos(294.65,1000.41)\4a&HFF&}Prize:    A Little Camaraderie
-Comment: 0,0:23:09.35,0:23:17.15,Captions-207-,,0,0,0,,============================END TYPEWRITER SIGN=========================
 Dialogue: 0,0:23:18.63,0:23:23.47,Captions-207-,,0,0,0,,{\fad(450,0)\bord4.3\blur0.5\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\pos(720,688)\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}Alubarna Palace
 Dialogue: 1,0:23:18.63,0:23:23.47,Captions-207-,,0,0,0,,{\fad(450,0)\bord0\blur0.5\fnDFPGiHi-W7-Strp\fsp3\fscx90\fscy105\pos(720,688)\4a&HFF&}Alubarna Palace
-Comment: 0,0:00:00.00,0:00:00.00,Captions-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Credits-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\NZenef
@@ -501,5 +462,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Credits-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:25:31.09,0:25:36.09,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

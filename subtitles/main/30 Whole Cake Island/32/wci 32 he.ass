@@ -260,9 +260,6 @@ Dialogue: 0,0:19:13.60,0:19:19.30,Main-207-,,0,0,0,,‫עצור! הרחק את �
 Dialogue: 0,0:19:19.30,0:19:22.64,Main-207-,,0,0,0,,‫היא יותר מסתם ילד כפוי טובה...
 Dialogue: 0,0:19:23.94,0:19:26.31,Main-207-,,0,0,0,,‫אשרוף אותך עד לעצם!
 Dialogue: 0,0:19:27.77,0:19:29.86,Main-207-,,0,0,0,,{\i1}‫נראה שאני חייב לצאת לשם!{\i}
-Dialogue: 0,0:19:29.86,0:19:32.05,Main-207-,,0,0,0,,
-Dialogue: 0,0:19:32.05,0:19:34.07,Main-207-,,0,0,0,,
-Dialogue: 0,0:19:34.07,0:19:35.41,Main-207-,,0,0,0,,
 Dialogue: 0,0:19:35.41,0:19:37.01,Main-207-,,0,0,0,,‫מה קרה?!
 Dialogue: 0,0:19:37.01,0:19:39.79,Main-207-,,0,0,0,,{\i1}‫שר אובן, מצאנו את ספינתו של ביגה!{\i}
 Dialogue: 0,0:19:40.91,0:19:43.98,Main-207-,,0,0,0,,{\i1}‫היא כרגע מתקדמת לעבר Cacao Island!{\i}
@@ -410,7 +407,6 @@ Dialogue: 0,0:31:42.85,0:31:45.06,Main-207-,,0,0,0,,‫אני רוצה לעלו�
 Dialogue: 0,0:31:56.07,0:31:59.76,Main-207-,,0,0,0,,‫אני רוצה להכות אותו בכוח מלא!
 Dialogue: 0,0:32:01.41,0:32:03.16,Main-207-,,0,0,0,,‫האיש ששווה...
 Dialogue: 0,0:32:04.08,0:32:06.33,Main-207-,,0,0,0,,‫מיליארד בלי!
-Comment: 0,0:32:11.36,0:32:11.36,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(493,419)}Team One Pace
 Dialogue: 1,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
 Dialogue: 2,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
@@ -455,21 +451,16 @@ Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 2,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
-Dialogue: 0,0:01:06.12,0:01:08.52,Credits,,0,0,0,,
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(528.8,401.6)}Translation
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(528.8,401.6)}Translation
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 2,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
-Dialogue: 0,0:01:16.78,0:01:19.45,Credits,,0,0,0,,
-Dialogue: 0,0:01:22.24,0:01:24.95,Credits,,0,0,0,,
-Dialogue: 0,0:01:27.04,0:01:32.50,Credits,,0,0,0,,
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(492.8,266.8)}Special Thanks
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(492.8,266.8)}Special Thanks
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 2,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
-Comment: 0,0:32:11.36,0:32:11.36,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:38.17,0:01:40.85,Title,,0,0,0,,{\blur0.3\fad(325,0)\c&H000000&\1a&HFF&\t(280,325,\1a&H00&)}Way of Life
 Dialogue: 1,0:01:38.17,0:01:40.85,Title,,0,0,0,,{\bord0\blur0.3\fad(325,0)\4a&HFF&}Way of Life
 Dialogue: 0,0:02:26.40,0:02:31.23,Captions,,0,0,0,,{\blur0.3\fs45\fad(850,0)\pos(1131,480)\c&H000000&\1a&HFF&\t(805,850,\1a&H00&)}At Sea\N{\fs35}Within Totto Land

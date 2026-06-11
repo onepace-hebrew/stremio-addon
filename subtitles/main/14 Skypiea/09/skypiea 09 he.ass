@@ -34,14 +34,8 @@ Style: FlashbackThoughts-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H00FFFFFF,&H00878
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:50.26,0:01:50.30,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.57,0:00:03.57,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.26,0:02:00.26,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:01:57.10,0:01:59.31,Main-207-,,0,0,0,,‫הי! לאן אתה הולך, זורו?!
 Dialogue: 0,0:01:59.31,0:02:01.85,Main-207-,,0,0,0,,‫זה הכיוון הלא נכון!\N‫מערב זה כאן!
 Dialogue: 0,0:02:01.85,0:02:05.36,Main-207-,,0,0,0,,‫אדם, חוסר הכיוון המחרפן שלך\N‫ממש מעצבן...
@@ -302,8 +296,6 @@ Dialogue: 0,0:19:33.61,0:19:35.70,Flashbacks-207-,,0,0,0,,‫זה שונה ממ�
 Dialogue: 0,0:19:35.70,0:19:36.66,Flashbacks-207-,,0,0,0,,{\fad(150,150)}‫הלם!
 Dialogue: 0,0:19:37.11,0:19:40.62,Main-207-,,0,0,0,,‫היית צריך לומר מוקדם יותר!\N‫הפחדת אותי, זקן!
 Dialogue: 0,0:19:40.99,0:19:47.29,Main-207-,,0,0,0,,‫יש סיפורים על דיילים חזקים יותר אפילו\N‫שקיימים על אי שמיים עתיקים.
-Comment: 0,0:19:47.29,0:19:52.67,Main-207-,,0,0,0,,‫"דיילי דחייה" שנכחדו שיכלו לשחרר פי עשרה מהאנרגיה
-Comment: 0,0:19:52.63,0:19:54.97,Main-207-,,0,0,0,,‫של דיילי ההלם האלה...
 Dialogue: 0,0:19:47.29,0:19:50.17,Main-207-,,0,0,0,,‫קח את דייל הדחייה שנכחד.
 Dialogue: 0,0:19:50.17,0:19:54.97,Main-207-,,0,0,0,,‫הם יכלו לשחרר פי עשרה\N‫מהכוח של דייל הלם.
 Dialogue: 0,0:19:56.01,0:19:58.64,Main-207-,,0,0,0,,‫אולם, הם היו\N‫חרב פיפיות.
@@ -520,8 +512,6 @@ Dialogue: 0,0:34:32.93,0:34:36.43,Main-207-,,0,0,0,,‫וגם לא רוצה לש
 Dialogue: 0,0:34:38.31,0:34:40.02,Main-207-,,0,0,0,,‫אני רק רוצה להשמיד אותך!
 Dialogue: 0,0:34:41.10,0:34:42.31,Main-207-,,0,0,0,,‫אה.
 Dialogue: 0,0:34:47.65,0:34:49.90,Main-207-,,0,0,0,,‫זה עושה את הדברים\N‫פשוטים מספיק!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:01:50.30,0:01:57.10,Title-207-,,0,0,0,,{\blur0.8\fad(352,0)\bord2\c&HF9F9F9&\1a&HFF&\t(311,352,\1a&H00&)}Dial Battle
 Dialogue: 1,0:01:50.30,0:01:57.10,Title-207-,,0,0,0,,{\blur0.8\fad(352,0)\c&HF9F9F9&\bord0\4a&HFF&}Dial Battle
 Dialogue: 1,0:22:22.65,0:22:28.58,Captions-207-,,0,0,0,,{\fad(558,0)\fnFOT-Greco Std DB Strp\bord0\fsp0\fscx90\fscy90\c&HFFFFFF&\blur0.8\an5\pos(726,740)}God's Shrine
@@ -530,9 +520,6 @@ Dialogue: 0,0:22:22.65,0:22:28.58,Captions-207-,,0,0,0,,{\fad(558,0)\fnFOT-Greco
 Dialogue: 1,0:29:39.09,0:29:42.64,Captions-207-,,0,0,0,,{\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx90\fscy90\c&HF6F4F7&\blur1.3\an5\pos(720,590)}50 Warrior Monks\NSkypiea
 Dialogue: 1,0:29:39.09,0:29:42.64,Captions-207-,,0,0,0,,{\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx90\fscy90\c&HF6F4F7&\blur1.3\an5\pos(720,590)}50 Warrior Monks\NSkypiea
 Dialogue: 0,0:29:39.09,0:29:42.64,Captions-207-,,0,0,0,,{\fnFOT-Greco Std DB Strp\bord4.5\fsp2\fscx90\fscy90\c&HE6E4E6&\1a&HFF&\blur1.3\an5\pos(720,590)\3c&H212125&}50 Warrior Monks\NSkypiea
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
-Comment: 0,0:00:12.45,0:00:12.49,Credits-207-,,0,0,0,,
 Dialogue: 0,0:00:46.73,0:00:50.90,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord4.6}Video Editing
 Dialogue: 0,0:00:46.73,0:00:50.90,Credits-207-,,0,0,0,,{\fscx150\fscy150\pos(583.02,619.65)}Feeso
 Dialogue: 0,0:00:52.28,0:00:56.20,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord4.6}Graphics
@@ -549,5 +536,4 @@ Dialogue: 0,0:01:27.94,0:01:31.99,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord4.6
 Dialogue: 0,0:01:27.94,0:01:31.99,Credits-207-,,0,0,0,,{\fscx150\fscy150\pos(67.02,153.65)}AphantasticRabbit\NGab\NLorphex\Npanda >\NWestfal
 Dialogue: 0,0:01:34.07,0:01:37.53,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord4.6\pos(964,111.4)}Translation
 Dialogue: 0,0:01:34.07,0:01:37.53,Credits-207-,,0,0,0,,{\fscx150\fscy150\pos(1007.02,152.05)}arch1t3cht\NChloelyy\NFunimation\NPamkinPenguin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:34:49.90,0:34:54.90,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

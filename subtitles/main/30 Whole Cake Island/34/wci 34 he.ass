@@ -319,7 +319,6 @@ Dialogue: 0,0:24:01.50,0:24:03.00,Main-207-,,0,0,0,,‫הי, נפוליאון!
 Dialogue: 0,0:24:03.00,0:24:04.33,Main-207-,,0,0,0,,‫כן, מאמא!
 Dialogue: 0,0:24:05.92,0:24:07.42,Main-207-,,0,0,0,,‫בואו נעשה את זה.
 Dialogue: 0,0:24:11.42,0:24:13.11,Main-207-,,0,0,0,,{\fad(150,150)}‫קוניאק!
-Dialogue: 0,0:24:11.42,0:24:15.91,Note,,0,0,0,,
 Dialogue: 0,0:24:13.11,0:24:15.91,Main-207-,,0,0,0,,‫אני אשרוף אותך ואחצה אותך לשניים!
 Dialogue: 0,0:24:15.91,0:24:17.21,Main-207-,,0,0,0,,‫חרב אש ענקית!
 Dialogue: 0,0:24:17.21,0:24:19.46,Main-207-,,0,0,0,,‫אין סיכוי! תברח, ג'ינביי!
@@ -489,7 +488,6 @@ Dialogue: 0,0:37:31.81,0:37:33.72,Main-207-,,0,0,0,,‫שתקו...
 Dialogue: 0,0:37:33.72,0:37:35.06,Main-207-,,0,0,0,,‫מאמא!
 Dialogue: 0,0:37:37.59,0:37:39.93,Main-207-,,0,0,0,,‫רדוף אחריהם, פרומתיאוס!
 Dialogue: 0,0:37:39.93,0:37:41.55,Main-207-,,0,0,0,,‫כן, מאמא!
-Comment: 0,0:37:46.10,0:37:46.10,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(493,419)}Team One Pace
 Dialogue: 1,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
 Dialogue: 2,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
@@ -503,8 +501,6 @@ Dialogue: 1,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(312,354)}Galaxy 9000
 Dialogue: 1,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(312,354)}Galaxy 9000
 Dialogue: 2,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(312,354)}Galaxy 9000
-Dialogue: 0,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(437,500)}
-Dialogue: 1,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(437,500)}
 Dialogue: 0,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(602,494)}{\alpha&HFF&}Dat{\alpha}enshi
 Dialogue: 1,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(602,494)}{\alpha&HFF&}Dat{\alpha}enshi
 Dialogue: 2,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(602,494)}{\alpha&HFF&}Dat{\alpha}enshi
@@ -554,15 +550,11 @@ Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 2,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
-Dialogue: 0,0:01:16.78,0:01:19.45,Credits,,0,0,0,,
-Dialogue: 0,0:01:22.24,0:01:24.95,Credits,,0,0,0,,
-Dialogue: 0,0:01:27.04,0:01:32.50,Credits,,0,0,0,,
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(492.8,266.8)}Special Thanks
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(492.8,266.8)}Special Thanks
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 2,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
-Comment: 0,0:37:46.10,0:37:46.10,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:38.17,0:01:42.54,Title,,0,0,0,,{\blur0.3\fad(375,0)\c&H000000&\1a&HFF&\t(330,375,\1a&H00&)}An Unknown Mama
 Dialogue: 1,0:01:38.17,0:01:42.54,Title,,0,0,0,,{\bord0\blur0.3\fad(375,0)\c&HF7F9F9&\4a&HFF&}An Unknown Mama
 Dialogue: 0,0:07:26.04,0:07:29.54,Captions,,0,0,240,,{\blur0.3\fs60\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Bege's Ship\N{\fs55}Within the Territory...

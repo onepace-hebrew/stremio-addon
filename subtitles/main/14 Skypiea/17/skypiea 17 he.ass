@@ -33,19 +33,10 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:50.05,0:01:50.09,Main-207-,chptr,0,0,0,,
-Comment: 0,0:30:25.05,0:30:25.09,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.07,0:00:03.11,Main-207-,OP,0,0,0,,
-Comment: 0,0:31:21.69,0:31:21.73,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:02:07.19,0:02:10.36,Main-207-,,0,0,0,,‫גומי לא מוליך ברק!
 Dialogue: 0,0:02:10.94,0:02:14.74,Main-207-,,0,0,0,,‫נגד אדם גומי,\N‫המתקפות של אנל חסרות תועלת!
-Comment: 0,0:02:16.41,0:02:19.74,Main-207-,,0,0,0,,‫אנל... אפשר לנצח אותו!
 Dialogue: 0,0:02:16.41,0:02:17.70,Main-207-,,0,0,0,,‫אנל...
 Dialogue: 0,0:02:18.79,0:02:19.74,Main-207-,,0,0,0,,‫אפשר לנצח אותו!
 Dialogue: 0,0:02:33.34,0:02:37.80,Main-207-,,0,0,0,,‫מה לעזאזל אתה בכלל?!
@@ -113,7 +104,6 @@ Dialogue: 0,0:08:02.13,0:08:05.21,Main-207-,,0,0,0,,‫לופי! מהר, תנצ�
 Dialogue: 0,0:08:05.21,0:08:07.80,Main-207-,,0,0,0,,‫אאהה! ר-ר-רגע!
 Dialogue: 0,0:08:07.80,0:08:10.55,Main-207-,,0,0,0,,‫אם ננצח את אנל,\N‫הספינה לא תיפול?
 Dialogue: 0,0:08:10.55,0:08:13.22,Main-207-,,0,0,0,,‫אהה, אבל אם לא,\N‫אי השמיים יושמד.
-Comment: 0,0:08:13.22,0:08:18.64,Main-207-,,0,0,0,,‫ואם נישאר כאן...\N‫ייקחו אותנו לאנשהו.
 Dialogue: 0,0:08:13.22,0:08:16.35,Main-207-,,0,0,0,,‫ואם נישאר כאן...
 Dialogue: 0,0:08:16.98,0:08:18.64,Main-207-,,0,0,0,,‫ייקחו אותנו מפה לאנשהו!
 Dialogue: 0,0:08:22.02,0:08:25.48,Main-207-,,0,0,0,,‫מה נעשה, לופי?!
@@ -412,8 +402,6 @@ Dialogue: 0,0:30:01.15,0:30:04.07,Main-207-,,0,0,0,,‫אני אהיה השטן 
 Dialogue: 0,0:30:06.91,0:30:10.00,Main-207-,,0,0,0,,‫נאמי!
 Dialogue: 0,0:30:17.21,0:30:18.63,Thoughts-207-,,0,0,0,,‫לופי...
 Dialogue: 0,0:30:18.63,0:30:20.92,Thoughts-207-,,0,0,0,,‫אני הולך להשאיל את הנחישות שלך!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:55.60,0:02:00.27,Title-207-,,0,0,0,,{\bord2\c&H181818&\3c&H181818&\1a&HFF&\blur0.6\fad(725,0)\t(683,725,\1a&H00&)}Deathpiea
 Dialogue: 1,0:01:55.60,0:02:00.27,Title-207-,,0,0,0,,{\bord0\c&HE5E6E6&\4a&HFF&\blur0.6\fad(725,0)}Deathpiea
 Dialogue: 1,0:29:03.30,0:29:04.47,Captions-207-,,0,0,0,,{\an1\fnJanieHmkBold\pos(243,825)\fscx85\fscy85\bord0\c&HF0EEEC&\blur0.8}Um...
@@ -434,8 +422,6 @@ Dialogue: 1,0:29:13.11,0:29:14.11,Captions-207-,,0,0,0,,{\an1\fnJanieHmkBold\pos
 Dialogue: 0,0:29:13.11,0:29:14.11,Captions-207-,,0,0,0,,{\an1\fnJanieHmkBold\pos(238,825)\fscx85\fscy85\bord2.5\3c&H1B1718&\c&H1B1718&\blur0.8}used a weird gadget...
 Dialogue: 1,0:29:14.11,0:29:15.57,Captions-207-,,0,0,0,,{\an1\fnJanieHmkBold\pos(144,825)\fscx85\fscy85\bord0\c&HF0EEEC&\blur0.8}and went to that flying ship.
 Dialogue: 0,0:29:14.11,0:29:15.57,Captions-207-,,0,0,0,,{\an1\fnJanieHmkBold\pos(144,825)\fscx85\fscy85\bord2.5\3c&H1B1718&\c&H1B1718&\blur0.8}and went to that flying ship.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Video Editing
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(583.02,619.65)}fedew
 Dialogue: 0,0:00:51.78,0:00:55.70,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Graphics
@@ -452,5 +438,4 @@ Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\p
 Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(67.02,153.65)}CraigyBoi\NKustogg\NLil T\NPollychan\NYag\NZenef
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\pos(964,111.4)}Translation
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(1007.02,152.05)}Cee Pulse\NFunimation\NNikki\NPamkinPinguin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,==============================CREDITS==============================
 Dialogue: 0,0:31:21.73,0:31:26.73,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

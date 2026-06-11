@@ -325,7 +325,6 @@ Dialogue: 0,0:25:38.87,0:25:43.19,Main-207-,,0,0,0,,‫אישאר כאן ואח�
 Dialogue: 0,0:25:58.10,0:26:02.52,Main-207-,,0,0,0,,‫תחזור בטוח, סאנג'י!
 Dialogue: 0,0:26:03.12,0:26:07.37,Main-207-,,0,0,0,,‫בלעדיך, אני...
 Dialogue: 0,0:26:07.94,0:26:12.77,Main-207-,,0,0,0,,‫אני לא יכול להיות מלך הפיראטים!
-Comment: 0,0:26:18.00,0:26:20.00,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -365,13 +364,11 @@ Dialogue: 1,0:01:06.60,0:01:08.35,Credits,,0,0,0,,{\pos(840,440)\blur0.1\bord0\f
 Dialogue: 0,0:01:06.60,0:01:08.35,Credits,,0,0,0,,{\pos(870,475)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NZenef
 Dialogue: 1,0:01:06.60,0:01:08.35,Credits,,0,0,0,,{\pos(870,475)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Feeso\NZenef
 Dialogue: 2,0:01:06.60,0:01:08.35,Credits,,0,0,0,,{\pos(870,475)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:01:08.45,0:01:10.77,Credits,,0,0,0,,{\pos(260,440)}
 Dialogue: 0,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Translation
 Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Translation
 Dialogue: 0,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:26:20.00,0:26:22.00,Credits,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.32,0:01:38.07,Title,,0,0,0,,{\blur0.3\fad(750,750)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3000,3045,\1a&HFF&)}Luffy vs. Sanji
 Dialogue: 1,0:01:34.32,0:01:38.07,Title,,0,0,0,,{\bord0\blur0.3\fad(750,750)\4a&HFF&}Luffy vs. Sanji
 Dialogue: 0,0:02:34.12,0:02:37.86,Captions,,0,0,0,,{\blur0.3\fs45\fad(350,350)\c&H000000&\1a&HFF&\t(305,350,\1a&H00&)\t(3390,3435,\1a&HFF&)\pos(1135.2,438.029)}Whole Cake\NChateau

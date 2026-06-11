@@ -30,14 +30,8 @@ Style: Captions,Guttman Yad-Brush,56,&H00030101,&H000000FF,&H00F5F5F5,&H00000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:41.87,0:01:41.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:09.99,0:00:10.03,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:41.87,0:01:51.86,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 5,0:01:51.75,0:01:54.43,Main-207-,Citizen,0,0,0,,‫איך זה יכול היה לקרות?!
 Dialogue: 5,0:01:55.00,0:01:57.00,Main-207-,Citizen,0,0,0,,‫גברת קומורסאקי!
 Dialogue: 5,0:02:02.06,0:02:04.90,Main-207-,Citizen,0,0,0,,‫הייתי נותן הכל כדי לראות אותך שוב!
@@ -319,8 +313,6 @@ Dialogue: 5,0:28:37.74,0:28:42.12,Main-207-,Hiyori,0,0,0,,‫כל הבעות ה�
 Dialogue: 5,0:28:42.89,0:28:46.29,Main-207-,Hiyori,0,0,0,,{\t(2834,3400,1,\3c&HFFFFFF&\4c&HFFFFFF&)}‫הם כבר לא יכולים לעשות שום דבר חוץ מלצחוק.
 Dialogue: 5,0:28:50.46,0:28:54.38,Main-207-,Hiyori,0,0,0,,‫זו אשמת כאידו ואורוצ'י...
 Dialogue: 5,0:28:56.85,0:28:59.98,Main-207-,Hiyori,0,0,0,,‫שהביאו פירות חיוך לכאן!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
 Dialogue: 0,0:01:41.87,0:01:46.42,Title-207-,,0,0,0,,{\blur0.6\fad(750,0)\bord3\pos(960,808)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Shimotsuki Yasuie,\Nthe Daimyo of Hakumai
 Dialogue: 1,0:01:41.87,0:01:46.42,Title-207-,,0,0,0,,{\blur0.6\fad(750,0)\bord0\pos(960,808)\4a&HFF&}Shimotsuki Yasuie,\Nthe Daimyo of Hakumai
 Dialogue: 0,0:01:50.34,0:01:54.43,Captions,,0,0,0,,{\pos(1540.5,802.5)\blur0.75\c&HF5F5F5&}Flower Capital
@@ -344,8 +336,6 @@ Dialogue: 0,0:11:42.18,0:11:46.06,Captions,,0,0,0,,{\pos(1516.5,742.5)\blur0.75\
 Dialogue: 1,0:11:42.18,0:11:46.06,Captions,,0,0,0,,{\pos(1516.5,742.5)\blur0.75\fscx90\fscy90\bord0\4a&HFF&}Flower Capital\NEntrance
 Dialogue: 0,0:22:12.06,0:22:17.02,Captions,,0,0,0,,{\pos(1647,408)\fad(500,0)\blur0.75\c&HF5F5F5&\1a&HFF&\t(455,500,\1a&H00&)}Hakumai\NWano
 Dialogue: 1,0:22:12.06,0:22:17.02,Captions,,0,0,0,,{\pos(1647,408)\fad(500,0)\blur0.75\bord0\4a&HFF&}Hakumai\NWano
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:26.19,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:26.19,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:26.19,0:00:30.13,Credits-207-,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Meggo
@@ -387,5 +377,4 @@ Dialogue: 1,0:00:58.14,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1259,578)\blur0.4\b
 Dialogue: 0,0:00:58.14,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.3\bord4\fscx120\fscy120\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:00:58.14,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
 Dialogue: 2,0:00:58.14,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:28:59.98,0:29:04.98,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

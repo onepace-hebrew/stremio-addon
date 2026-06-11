@@ -32,15 +32,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.06,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:31.61,0:01:31.70,Main-207-,chptr,0,0,0,,
-Comment: 0,0:03:21.72,0:03:21.81,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:57.89,0:01:57.97,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 5,0:00:10.23,0:00:11.53,Main-207-,,0,0,0,,‫על המשמר, כולם!
 Dialogue: 5,0:00:11.53,0:00:13.62,Main-207-,,0,0,0,,‫– כן!\N‫– כן!
 Dialogue: 5,0:00:13.62,0:00:17.80,Main-207-,,0,0,0,,{\q2}‫אם הפיראטים האלה יצליחו להיכנס בזמן שכולנו על המשמר,\N‫זה יהיה בושה לגלי-לה!
@@ -119,7 +112,6 @@ Dialogue: 5,0:06:24.81,0:06:26.61,Flashbacks-207-,,0,0,0,,‫כספת קבורה
 Dialogue: 5,0:06:27.31,0:06:28.03,Main-207-,,0,0,0,,‫זה חייב להיות זה.
 Dialogue: 5,0:06:31.62,0:06:34.91,Flashbacks-207-,,0,0,0,,‫אתן לך את הצירוף,\N‫אז תקשיב היטב.
 Dialogue: 5,0:06:34.91,0:06:37.48,Main-207-,,0,0,0,,‫ראשון, ימינה... שש...
-Dialogue: 5,0:06:45.09,0:06:45.89,Main-207-,,0,0,0,,
 Dialogue: 5,0:06:46.69,0:06:48.51,Main-207-,,0,0,0,,{\i1}‫אתם מוכנים?
 Dialogue: 5,0:06:48.51,0:06:50.60,Main-207-,,0,0,0,,‫כן, אנחנו מוכנים.
 Dialogue: 5,0:06:50.60,0:06:53.00,Main-207-,,0,0,0,,{\i1}‫אז אני אגרום להפרעה.
@@ -528,15 +520,9 @@ Dialogue: 5,0:35:52.56,0:35:57.39,Main-207-,,0,0,0,,‫אני חייב לומר,
 Dialogue: 5,0:35:59.23,0:36:01.56,Main-207-,,0,0,0,,‫עכשיו, מר אייסברג...
 Dialogue: 5,0:36:02.07,0:36:06.52,Main-207-,,0,0,0,,‫היכן נמצאות התוכניות\N‫של הנשק העתיק פלוטון?
 Dialogue: 5,0:36:07.00,0:36:11.07,Main-207-,,0,0,0,,‫אם אינך רוצה שאנשים נוספים ייפגעו,\N‫אנא גלה לנו מה שאנחנו רוצים לדעת.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:03:25.47,0:03:30.31,Title-207-,,0,0,0,,{\blur0.6\fad(900,900)\c&H000000&\1a&HFF&\t(855,900,\1a&H00&)\t(3940,3985,\1a&HFF&)}Cipher Pol No. 9
-Comment: 1,0:03:25.47,0:03:30.31,Title-207-,,0,0,0,,{\bord0\blur0.6\fad(900,900)\c&HE6E6E6&\4a&HFF&}Cipher Pol No. 9
 Dialogue: 0,0:35:47.50,0:35:52.38,Captions,,0,0,0,,{\pos(960,653)\fad(650,650)\blur0.9\bord2.8\fscx160\fscy160\fsp1\c&H050505&\1a&HFF&\t(605,650,\1a&H00&)\t(4230,4275,\1a&HFF&)}The World Government's Covert Intelligence Service\NCipher Pol No. 9
 Dialogue: 1,0:35:47.50,0:35:52.38,Captions,,0,0,0,,{\pos(960,653)\fad(650,650)\blur0.9\bord0\fscx160\fscy160\fsp1\c&HE6E6E6&\4a&HFF&}The World Government's Covert Intelligence Service\NCipher Pol No. 9
 Dialogue: 2,0:35:47.50,0:35:52.38,Captions,,0,0,0,,{\pos(960,653)\fad(650,650)\blur0.9\bord0\fscx160\fscy160\fsp1\c&HE6E6E6&\4a&HFF&}The World Government's Covert Intelligence Service\NCipher Pol No. 9
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:01:57.89,0:02:03.45,Credits-207-,,0,0,0,,{\pos(722,635)\blur0.5\bord4\c&H000000&}Video Editing
 Dialogue: 1,0:01:57.89,0:02:03.45,Credits-207-,,0,0,0,,{\pos(722,635)\blur0.5\bord0\4a&HFF&}Video Editing
 Dialogue: 2,0:01:57.89,0:02:03.45,Credits-207-,,0,0,0,,{\pos(722,635)\blur0.6\bord0\4a&HFF&}Video Editing
@@ -574,5 +560,4 @@ Dialogue: 1,0:03:10.56,0:03:14.73,Credits-207-,,0,0,0,,{\pos(782,609)\blur0.5\bo
 Dialogue: 2,0:03:10.56,0:03:14.73,Credits-207-,,0,0,0,,{\pos(782,609)\blur0.6\bord0\fscx95\4a&HFF&}Translation
 Dialogue: 0,0:03:10.56,0:03:14.73,Credits-207-,,0,0,0,,{\pos(837,667)\blur0.5\bord4\fscx130\fscy130\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:03:10.56,0:03:14.73,Credits-207-,,0,0,0,,{\pos(837,667)\blur0.5\bord0\fscx130\fscy130\4a&HFF&}Crunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:36:11.07,0:36:16.07,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

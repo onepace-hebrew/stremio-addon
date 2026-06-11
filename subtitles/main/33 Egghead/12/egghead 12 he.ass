@@ -34,23 +34,13 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:30.07,0:01:30.11,Main-207-,chptr,0,0,0,,
-Comment: 0,0:27:09.77,0:27:09.82,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:08.53,0:00:08.57,Main-207-,OP,0,0,0,,
-Comment: 0,0:27:36.59,0:27:36.63,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:30.07,0:01:40.06,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:33.99,0:01:36.99,Main-207-,,0,0,0,,‫כולכם חייבים לעזוב את האי הזה!
 Dialogue: 0,0:01:38.24,0:01:41.66,Main-207-,,0,0,0,,‫מה זאת אומרת, סנטומארו?!
 Dialogue: 0,0:01:42.04,0:01:45.50,Main-207-,,0,0,0,,‫מה קורה באי הזה?!
 Dialogue: 0,0:01:45.88,0:01:49.34,Main-207-,,0,0,0,,‫למה פרסת את הפסיפיסטה\N‫בכל רחבי האי?!
 Dialogue: 0,0:01:52.13,0:01:58.97,Main-207-,,0,0,0,,‫לפני זמן רב, אי בשם אוהארה\N‫נעלם פתאום ממפת העולם.
-Comment: 0,0:01:52.13,0:01:57.72,Main-207-,,0,0,0,,‫לפני זמן רב, אי בשם אוהארה נעלם פתאום ממפת העולם.
-Comment: 0,0:01:57.72,0:01:58.97,Main-207-,,0,0,0,,‫לפני זמן רב, אי בשם אוהארה נעלם פתאום ממפת העולם.
 Dialogue: 0,0:02:02.06,0:02:05.40,Main-207-,,0,0,0,,‫הכל כי הם התריסו נגד הממשלה העולמית.
 Dialogue: 0,0:02:08.65,0:02:10.40,Main-207-,,0,0,0,,‫תקרית אוהארה...
 Dialogue: 0,0:02:12.99,0:02:17.12,Narrator-207-,,0,0,0,,‫באי אוהארה, ביתה של\N‫הספרייה ההיסטורית הגדולה בעולם...
@@ -86,8 +76,6 @@ Dialogue: 0,0:05:38.94,0:05:44.49,Main-207-,,0,0,0,,‫הם די מזכירים 
 Dialogue: 0,0:05:45.37,0:05:48.62,Main-207-,,0,0,0,,‫היה לונאריאני בצוות של קאידו?
 Dialogue: 0,0:05:48.62,0:05:51.83,Main-207-,,0,0,0,,‫לא קלטתי את שם הגזע שלו...
 Dialogue: 0,0:05:52.21,0:05:53.37,Main-207-,,0,0,0,,‫אני מבין...
-Comment: 0,0:05:54.00,0:05:56.38,Main-207-,,0,0,0,,‫קאידו ברח מפאנק האזארד לפני הרבה זמן,
-Comment: 0,0:05:56.38,0:06:01.84,Main-207-,,0,0,0,,‫יחד עם נבדק בשם אלבר.\N‫זה כנראה אותו האיש.
 Dialogue: 0,0:05:54.00,0:06:00.76,Main-207-,,0,0,0,,{\q2}‫האיש הזה הוא כנראה הנבדק ש\N‫ברח מפאנק האזארד עם קאידו לפני זמן מה...
 Dialogue: 0,0:06:00.76,0:06:01.84,Main-207-,,0,0,0,,‫בשם אלבר.
 Dialogue: 0,0:06:02.38,0:06:04.59,Main-207-,,0,0,0,,‫השרפים אכן...
@@ -95,7 +83,6 @@ Dialogue: 0,0:06:05.60,0:06:08.56,Main-207-,,0,0,0,,‫משופרים עם הד�
 Dialogue: 0,0:06:08.56,0:06:10.64,Main-207-,,0,0,0,,‫אז ככה זה, הא...?
 Dialogue: 0,0:06:10.64,0:06:14.98,Main-207-,,0,0,0,,‫במקרה כזה, תשמרו עין\N‫על הלהבות האלה, חבר'ה!
 Dialogue: 0,0:06:15.44,0:06:19.03,Main-207-,,0,0,0,,‫ההתקפות שלנו יעבדו רק כשהן ייכבו.
-Comment: 0,0:06:19.03,0:06:20.36,Main-207-,,0,0,0,,‫מה?
 Dialogue: 0,0:06:20.36,0:06:22.99,Main-207-,,0,0,0,,‫כשהאש דולקת, הם כמעט בלתי מנוצחים.
 Dialogue: 0,0:06:25.20,0:06:28.45,Main-207-,,0,0,0,,‫סליחה, נראה לי שבזבזתי הרבה מהאנרגיה שלנו.
 Dialogue: 0,0:06:28.45,0:06:31.79,Main-207-,,0,0,0,,‫הייתי צריך לשים לב מוקדם יותר.
@@ -105,8 +92,6 @@ Dialogue: 0,0:06:37.67,0:06:38.46,Main-207-,,0,0,0,,‫שיער לבן...
 Dialogue: 0,0:06:39.17,0:06:40.63,Main-207-,,0,0,0,,‫עור כהה...
 Dialogue: 0,0:06:41.34,0:06:42.80,Main-207-,,0,0,0,,‫כנפיים שחורות...
 Dialogue: 0,0:06:43.51,0:06:45.18,Main-207-,,0,0,0,,‫והלהבות על הגב שלו.
-Comment: 0,0:06:45.26,0:06:47.39,Main-207-,,0,0,0,,‫האחים ???
-Comment: 0,0:06:45.26,0:06:47.39,Main-207-,,0,0,0,,‫קאקו
 Dialogue: 0,0:06:45.30,0:06:45.34,Main-207-,,0,0,0,,{\pos(-80.65,1053)}‫סליחה?!
 Dialogue: 0,0:06:45.34,0:06:45.38,Main-207-,,0,0,0,,{\pos(205.6,1053)}‫סליחה?!
 Dialogue: 0,0:06:45.38,0:06:45.43,Main-207-,,0,0,0,,{\pos(491.88,1053)}‫סליחה?!
@@ -118,19 +103,13 @@ Dialogue: 0,0:06:45.80,0:06:46.05,Main-207-,,0,0,0,,{\pos(718,1053)}‫סליח�
 Dialogue: 0,0:06:46.05,0:06:46.09,Main-207-,,0,0,0,,{\pos(792.65,1053)}‫סליחה?!
 Dialogue: 0,0:06:46.09,0:06:46.14,Main-207-,,0,0,0,,{\pos(931.36,1053)}‫סליחה?!
 Dialogue: 0,0:06:46.14,0:06:47.39,Main-207-,,0,0,0,,{\pos(1006.02,1053)}‫סליחה?!
-Comment: 0,0:06:45.26,0:06:47.39,Main-207-,,0,0,0,,‫קאקו
-Comment: 0,0:06:45.72,0:06:47.39,Main-207-,,0,0,0,,‫לוצ'י
 Dialogue: 0,0:06:45.76,0:06:45.80,Main-207-,,0,0,0,,{\pos(123.76,1053)}‫מה?!
 Dialogue: 0,0:06:45.80,0:06:46.05,Main-207-,,0,0,0,,{\pos(225,1053)}‫מה?!
 Dialogue: 0,0:06:46.05,0:06:46.09,Main-207-,,0,0,0,,{\pos(318.34,1053)}‫מה?!
 Dialogue: 0,0:06:46.09,0:06:46.14,Main-207-,,0,0,0,,{\pos(491.63,1053)}‫מה?!
 Dialogue: 0,0:06:46.14,0:06:47.39,Main-207-,,0,0,0,,{\pos(585,1053)}‫מה?!
-Comment: 0,0:06:45.72,0:06:47.39,Main-207-,,0,0,0,,‫לוצ'י
-Comment: 0,0:06:46.09,0:06:47.39,Main-207-,,0,0,0,,‫לופי
 Dialogue: 0,0:06:46.09,0:06:46.14,Main-207-,,0,0,0,,{\pos(-31.7,1053)}‫הא?!
 Dialogue: 0,0:06:46.14,0:06:47.39,Main-207-,,0,0,0,,{\pos(150,1053)}‫הא?!
-Comment: 0,0:06:46.09,0:06:47.39,Main-207-,,0,0,0,,‫לופי
-Comment: 0,0:06:45.26,0:06:47.39,Main-207-,,0,0,0,,‫האחים ???
 Dialogue: 0,0:06:47.39,0:06:50.47,Main-207-,,0,0,0,,‫– היית צריך לשים לב מוקדם יותר!\N‫– היית צריך לשים לב מוקדם יותר!
 Dialogue: 0,0:06:54.27,0:06:56.77,Main-207-,,0,0,0,,‫היי! לאן אתה הולך, קסדה?
 Dialogue: 0,0:06:57.52,0:07:01.73,Main-207-,,0,0,0,,‫אני חושב שאני יודע איפה סטלה עשויה להיות.
@@ -166,8 +145,6 @@ Dialogue: 0,0:08:53.26,0:08:55.93,Main-207-,,0,0,0,,‫העונש על הפחד�
 Dialogue: 0,0:08:55.93,0:08:56.85,Main-207-,,0,0,0,,‫הוא מוות!
 Dialogue: 0,0:09:00.35,0:09:02.02,Main-207-,,0,0,0,,{\fad(150,150)}‫אובד–
 Dialogue: 0,0:09:03.23,0:09:06.48,Main-207-,,0,0,0,,‫סעיף 9 בחוקת סאנג'י:
-Comment: 0,0:09:03.23,0:09:04.98,Main-207-,,0,0,0,,‫חוקת ממלכת סאנג'י,
-Comment: 0,0:09:04.98,0:09:06.48,Main-207-,,0,0,0,,‫סעיף 9.
 Dialogue: 0,0:09:07.61,0:09:10.86,Main-207-,,0,0,0,,‫העונש על גרימת צרחה לנאמי הוא...
 Dialogue: 0,0:09:10.86,0:09:13.03,Main-207-,,0,0,0,,{\fad(150,150)}‫רו היט סטרייק!
 Dialogue: 0,0:09:24.75,0:09:26.25,Main-207-,,0,0,0,,‫סאנג'י!
@@ -187,7 +164,6 @@ Dialogue: 0,0:10:08.67,0:10:09.92,Main-207-,,0,0,0,,‫היי!
 Dialogue: 0,0:10:09.92,0:10:11.38,Main-207-,,0,0,0,,‫זה בכלל לא עבד!
 Dialogue: 0,0:10:17.01,0:10:18.22,Main-207-,,0,0,0,,‫מה?!
 Dialogue: 0,0:10:19.60,0:10:21.14,Main-207-,,0,0,0,,‫התרשלת!
-Comment: 0,0:10:22.89,0:10:23.64,Main-207-,,0,0,0,,‫מה?
 Dialogue: 0,0:10:24.27,0:10:29.73,Main-207-,,0,0,0,,‫הבועות שיוצרות המכונה הזאת\N‫טעונות באנרגיה של הים!
 Dialogue: 0,0:10:30.11,0:10:34.45,Main-207-,,0,0,0,,‫והדם הירוק הזה נותן לך\N‫את אותה חולשה כמו לבעלי הכוחות!
 Dialogue: 0,0:10:34.86,0:10:37.78,Main-207-,,0,0,0,,‫מה שאומר שהבועות מתישות אותך!
@@ -234,7 +210,6 @@ Dialogue: 0,0:13:33.33,0:13:34.96,Main-207-,,0,0,0,,‫מי אתם?
 Dialogue: 0,0:13:34.96,0:13:37.80,Main-207-,,0,0,0,,‫אתם אלה שעשו לנו את זה?
 Dialogue: 0,0:13:38.21,0:13:39.67,Main-207-,,0,0,0,,‫לא יכול להיות...
 Dialogue: 0,0:13:39.67,0:13:41.80,Main-207-,,0,0,0,,‫אתם הסוכנים של סייפר פול מקודם!
-Comment: 0,0:13:38.21,0:13:41.80,Main-207-,,0,0,0,,‫אל תגידו לי... אתם סוכני סייפר פול שהגיעו לאי לפני זמן מה!
 Dialogue: 0,0:13:41.80,0:13:42.76,Main-207-,,0,0,0,,‫למה אתם כאן?!
 Dialogue: 0,0:13:43.26,0:13:44.80,Main-207-,,0,0,0,,‫עזרו לנו...
 Dialogue: 0,0:13:45.43,0:13:46.76,Main-207-,,0,0,0,,‫בבקשה!
@@ -416,13 +391,10 @@ Dialogue: 0,0:26:42.33,0:26:44.12,Main-207-,,0,0,0,,‫זה מסובך מדי.
 Dialogue: 0,0:26:44.12,0:26:45.75,Main-207-,,0,0,0,,‫כולנו ווגאפאנק.
 Dialogue: 0,0:26:47.46,0:26:50.30,Main-207-,,0,0,0,,‫האם העולם באמת צריך…
 Dialogue: 0,0:26:52.51,0:26:54.76,Main-207-,,0,0,0,,‫יותר מווגאפאנק אחד?
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:30.11,0:01:33.99,Title-207-,,0,0,0,,{\pos(960,730)\fscx110\fscy110\1c&HE6E6E6&\1a&HFF&\blur0.8\fad(481,0)\bord2.7\t(439,481,\1a&H00&)}Escape Limit
 Dialogue: 1,0:01:30.11,0:01:33.99,Title-207-,,0,0,0,,{\pos(960,730)\fscx110\fscy110\bord0\c&HE6E6E6&\blur0.8\fad(481,0)}Escape Limit
 Dialogue: 0,0:01:34.49,0:01:36.99,Captions-207-,,0,0,0,,{\pos(1599,620)\fad(939,0)\1a&HFF&\t(897,939,\1a&H00&)\fnFOT-KafuTechno Std U Strp\blur0.8\bord2.5\shad2\fscx110\fscy110\c&HFEFDFD&\3c&HFEFDFD&\4c&HFEFDFD&}Fabrio\NEgghead
 Dialogue: 1,0:01:34.49,0:01:36.99,Captions-207-,,0,0,0,,{\pos(1599,620)\fad(939,0)\fnFOT-KafuTechno Std U Strp\blur0.8\bord0\fscx110\fscy110\c&H010100&}Fabrio\NEgghead
-Comment: 0,0:03:22.47,0:03:24.31,Captions-207-,,0,0,0,,building 1
 Dialogue: 0,0:03:22.47,0:03:24.02,Captions-207-,,0,0,0,,{\pos(675.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building C
 Dialogue: 0,0:03:22.47,0:03:24.02,Captions-207-,,0,0,0,,{\pos(1222.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building B
 Dialogue: 0,0:03:22.47,0:03:24.02,Captions-207-,,0,0,0,,{\pos(948,36.5)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building A
@@ -441,16 +413,12 @@ Dialogue: 0,0:03:24.18,0:03:24.23,Captions-207-,,0,0,0,,{\pos(1731,477)\fscx265\
 Dialogue: 0,0:03:24.23,0:03:24.27,Captions-207-,,0,0,0,,{\pos(1958,477)\fscx340\fscy340\an5\fnRoboto\b1\bord0\c&H1B1816&\blur2.5}Building B
 Dialogue: 0,0:03:24.27,0:03:24.31,Captions-207-,,0,0,0,,{\pos(2231,477)\fscx430\fscy430\an5\fnRoboto\b1\bord0\c&H1B1816&\blur2.8}Building B
 Dialogue: 0,0:03:24.02,0:03:24.06,Captions-207-,,0,0,0,,{\pos(948,6)\fscx96\fscy96\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.9}Building A
-Comment: 0,0:03:22.47,0:03:24.31,Captions-207-,,0,0,0,,building 1
-Comment: 0,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,building 2
 Dialogue: 0,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,{\pos(678.5,470.5)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building C
 Dialogue: 0,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,{\pos(1225.5,470.5)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8\iclip(m 1132.75 502.19 l 1242.67 439.03 1284.78 413.98 1327.8 452.36 1271.86 471.98 1138.89 520.11)}Building B
 Dialogue: 0,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,{\pos(1225.5,470.5)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H2F2C2A&\blur0.8\clip(m 1244.38 442.28 l 1132.74 507.14 1137.7 516.23 1332.29 446.45)}Building B
 Dialogue: 0,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,{\pos(951.5,33)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building A
-Comment: 0,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,building 2
 Dialogue: 0,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,{\pos(1565,715)\fnFOT-KafuTechno Std U Strp\blur0.8\bord2.5\shad1\fscx125\fscy125\c&HFEFDFD&\3c&HFEFDFD&\4c&HFEFDFD&}Third Floor\NBuilding A
 Dialogue: 1,0:07:21.96,0:07:23.01,Captions-207-,,0,0,0,,{\pos(1565,715)\fnFOT-KafuTechno Std U Strp\blur0.8\bord0\fscx125\fscy125\c&H010100&}Third Floor\NBuilding A
-Comment: 0,0:09:51.53,0:09:53.16,Captions-207-,,0,0,0,,building 3
 Dialogue: 0,0:09:51.53,0:09:52.91,Captions-207-,,0,0,0,,{\pos(675.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building C
 Dialogue: 0,0:09:51.53,0:09:52.91,Captions-207-,,0,0,0,,{\pos(1222.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building B
 Dialogue: 0,0:09:51.53,0:09:52.91,Captions-207-,,0,0,0,,{\pos(948,36.5)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building A
@@ -463,7 +431,6 @@ Dialogue: 0,0:09:53.11,0:09:53.16,Captions-207-,,0,0,0,,{\pos(710,-49)\fscx472\f
 Dialogue: 0,0:09:52.91,0:09:52.95,Captions-207-,,0,0,0,,{\pos(1300.5,459.5)\fscx103\fscy103\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.9}Building B
 Dialogue: 0,0:09:52.95,0:09:52.99,Captions-207-,,0,0,0,,{\pos(1526,409.5)\fscx139\fscy139\an5\fnRoboto\b1\bord0\c&H1B1816&\blur1.2}Building B
 Dialogue: 0,0:09:52.99,0:09:53.03,Captions-207-,,0,0,0,,{\pos(1885,330)\fscx196\fscy196\an5\fnRoboto\b1\bord0\c&H1B1816&\blur1.5}Building B
-Comment: 0,0:09:51.53,0:09:53.16,Captions-207-,,0,0,0,,building 3
 Dialogue: 0,0:13:20.49,0:13:23.32,Captions-207-,,0,0,0,,{\pos(1663,665)\fnFOT-KafuTechno Std U Strp\blur0.8\bord2.5\shad1\c&HFEFDFD&\3c&HFEFDFD&\4c&HFEFDFD&}The Old Devil Fruit\NResearch Lab\NUnderground
 Dialogue: 1,0:13:20.49,0:13:23.32,Captions-207-,,0,0,0,,{\pos(1663,665)\fnFOT-KafuTechno Std U Strp\blur0.8\bord0\c&H010100&}The Old Devil Fruit\NResearch Lab\NUnderground
 Dialogue: 0,0:15:08.43,0:15:10.81,Captions-207-,,0,0,0,,{\pos(328.5,675)\fad(230,0)\1a&HFF&\t(188,230,\1a&H00&)\fnFOT-KafuTechno Std U Strp\blur0.8\bord2.5\shad1\c&HFEFDFD&\3c&HFEFDFD&\4c&HFEFDFD&}Saint Jaygarcia Saturn\NFive Elders
@@ -472,7 +439,6 @@ Dialogue: 0,0:15:14.89,0:15:19.11,Captions-207-,,0,0,0,,{\pos(1667,600)\fad(725,
 Dialogue: 1,0:15:14.89,0:15:19.11,Captions-207-,,0,0,0,,{\pos(1667,600)\fad(725,0)\fscx90\fscy90\fnFOT-KafuTechno Std U Strp\blur0.8\bord0\c&H010100&}Future Island, Egghead
 Dialogue: 0,0:15:19.65,0:15:22.57,Captions-207-,,0,0,0,,{\pos(1651.5,575)\fad(725,0)\t(683,725,\1a&H00&)\fnA-OTF Shin Go Pr5 M-Strp\fscx90\fscy90\blur0.8\bord1.5\shad1\c&HFEFDFD&\3c&HFEFDFD&\4c&HFEFDFD&}Laboratory\NFuture Island, Egghead
 Dialogue: 1,0:15:19.65,0:15:22.57,Captions-207-,,0,0,0,,{\pos(1651.5,575)\fad(725,0)\fnA-OTF Shin Go Pr5 M-Strp\fscx90\fscy90\blur0.8\bord0\c&H010100&}Laboratory\NFuture Island, Egghead
-Comment: 0,0:15:22.57,0:15:24.28,Captions-207-,,0,0,0,,building 4
 Dialogue: 0,0:15:22.57,0:15:23.94,Captions-207-,,0,0,0,,{\pos(675.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building C
 Dialogue: 0,0:15:22.57,0:15:23.94,Captions-207-,,0,0,0,,{\pos(1221.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building B
 Dialogue: 0,0:15:22.57,0:15:23.94,Captions-207-,,0,0,0,,{\pos(948,36.5)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building A
@@ -493,14 +459,12 @@ Dialogue: 0,0:15:24.19,0:15:24.24,Captions-207-,,0,0,0,,{\pos(1215,186.5)\fscx20
 Dialogue: 0,0:15:24.24,0:15:24.28,Captions-207-,,0,0,0,,{\pos(1212,28)\fscx270\fscy270\an5\fnRoboto\b1\bord0\c&H1B1816&\blur2.5}Building B
 Dialogue: 0,0:15:23.94,0:15:23.99,Captions-207-,,0,0,0,,{\pos(945.5,29)\fscx91\fscy91\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building A
 Dialogue: 0,0:15:23.99,0:15:24.03,Captions-207-,,0,0,0,,{\pos(934.5,1)\fscx95\fscy95\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building A
-Comment: 0,0:15:22.57,0:15:24.28,Captions-207-,,0,0,0,,building 4
 Dialogue: 0,0:15:24.40,0:15:28.12,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\bord1\c&HFFFCFC&\3c&HFFFCFC&\4c&HFFFCFC&\shad1.2\blur0.8\pos(1571,675)}Second Floor, Building B\NLaboratory
 Dialogue: 1,0:15:24.40,0:15:28.12,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\blur0.8\bord0\c&H030101&\pos(1571,675)}Second Floor, Building B\NLaboratory
 Dialogue: 0,0:15:41.46,0:15:47.55,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\bord2\c&HFFFCFC&\3c&HFFFCFC&\4c&HFFFCFC&\shad1.5\blur0.8\pos(1631,555)}Fabriophase Factory
 Dialogue: 1,0:15:41.46,0:15:47.55,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\blur0.8\bord0\c&H030101&\pos(1631,555)}Fabriophase Factory
 Dialogue: 0,0:16:55.66,0:16:59.12,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\fscx90\fscy90\bord2\c&HFFFCFC&\3c&HFFFCFC&\4c&HFFFCFC&\shad1.5\blur0.8\pos(1680,560)}Third Floor, Building C\NLaboratory
 Dialogue: 1,0:16:55.66,0:16:59.12,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\fscx90\fscy90\blur0.8\bord0\c&H030101&\pos(1680,560)}Third Floor, Building C\NLaboratory
-Comment: 0,0:17:55.64,0:17:57.18,Captions-207-,,0,0,0,,building 5
 Dialogue: 0,0:17:55.64,0:17:57.01,Captions-207-,,0,0,0,,{\pos(675.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building C
 Dialogue: 0,0:17:55.64,0:17:57.01,Captions-207-,,0,0,0,,{\pos(1222.5,477)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building B
 Dialogue: 0,0:17:55.64,0:17:57.01,Captions-207-,,0,0,0,,{\pos(948,36.5)\fscx90\fscy90\an5\fnRoboto\b1\bord0\c&H1B1816&\blur0.8}Building A
@@ -510,7 +474,6 @@ Dialogue: 0,0:17:57.10,0:17:57.14,Captions-207-,,0,0,0,,{\pos(284,151)\fscx222\f
 Dialogue: 0,0:17:57.01,0:17:57.06,Captions-207-,,0,0,0,,{\pos(1274,433.5)\fscx107\fscy107\an5\fnRoboto\b1\bord0\c&H1B1816&\blur1}Building B
 Dialogue: 0,0:17:57.06,0:17:57.10,Captions-207-,,0,0,0,,{\pos(1410,319)\fscx153\fscy153\an5\fnRoboto\b1\bord0\c&H1B1816&\blur1.5}Building B
 Dialogue: 0,0:17:57.10,0:17:57.14,Captions-207-,,0,0,0,,{\pos(1608.5,151)\fscx222\fscy222\an5\fnRoboto\b1\bord0\c&H1B1816&\blur2}Building B
-Comment: 0,0:17:55.64,0:17:57.18,Captions-207-,,0,0,0,,building 5
 Dialogue: 0,0:17:57.51,0:18:01.94,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\bord1.5\c&HFFFCFC&\3c&HFFFCFC&\4c&HFFFCFC&\shad1\blur0.8\pos(1645,665)\fad(935,941)\1a&HFF&\t(893,935,\1a&H00&)\t(3479,3520,\1a&HFF&)}Second Floor, Building A\NLaboratory
 Dialogue: 1,0:17:57.51,0:18:01.94,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\blur0.8\bord0\c&H030101&\pos(1645,665)\fad(935,941)}Second Floor, Building A\NLaboratory
 Dialogue: 0,0:19:08.92,0:19:10.92,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\fscx90\fscy90\bord2\c&HFFFCFC&\3c&HFFFCFC&\4c&HFFFCFC&\shad1\blur0.8\pos(1664,580)}Third Floor, Building A\NLaboratory
@@ -519,8 +482,6 @@ Dialogue: 0,0:21:46.95,0:21:50.58,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-
 Dialogue: 1,0:21:46.95,0:21:50.58,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\blur0.8\bord0\pos(1586.5,735)\c&HFFFFFF&\t(0,1026,1,\c&H030101&)}The Holy Land, Mary Geoise\NThree Months Ago
 Dialogue: 0,0:25:27.17,0:25:34.14,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\fscx90\fscy90\bord2\shad0.5\blur0.8\pos(286,635)\c&H020202&\3c&H020202&\4c&H020202&\t(0,2528,1,\c&HFFFCFC&\3c&HFFFCFC&\4c&HFFFCFC&)}The Old Devil Fruit\NResearch Lab\NUnderground
 Dialogue: 1,0:25:27.17,0:25:34.14,Captions-207-,,0,0,0,,{\fnA-OTF Shin Go Pr5 M-Strp\fscx90\fscy90\blur0.8\bord0\pos(286,635)\c&H020202&\t(0,2528,1,\c&H030101&)}The Old Devil Fruit\NResearch Lab\NUnderground
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:00.77,0:00:06.53,Credits-207-,,0,0,0,,{\pos(1441.48,653.85)\fscx55\fscy55\fnFOT-Aokane Std EB-Strp\b800\bord0\c&H4D0403&}Video Editing
 Dialogue: 0,0:00:00.77,0:00:06.53,Credits-207-,,0,0,0,,{\pos(1460.57,676.49)\fscx90\fscy90\fnFOT-Aokane Std EB-Strp\b800\bord0\c&H4D0403&}Feeso\NGalaxy 9000
 Dialogue: 0,0:00:18.96,0:00:20.96,Credits-207-,,0,0,0,,{\an1\fscx75\fscy75\fnFOT-Carat Std UB-Strp\b900\bord0\c&H4CDAE6&\pos(184,140)}Timing
@@ -540,5 +501,4 @@ Dialogue: 0,0:01:10.55,0:01:13.09,Credits-207-,,0,0,0,,{\pos(850,73)\fscx70\fscy
 Dialogue: 0,0:01:10.55,0:01:13.09,Credits-207-,,0,0,0,,{\pos(902,104)\fscx90\fscy90\fnFOT-TsukuARdGothic Std E-Strp\b800\bord0}Gab
 Dialogue: 0,0:01:13.09,0:01:16.93,Credits-207-,,0,0,0,,{\an1\pos(1165.33,459)\fscx70\fscy70\fnFOT-Comet Std B-Strp\b700\bord0\c&HFFFEFF&}Translation
 Dialogue: 0,0:01:13.09,0:01:16.93,Credits-207-,,0,0,0,,{\an1\pos(1250.33,581)\fscx110\fscy110\fnFOT-Comet Std B-Strp\b700\bord0\c&HFFFEFF&}Crunchyroll\NLiisa-Pekka
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:27:36.63,0:27:41.63,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

@@ -33,14 +33,8 @@ Style: Note-207-,Guttman Yad-Brush,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H9600000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.06,0:00:41.10,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:01:54.94,0:02:00.43,Main-207-,,0,0,0,,‫חבר'ה! יום אחד אני אגיע לאלבאף!\N‫לכפר הלוחמים!
 Dialogue: 0,0:02:00.43,0:02:01.89,Main-207-,,0,0,0,,‫יאה! בסדר!
 Dialogue: 0,0:02:02.33,0:02:06.26,Main-207-,,0,0,0,,{\fad(150,150)\b1\bord2.9\shad2\fnFOT-Greco Std B Strp\fs75}‫♪ ג'י-ג'י-ענקים! ג'יה-ענקים! ♪
@@ -438,8 +432,6 @@ Dialogue: 0,0:29:19.44,0:29:20.41,Main-207-,,0,0,0,,‫הם יורים!
 Dialogue: 0,0:29:20.41,0:29:21.90,Main-207-,,0,0,0,,‫אתה {\i1}לא{\i0} עשית את זה!
 Dialogue: 0,0:29:21.90,0:29:23.19,Main-207-,,0,0,0,,‫– לא, סאנג'י!\N‫– ארור!
 Dialogue: 0,0:29:34.45,0:29:35.90,Main-207-,,0,0,0,,‫ויוי!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:01:49.96,0:01:54.92,Title-207-,,0,0,0,,{\fad(734,0)\blur0.4\c&H141414&\3c&H141414&\1a&HFF&\t(689,734,\1a&H00&)}Tin Plate Wapol
 Dialogue: 1,0:01:49.96,0:01:54.92,Title-207-,,0,0,0,,{\fad(734,0)\blur0.4\bord0\c&HE6E6E6&\4a&HFF&}Tin Plate Wapol
 Dialogue: 0,0:04:42.55,0:04:46.22,Captions-207-,,0,0,0,,{\pos(726,706.15)\fad(650,0)\blur0.9\bord4.9\fscx99\fscy99\fnDFPGiHi-W7-Strp\fsp2.25\c&H000000&\b0\3c&H000000&\1a&HFF&\t(450,650,\1a&H00&)}Sandy Island\NKingdom of Alabasta
@@ -452,8 +444,6 @@ Dialogue: 1,0:25:28.76,0:25:40.69,Captions-207-,,0,0,0,,{\an8\q2\pos(720,83.25)\
 Dialogue: 2,0:25:28.76,0:25:40.69,Captions-207-,,0,0,0,,{\an8\q2\pos(720,83.25)\fad(1477,0)\blur0.8\bord0\fnAnimated\fs75\fsp1\c&H3D41C7&\4a&HFF&\b0}S{\c&H3A41C8&}u{\c&H3842C9&}m{\c&H3642CA&}m{\c&H3443CB&}e{\c&H3243CC&}r{\c&H3044CE&}y {\c&H3758C8&}S{\c&H3A62C5&}u{\c&H3E6DC2&}m{\c&H4277BF&}m{\c&H4581BC&}e{\c&H498BB9&}r{\c&H4D96B7&}            {\c&H7E9E61&}W{\c&H829B59&}i{\c&H879951&}n{\c&H8B9649&}t{\c&H909441&}e{\c&H949239&}r{\c&H998F31&}y {\c&HA28B22&}W{\c&HA78722&}i{\c&HAC8423&}n{\c&HB18124&}t{\c&HB67D24&}e{\c&HBB7A25&}r{\c&HC07726&}
 Dialogue: 1,0:25:28.76,0:25:40.69,Captions-207-,,0,0,0,,{\an8\q2\pos(733.5,704.25)\fad(1300,0)\blur0.9\bord2\fscx78\fscy78\fnAnimated\fs75\fsp1\c&H050505&\3c&H050505&\1a&HFF&\b0\t(0,1200,\1a&H00&)}Summer Island Spring Island Autumn Island Winter Island
 Dialogue: 2,0:25:28.76,0:25:40.69,Captions-207-,,0,0,0,,{\an8\q2\pos(733.5,704.25)\fad(1300,0)\blur0.9\bord0\fscx78\fscy78\fnAnimated\fs75\fsp1\c&H3A79E4&\4a&HFF&\b0}Summer Island {\c&H8F63E5&}Spring Island {\c&H496A9C&}Autumn Island {\c&HEEE2D5&}Winter Island
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\NNinja
@@ -490,5 +480,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:29:35.90,0:29:40.90,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

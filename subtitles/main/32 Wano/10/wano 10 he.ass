@@ -31,14 +31,8 @@ Style: Captions Wano,Guttman Yad-Brush,68,&H0038342E,&H000000FF,&H00FFFFFF,&H003
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:41.87,0:01:41.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:09.99,0:00:10.03,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:41.87,0:01:51.86,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:01:47.98,0:01:49.75,Main-207-,Carrot,0,0,0,,‫זו משימה סודית!
 Dialogue: 0,0:01:49.75,0:01:51.06,Main-207-,Luffy,0,0,0,,‫בסדר!
 Dialogue: 0,0:01:52.27,0:01:54.05,Main-207-,Luffy,0,0,0,,‫זה יהיה הקרב המכריע שלנו!
@@ -414,8 +408,6 @@ Dialogue: 0,0:35:11.87,0:35:13.83,Main-207-,Sanji,0,0,0,,‫כולם, ברחו!
 Dialogue: 0,0:35:16.82,0:35:18.88,Main-207-,Kaido,0,0,0,,{\fad(150,150)}‫נשימת הפיצוץ!
 Dialogue: 0,0:35:44.49,0:35:47.12,Main-207-,Bepo+Shachi+Penguin,0,0,0,,‫– קפטן!\N‫– קפטן!
 Dialogue: 0,0:36:51.35,0:36:55.06,Main-207-,Luffy,0,0,0,,‫קאידו!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫=============================כותרת ושלטים==============================
 Dialogue: 0,0:01:42.08,0:01:46.33,Title-207-,,0,0,0,,{\fad(400,0)}Shutenmaru
 Dialogue: 0,0:08:37.49,0:08:41.91,Captions Wano,,0,0,0,,{\fad(600,0)\pos(413,621)}Shinobu\NA Veteran Kunoichi
 Dialogue: 0,0:09:57.95,0:10:00.28,Captions Wano,,0,0,0,,{\pos(1650,864)}Okobore \NTown
@@ -424,8 +416,6 @@ Dialogue: 0,0:10:24.64,0:10:30.60,Captions Wano,,0,0,0,,{\pos(312,925)}Boss Shut
 Dialogue: 0,0:10:49.50,0:10:52.58,Note-207-,,0,0,0,,"Sake"
 Dialogue: 0,0:13:44.13,0:13:48.05,Captions Wano,,0,0,0,,{\fad(600,0)\pos(336,834)}Jack\NSuperstar, Beast Pirates
 Dialogue: 0,0:32:50.86,0:32:55.16,Note-207-,,0,0,0,,"Law & Straw Hat Form Pirate Alliance"
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫=============================כותרת ושלטים==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso
@@ -472,5 +462,4 @@ Dialogue: 1,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1259,578)\blur0.4\b
 Dialogue: 0,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.3\bord4\fscx120\fscy120\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
 Dialogue: 2,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:36:55.06,0:37:00.06,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

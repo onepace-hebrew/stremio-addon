@@ -33,14 +33,8 @@ Style: Credits-PW,Guttman Yad-Brush,56,&H00FFFFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:02:31.00,0:02:31.04,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.62,0:00:03.65,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:02:37.49,0:02:40.96,Narrator-207-,,0,0,0,,‫לפני עשר שנים, באיסט בלו...
 Dialogue: 0,0:02:42.86,0:02:48.68,Narrator-207-,,0,0,0,,‫היה כפר קטן הידוע בשם\N‫כפר הטחנה, שם חיו אנשים בשלווה.
 Dialogue: 0,0:02:49.36,0:02:52.70,Narrator-207-,,0,0,0,,‫לא רחוק משם שכן הר קולובו,\N‫שאיש לא העז לדרוך בו.
@@ -71,7 +65,6 @@ Dialogue: 0,0:04:23.73,0:04:24.85,Main-207-,,0,0,0,,‫בינתיים, בצד...
 Dialogue: 0,0:04:24.85,0:04:26.78,Main-207-,,0,0,0,,{\i1}‫אל{\i0} תשים בצד!
 Dialogue: 0,0:04:26.78,0:04:28.68,Main-207-,,0,0,0,,‫תשתוק כבר, ילד?!
 Dialogue: 0,0:04:28.68,0:04:30.88,Main-207-,,0,0,0,,‫אני רוצה שתשמור גם עליו.
-Comment: 0,0:04:30.88,0:04:32.38,Main-207-,,0,0,0,,‫מה?
 Dialogue: 0,0:04:32.38,0:04:34.49,Main-207-,,0,0,0,,‫היי, לופי. תגיד שלום.
 Dialogue: 0,0:04:34.49,0:04:35.32,Main-207-,,0,0,0,,‫מה נשמע?
 Dialogue: 0,0:04:35.32,0:04:38.02,Main-207-,,0,0,0,,‫מי הילד?
@@ -590,8 +583,6 @@ Dialogue: 0,0:39:37.24,0:39:40.08,Narrator-207-,,0,0,0,,‫אייס, סאבו ו
 Dialogue: 0,0:39:41.09,0:39:46.86,Narrator-207-,,0,0,0,,‫השלישייה החלה בקרוב לבלות את זמנה\N‫בהתמודדות עם חיות הבר בהרים וביער.
 Dialogue: 0,0:39:46.88,0:39:51.40,Narrator-207-,,0,0,0,,‫הם גם התעמתו עם חבריות מהעיר\N‫ופיראטים במפרץ.
 Dialogue: 0,0:39:51.40,0:39:58.94,Narrator-207-,,0,0,0,,‫בסופו של דבר, המוניטין שלהם התפשט\N‫אפילו לתוך לב הממלכה!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:02:31.46,0:02:36.42,Title-207-,,0,0,0,,{\blur0.5\fad(750,600)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4360,4405,\1a&HFF&)}The Gray Terminal
 Dialogue: 1,0:02:31.46,0:02:36.42,Title-207-,,0,0,0,,{\bord0\blur0.5\fad(750,600)\4a&HFF&}The Gray Terminal
 Dialogue: 0,0:03:16.78,0:03:22.05,Captions-PTS,,0,0,360,,{\blur0.4\fad(500,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx158\fscy165\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Monkey D. Garp\N{\fn}(10 Years Ago)
@@ -616,8 +607,6 @@ Dialogue: 0,0:27:52.92,0:27:57.23,Captions-PTS,,0,0,340,,{\blur0.4\fad(1000,0)\f
 Dialogue: 1,0:27:52.92,0:27:57.23,Captions-PTS,,0,0,340,,{\bord0\blur0.4\fad(1000,0)\fscx203\fscy191\c&HFFFFFE&\4a&HFF&}Pirate Bay\N{\fs45}Gray Terminal
 Dialogue: 0,0:28:14.97,0:28:18.97,Captions-PTS,,0,0,340,,{\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord2.5\fscx181\fscy181\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)}Captain Bluejam\N{\fn\fs45}Bluejam Pirates
 Dialogue: 1,0:28:14.97,0:28:18.97,Captions-PTS,,0,0,340,,{\blur0.4\fad(1000,0)\fnIwata Mincho Old Pro H Strp\b0\bord0\fscx181\fscy181\4a&HFF&}Captain Bluejam\N{\fn\fs45}Bluejam Pirates
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hBastia\N\h\hPhosCity
@@ -634,5 +623,4 @@ Dialogue: 0,0:00:14.22,0:00:16.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60
 Dialogue: 1,0:00:14.22,0:00:16.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Translation\N{\fs75}\h\hCrunchyroll\N\h\hLiisa-Pekka\N\h\hYibis
 Dialogue: 0,0:00:16.22,0:00:18.50,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1880,1925,\1a&HFF&)}Opening Raw\N{\fs75}\h\hGavynnnnn
 Dialogue: 1,0:00:16.22,0:00:18.50,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Opening Raw\N{\fs75}\h\hGavynnnnn
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:39:58.94,0:40:03.94,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

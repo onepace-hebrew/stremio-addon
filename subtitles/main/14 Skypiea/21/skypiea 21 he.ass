@@ -34,16 +34,8 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:50.05,0:01:50.09,Main-207-,chptr,0,0,0,,
-Comment: 0,0:28:13.71,0:28:13.76,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.07,0:00:03.11,Main-207-,OP,0,0,0,,
-Comment: 0,0:29:10.35,0:29:10.40,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.05,0:02:00.04,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:50.88,0:01:53.51,Narrator-207-,,0,0,0,,‫אי שם בצפון הכחול,
 Dialogue: 0,0:01:53.51,0:01:56.01,Narrator-207-,,0,0,0,,‫חי אדם ששמו\N‫מון בלאן נולאנד.
 Dialogue: 0,0:01:57.64,0:02:03.56,Narrator-207-,,0,0,0,,‫נולאנד היה חוקר שסיפר תמיד\N‫על הרפתקאותיו המופלאות.
@@ -132,7 +124,6 @@ Dialogue: 0,0:07:35.85,0:07:39.11,Thoughts-207-,,0,0,0,,‫שנפגש שוב י�
 Dialogue: 0,0:07:39.56,0:07:40.98,Thoughts-207-,,0,0,0,,‫קלגרה...
 Dialogue: 0,0:07:40.98,0:07:43.32,Thoughts-207-,,0,0,0,,‫לאן הלכת?!
 Dialogue: 0,0:07:43.32,0:07:49.03,Thoughts-207-,,0,0,0,,‫כשתחזור לג'איה, מה תחשוב\N‫כשתראה שנעלמנו?
-Comment: 0,0:07:50.03,0:07:56.29,Flashbacks-207-,,0,0,0,,‫חכה עוד קצת!\N‫אני אודיע לך ש"אנחנו כאן"!
 Dialogue: 0,0:07:50.03,0:07:51.62,Thoughts-207-,,0,0,0,,‫חכה עוד קצת!
 Dialogue: 0,0:07:51.62,0:07:53.62,Thoughts-207-,,0,0,0,,‫אני אשלח מסר ש...
 Dialogue: 0,0:07:53.62,0:07:56.29,Thoughts-207-,,0,0,0,,‫אנחנו כאן!
@@ -352,7 +343,6 @@ Dialogue: 0,0:24:14.06,0:24:18.69,Flashbacks-207-,,0,0,0,,‫יש פעמון ע�
 Dialogue: 0,0:24:19.19,0:24:24.40,Flashbacks-207-,,0,0,0,,‫כן, יומן המסע של נולאנד\N‫הזכיר אחד.
 Dialogue: 0,0:24:24.78,0:24:26.28,Flashbacks-207-,,0,0,0,,‫למה אתה שואל?
 Dialogue: 0,0:24:26.28,0:24:27.86,Flashbacks-207-,,0,0,0,,‫כן, למה?
-Comment: 0,0:24:24.78,0:24:27.86,Flashbacks-207-,,0,0,0,,‫– למה אתה שואל?\N‫– למה אתה שואל?
 Dialogue: 0,0:24:29.55,0:24:32.99,Flashbacks-207-,,0,0,0,,‫זה עתה עלה לי רעיון טוב!
 Dialogue: 0,0:24:32.99,0:24:34.58,Flashbacks-207-,,0,0,0,,‫מה? מה זה?!
 Dialogue: 0,0:24:35.37,0:24:38.62,Flashbacks-207-,,0,0,0,,‫אם נצלצל בפעמון הגדול הזה...
@@ -398,8 +388,6 @@ Dialogue: 0,0:27:40.43,0:27:44.81,Flashbacks-207-,,0,0,0,,‫קבע בדעתך, 
 Dialogue: 0,0:27:51.73,0:27:53.03,Main-207-,,0,0,0,,‫לופי...
 Dialogue: 0,0:27:55.95,0:27:58.45,Main-207-,,0,0,0,,‫אני הולך...
 Dialogue: 0,0:28:02.41,0:28:08.12,Main-207-,,0,0,0,,‫לצלצל בפעמון הזה!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 1,0:01:51.05,0:01:56.01,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx65\fscy65\c&HF1F3F7&\blur1.3\pos(400,825)\fad(1062,0)}North Blue
 Dialogue: 1,0:01:51.05,0:01:56.01,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx65\fscy65\c&HF1F3F7&\blur1.3\pos(400,825)\fad(1062,0)}North Blue
 Dialogue: 0,0:01:51.05,0:01:56.01,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord3.5\fsp2\fscx65\fscy65\c&H121010&\1a&HFF&\blur1.3\pos(400,825)\3c&H121010&\fad(1062,0)\t(1020,1062,\1a&H00&)}North Blue
@@ -420,8 +408,6 @@ Dialogue: 0,0:03:57.01,0:04:02.43,Captions-207-,,0,0,0,,{\an8\fnFOT-Greco Std DB
 Dialogue: 1,0:04:35.51,0:04:39.01,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,564)\fad(975,0)}The Kingdom of Lvneel
 Dialogue: 1,0:04:35.51,0:04:39.01,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,564)\fad(975,0)}The Kingdom of Lvneel
 Dialogue: 0,0:04:35.51,0:04:39.01,Captions-207-,,0,0,0,,{\an2\fnFOT-Greco Std DB Strp\bord3.5\fsp2\fscx90\fscy90\c&H252321&\1a&HFF&\blur1.3\pos(720,564)\3c&H252321&\fad(975,0)\t(724,975,\1a&H00&)}The Kingdom of Lvneel
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Video Editing
 Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(583.02,619.65)}fedew\NZenef
 Dialogue: 0,0:00:51.78,0:00:55.70,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Graphics
@@ -438,5 +424,4 @@ Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\p
 Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(67.02,153.65)}Lil T\NPollychan\NZenef
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\pos(964,111.4)}Translation
 Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(1007.02,152.05)}Funimation\NDemonRin\NMatteblack
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================CREDITS==============================
 Dialogue: 0,0:29:10.40,0:29:15.40,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

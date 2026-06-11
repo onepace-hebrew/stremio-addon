@@ -178,15 +178,7 @@ Dialogue: 0,0:13:04.35,0:13:06.60,Main-207-,,0,0,0,,‫"סאקה של בינקס
 Dialogue: 0,0:13:06.60,0:13:09.56,Main-207-,,0,0,0,,‫באמת? אבל זה שיר של פיראטים.
 Dialogue: 0,0:13:09.56,0:13:12.65,Main-207-,,0,0,0,,‫נכון!\N‫אנחנו הולכים להיות פיראטים יום אחד!
 Dialogue: 0,0:13:12.65,0:13:15.07,Main-207-,,0,0,0,,‫אוה, זה נשמע מגניב!
-Dialogue: 0,0:13:17.70,0:13:21.87,Musical,,0,0,0,,{\fad(150,150)}♪ Making a delivery,\Nbringing it across the sea ♪
-Dialogue: 0,0:13:21.87,0:13:25.95,Musical,,0,0,0,,{\fad(150,150)}♪ Binks' sake in the hold\Nas we sail through the breeze ♪
-Dialogue: 0,0:13:25.95,0:13:30.25,Musical,,0,0,0,,{\fad(150,150)}♪ Far across the eye can see,\Nthe sun is shining merrily ♪
-Dialogue: 0,0:13:30.25,0:13:34.84,Musical,,0,0,0,,{\fad(150,150)}♪ As the birds fly in the sky\Nas they sing out with glee ♪
 Dialogue: 0,0:13:32.75,0:13:37.09,Thoughts-207-,,0,0,0,,{\an8}‫ימכרו אתכם לממשלה\N‫לפני שתספיקו להיות פיראטים.
-Dialogue: 0,0:13:34.84,0:13:39.25,Musical,,0,0,0,,{\fad(150,150)}♪ Bid adieu to everyone,\Nso long to port renowned ♪
-Dialogue: 0,0:13:39.25,0:13:43.66,Musical,,0,0,0,,{\fad(150,150)}♪ Sailing on from dusk 'til dawn\Nand singing out as one ♪
-Dialogue: 0,0:13:43.66,0:13:47.94,Musical,,0,0,0,,{\fad(150,150)}♪ Cross the gold and silver waves,\Nchanging into water sprays ♪
-Dialogue: 0,0:13:47.94,0:13:52.55,Musical,,0,0,0,,{\fad(150,150)}♪ Sailing out on our journey\Nto the ends of the sea! ♪
 Dialogue: 0,0:13:52.55,0:13:55.25,Main-207-,,0,0,0,,‫אחת, שתיים, שלוש!
 Dialogue: 0,0:13:55.25,0:14:00.21,Main-207-,,0,0,0,,‫יום הולדת שמח, לינלין!
 Dialogue: 0,0:13:55.25,0:13:57.20,Note,,0,0,0,,"Happy birthday, Linlin".
@@ -333,39 +325,10 @@ Dialogue: 0,0:25:17.73,0:25:18.74,Main-207-,,0,0,0,,‫קסם?
 Dialogue: 0,0:25:18.74,0:25:22.95,Main-207-,,0,0,0,,‫כן, היא הייתה טובה בתעלולי קסם.
 Dialogue: 0,0:25:22.95,0:25:26.12,Main-207-,,0,0,0,,‫אני חושבת שהיא שמה את הידיים כך...
 Dialogue: 0,0:25:28.62,0:25:30.87,Main-207-,,0,0,0,,‫ואז...
-Dialogue: 0,0:25:35.68,0:25:37.46,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:37.46,0:25:38.84,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
 Dialogue: 0,0:25:38.84,0:25:42.70,Main-207-,,0,0,0,,‫מה?! זה התעלול שאמא הייתה עושה!\N‫למה?!
-Dialogue: 0,0:25:39.38,0:25:41.09,Musical,,0,0,0,,{\an8\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:41.09,0:25:42.72,Musical,,0,0,0,,{\an8\fad(150,150)}♪ Flower, flower! ♪
 Dialogue: 0,0:25:42.70,0:25:44.38,Main-207-,,0,0,0,,‫איך אני מסוגלת לעשות את זה?!
-Dialogue: 0,0:25:42.72,0:25:44.38,Musical,,0,0,0,,{\an8\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:44.38,0:25:46.18,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:46.18,0:25:48.01,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:48.01,0:25:49.88,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:49.89,0:25:51.64,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:49.20,0:25:50.85,Musical,,0,0,0,,{\fad(150,150)}♪ Earth! ♪
-Dialogue: 0,0:25:51.64,0:25:53.28,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:25:53.27,0:25:55.04,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! Flower... ♪
-Dialogue: 0,0:25:51.64,0:25:53.77,Musical,,0,0,0,,{\fad(150,150)}♪ Earth! ♪
 Dialogue: 0,0:25:56.94,0:26:01.44,Main-207-,,0,0,0,,‫מה ה...\N‫האם זו כוח של פרי השטן?
-Dialogue: 0,0:26:01.44,0:26:02.74,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:02.74,0:26:04.32,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:04.32,0:26:06.06,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:03.48,0:26:05.82,Musical,,0,0,0,,{\fad(150,150)}♪ Tree! Tree! ♪
-Dialogue: 0,0:26:06.07,0:26:07.72,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:05.82,0:26:09.68,Musical,,0,0,0,,{\fad(150,150)}♪ Tree! Tree! ♪
-Dialogue: 0,0:26:07.30,0:26:09.68,Musical,,0,0,0,,{\fad(150,150)}♪ Earth! ♪
-Dialogue: 0,0:26:07.72,0:26:09.22,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:09.22,0:26:10.88,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:10.88,0:26:12.54,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:09.68,0:26:14.28,Musical,,0,0,0,,{\fad(150,150)}♪ Tree! Tree! ♪
-Dialogue: 0,0:26:09.68,0:26:14.28,Musical,,0,0,0,,{\fad(150,150)}♪ Earth! ♪
-Dialogue: 0,0:26:12.54,0:26:14.30,Musical,,0,0,0,,{\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:14.30,0:26:15.76,Musical,,0,0,0,,{\an8\fad(150,150)}♪ Flower, flower! ♪
 Dialogue: 0,0:26:14.96,0:26:18.92,Main-207-,,0,0,0,,‫וואו, גם אני הצלחתי, אמא!
-Dialogue: 0,0:26:15.76,0:26:17.42,Musical,,0,0,0,,{\an8\fad(150,150)}♪ Flower, flower! ♪
-Dialogue: 0,0:26:17.42,0:26:18.92,Musical,,0,0,0,,{\an8\fad(150,150)}♪ Flower, flower! ♪
 Dialogue: 0,0:26:18.92,0:26:23.10,Main-207-,,0,0,0,,‫תודה, לינלין! בואי נשיר ביחד!
 Dialogue: 0,0:26:23.10,0:26:26.40,Main-207-,,0,0,0,,‫כמה מעניין!\N‫בסדר, החלטתי.
 Dialogue: 0,0:26:26.40,0:26:27.81,Main-207-,,0,0,0,,‫אני יוצא לים איתה!
@@ -425,11 +388,9 @@ Dialogue: 0,0:31:32.24,0:31:34.15,Thoughts-207-,,0,0,0,,‫איזה לחץ רו�
 Dialogue: 0,0:32:18.19,0:32:22.54,Thoughts-207-,,0,0,0,,‫זה רע! אנחנו תקועים על הגג!\N‫אין דרך לברוח!
 Dialogue: 0,0:32:25.05,0:32:27.87,Thoughts-207-,,0,0,0,,‫ואין דרך לנצח, גם!
 Dialogue: 0,0:32:39.80,0:32:42.75,Main-207-,,0,0,0,,{\fad(150,150)}Rook: In Voller Größe!
-Dialogue: 0,0:32:39.80,0:32:42.75,Note,,0,0,0,,
 Dialogue: 0,0:33:07.09,0:33:08.39,Main-207-,,0,0,0,,‫מה?!
 Dialogue: 0,0:33:48.86,0:33:51.20,Main-207-,,0,0,0,,{\fad(150,150)}‫ביג פאת'ר!
 Dialogue: 0,0:33:54.67,0:33:58.86,Main-207-,,0,0,0,,‫אוה, מגניב!
-Comment: 0,0:33:58.86,0:33:58.86,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.06,0:00:05.00,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.06,0:00:05.00,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.06,0:00:05.00,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -494,8 +455,6 @@ Dialogue: 1,0:01:34.09,0:01:34.17,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:34.09,0:01:34.17,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}{\alpha&FF&}Crunchyroll
 Dialogue: 1,0:01:34.09,0:01:34.17,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}{\alpha&FF&}Crunchyroll
 Dialogue: 2,0:01:34.09,0:01:34.17,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}{\alpha&FF&}Crunchyroll
-Comment: 0,0:33:58.86,0:33:58.86,Captions,,0,0,0,,CAPTIONS
-Dialogue: 0,0:03:07.15,0:03:12.62,Title,,0,0,210,,{\fad(1000,0)\fs100}
 Dialogue: 0,0:12:45.87,0:12:52.59,Captions,,0,0,0,,{\blur0.3\fs55\fad(525,500)\pos(642,446)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(6220,6265,\1a&HFF&)}Mother Carmel\N{\fs45}Orphan Seller\N{\fs40}(Code Name: "Mountain Witch")
 Dialogue: 1,0:12:45.87,0:12:52.59,Captions,,0,0,0,,{\bord0\blur0.3\fs55\fad(525,500)\pos(642,446)\4a&HFF&}Mother Carmel\N{\fs45}Orphan Seller\N{\fs40}(Code Name: "Mountain Witch")
 Dialogue: 0,0:33:58.86,0:34:03.86,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

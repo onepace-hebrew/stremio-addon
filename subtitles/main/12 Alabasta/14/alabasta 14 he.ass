@@ -30,14 +30,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:50.13,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.06,0:00:41.10,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:59.99,0:02:09.98,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:01:53.99,0:01:55.86,Main-207-,,0,0,0,,‫לא!
 Dialogue: 0,0:01:55.86,0:01:57.07,Flashbacks-207-,,0,0,0,,‫תקשיבי, נאמי.
 Dialogue: 0,0:01:57.07,0:02:00.97,Flashbacks-207-,,0,0,0,,‫שימוש בשרביט האקלים בקרב\N‫מתחיל בשימוש בראש!
@@ -339,12 +333,8 @@ Dialogue: 0,0:31:46.29,0:31:47.60,Main-207-,,0,0,0,,‫מה הלאה...?
 Dialogue: 0,0:31:49.66,0:31:52.68,Main-207-,,0,0,0,,‫האם אתה הולך לחתוך יהלום...?
 Dialogue: 0,0:31:55.00,0:31:56.81,Main-207-,,0,0,0,,‫זה יהיה בזבוז.
 Dialogue: 0,0:31:59.44,0:32:01.25,Main-207-,,0,0,0,,‫אתה מנצח...
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Title-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:49.96,0:01:55.05,Title-207-,,0,0,0,,{\blur0.5\fad(984,936)\3c&H151310&\c&H151310&\bord2\1a&HFF&\t(939,984,\1a&H00&)\t(4154,4199,\1a&HFF&)}Cutting Steel
 Dialogue: 1,0:01:49.96,0:01:55.05,Title-207-,,0,0,0,,{\blur0.5\fad(984,936)\c&HE5E6E6&\bord0\4a&HFF&}Cutting Steel
-Comment: 0,0:10:59.67,0:11:08.49,Captions-207-,,0,0,0,,WINNER: NAMI START
-Comment: 0,0:10:59.67,0:11:08.49,Captions-207-,,0,0,0,,Battle Behind the Medi Assembly Hall\NAlubarna North Block\NWinner: Nami
 Dialogue: 0,0:10:59.51,0:10:59.64,Captions-207-,,0,0,0,,{\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\pos(752,785)\c&H000000&\3c&H000000&\alpha&H25&}Bat{\alpha&HFF&}tle Behind the Medi Assembly Hall
 Dialogue: 0,0:10:59.64,0:10:59.76,Captions-207-,,0,0,0,,{\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\pos(752,785)\c&H000000&\3c&H000000&\alpha&H25&}Battle {\alpha&HFF&}Behind the Medi Assembly Hall
 Dialogue: 0,0:10:59.76,0:10:59.89,Captions-207-,,0,0,0,,{\bord5\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx70\fscy85\pos(752,785)\c&H000000&\3c&H000000&\alpha&H25&}Battle Be{\alpha&HFF&}hind the Medi Assembly Hall
@@ -423,12 +413,9 @@ Dialogue: 2,0:11:05.14,0:11:05.52,Captions-207-,,0,0,0,,{\bord0\blur0.6\q2\fnDFP
 Dialogue: 2,0:11:05.52,0:11:06.27,Captions-207-,,0,0,0,,{\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\pos(583.33,1035.67)\c&HFBFBFC&\4a&HFF&}Winner: {\alpha&HFF&}Nami
 Dialogue: 2,0:11:06.27,0:11:06.52,Captions-207-,,0,0,0,,{\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\pos(583.33,1035.67)\c&HFBFBFC&\4a&HFF&}Winner: Na{\alpha&HFF&}mi
 Dialogue: 2,0:11:06.52,0:11:08.65,Captions-207-,,0,0,0,,{\bord0\blur0.6\q2\fnDFPGiHi-W7-Strp\fscx85.05\fscy109.35\pos(583.33,1035.67)\c&HFBFBFC&\4a&HFF&}Winner: Nami
-Comment: 0,0:10:59.67,0:11:08.49,Captions-207-,,0,0,0,,WINNER: NAMI END
 Dialogue: 0,0:15:27.70,0:15:35.04,Captions-207-,,0,0,0,,{\q2\pos(744,605)\fad(450,0)\blur0.6\bord4.8\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}Medi Assembly Hall, Main Street\NNorth Block
 Dialogue: 1,0:15:27.70,0:15:35.04,Captions-207-,,0,0,0,,{\q2\pos(744,605)\fad(450,0)\blur0.6\bord0.5\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\3c&HFFFFFF&\1a&HFF&\4a&HFF&\t(405,450,\1a&H00&)}Medi Assembly Hall, Main Street\NNorth Block
 Dialogue: 2,0:15:27.70,0:15:35.04,Captions-207-,,0,0,0,,{\q2\pos(744,605)\fad(450,0)\blur0.6\bord0\fscx75.05\fscy96.9\fnDFPGiHi-W7-Strp\4a&HFF&}Medi Assembly Hall, Main Street\NNorth Block
-Comment: 0,0:32:12.21,0:32:22.77,Captions-207-,,0,0,0,,WINNER: ZORO START
-Comment: 0,0:32:12.21,0:32:22.77,Captions-207-,,0,0,0,,Battle in Front of the Medi Assembly Hall\NAlubarna North Block\NWinner: Zoro
 Dialogue: 0,0:32:11.91,0:32:12.16,Captions-207-,,0,0,0,,{\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\pos(749,780)\c&H000000&\3c&H000000&\alpha&H10&}Bat{\alpha&HFF&}tle in Front of the Medi Assembly Hall
 Dialogue: 0,0:32:12.16,0:32:12.54,Captions-207-,,0,0,0,,{\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\pos(749,780)\c&H000000&\3c&H000000&\alpha&H10&}Battle{\alpha&HFF&} in Front of the Medi Assembly Hall
 Dialogue: 0,0:32:12.54,0:32:12.66,Captions-207-,,0,0,0,,{\bord5\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx65\fscy80\pos(749,780)\c&H000000&\3c&H000000&\alpha&H10&}Battle in {\alpha&HFF&}Front of the Medi Assembly Hall
@@ -507,9 +494,6 @@ Dialogue: 2,0:32:18.58,0:32:18.92,Captions-207-,,0,0,0,,{\bord0\blur0.7\q2\fnDFP
 Dialogue: 2,0:32:18.92,0:32:20.13,Captions-207-,,0,0,0,,{\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\pos(566,1021)\c&HFAFBFB&\4a&HFF&}Winner:{\alpha&HFF&} Zoro
 Dialogue: 2,0:32:20.13,0:32:20.38,Captions-207-,,0,0,0,,{\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\pos(566,1021)\c&HFAFBFB&\4a&HFF&}Winner: Zo{\alpha&HFF&}ro
 Dialogue: 2,0:32:20.38,0:32:22.75,Captions-207-,,0,0,0,,{\bord0\blur0.7\q2\fnDFPGiHi-W7-Strp\fscx84\fscy102\pos(566,1021)\c&HFAFBFB&\4a&HFF&}Winner: Zoro
-Comment: 0,0:32:12.21,0:32:22.77,Captions-207-,,0,0,0,,WINNER: ZORO END
-Comment: 0,0:00:00.00,0:00:00.00,Captions-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Credits-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\NZenef
@@ -546,5 +530,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Credits-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:32:22.77,0:32:27.77,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

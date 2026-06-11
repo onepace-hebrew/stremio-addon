@@ -29,12 +29,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:41.87,0:01:51.86,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:00:09.16,0:00:13.24,Main-207-,Roddy,0,0,2,,{\q2}‫נקומאמושי האדון הוא נווט מוכשר ממש!
 Dialogue: 0,0:00:13.24,0:00:16.75,Main-207-,Roddy,0,0,0,,‫לא פחות ממה שאפשר לצפות ממישהו\N‫שהפליג עם מלך הפיראטים!
 Dialogue: 0,0:00:16.75,0:00:21.63,Main-207-,Blackback,0,0,0,,‫אז כמה עוד נצטרך\N‫לחכות בחורבות האלה?
@@ -334,8 +330,6 @@ Dialogue: 0,0:22:01.51,0:22:03.59,Main-207-,Luffy,0,0,0,,‫היי? איפה ה�
 Dialogue: 0,0:22:03.59,0:22:05.51,Main-207-,Nami,0,0,0,,‫זה לא חשוב עכשיו!
 Dialogue: 0,0:22:05.51,0:22:06.72,Main-207-,Luffy,0,0,0,,‫הא?
 Dialogue: 0,0:22:18.07,0:22:21.49,Main-207-,Luffy,0,0,0,,‫אוי לא! המערבולת תפסה אותנו!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
 Dialogue: 0,0:00:04.94,0:00:08.45,Captions-207-,,0,0,0,,{\fnKakumin Web\pos(960,805)\1a&HFF&\blur0.8\fad(524,0)\t(482,524,\1a&H00&)\c&H040404&\3c&H040404&\bord2.5\fscx125\fscy125}The New World
 Dialogue: 1,0:00:04.94,0:00:08.45,Captions-207-,,0,0,0,,{\fnKakumin Web\pos(960,805)\bord0\4a&HFF&\blur0.8\fad(524,0)\c&HFDFEFE&\fscx125\fscy125}The New World
 Dialogue: 0,0:00:08.53,0:00:13.24,Captions-207-,,0,0,0,,{\fnKakumin Web\pos(960,805)\1a&HFF&\blur0.8\fad(524,0)\t(482,524,\1a&H00&)\c&H040404&\3c&H040404&\bord2.5\fscx125\fscy125}Mink Guardians
@@ -350,9 +344,6 @@ Dialogue: 0,0:08:02.63,0:08:06.01,Captions-207-,,0,0,0,,{\fnKakumin Web\pos(960,
 Dialogue: 1,0:08:02.63,0:08:06.01,Captions-207-,,0,0,0,,{\fnKakumin Web\pos(960,805)\bord0\4a&HFF&\blur0.8\fad(519,0)\c&HFDFEFE&\fscx125\fscy125}At Sea\NNew World
 Dialogue: 0,0:08:38.66,0:08:43.42,Captions-207-,,0,0,0,,{\fnKakumin Web\pos(1458,670)\1a&HFF&\blur0.8\fad(525,0)\t(484,525,\1a&H00&)\fscx110\fscy110\c&H010101&\3c&H010101&\bord2.5}Captain "Straw Hat" Luffy\N{\fscx100\fscy100}Straw Hat Pirates\NBounty: {\fnImpress BT Pace}¬{\fnKakumin Web}1.5 Billion
 Dialogue: 1,0:08:38.66,0:08:43.42,Captions-207-,,0,0,0,,{\fnKakumin Web\pos(1458,670)\bord0\blur0.8\fad(525,0)\c&HFCFDFC&\fscx110\fscy110}Captain "Straw Hat" Luffy\N{\fscx100\fscy100}Straw Hat Pirates\NBounty: {\fnImpress BT Pace}¬{\fnKakumin Web}1.5 Billion
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================TITLE & SIGNS==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:22:45.47,0:22:48.60,Credits-207-,,0,0,0,,{\fscx75\fscy75\pos(15,15)}Editing:\NGalaxy 9000\NFeeso\N\NTiming:\NGab\NGalaxy 9000\NPhosCity\N\NQuality Control:\NCamotoy\Nfedew\NGalaxy 9000\NGrug\NPepperjack\NScolines\NZenef
 Dialogue: 0,0:22:45.47,0:22:48.60,Credits-207-,,0,0,0,,{\pos(1597,15)\fscx75\fscy75}Typesetting:\NGab\NPhosCity\N\NSoundtracking:\NHalee\N\NGraphics:\NDatenshi\N\NSubtitle Editing:\NFeeso\NZenef\N\NTranslation:\NCrunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:22:48.60,0:22:53.60,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

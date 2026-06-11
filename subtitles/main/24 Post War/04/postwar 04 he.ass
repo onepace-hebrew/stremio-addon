@@ -35,14 +35,8 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:02:31.00,0:02:31.04,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:03.62,0:00:03.65,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:02:36.45,0:02:37.71,Main-207-,,0,0,0,,‫תברח, לופי!
 Dialogue: 0,0:02:44.90,0:02:46.93,Main-207-,,0,0,0,,‫לא... אי אפשר!
 Dialogue: 0,0:02:47.53,0:02:49.60,Main-207-,,0,0,0,,‫אני לא מאמין!
@@ -480,8 +474,6 @@ Dialogue: 0,0:35:16.93,0:35:20.54,Main-207-,,0,0,0,,{\i1}‫אולי זה מוז
 Dialogue: 0,0:35:26.04,0:35:30.36,Main-207-,,0,0,0,,{\i1}‫לופי אולי עדיין תינוק בכיין חלש, אבל...
 Dialogue: 0,0:35:36.55,0:35:38.47,Main-207-,,0,0,0,,{\i1}‫הוא האח הקטן שלנו!
 Dialogue: 0,0:35:39.02,0:35:40.42,Main-207-,,0,0,0,,{\i1}‫תשמור עליו בשבילי!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:02:50.00,0:02:55.20,Title-207-,,0,0,0,,{\blur0.6\fad(700,1000)\c&H000000&\1a&HFF&\t(655,700,\1a&H00&)\t(4200,4245,\1a&HFF&)}Sabo's Sea
 Dialogue: 1,0:02:50.00,0:02:55.20,Title-207-,,0,0,0,,{\bord0\blur0.6\fad(700,1000)\4a&HFF&\c&HFFFFFF&}Sabo's Sea
 Dialogue: 0,0:14:57.11,0:14:59.86,Captions-PTS,,0,0,270,,{\blur0.3\fad(250,500)\fscx215\fscy205\c&H000000&\1a&HFF&\t(205,250,\1a&H00&)\t(2250,2295,\1a&HFF&)}Royal Palace\NGoa Kingdom
@@ -489,8 +481,6 @@ Dialogue: 1,0:14:57.11,0:14:59.86,Captions-PTS,,0,0,270,,{\bord0\blur0.3\fad(250
 Dialogue: 0,0:16:45.48,0:16:47.65,Captions-PTS,,0,0,270,,{\blur0.3\fad(500,0)\fscx218\fscy210\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}The Remains of Gray Terminal
 Dialogue: 1,0:16:45.48,0:16:47.65,Captions-PTS,,0,0,270,,{\bord0\blur0.3\fad(500,0)\fscx218\fscy210\4a&HFF&}The Remains of Gray Terminal
 Dialogue: 0,0:33:56.05,0:34:00.66,Note-207-,,0,0,0,,{\an8\fs51}"To my brothers at Mt. Colubo - Sabo"
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:00:03.62,0:00:05.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:00:05.22,0:00:06.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Timing\N{\fs75}\h\hSewil\N\h\hBastia
@@ -507,5 +497,4 @@ Dialogue: 0,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48
 Dialogue: 1,0:00:15.22,0:00:17.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\4a&HFF&}Translation\N{\fs75}\h\hCrunchyroll\N\h\hLiisa-Pekka\N\h\hYibis
 Dialogue: 0,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(880,925,\1a&HFF&)}Opening Raw\N{\fs75}\h\hGavynnnnn
 Dialogue: 1,0:00:17.22,0:00:18.50,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Opening Raw\N{\fs75}\h\hGavynnnnn
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:35:40.42,0:35:45.42,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

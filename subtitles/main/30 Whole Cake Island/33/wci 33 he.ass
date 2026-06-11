@@ -405,7 +405,6 @@ Dialogue: 0,0:30:37.55,0:30:39.01,Main-207-,,0,0,0,,‫ההגה?!
 Dialogue: 0,0:30:40.47,0:30:43.23,Main-207-,,0,0,0,,‫ה-היא שברה את ההגה!
 Dialogue: 0,0:30:43.23,0:30:46.56,Main-207-,,0,0,0,,‫אוי לא! לאן הספינה שלנו הולכת?!
 Dialogue: 0,0:30:47.06,0:30:50.69,Main-207-,,0,0,0,,‫העכבר הקטן המרושע הזה!
-Comment: 0,0:30:56.90,0:30:56.90,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(493,419)}Team One Pace
 Dialogue: 1,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
 Dialogue: 2,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
@@ -450,21 +449,16 @@ Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 2,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
-Dialogue: 0,0:01:06.12,0:01:08.52,Credits,,0,0,0,,
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(528.8,401.6)}Translation
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(528.8,401.6)}Translation
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 2,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
-Dialogue: 0,0:01:16.78,0:01:19.45,Credits,,0,0,0,,
-Dialogue: 0,0:01:22.24,0:01:24.95,Credits,,0,0,0,,
-Dialogue: 0,0:01:27.04,0:01:32.50,Credits,,0,0,0,,
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(492.8,266.8)}Special Thanks
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(492.8,266.8)}Special Thanks
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 2,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
-Comment: 0,0:30:56.90,0:30:56.90,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:38.22,0:01:45.90,Title,,0,0,0,,{\blur0.3\fad(750,0)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Lion
 Dialogue: 1,0:01:38.22,0:01:45.90,Title,,0,0,0,,{\bord0\blur0.3\fad(750,0)\4a&HFF&}Lion
 Dialogue: 0,0:17:38.42,0:17:41.42,Captions,,0,0,175,,{\blur0.3\fs60\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}The {\i1}Sunny{\i0}, At Sea
@@ -479,7 +473,6 @@ Dialogue: 0,0:22:11.05,0:22:16.43,Captions,,0,700,235,,{\blur0.3\fs55\fad(500,0)
 Dialogue: 1,0:22:11.05,0:22:16.43,Captions,,0,700,235,,{\bord0\blur0.3\fs55\fad(500,0)\4a&HFF&}Cinnamon\N{\fs40}16th Daughter of the\NCharlotte Family
 Dialogue: 0,0:22:11.05,0:22:16.43,Captions,,650,0,235,,{\blur0.3\fs55\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\pos(964,485)}Citron\N{\fs40}15th Daughter of the\NCharlotte Family
 Dialogue: 1,0:22:11.05,0:22:16.43,Captions,,650,0,235,,{\bord0\blur0.3\fs55\fad(500,0)\4a&HFF&\pos(964,485)}Citron\N{\fs40}15th Daughter of the\NCharlotte Family
-Comment: 0,0:30:56.90,0:30:56.90,Squish,,0,0,0,,TYPESETTING
 Dialogue: 0,0:07:12.12,0:07:12.16,Squish,,0,0,0,,{\blur0.9\alpha&HE6&\frz344.7\pos(849,574.8)\fscx195\fscy235\c&H000000&}SQUISH!
 Dialogue: 1,0:07:12.12,0:07:12.16,Squish,,0,0,0,,{\bord0\blur0.9\alpha&HE6&\frz344.7\pos(849,574.8)\fscx195\fscy235\4a&HFF&}SQUISH!
 Dialogue: 0,0:07:12.16,0:07:12.21,Squish,,0,0,0,,{\blur0.9\alpha&HC8&\frz344.7\pos(858,574.8)\fscx205\fscy245\c&H000000&}SQUISH!

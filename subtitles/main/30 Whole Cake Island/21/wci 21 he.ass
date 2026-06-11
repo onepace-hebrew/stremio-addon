@@ -446,7 +446,6 @@ Dialogue: 0,0:35:07.52,0:35:10.95,Main-207-,,0,0,0,,‫אבל גם אם אנחנ
 Dialogue: 0,0:35:11.46,0:35:14.41,Main-207-,,0,0,0,,‫לכולנו יש את הזכות...
 Dialogue: 0,0:35:14.88,0:35:18.69,Main-207-,,0,0,0,,‫לשנות את העתיד!
 Dialogue: 0,0:35:22.28,0:35:27.80,Main-207-,,0,0,0,,‫כ... ובע... ה... קש...!
-Comment: 0,0:35:35.89,0:35:35.89,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:01:33.89,0:01:38.82,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:01:33.89,0:01:38.82,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:01:33.89,0:01:38.82,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -491,7 +490,6 @@ Dialogue: 1,0:03:03.49,0:03:08.04,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:03:03.49,0:03:08.04,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:03:03.49,0:03:08.04,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:03:03.49,0:03:08.04,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:35:35.89,0:35:35.89,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:00:03.77,0:00:06.96,Captions,,0,0,0,,{\blur0.3\fs55\fad(400,0)\pos(653,455)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}About Three and a Half Hours Ago\N{\fs60}Bege's Hideout
 Dialogue: 1,0:00:03.77,0:00:06.96,Captions,,0,0,0,,{\bord0\blur0.3\fs55\fad(400,0)\pos(653,455)\4a&HFF&}About Three and a Half Hours Ago\N{\fs60}Bege's Hideout
 Dialogue: 0,0:03:09.38,0:03:13.88,Captions,,0,0,255,,{\blur0.3\fs60\fad(450,0)\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}In the Present\NThe Wedding Venue

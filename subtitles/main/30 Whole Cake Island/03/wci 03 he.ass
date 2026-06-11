@@ -139,9 +139,7 @@ Dialogue: 0,0:08:44.74,0:08:47.42,Main-207-,,0,0,0,,‫אוקי, כל הכבוד
 Dialogue: 0,0:08:50.84,0:08:52.90,Main-207-,,0,0,0,,‫לא, לא! הם הולכים להיעצר!
 Dialogue: 0,0:08:52.90,0:08:55.09,Main-207-,,0,0,0,,‫אל תעשה סצנה, פדרו{\i1}{\fs10} {\r}!
 Dialogue: 0,0:08:55.55,0:08:58.05,Main-207-,,0,0,0,,‫רגע, שוטר שוקולד{\i1}{\fs10} {\r}!
-Dialogue: 0,0:09:03.60,0:09:06.80,Musical,,0,0,0,,{\fad(150,150)}♪ Carpet! Carpet! ♪
 Dialogue: 0,0:09:06.80,0:09:08.61,Main-207-,,0,0,0,,‫השטיח עף...
-Dialogue: 0,0:09:08.64,0:09:11.90,Musical,,0,0,0,,{\fad(150,150)}♪ Carpet! Carpet! ♪
 Dialogue: 0,0:09:13.88,0:09:16.41,Main-207-,,0,0,0,,‫אוה, אתה... הבעלים!
 Dialogue: 0,0:09:16.41,0:09:20.45,Main-207-,,0,0,0,,‫אוי, עוד צרות!\N‫בעל בית הקפה הגיע!
 Dialogue: 0,0:09:22.37,0:09:24.71,Main-207-,,0,0,0,,‫תסתכל מה עשו לבית הקפה שלך!
@@ -218,41 +216,6 @@ Dialogue: 0,0:13:26.03,0:13:27.65,Main-207-,,0,0,0,,‫מלך הפיראטים �
 Dialogue: 0,0:13:27.65,0:13:28.24,Main-207-,,0,0,0,,‫הי!
 Dialogue: 0,0:13:28.24,0:13:30.08,Main-207-,,0,0,0,,‫מה?
 Dialogue: 0,0:13:35.50,0:13:37.08,Main-207-,,0,0,0,,‫לופי?
-Dialogue: 0,0:14:10.62,0:14:13.79,Musical,,0,0,0,,{\fad(150,150)}♪ How long do we have until the tea party? ♪
-Dialogue: 0,0:14:13.79,0:14:16.33,Musical,,0,0,0,,{\fad(150,150)}♪ Three days, Mama! ♪
-Dialogue: 0,0:14:16.33,0:14:17.92,Musical,,0,0,0,,{\fad(150,150)}♪ Flower! Flower! ♪
-Dialogue: 0,0:14:17.92,0:14:19.52,Musical,,0,0,0,,{\fad(150,150)}♪ I see... ♪
-Dialogue: 0,0:14:19.52,0:14:22.88,Musical,,0,0,0,,{\fad(150,150)}♪ What about Germa's son? ♪
-Dialogue: 0,0:14:22.88,0:14:25.34,Musical,,0,0,0,,{\fad(150,150)}♪ He's here, Mama! ♪
-Dialogue: 0,0:14:25.34,0:14:28.88,Musical,,0,0,0,,{\fad(150,150)}♪ Furniture! Furniture! Furniture! Furniture! ♪
-Dialogue: 0,0:14:29.90,0:14:33.39,Musical,,0,0,0,,{\fad(150,150)}♪ There will be a wedding! ♪
-Dialogue: 0,0:14:33.39,0:14:37.64,Musical,,0,0,0,,{\fad(150,150)}♪ How is the cake? ♪
-Dialogue: 0,0:14:37.64,0:14:41.40,Musical,,0,0,0,,{\fad(150,150)}♪ The wedding cake! ♪
-Dialogue: 0,0:14:41.40,0:14:43.15,Musical,,0,0,0,,{\fad(150,150)}♪ – The design?\N– Okay! ♪
-Dialogue: 0,0:14:43.15,0:14:44.93,Musical,,0,0,0,,{\fad(150,150)}♪ – The budget?\N– Don't be stingy! ♪
-Dialogue: 0,0:14:44.93,0:14:46.74,Musical,,0,0,0,,{\fad(150,150)}♪ Carefully select the ingredients! ♪
-Dialogue: 0,0:14:46.74,0:14:54.73,Musical,,0,0,0,,{\fad(150,150)}♪ Kill the people and rob them! ♪
-Dialogue: 0,0:14:57.75,0:14:58.79,Musical,,0,0,0,,{\fad(150,150)}♪ Eggs! ♪
-Dialogue: 0,0:15:01.17,0:15:02.46,Musical,,0,0,0,,{\fad(150,150)}♪ I got them. ♪
-Dialogue: 0,0:15:03.04,0:15:04.67,Musical,,0,0,0,,{\fad(150,150)}♪ Flour! ♪
-Dialogue: 0,0:15:06.20,0:15:07.55,Musical,,0,0,0,,{\fad(150,150)}♪ I got it! ♪
-Dialogue: 0,0:15:08.42,0:15:09.93,Musical,,0,0,0,,{\fad(150,150)}♪ Fruit! ♪
-Dialogue: 0,0:15:11.76,0:15:13.22,Musical,,0,0,0,,{\fad(150,150)}♪ I got it. ♪
-Dialogue: 0,0:15:13.68,0:15:16.14,Musical,,0,0,0,,{\fad(150,150)}♪ We'll make it taste good! ♪
-Dialogue: 0,0:15:16.14,0:15:19.64,Musical,,0,0,0,,{\fad(150,150)}♪ Let's eat a delicious cake! ♪
-Dialogue: 0,0:15:19.64,0:15:22.77,Musical,,0,0,0,,{\fad(150,150)}♪ Sweet dealings! ♪
-Dialogue: 0,0:15:23.26,0:15:27.90,Musical,,0,0,0,,{\fad(150,150)}♪ The tea party from hell! ♪
-Dialogue: 0,0:15:29.15,0:15:32.28,Musical,,0,0,0,,{\fad(150,150)}♪ – Is this strawberry jam?\N– Or somebody's blood? ♪
-Dialogue: 0,0:15:32.28,0:15:35.99,Musical,,0,0,0,,{\fad(150,150)}♪ I don't care either way! ♪
-Dialogue: 0,0:15:35.99,0:15:39.96,Musical,,0,0,0,,{\fad(150,150)}♪ If you're invited, be there at any cost! ♪
-Dialogue: 0,0:15:37.94,0:15:39.96,Musical,,0,0,0,,{\fad(150,150)}♪ A sweet moment! ♪
-Dialogue: 0,0:15:39.96,0:15:42.46,Musical,,0,0,0,,{\fad(150,150)}♪ Sacrifices to the devil! ♪
-Dialogue: 0,0:15:43.67,0:15:47.21,Musical,,0,0,0,,{\fad(150,150)}♪ This is a dream land for everyone... ♪
-Dialogue: 0,0:15:47.21,0:15:52.00,Musical,,0,0,0,,{\fad(150,150)}♪ All kinds of races come together... ♪
-Dialogue: 0,0:15:52.00,0:15:54.75,Musical,,0,0,0,,{\fad(150,150)}♪ Totto Land! ♪
-Dialogue: 0,0:16:06.06,0:16:10.36,Musical,,0,0,0,,{\fad(150,150)}♪ Mmm, I can't wait!\NI heard he is here. ♪
-Dialogue: 0,0:16:10.36,0:16:14.32,Musical,,0,0,0,,{\fad(150,150)}♪ Yes... he is here. ♪
-Dialogue: 0,0:16:15.82,0:16:20.70,Musical,,0,0,0,,{\fad(150,150)}♪ Straw Hat! ♪
 Dialogue: 0,0:16:27.09,0:16:29.09,Main-207-,,0,0,0,,‫לופי הוא...
 Dialogue: 0,0:16:32.17,0:16:33.43,Main-207-,,0,0,0,,‫לא, לא!
 Dialogue: 0,0:16:37.05,0:16:41.64,Main-207-,,0,0,0,,‫עכשיו שאני מסתכל מקרוב, אתה נראה מוכר!\N‫לופי כובע הקש!
@@ -302,10 +265,8 @@ Dialogue: 0,0:19:55.08,0:19:56.92,Main-207-,,0,0,0,,‫היא נאמנה לשמ�
 Dialogue: 0,0:20:01.21,0:20:05.22,Main-207-,,0,0,0,,‫פגשת את סאנג'י?
 Dialogue: 0,0:20:05.22,0:20:09.27,Main-207-,,0,0,0,,‫כ-כ-כן... פעם אחת בלבד.
 Dialogue: 0,0:20:10.47,0:20:15.79,Main-207-,,0,0,0,,‫למרות שהגבות שלו מתולתלות,\N‫הוא מאוד אדיב וג'נטלמן!
-Dialogue: 0,0:20:15.79,0:20:17.80,Musical,,0,0,0,,{\fad(150,150}♪ Flower! Flower! ♪
 Dialogue: 0,0:20:17.80,0:20:19.36,Main-207-,,0,0,0,,‫למרות שיש לו עיניים לב,
 Dialogue: 0,0:20:19.36,0:20:23.30,Main-207-,,0,0,0,,‫הוא יודע כל כך הרבה על הכנת\N‫ממתקים ולימד אותי הרבה!
-Dialogue: 0,0:20:23.30,0:20:25.66,Musical,,0,0,0,,{\fad(150,150}♪ Flower! Flower! ♪
 Dialogue: 0,0:20:25.66,0:20:28.24,Main-207-,,0,0,0,,‫אנחנו אוהבים אותם דברים, והוא כל כך גברי!
 Dialogue: 0,0:20:28.24,0:20:32.21,Main-207-,,0,0,0,,‫שמעתי שהרגליים שלו שחורות,\N‫אבל הוא חזק ואמין!
 Dialogue: 0,0:20:32.21,0:20:34.00,Main-207-,,0,0,0,,‫הוא כן, נכון?!
@@ -444,7 +405,6 @@ Dialogue: 0,0:31:40.16,0:31:42.38,Main-207-,,0,0,0,,{\i1}‫הוא כבר כאן
 Dialogue: 0,0:31:42.38,0:31:46.09,Main-207-,,0,0,0,,‫אוה, מצוין. אני כבר לא יכול לחכות לראות אותו.
 Dialogue: 0,0:31:46.09,0:31:48.33,Main-207-,,0,0,0,,‫כן, בטח!
 Dialogue: 0,0:31:48.33,0:31:50.32,Main-207-,,0,0,0,,‫נתראה בעוד יומיים.
-Comment: 0,0:02:26.95,0:02:28.95,Title,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.09,0:00:03.67,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Team One Pace
 Dialogue: 1,0:00:00.09,0:00:03.67,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
 Dialogue: 2,0:00:00.09,0:00:03.67,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
@@ -484,15 +444,12 @@ Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(524,420)\blur0.1\bord0\f
 Dialogue: 0,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Feeso\NZenef
 Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
 Dialogue: 2,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:01:26.47,0:01:28.58,Credits,,0,0,0,,{\pos(820,430)}
-Dialogue: 0,0:01:30.05,0:01:32.75,Credits,,0,0,0,,{\pos(820,410)}
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Translation
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
-Comment: 0,0:01:37.38,0:01:39.38,Credits,,0,0,0,,CAPTIONS
 Dialogue: 0,0:02:20.37,0:02:26.95,Title,,0,0,0,,{\blur0.3\fad(1500,1050)\c&H000000&\1a&HFF&\t(1455,1500,\1a&H00&)\t(5530,5575,\1a&HFF&)}Totto Land
 Dialogue: 1,0:02:20.37,0:02:26.95,Title,,0,0,0,,{\bord0\blur0.3\fad(1500,1050)\4a&HFF&}Totto Land
 Dialogue: 0,0:09:35.72,0:09:39.22,Captions,,0,0,175,,{\blur0.3\fs60\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Owner of the Caramel Cafe

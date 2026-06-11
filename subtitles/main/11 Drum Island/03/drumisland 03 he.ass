@@ -30,14 +30,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:50.13,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.06,0:00:41.10,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:59.77,0:02:02.60,Main-207-,,0,0,0,,‫הארנבות המקוללות האלה...\N‫הן לא יכלו...
 Dialogue: 0,0:02:02.60,0:02:04.98,Main-207-,,0,0,0,,‫היי, סאנג'י. מה קרה?
 Dialogue: 0,0:02:04.98,0:02:06.98,Main-207-,,0,0,0,,‫מה בדיוק קורה פה?
@@ -459,12 +453,8 @@ Dialogue: 0,0:33:24.98,0:33:27.11,Main-207-,,0,0,0,,‫נכון. קסטיה עש
 Dialogue: 0,0:33:27.11,0:33:29.57,Main-207-,,0,0,0,,‫לך לטפל בנערה.
 Dialogue: 0,0:33:29.57,0:33:30.78,Main-207-,,0,0,0,,‫בסדר.
 Dialogue: 0,0:34:02.77,0:34:03.35,Main-207-,,0,0,0,,‫מי אתה?
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:49.96,0:01:55.18,Title-207-,,0,0,0,,{\fad(900,0)\blur0.5\3c&H0D0A08&\c&H0D0A08&\bord2.3\1a&HFF&\t(855,900,\1a&H00&)}The Summit
 Dialogue: 1,0:01:49.96,0:01:55.18,Title-207-,,0,0,0,,{\fad(900,0)\bord0\blur0.6\c&HE6E6E6&\4a&HFF&}The Summit
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Galaxy 9000\NGigglebot
@@ -501,5 +491,4 @@ Dialogue: 0,0:00:19.75,0:00:22.71,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(
 Dialogue: 1,0:00:19.75,0:00:22.71,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.75,0:00:22.71,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.75,0:00:22.71,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================== CREDITS==============================
 Dialogue: 0,0:34:03.35,0:34:08.35,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

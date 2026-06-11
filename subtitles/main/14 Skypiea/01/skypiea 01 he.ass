@@ -31,14 +31,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.67,0:01:49.71,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:25.42,0:00:25.46,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:53.93,0:02:03.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:01:51.25,0:01:53.13,Main-207-,,0,0,0,,‫לא יכול לנשום...!
 Dialogue: 0,0:02:14.69,0:02:16.57,Main-207-,,0,0,0,,‫לעזאזל! הם ברחו!
 Dialogue: 0,0:02:18.03,0:02:19.87,Main-207-,,0,0,0,,‫הם בר-מזל.
@@ -331,7 +325,6 @@ Dialogue: 0,0:18:36.80,0:18:39.33,Main-207-,,0,0,0,,‫אז בוא נלך! לא�
 Dialogue: 0,0:18:39.33,0:18:41.56,Main-207-,,0,0,0,,‫לא נוכל לשלם, אבל נעבור\N‫בכל מקרה!
 Dialogue: 0,0:18:41.56,0:18:44.56,Main-207-,,0,0,0,,‫כך. שבעתכם אז?
 Dialogue: 0,0:18:45.56,0:18:49.02,Main-207-,,0,0,0,,‫כן. אבל איך מגיעים\N‫לאי השמיים–
-Dialogue: 0,0:18:53.26,0:18:54.17,Main-207-,,0,0,0,,
 Dialogue: 0,0:18:54.17,0:18:56.48,Main-207-,,0,0,0,,‫מה ה...?! יש משהו כאן!
 Dialogue: 0,0:18:56.93,0:19:00.57,Main-207-,,0,0,0,,‫הלובסטר האקספרס המפורסם\N‫של הים הלבן...
 Dialogue: 0,0:19:02.95,0:19:04.83,Main-207-,,0,0,0,,‫הוא זז!
@@ -345,14 +338,10 @@ Dialogue: 0,0:19:28.31,0:19:32.50,Main-207-,,0,0,0,,{\i1}‫לתשומת לב ה
 Dialogue: 0,0:19:32.50,0:19:36.71,Main-207-,,0,0,0,,{\i1}‫שבעה פורצים בלתי חוקיים בדרכם\N‫אל אדמת האל סקייפיאה...
 Dialogue: 0,0:19:36.71,0:19:39.65,Main-207-,,0,0,0,,{\i1}‫שיקבלו את הגמול האלוהי!{\i0}
 Dialogue: 0,0:19:47.08,0:19:51.32,Main-207-,,0,0,0,,{\i1}‫שיקבלו את הגמול האלוהי!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:02:07.98,0:02:12.61,Title-207-,,0,0,0,,{\bord2\c&H262222&\3c&H171717&\1a&HFF&\blur0.6\fad(899,0)\t(854,899,\1a&H00&)}Heaven's Gate
 Dialogue: 1,0:02:07.98,0:02:12.61,Title-207-,,0,0,0,,{\bord0\4a&HFF&\blur0.6\fad(899,0)\c&HF8F8F9&}Heaven's Gate
 Dialogue: 0,0:17:32.03,0:17:36.15,Captions-207-,,0,0,0,,{\pos(720,759)\fscx75\fscy90\fnFOT-Greco Std DB Strp\b1\bord1.8\c&H030202&\3c&H030202&\1a&HFF&\blur0.5\fad(400,0)\t(355,400,\1a&H00&)}Inspector Amazon\NHeaven's Gate
 Dialogue: 1,0:17:32.03,0:17:36.15,Captions-207-,,0,0,0,,{\pos(720,759)\fscx75\fscy90\fnFOT-Greco Std DB Strp\b1\bord0\4a&HFF&\blur0.5\fad(400,0)}Inspector Amazon\NHeaven's Gate
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Video Editing
 Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Feeso
 Dialogue: 0,0:00:07.78,0:00:10.28,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Graphics
@@ -371,5 +360,4 @@ Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy
 Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}JT-421\NRavenfire\NSilence\Nthemuffinman\NZenef
 Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Translation
 Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}arch1t3cht\NExecutor\NFunimation\Nmieks
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:19:51.32,0:19:56.32,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

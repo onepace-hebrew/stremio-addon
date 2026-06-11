@@ -34,16 +34,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:50.01,0:01:50.05,Main-207-,chptr,0,0,0,,
-Comment: 0,0:23:25.30,0:23:25.34,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:47.90,0:00:47.94,Main-207-,OP,0,0,0,,
-Comment: 0,0:23:26.30,0:23:26.34,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.01,0:02:00.01,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:55.64,0:01:59.43,Main-207-,,0,0,0,,‫זאת מפת אוצר?
 Dialogue: 0,0:02:00.35,0:02:02.98,Main-207-,,0,0,0,,‫נראה שהיא מצביעה\N‫לכפר קוקויאשי...
 Dialogue: 0,0:02:03.39,0:02:05.40,Main-207-,,0,0,0,,‫יש אוצר בכפר קוקויאשי?!
@@ -258,8 +250,6 @@ Dialogue: 0,0:14:30.39,0:14:32.10,Main-207-,,0,0,0,,‫אתה רציני, קפט
 Dialogue: 0,0:14:32.10,0:14:34.44,Main-207-,,0,0,0,,‫אתה באמת תיתן לנאמי ללכת?!
 Dialogue: 0,0:14:34.44,0:14:36.02,Main-207-,,0,0,0,,‫אין לי אפשרות אחרת.
 Dialogue: 0,0:14:36.02,0:14:39.36,Main-207-,,0,0,0,,‫זה מה שהסכמנו עליו\N‫לפני שמונה שנים.
-Comment: 0,0:14:39.36,0:14:43.70,Main-207-,,0,0,0,,‫כשמדובר בכסף, אני מעדיף\N‫למות מאשר להפר את הבטחותיי.
-Comment: 0,0:14:44.45,0:14:45.91,Main-207-,,0,0,0,,[Maybe split the line and put the next part here somehow?]
 Dialogue: 0,0:14:39.36,0:14:45.91,Main-207-,,0,0,0,,‫כשמדובר בכסף, אני מעדיף\N‫למות מאשר להפר את מילתי.
 Dialogue: 0,0:14:46.66,0:14:48.87,Main-207-,,0,0,0,,‫תגיד את זה שוב, ותחטוף בעיטה בתחת!
 Dialogue: 0,0:14:48.87,0:14:51.62,Main-207-,,0,0,0,,‫עצור, לופי. לזה אין שום קשר\N‫לג'וני.
@@ -385,11 +375,9 @@ Dialogue: 0,0:21:13.00,0:21:14.84,Main-207-,,0,0,0,,‫אני מבינה עכש�
 Dialogue: 0,0:21:16.00,0:21:17.88,Main-207-,,0,0,0,,‫כן, זה היה פוגע בך קשה.
 Dialogue: 0,0:21:18.30,0:21:22.09,Main-207-,,0,0,0,,‫אני מופתע שמישהו\N‫באמת הגיע כדי להחזיר אותה.
 Dialogue: 0,0:21:22.64,0:21:24.68,Main-207-,,0,0,0,,‫חברים, מה...?
-Comment: 0,0:21:26.85,0:21:33.90,Main-207-,,0,0,0,,Please come up with a way to split this in three, it physically pains me to have a line like this - Gab
 Dialogue: 0,0:21:26.85,0:21:28.31,Main-207-,,0,0,0,,‫המילה הזאת...
 Dialogue: 0,0:21:28.98,0:21:30.19,Main-207-,,0,0,0,,‫בשבילה...
 Dialogue: 0,0:21:32.27,0:21:33.90,Main-207-,,0,0,0,,‫אין מילה כואבת יותר...
-Comment: 0,0:21:26.85,0:21:33.90,Main-207-,,0,0,0,,‫המילה הכי כואבת בשבילה...
 Dialogue: 0,0:21:34.82,0:21:36.19,Main-207-,,0,0,0,,‫אוסופ!
 Dialogue: 0,0:21:36.19,0:21:38.44,Main-207-,,0,0,0,,‫נאמי עשתה לך את זה?!
 Dialogue: 0,0:21:38.44,0:21:40.57,Main-207-,,0,0,0,,‫סליחה. זה היינו אני והבחור הזה.
@@ -435,8 +423,6 @@ Dialogue: 0,0:23:11.87,0:23:13.20,Main-207-,,0,0,0,,‫אתה, מה?
 Dialogue: 0,0:23:13.20,0:23:15.75,Main-207-,,0,0,0,,‫קח אותי לבית\N‫של הבחורה בשם נאמי.
 Dialogue: 0,0:23:15.75,0:23:19.54,Main-207-,,0,0,0,,‫נאמי? אבל בשם מה בכלל?
 Dialogue: 0,0:23:21.09,0:23:25.30,Main-207-,,0,0,0,,‫אתה פשוט צריך להוביל את הדרך.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:50.05,0:01:53.97,Title-207-,,0,0,0,,{\blur0.5\fad(978,0)\3c&H1E1E1E&\c&H1E1E1E&\bord2.3\1a&HFF&\t(936,978,\1a&H00&)}Sea Charts and Fishmen
 Dialogue: 1,0:01:50.05,0:01:53.97,Title-207-,,0,0,0,,{\blur0.5\fad(978,0)\c&HE7E6E6&\bord0\4a&HFF&}Sea Charts and Fishmen
 Dialogue: 0,0:09:20.08,0:09:25.00,Captions-207-,,0,0,0,,{\blur0.7\fad(480,0)\an2\bord4\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,720)\c&H000000&\3c&H000000&\1a&HFF&\t(438,480,\1a&H00&)}West Coast,\NCocoyashi Village
@@ -445,8 +431,6 @@ Dialogue: 0,0:11:16.70,0:11:21.66,Captions-207-,,0,0,0,,{\blur0.7\fad(518,479)\a
 Dialogue: 1,0:11:16.70,0:11:21.66,Captions-207-,,0,0,0,,{\blur0.7\fad(518,479)\an8\bord0\fnDFPGiHi-W7-Strp\fscx55\fscy60\pos(1125,400)\c&HFBFBFB&\4a&HFF&}Officer Chew\N(Kisser Fishman)\NArlong Pirates
 Dialogue: 0,0:11:23.58,0:11:28.54,Captions-207-,,0,0,0,,{\blur0.7\fad(478,0)\an8\bord3\fnDFPGiHi-W7-Strp\fscx55\fscy60\pos(302,400)\c&H000000&\3c&H000000&\1a&HFF&\t(437,478,\1a&H00&)}Officer Kuroobi\N(Ray Fishman)\NArlong Pirates
 Dialogue: 1,0:11:23.58,0:11:28.54,Captions-207-,,0,0,0,,{\blur0.7\fad(478,0)\an8\bord0\fnDFPGiHi-W7-Strp\fscx55\fscy60\pos(302,400)\c&HFBFBFA&\4a&HFF&}Officer Kuroobi\N(Ray Fishman)\NArlong Pirates
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:01.77,0:00:04.28,Credits-207-,,0,0,0,,{\pos(90,225)\fad(607,610)\blur0.6\bord3\c&H000000&\1a&HFF&\t(566,607,\1a&H00&)\t(1900,1942,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.77,0:00:04.28,Credits-207-,,0,0,0,,{\pos(90,225)\fad(607,610)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.77,0:00:04.28,Credits-207-,,0,0,0,,{\pos(130,270)\fad(607,610)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(566,607,\1a&H00&)\t(1900,1942,\1a&HFF&)}Gigglebot\NZenef
@@ -483,5 +467,4 @@ Dialogue: 0,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(90,350)\fad(602,0)\
 Dialogue: 1,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(90,350)\fad(602,0)\blur0.6\bord0\4a&HFF&}Translation
 Dialogue: 0,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(130,395)\fad(602,0)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(561,602,\1a&H00&)}arch1t3cht\Ndanpmss\NFunimation\NGaijin\NPamkinPinguin
 Dialogue: 1,0:00:16.79,0:00:19.25,Credits-207-,,0,0,0,,{\pos(130,395)\fad(602,0)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}arch1t3cht\Ndanpmss\NFunimation\NGaijin\NPamkinPinguin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:23:26.34,0:23:31.34,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

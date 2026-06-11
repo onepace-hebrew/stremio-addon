@@ -33,14 +33,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:30.03,0:01:30.07,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:16.37,0:00:16.41,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:30.03,0:01:40.02,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:32.91,0:01:37.29,Main-207-,,0,0,0,,‫אתה עדיין מקשקש את\N‫השטויות האלה, פרחח עלוב?!
 Dialogue: 0,0:01:37.29,0:01:39.66,Main-207-,,0,0,0,,‫מלך הפיראטים?!
 Dialogue: 0,0:01:46.17,0:01:49.05,Thoughts-207-,,0,0,0,,‫המתקפה שלו באמת פגעה בי?
@@ -139,7 +133,6 @@ Dialogue: 0,0:08:07.38,0:08:08.47,Main-207-,,0,0,0,,‫רדוד מדי!
 Dialogue: 0,0:08:16.35,0:08:17.98,Main-207-,,0,0,0,,‫אני מתרשם!
 Dialogue: 0,0:08:18.48,0:08:22.94,Main-207-,,0,0,0,,‫אני חייב לשחרר עוד קצת מהכוח של אנמה!
 Dialogue: 0,0:08:23.27,0:08:24.48,Main-207-,,0,0,0,,‫קאידו!
-Comment: 0,0:08:24.48,0:08:25.57,Main-207-,,0,0,0,,‫המ?
 Dialogue: 0,0:08:26.49,0:08:29.11,Main-207-,,0,0,0,,‫אנחנו מסיימים את כל זה בבת אחת!
 Dialogue: 0,0:08:29.11,0:08:31.66,Main-207-,,0,0,0,,{\fad(150,150)}‫גיר פורת'!
 Dialogue: 0,0:08:54.18,0:08:55.85,Main-207-,,0,0,0,,{\fad(150,150)}‫באונדמן!
@@ -259,8 +252,6 @@ Dialogue: 0,0:22:49.26,0:22:51.06,Main-207-,,0,0,0,,‫אסון טבע, האה?!
 Dialogue: 0,0:23:27.01,0:23:28.39,Main-207-,,0,0,0,,‫כובע הקש!
 Dialogue: 0,0:23:28.39,0:23:31.89,Main-207-,,0,0,0,,‫למה הברק לא פגע בך?!
 Dialogue: 0,0:23:38.31,0:23:41.57,Main-207-,,0,0,0,,‫כי אני גומי!
-Comment: 0,0:23:38.31,0:23:39.56,Main-207-,,0,0,0,,‫כי...
-Comment: 0,0:23:39.56,0:23:41.57,Main-207-,,0,0,0,,‫אני גומי!
 Dialogue: 0,0:23:45.07,0:23:47.78,Main-207-,,0,0,0,,‫אתה תשלם על שפגעת\N‫בזורו ובאחרים!
 Dialogue: 0,0:23:50.49,0:23:52.37,Main-207-,,0,0,0,,{\fad(150,150)}‫בלאסט ברת'!
 Dialogue: 0,0:24:23.53,0:24:26.90,Main-207-,,0,0,0,,‫גם הלהבות שלי לא עבדו?! למה?!
@@ -268,11 +259,8 @@ Dialogue: 0,0:24:30.20,0:24:32.33,Main-207-,,0,0,0,,‫אומץ!
 Dialogue: 0,0:24:34.29,0:24:36.87,Main-207-,,0,0,0,,{\fad(150,150)}‫גאם-גאם...
 Dialogue: 0,0:24:41.38,0:24:43.13,Main-207-,,0,0,0,,{\fad(150,150)}‫קונג...
 Dialogue: 0,0:24:47.09,0:24:51.01,Main-207-,,0,0,0,,{\fad(150,150)}‫גאטלינג!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 2,0:01:30.07,0:01:32.91,Title-207-,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(729,0)}Battle of Monsters on Onigashima
 Dialogue: 1,0:01:30.07,0:01:32.91,Title-207-,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur0.6\fad(729,0)\t(687,729,\1a&H00&)}Battle of Monsters on Onigashima
-Comment: 0,0:15:52.01,0:15:54.35,Captions-207-,,0,0,0,,Demolition Gust
 Dialogue: 9,0:15:52.10,0:15:52.14,Captions-207-,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(810,912)\1a&HFE&\bord0\xshad10\yshad10\blur4\4c&HE9F9E7&\3a&HFF&\iclip(m 614.01 843.5 l 483.45 971.46 653.34 1042.71 727.45 869.34 743.21 828.18 834.31 845.26 797.52 907.01 761.17 975.33 720.39 1049.36 934.16 1050.73 934.6 883.8 934.16 824.67 1074.31 835.18 1098.26 1037.83 1234.2 1026.96 1104.53 802.34 1230.66 783.94 1384.82 991.53 1426.03 1050.13 955.3 1069.75 706.87 1068.9 443.93 1034.75 461 923.76 548.52 829.19 581.47 794.37)}Demolition
 Dialogue: 8,0:15:52.10,0:15:52.14,Captions-207-,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(808,914)\1a&HFE&\bord0\xshad10\yshad10\blur4\4c&HDCF9D9&\3a&HFF&\iclip(m 614.01 843.5 l 483.45 971.46 653.34 1042.71 727.45 869.34 743.21 828.18 834.31 845.26 797.52 907.01 761.17 975.33 720.39 1049.36 934.16 1050.73 934.6 883.8 934.16 824.67 1074.31 835.18 1098.26 1037.83 1234.2 1026.96 1104.53 802.34 1230.66 783.94 1384.82 991.53 1426.03 1050.13 955.3 1069.75 706.87 1068.9 443.93 1034.75 461 923.76 548.52 829.19 581.47 794.37)}Demolition
 Dialogue: 7,0:15:52.10,0:15:52.14,Captions-207-,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(806,916)\1a&HFE&\bord0\xshad10\yshad10\blur4\4c&HD3FCCF&\3a&HFF&\iclip(m 614.01 843.5 l 483.45 971.46 653.34 1042.71 727.45 869.34 743.21 828.18 834.31 845.26 797.52 907.01 761.17 975.33 720.39 1049.36 934.16 1050.73 934.6 883.8 934.16 824.67 1074.31 835.18 1098.26 1037.83 1234.2 1026.96 1104.53 802.34 1230.66 783.94 1384.82 991.53 1426.03 1050.13 955.3 1069.75 706.87 1068.9 443.93 1034.75 461 923.76 548.52 829.19 581.47 794.37)}Demolition
@@ -351,14 +339,6 @@ Dialogue: 10,0:15:52.22,0:15:54.35,Captions-207-,,0,0,0,,{\an5\fnArtificeSSK\fsc
 Dialogue: 10,0:15:52.22,0:15:54.35,Captions-207-,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(1240,935)\bord0\blur0.5\1c&HD9FCD2&\1a&H56&}Gust
 Dialogue: 11,0:15:52.22,0:15:54.35,Captions-207-,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(1219,915)\bord3\blur0.8\c&HBAECB6&\3c&HBAECB6&}Gust
 Dialogue: 12,0:15:52.22,0:15:54.35,Captions-207-,,0,0,0,,{\an5\fnArtificeSSK\fscx200\fscy200\pos(1219,915)\bord0\blur0.8\c&H212020&}Gust
-Comment: 0,0:15:52.10,0:15:54.35,Captions-207-,,0,0,0,,Demolition Gust
-Comment: 0,0:17:22.02,0:17:22.44,Captions-207-,,0,0,0,,Kong
-Comment: 0,0:17:22.44,0:17:22.90,Captions-207-,,0,0,0,,Rifle
-Comment: 0,0:17:51.93,0:17:52.26,Captions-207-,,0,0,0,,Slam
-Comment: 0,0:17:52.26,0:17:52.84,Captions-207-,,0,0,0,,Gibson
-Comment: 0,0:19:28.48,0:19:30.19,Captions-207-,,0,0,0,,Scyther Sonic
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:16.37,0:00:19.83,Credits-207-,,0,0,0,,{\pos(200,175)\fad(200,200)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:16.37,0:00:19.83,Credits-207-,,0,0,0,,{\pos(200,175)\fad(200,200)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:16.37,0:00:19.83,Credits-207-,,0,0,0,,{\pos(250,225)\fad(200,200)\blur0.3\bord4\fscx130\fscy130\c&H000000&}fedew
@@ -402,5 +382,4 @@ Dialogue: 1,0:00:38.60,0:00:42.23,Credits-207-,,0,0,0,,{\pos(1350,175)\fad(200,0
 Dialogue: 0,0:00:38.60,0:00:42.23,Credits-207-,,0,0,0,,{\pos(1400,225)\fad(200,0)\blur0.3\bord4\fscx120\fscy120\c&H000000&}Crunchyroll\NPamkinPinguin\Nspicyapples
 Dialogue: 1,0:00:38.60,0:00:42.23,Credits-207-,,0,0,0,,{\pos(1400,225)\fad(200,0)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NPamkinPinguin\Nspicyapples
 Dialogue: 2,0:00:38.60,0:00:42.23,Credits-207-,,0,0,0,,{\pos(1400,225)\fad(200,0)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NPamkinPinguin\Nspicyapples
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:24:51.01,0:24:56.01,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

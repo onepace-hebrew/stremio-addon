@@ -35,17 +35,8 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:01:31.36,0:01:31.40,Main-207-,chptr,0,0,0,,
-Comment: 0,0:03:01.45,0:03:01.49,Main-207-,chptr,0,0,0,,
-Comment: 0,0:31:16.23,0:31:16.27,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:39.91,0:01:39.95,Main-207-,OP,0,0,0,,
-Comment: 0,0:31:43.05,0:31:43.09,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:03:01.45,0:03:11.44,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:03:05.25,0:03:06.21,Main-207-,,0,0,0,,‫גארפ?!
 Dialogue: 0,0:03:06.21,0:03:08.46,Main-207-,,0,0,0,,‫הוא נעלם באי הפיראטים?!
 Dialogue: 0,0:03:08.46,0:03:09.88,Main-207-,,0,0,0,,‫זה נכון?!
@@ -175,9 +166,7 @@ Dialogue: 0,0:11:41.76,0:11:44.23,Main-207-,,0,0,0,,‫רק תגלו למי הם
 Dialogue: 0,0:11:48.69,0:11:49.61,Main-207-,,0,0,0,,‫זו מארי ג'ואה!
 Dialogue: 0,0:11:55.32,0:11:56.65,Main-207-,,0,0,0,,‫מי זה?
 Dialogue: 0,0:11:57.24,0:12:01.03,Main-207-,,0,0,0,,‫אדמירל, הדבר הזה על פרק היד שלך\N‫הוא חילזון מאזין שחור.
-Comment: 0,0:12:01.03,0:12:02.28,Main-207-,,0,0,0,,
 Dialogue: 0,0:12:02.28,0:12:04.04,Main-207-,,0,0,0,,‫אתה יכול להאזין לשיחה.
-Comment: 0,0:12:04.04,0:12:05.50,Main-207-,,0,0,0,,
 Dialogue: 0,0:12:13.96,0:12:15.42,Main-207-,,0,0,0,,‫הלו?! זו אני!
 Dialogue: 0,0:12:15.42,0:12:16.92,Main-207-,,0,0,0,,{\i1}‫יורק!
 Dialogue: 0,0:12:16.92,0:12:18.05,Main-207-,,0,0,0,,‫אה, זו את.
@@ -518,8 +507,6 @@ Dialogue: 0,0:30:58.34,0:30:59.55,Main-207-,,0,0,0,,‫מה זה?!
 Dialogue: 0,0:30:59.92,0:31:01.76,Main-207-,,0,0,0,,‫אור מלמטה?!
 Dialogue: 0,0:31:05.01,0:31:06.72,Main-207-,,0,0,0,,‫יש כאן מישהו!
 Dialogue: 0,0:31:07.55,0:31:09.01,Main-207-,,0,0,0,,‫מישהו חזק!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:03:01.49,0:03:04.87,Captions-207-,,0,0,0,,{\pos(1540,725)\fscx90\fscy90\fnRoboto\b1\bord3\c&HFBF7F5&\3c&HFBF7F5&\blur0.7\1a&HFF&\fad(483,0)\t(442,483,\1a&H00&)}Windmill Village,\NEast Blue
 Dialogue: 1,0:03:01.49,0:03:04.87,Captions-207-,,0,0,0,,{\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H000101&\pos(1540,725)\fad(483,0)}Windmill Village,\NEast Blue
 Dialogue: 0,0:03:47.37,0:03:49.58,Note-207-,,0,0,0,,"Straw Hats' Hostage Situation"
@@ -533,7 +520,6 @@ Dialogue: 2,0:04:37.13,0:04:39.13,Captions-207-,,0,0,0,,{\an8\fnM+ 1c Pace\fscx2
 Dialogue: 1,0:04:37.13,0:04:39.13,Captions-207-,,0,0,0,,{\an8\fnM+ 1c Pace\fscx200\fscy200\pos(960,785)\1c&H000000&\3c&HFFFFFF&\bord2.5\blur4}West Blue
 Dialogue: 2,0:04:42.55,0:04:44.64,Captions-207-,,0,0,0,,{\an8\fnM+ 1c Pace\fscx200\fscy200\pos(960,785)\bord0\c&H000000&\blur0.6}North Blue
 Dialogue: 1,0:04:42.55,0:04:44.64,Captions-207-,,0,0,0,,{\an8\fnM+ 1c Pace\fscx200\fscy200\pos(960,785)\1c&H000000&\3c&HFFFFFF&\bord2.5\blur4}North Blue
-Dialogue: 0,0:04:47.89,0:04:56.98,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,540)\p1\c&H000000&}m -714 -574 l 744 -574 744 540 -714 540
 Dialogue: 1,0:04:47.89,0:04:56.98,Captions-207-,,0,0,0,,{\an5\pos(960,540)\fscx150\fscy150\bord0\blur0.8\fad(982,0)}The earthquake on that day\Nwas unprecedented in recorded history.\N\N\NIt left severe damage\Nin its wake across the world.
 Dialogue: 2,0:04:57.99,0:04:59.95,Captions-207-,,0,0,0,,{\an8\fnM+ 1c Pace\fscx200\fscy200\pos(960,725)\bord0\c&H000000&\blur0.6}Grand Line
 Dialogue: 1,0:04:57.99,0:04:59.95,Captions-207-,,0,0,0,,{\an8\fnM+ 1c Pace\fscx200\fscy200\pos(960,725)\1c&H000000&\3c&HFFFFFF&\bord2.5\blur4}Grand Line
@@ -547,10 +533,7 @@ Dialogue: 0,0:16:03.32,0:16:05.86,Captions-207-,,0,0,0,,{\pos(1536,550)\fscx90\f
 Dialogue: 1,0:16:03.32,0:16:05.86,Captions-207-,,0,0,0,,{\fnRoboto\b1\blur0.7\bord0\fscx90\fscy90\c&H000101&\pos(1536,550)\fad(476,0)}World Economic News
 Dialogue: 0,0:18:55.32,0:19:00.99,Captions-207-,,0,0,0,,{\pos(944,785)\fad(481,0)\1a&HFF&\t(440,481,\1a&H00&)\fnFOT-KafuTechno Std U Strp\blur0.8\bord2.5\shad2\fscx125\fscy125\c&HFEFDFD&\3c&HFEFDFD&\4c&HFEFDFD&}Basement, Labophase
 Dialogue: 1,0:18:55.32,0:19:00.99,Captions-207-,,0,0,0,,{\pos(944,785)\fad(481,0)\fnFOT-KafuTechno Std U Strp\blur0.8\bord0\fscx125\fscy125\c&H010100&}Basement, Labophase
-Dialogue: 0,0:24:03.59,0:24:11.55,Captions-207-,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(636,638)\p1\c&HE9FDFD&}m -366 -243 l 376 -243 376 -88 -366 -88
 Dialogue: 2,0:24:03.59,0:24:11.55,Captions-207-,,0,0,0,,{\an5\pos(641,472.5)\fnFOT-KafuTechno Std U Strp\blur0.8\bord0\fscx140\fscy140\c&H010100&}Flight-Capable Airspace
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:01:32.16,0:01:37.91,Credits-207-,,0,0,0,,{\pos(1441.48,703)\fscx55\fscy55\fnFOT-Aokane Std EB-Strp\b800\bord0\c&H4D0403&}Video Editing
 Dialogue: 0,0:01:32.16,0:01:37.91,Credits-207-,,0,0,0,,{\pos(1460.57,726)\fscx90\fscy90\fnFOT-Aokane Std EB-Strp\b800\bord0\c&H4D0403&}Galaxy 9000
 Dialogue: 0,0:01:50.34,0:01:52.34,Credits-207-,,0,0,0,,{\an1\fscx75\fscy75\fnFOT-Carat Std UB-Strp\b900\bord0\c&H4CDAE6&\pos(184,140)}Timing
@@ -570,5 +553,4 @@ Dialogue: 0,0:02:41.93,0:02:44.48,Credits-207-,,0,0,0,,{\pos(850,73)\fscx70\fscy
 Dialogue: 0,0:02:41.93,0:02:44.48,Credits-207-,,0,0,0,,{\pos(902,104)\fscx90\fscy90\fnFOT-TsukuARdGothic Std E-Strp\b800\bord0}Gab
 Dialogue: 0,0:02:44.48,0:02:48.31,Credits-207-,,0,0,0,,{\an1\pos(1165.33,460)\fscx70\fscy70\fnFOT-Comet Std B-Strp\b700\bord0\c&HFFFEFF&}Translation
 Dialogue: 0,0:02:44.48,0:02:48.31,Credits-207-,,0,0,0,,{\an1\pos(1250.33,581)\fscx110\fscy110\fnFOT-Comet Std B-Strp\b700\bord0\c&HFFFEFF&}Crunchyroll\NNikki
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:31:43.09,0:31:48.09,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

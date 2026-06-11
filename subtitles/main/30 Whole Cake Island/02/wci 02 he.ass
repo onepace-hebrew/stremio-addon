@@ -37,7 +37,6 @@ Style: Note,Guttman Yad-Brush,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Dialogue: 0,0:01:42.28,0:01:51.75,Musical,,0,0,0,,{\fad(150,150)}♪ Ship! Ship! Ship! Ship! ♪
 Dialogue: 0,0:02:07.54,0:02:11.42,Main-207-,,0,0,0,,‫אגב, קראת פעם את ה-WEN?
 Dialogue: 0,0:02:11.42,0:02:15.68,Main-207-,,0,0,0,,‫ה-WEN, אתה יודע? \N‫עיתון הכלכלה העולמי?
 Dialogue: 0,0:02:15.68,0:02:17.42,Main-207-,,0,0,0,,‫אתה מכיר את זה, נכון?
@@ -63,7 +62,6 @@ Dialogue: 0,0:03:25.43,0:03:28.81,Main-207-,,0,0,0,,‫אל תכלול אותי!
 Dialogue: 0,0:03:31.26,0:03:36.44,Main-207-,,0,0,0,,‫אל תגיד דברים כאלה!\N‫אני קצת שמח לראות אותך בפועל, בעצם!
 Dialogue: 0,0:03:36.44,0:03:38.79,Main-207-,,0,0,0,,‫למה שלא תגיד להם את זה?
 Dialogue: 0,0:03:44.92,0:03:46.45,Main-207-,,0,0,0,,‫הי, פתוח!
-Dialogue: 0,0:03:49.24,0:03:51.37,Musical,,0,0,0,,{\fad(150,150)}♪ Door! ♪
 Dialogue: 0,0:03:59.32,0:04:01.17,Main-207-,,0,0,0,,‫תשמע...
 Dialogue: 0,0:04:01.17,0:04:04.55,Main-207-,,0,0,0,,‫תפסיק לעקוב אחרי!\N‫חשבתי שזה החדר שלי!
 Dialogue: 0,0:04:05.18,0:04:09.47,Main-207-,,0,0,0,,‫החדר הזה שייך גם לי!\N‫תוציא אותי! לעזאזל!
@@ -419,7 +417,6 @@ Dialogue: 0,0:32:48.61,0:32:52.03,Main-207-,,0,0,0,,‫הם לא התעמתו ע
 Dialogue: 0,0:32:53.88,0:32:59.04,Main-207-,,0,0,0,,‫כן, אני בטוח שזו האוניה שלהם.\N‫גם לופי עם כובע הקש נמצא שם.
 Dialogue: 0,0:33:01.54,0:33:03.25,Main-207-,,0,0,0,,‫מה אתה רוצה לעשות...
 Dialogue: 0,0:33:04.17,0:33:06.34,Main-207-,,0,0,0,,‫ג'ינביי?
-Comment: 0,0:01:51.71,0:01:53.71,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Team One Pace
 Dialogue: 1,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
 Dialogue: 2,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
@@ -459,15 +456,12 @@ Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(524,420)\blur0.1\bord0\f
 Dialogue: 0,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Feeso\NZenef
 Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
 Dialogue: 2,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:01:26.47,0:01:28.58,Credits,,0,0,0,,{\pos(820,430)}
-Dialogue: 0,0:01:30.05,0:01:32.75,Credits,,0,0,0,,{\pos(820,410)}
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Translation
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
-Comment: 0,0:01:37.38,0:01:39.38,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:48.12,0:01:51.71,Title,,0,0,0,,{\blur0.3\fad(925,300)\c&H000000&\1a&HFF&\t(880,925,\1a&H00&)\t(3290,3335,\1a&HFF&)}0 and 4
 Dialogue: 1,0:01:48.12,0:01:51.71,Title,,0,0,0,,{\bord0\blur0.3\fad(925,300)\c&HF7F8F6&\4a&HFF&}0 and 4
 Dialogue: 0,0:04:41.63,0:04:45.13,Captions,,0,0,0,,{\blur0.3\fs55\pos(630.667,485)\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Gotti "the Hitman"\N{\fs45}The Fire Tank Pirates

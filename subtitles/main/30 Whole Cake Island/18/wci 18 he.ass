@@ -254,25 +254,7 @@ Dialogue: 0,0:17:48.67,0:17:54.01,Main-207-,,0,0,0,,‫לא כדאי לנו לע
 Dialogue: 0,0:17:54.01,0:17:57.38,Main-207-,,0,0,0,,‫כל השאר תלוי במה שכובע הקש יגיד.
 Dialogue: 0,0:17:57.38,0:18:00.10,Main-207-,,0,0,0,,‫אם זה לא יסתדר...
 Dialogue: 0,0:18:01.77,0:18:04.10,Main-207-,,0,0,0,,‫פשוט נהרוג אותו!
-Dialogue: 0,0:18:27.83,0:18:32.35,Musical,,0,0,0,,{\fad(150,150)}♪ Soft and fluffy... ♪
-Dialogue: 0,0:18:30.04,0:18:32.35,Musical,,0,0,0,,{\fad(150,150)}♪ Moist and fluffy... ♪
-Dialogue: 0,0:18:32.35,0:18:36.34,Musical,,0,0,0,,{\fad(150,150)}♪ ...life! ♪
-Dialogue: 0,0:18:34.84,0:18:36.34,Musical,,0,0,0,,{\fad(150,150)}♪ There's no such thing! ♪
-Dialogue: 0,0:18:36.34,0:18:42.47,Musical,,0,0,0,,{\fad(150,150)\pos(650,722)}♪ A life of torment, the taste of tears... ♪
-Dialogue: 0,0:18:42.47,0:18:43.85,Musical,,0,0,0,,{\fad(150,150)}♪ A pinch of salt! ♪
-Dialogue: 0,0:18:43.85,0:18:49.27,Musical,,0,0,0,,{\fad(150,150)}♪ Tears of mortification! ♪
-Dialogue: 0,0:18:46.96,0:18:49.27,Musical,,0,0,0,,{\fad(150,150)}♪ A tablespoonful ♪
-Dialogue: 0,0:18:49.27,0:18:54.15,Musical,,0,0,0,,{\fad(150,150)}♪ If that's how it is at least for your dessert... ♪
-Dialogue: 0,0:18:54.15,0:19:04.03,Musical,,0,0,0,,{\fad(150,150)}♪ ...don't you want some sweet cake? ♪
 Dialogue: 0,0:18:58.82,0:19:04.03,Secondary-207-,,0,0,0,,{\an8}‫שף ראשי! שף ראשי!
-Dialogue: 0,0:19:04.03,0:19:08.17,Musical,,0,0,0,,{\fad(150,150)}♪ Soft and fluffy... ♪
-Dialogue: 0,0:19:06.08,0:19:08.17,Musical,,0,0,0,,{\fad(150,150)}♪ Moist and fluffy... ♪
-Dialogue: 0,0:19:08.17,0:19:11.92,Musical,,0,0,0,,{\fad(150,150)}♪ Soft and fluffy... ♪
-Dialogue: 0,0:19:10.17,0:19:11.92,Musical,,0,0,0,,{\fad(150,150)}♪ Moist and fluffy... ♪
-Dialogue: 0,0:19:11.92,0:19:16.00,Musical,,0,0,0,,{\fad(150,150)}♪ Soft and fluffy... ♪
-Dialogue: 0,0:19:13.92,0:19:16.00,Musical,,0,0,0,,{\fad(150,150)}♪ Moist and fluffy... ♪
-Dialogue: 0,0:19:16.00,0:19:20.45,Musical,,0,0,0,,{\fad(150,150)}♪ Soft and fluffy... ♪
-Dialogue: 0,0:19:17.96,0:19:20.45,Musical,,0,0,0,,{\fad(150,150)}♪ Moist and fluffy... ♪
 Dialogue: 0,0:19:27.10,0:19:30.77,Main-207-,,0,0,0,,{\pos(650,720)}‫לא, פקומס! אתה צריך לנוח!
 Dialogue: 0,0:19:32.74,0:19:40.32,Main-207-,,0,0,0,,‫ג'ינביי באמת סיפר למאמא על הבוגד בגה?
 Dialogue: 0,0:19:40.32,0:19:41.74,Main-207-,,0,0,0,,‫כמובן!
@@ -489,7 +471,6 @@ Dialogue: 0,0:35:52.08,0:35:56.13,Main-207-,,0,0,0,,‫אבל אם תלחצו י
 Dialogue: 0,0:35:59.42,0:36:00.87,Main-207-,,0,0,0,,‫אז מה התוכנית?!
 Dialogue: 0,0:36:00.87,0:36:03.52,Main-207-,,0,0,0,,‫תכננתי את הכל בפרטים קפדניים.
 Dialogue: 0,0:36:03.52,0:36:07.68,Main-207-,,0,0,0,,‫בואו פשוט נעשה את זה!\N‫ואז אסיים איתכם!
-Comment: 0,0:36:10.80,0:36:10.80,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -534,7 +515,6 @@ Dialogue: 1,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.69,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:36:10.80,0:36:10.80,Credits,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.60,0:01:39.08,Captions,,0,0,0,,{\blur0.3\fs60\fad(525,750)\pos(639.455,543.455)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)\t(3730,3775,\1a&HFF&)}Outskirts of Sweet City
 Dialogue: 1,0:01:34.60,0:01:39.08,Captions,,0,0,0,,{\bord0\blur0.3\fs60\fad(525,750)\pos(639.455,543.455)\4a&HFF&}Outskirts of Sweet City
 Dialogue: 0,0:02:50.72,0:02:55.07,Title,,0,0,0,,{\blur0.3\fad(825,0)\c&H000000&\1a&HFF&\t(780,825,\1a&H00&)}Rook
@@ -567,7 +547,6 @@ Dialogue: 0,0:23:11.20,0:23:15.79,Captions,,0,0,0,,{\blur0.3\fs50\fad(500,600)\c
 Dialogue: 1,0:23:11.20,0:23:15.79,Captions,,0,0,0,,{\bord0\blur0.3\fs50\fad(500,600)\4a&HFF&\pos(1097.182,406.566)}Women's Bath\NBege's Base
 Dialogue: 0,0:28:03.36,0:28:06.56,Captions,,0,0,0,,{\blur0.3\fs35\fad(500,500)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(2700,2745,\1a&HFF&)\pos(1110.889,415.889)}3 Hours and 30 Minutes\NUntil the Tea Party
 Dialogue: 1,0:28:03.36,0:28:06.56,Captions,,0,0,0,,{\bord0\blur0.3\fs35\fad(500,500)\4a&HFF&\pos(1110.889,415.889)}3 Hours and 30 Minutes\NUntil the Tea Party
-Comment: 0,0:11:36.29,0:11:36.29,Captions,,0,0,0,,TYPESETTING
 Dialogue: 0,0:07:41.69,0:07:41.73,Thump,,0,0,0,,{\blur0.5\alpha&HF0&\frz21.18\fs36.5\pos(276.514,155.161)\c&HB18FFE&}Thump!
 Dialogue: 1,0:07:41.69,0:07:41.73,Thump,,0,0,0,,{\bord0\blur0.5\alpha&HF0&\frz21.18\fs36.5\pos(276.514,155.161)\4a&HFF&}Thump!
 Dialogue: 0,0:07:41.73,0:07:41.77,Thump,,0,0,0,,{\blur0.5\alpha&HDC&\frz21.18\fs38\pos(274.847,146.494)\c&HB18FFE&}Thump!
@@ -642,9 +621,6 @@ Dialogue: 0,0:07:43.15,0:07:43.19,Thump,,0,0,0,,{\blur0.5\frz21.18\fs50\pos(268,
 Dialogue: 1,0:07:43.15,0:07:43.19,Thump,,0,0,0,,{\bord0\blur0.5\frz21.18\fs50\pos(268,31.432)\4a&HFF&}Thump!
 Dialogue: 0,0:07:43.19,0:07:50.15,Thump,,0,0,0,,{\blur0.5\frz21.18\fs50\pos(268,31)\c&HB18FFE&}Thump!
 Dialogue: 1,0:07:43.19,0:07:50.15,Thump,,0,0,0,,{\bord0\blur0.5\frz21.18\fs50\pos(268,31)\4a&HFF&}Thump!
-Comment: 0,0:11:36.29,0:11:38.79,Newspaper,,0,0,0,,{\frz24.54\org(694,228)\pos(650,214)}BLOODY TRAGEDY! AN INTERNAL FEUD?!
-Comment: 0,0:11:38.79,0:11:41.26,Newspaper,,0,0,0,,{\frz340.9\pos(609,271.333)}WAKING NIGHTMARE! UNDERWORLD REMAINS TENSE
-Comment: 0,0:11:41.26,0:11:43.72,Newspaper,,0,0,0,,{\pos(636,274.666)}THE UNDERWORLD SOCIETY IN CHAOS! TRIGGERED BY THE ASSASSINATION?
 Dialogue: 0,0:33:29.68,0:33:29.72,Gastino,,0,0,0,,{\blur0.8\bord3\fs55\pos(125,425)\3a&HD1&\1a&HFF&\c&H000000&}"Gangster"\N{\fs75}Gastino
 Dialogue: 1,0:33:29.68,0:33:29.72,Gastino,,0,0,0,,{\blur0.8\bord0\fs55\pos(125,425)\3a&HD1&\1a&HD1&\4a&HFF&}"Gangster"\N{\fs75}Gastino
 Dialogue: 0,0:33:29.72,0:33:29.76,Gastino,,0,0,0,,{\blur0.8\bord3\fs55\pos(245,425)\3a&H90&\1a&HFF&\c&H000000&}"Gangster"\N{\fs75}Gastino

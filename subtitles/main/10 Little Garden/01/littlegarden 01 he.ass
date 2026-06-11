@@ -33,16 +33,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:28:56.05,0:28:56.09,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.06,0:00:41.10,Main-207-,OP,0,0,0,,
-Comment: 0,0:28:58.05,0:28:58.09,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:02:12.53,0:02:14.53,Main-207-,,0,0,0,,‫תהיתי אם ירד שלג שוב.
 Dialogue: 0,0:02:14.53,0:02:16.03,Main-207-,,0,0,0,,‫למה שירד?
 Dialogue: 0,0:02:16.03,0:02:19.20,Main-207-,,0,0,0,,‫פשוט יורד. אתה לא יודע\N‫כי ישנת בזמן.
@@ -221,7 +213,6 @@ Dialogue: 0,0:13:42.76,0:13:46.18,Main-207-,,0,0,0,,‫מיס ווינסדיי �
 Dialogue: 0,0:13:46.18,0:13:49.22,Main-207-,,0,0,0,,‫היא כן חדרה לארגון אויב,\N‫אחרי הכל.
 Dialogue: 0,0:13:52.23,0:13:55.11,Main-207-,,0,0,0,,‫ובכן, גם אני משועמם.\N‫אני הולך לטייל.
 Dialogue: 0,0:13:55.11,0:13:56.07,Main-207-,,0,0,0,,‫טיול?!
-Comment: 0,0:13:56.65,0:13:58.53,Main-207-,,0,0,0,,‫היה-הו!
 Dialogue: 0,0:13:59.36,0:14:00.49,Main-207-,,0,0,0,,‫היי, זורו!
 Dialogue: 0,0:14:01.11,0:14:02.28,Main-207-,,0,0,0,,‫רגע!
 Dialogue: 0,0:14:03.61,0:14:05.49,Main-207-,,0,0,0,,‫אנחנו קצרים במזון.
@@ -431,8 +422,6 @@ Dialogue: 0,0:28:17.38,0:28:19.05,Main-207-,,0,0,0,,‫זה לא ככה.
 Dialogue: 0,0:28:26.48,0:28:28.48,Main-207-,,0,0,0,,‫נכון. זה עניין של כבוד!
 Dialogue: 0,0:28:37.24,0:28:39.66,Main-207-,,0,0,0,,‫שכחתי את הסיבה...
 Dialogue: 0,0:28:41.66,0:28:44.20,Main-207-,,0,0,0,,‫מזמן!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:49.96,0:01:57.47,Title-207-,,0,0,0,,{\blur0.5\fad(984,937)\3c&H1E1E1E&\c&H1E1E1E&\bord2.3\1a&HFF&\t(942,984,\1a&H00&)\t(6573,6615,\1a&HFF&)}Adventure on Little Garden
 Dialogue: 1,0:01:49.96,0:01:57.47,Title-207-,,0,0,0,,{\blur0.5\fad(984,937)\c&HE7E6E6&\bord0\4a&HFF&}Adventure on Little Garden
 Dialogue: 0,0:06:46.55,0:06:50.60,Captions-207-,,0,0,0,,{\blur0.7\fad(482,2067)\an8\bord5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,75)\c&H000000&\3c&H000000&\1a&HFF&\t(440,482,\1a&H00&)\t(1983,2484,\1a&HFF&)}Vacation Island\NThe Grand Line
@@ -456,8 +445,6 @@ Dialogue: 2,0:23:20.38,0:23:25.51,Captions-207-,,0,0,0,,{\blur0.7\fad(478,0)\an2
 Dialogue: 0,0:25:18.37,0:25:23.33,Captions-207-,,0,0,0,,{\blur0.7\fad(481,976)\an2\bord5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,715)\c&H000000&\3c&H000000&\1a&HFF&\t(439,481,\1a&H00&)\t(3984,4026,\1a&HFF&)}Home of Dorry the Giant
 Dialogue: 1,0:25:18.37,0:25:23.33,Captions-207-,,0,0,0,,{\blur0.7\fad(481,976)\an2\bord0.5\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,715)\3c&HF9F9FA&\c&HF9F9FA&\1a&HFF&\t(439,481,\1a&H00&)\t(3984,4026,\1a&HFF&)\4a&HFF&}Home of Dorry the Giant
 Dialogue: 2,0:25:18.37,0:25:23.33,Captions-207-,,0,0,0,,{\blur0.7\fad(481,976)\an2\bord0\fnDFPGiHi-W7-Strp\fscx85\fscy90\pos(720,715)\c&HF9F9FA&\4a&HFF&}Home of Dorry the Giant
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Galaxy 9000\NGigglebot\NZenef
@@ -498,5 +485,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(60,40)\fad(
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(60,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2800,2845,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.6\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================CREDITS==============================
 Dialogue: 0,0:28:58.09,0:29:03.09,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

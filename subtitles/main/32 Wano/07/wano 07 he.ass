@@ -32,14 +32,8 @@ Style: Sign-Treasure,Guttman Yad-Brush,38,&H00494B49,&H000000FF,&H003A3F40,&H000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:41.87,0:01:41.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:09.99,0:00:10.03,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:41.87,0:01:51.86,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:43.20,0:01:45.16,Main-207-,Law,0,0,0,,‫יאללה! קדימה, חבר'ה!
 Dialogue: 0,0:01:48.74,0:01:50.38,Main-207-,Law,0,0,0,,‫מה קרה, בֶּפּוֹ?
 Dialogue: 0,0:01:54.92,0:01:57.18,Main-207-,Law,0,0,0,,‫בפּוֹ, לא עשית...
@@ -276,7 +270,6 @@ Dialogue: 0,0:23:12.70,0:23:14.49,Main-207-,Pirate,0,0,0,,‫אדון הוֹקי
 Dialogue: 0,0:23:16.24,0:23:18.75,Main-207-,Soldier,0,0,0,,‫הם מחוץ ליכולת שלנו!
 Dialogue: 0,0:23:19.67,0:23:21.32,Main-207-,Hawkins,0,0,0,,‫איפה הולדם?
 Dialogue: 0,0:23:21.32,0:23:23.79,Main-207-,Soldier,0,0,0,,‫הוא בלאגן ברחבת הרובע הרביעי!
-Comment: 0,0:23:23.79,0:23:26.90,Main-207-,Snail,0,0,0,,‫דִּינְג, דִּינְג, דִּינְג... דִּינְג, דִּינְג, דִּינְג...
 Dialogue: 0,0:23:26.90,0:23:28.92,Main-207-,Hawkins,0,0,0,,‫הולדם לא עונה.
 Dialogue: 0,0:23:35.85,0:23:39.60,Main-207-,Law,0,0,0,,‫עצור שם, בּאזיל הוֹקינס!
 Dialogue: 0,0:23:49.03,0:23:50.11,Main-207-,Hawkins,0,0,0,,‫מי אתה?
@@ -340,8 +333,6 @@ Dialogue: 0,0:30:18.17,0:30:20.79,Main-207-,Tama,0,0,0,,‫אח גדול!
 Dialogue: 0,0:30:20.79,0:30:27.38,Main-207-,Holdem,0,0,0,,‫תהיה עד לרמה הבאה של חרב הטריק שלי!
 Dialogue: 0,0:30:30.01,0:30:32.43,Main-207-,Luffy,0,0,0,,{\fad(150,150)}‫גומי-גומי...
 Dialogue: 0,0:30:35.77,0:30:38.35,Main-207-,Luffy,0,0,0,,{\fad(150,150)}Red Hawk!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
 Dialogue: 0,0:01:41.95,0:01:45.16,Title-207-,,0,0,0,,{\c&H252925&\3c&H252925&\1a&HFF&\blur0.65\fad(450,0)\t(405,450,\1a&H00&)}The Treasure Ship of Provisions
 Dialogue: 1,0:01:41.95,0:01:45.16,Title-207-,,0,0,0,,{\bord0\c&HE7E7E7&\4a&HFF&\blur0.65\fad(450,0)}The Treasure Ship of Provisions
 Dialogue: 0,0:05:58.54,0:06:05.51,Sign 3,,0,0,0,,{\pos(1623,756)\fs67.5\c&HE5E5E7&\3c&HE5E5E7&\blur0.76}Okobore Town\NKuri
@@ -354,7 +345,6 @@ Dialogue: 0,0:14:41.81,0:14:47.24,Captions Wano,,0,0,0,,{\pos(954,370.5)\c&HD9D9
 Dialogue: 1,0:14:41.81,0:14:47.24,Captions Wano,,0,0,0,,{\pos(954,370.5)\bord0\c&H211D1C&\4a&HFF&\blur0.76\fad(600,0)}Speed
 Dialogue: 0,0:14:41.81,0:14:47.24,Sign 3,,0,0,0,,{\pos(954,481.5)\c&HD9D9D9&\3c&HD9D9D9&\1a&HFF&\blur0.76\fad(600,0)\t(555,600,\1a&H00&)}Beast Pirate Headliner, Horse SMILE Fruit
 Dialogue: 1,0:14:41.81,0:14:47.24,Sign 3,,0,0,0,,{\pos(954,481.5)\bord0\c&H211D1C&\4a&HFF&\blur0.76\fad(600,0)}Beast Pirate Headliner, Horse SMILE Fruit
-Comment: 0,0:16:27.97,0:16:28.01,Captions Wano,,0,0,0,,Kamijiro
 Dialogue: 0,0:16:27.96,0:16:28.00,Captions Wano,,0,0,0,,{\pos(-6,607.935)\fscx116.75\fscy116.75\c&HDCDADA&\3c&HDCDADA&\blur0.76}Kamijiro \N{\fnT3\b1\bord3}Holdem's Stomach
 Dialogue: 1,0:16:27.96,0:16:28.00,Captions Wano,,0,0,0,,{\pos(-6,607.935)\fscx116.75\fscy116.75\bord0\c&H1C191A&\4a&HFF&\blur0.76}Kamijiro \N{\fnT3\b1}Holdem's Stomach
 Dialogue: 0,0:16:28.00,0:16:28.05,Captions Wano,,0,0,0,,{\pos(137.28,538.935)\fscx116.75\fscy116.75\c&HDCDADA&\3c&HDCDADA&\blur0.76}Kamijiro \N{\fnT3\b1\bord3}Holdem's Stomach
@@ -391,8 +381,6 @@ Dialogue: 0,0:16:28.63,0:16:28.67,Captions Wano,,0,0,0,,{\pos(408.525,494.745)\f
 Dialogue: 1,0:16:28.63,0:16:28.67,Captions Wano,,0,0,0,,{\pos(408.525,494.745)\fscx100.01\fscy100.01\bord0\c&H1C191A&\4a&HFF&\blur0.76}Kamijiro \N{\fnT3\b1}Holdem's Stomach
 Dialogue: 0,0:16:28.67,0:16:32.17,Captions Wano,,0,0,0,,{\pos(406.425,491.895)\fscx100.01\fscy100.01\c&HDCDADA&\3c&HDCDADA&\blur0.76}Kamijiro \N{\fnT3\b1\bord3}Holdem's Stomach
 Dialogue: 1,0:16:28.67,0:16:32.17,Captions Wano,,0,0,0,,{\pos(406.425,491.895)\fscx100.01\fscy100.01\bord0\c&H1C191A&\4a&HFF&\blur0.76}Kamijiro \N{\fnT3\b1}Holdem's Stomach
-Comment: 0,0:16:27.97,0:16:28.01,Captions Wano,,0,0,0,,Kamijiro
-Comment: 0,0:21:53.83,0:21:53.88,Sign-Treasure,,0,0,0,,Treasure
 Dialogue: 0,0:21:53.83,0:21:53.87,Sign-Treasure,,0,0,0,,{\pos(930.18,550.14)\frz355.6\fax-0.05\c&H3A3F40&\blur0.86}T{\fax-0.036}r{\fax-0.021}e{\fax-0.007}a{\fax0.007}s{\fax0.021}u{\fax0.036}r{\fax0.05}e
 Dialogue: 1,0:21:53.83,0:21:53.87,Sign-Treasure,,0,0,0,,{\pos(930.18,550.14)\frz355.6\fax-0.05\bord0\4a&HFF&\blur0.86}T{\fax-0.036}r{\fax-0.021}e{\fax-0.007}a{\fax0.007}s{\fax0.021}u{\fax0.036}r{\fax0.05}e
 Dialogue: 0,0:21:53.87,0:21:53.91,Sign-Treasure,,0,0,0,,{\pos(934.965,528.33)\fscx105.95\fscy105.95\frz355.6\fax-0.05\bord1.59\c&H3A3F40&\blur0.86}T{\fax-0.036}r{\fax-0.021}e{\fax-0.007}a{\fax0.007}s{\fax0.021}u{\fax0.036}r{\fax0.05}e
@@ -581,9 +569,6 @@ Dialogue: 0,0:21:58.38,0:21:58.63,Sign-Treasure,,0,0,0,,{\pos(967.605,364.8)\fsc
 Dialogue: 1,0:21:58.38,0:21:58.63,Sign-Treasure,,0,0,0,,{\pos(967.605,364.8)\fscx131.71\fscy131.71\frz355.6\fax-0.05\bord0\4a&HFF&\blur0.86}T{\fax-0.036}r{\fax-0.021}e{\fax-0.007}a{\fax0.007}s{\fax0.021}u{\fax0.036}r{\fax0.05}e
 Dialogue: 0,0:21:58.63,0:21:58.71,Sign-Treasure,,0,0,0,,{\pos(967.59,364.8)\fscx131.71\fscy131.71\frz355.6\fax-0.05\bord1.98\c&H3A3F40&\blur0.86}T{\fax-0.036}r{\fax-0.021}e{\fax-0.007}a{\fax0.007}s{\fax0.021}u{\fax0.036}r{\fax0.05}e
 Dialogue: 1,0:21:58.63,0:21:58.71,Sign-Treasure,,0,0,0,,{\pos(967.59,364.8)\fscx131.71\fscy131.71\frz355.6\fax-0.05\bord0\4a&HFF&\blur0.86}T{\fax-0.036}r{\fax-0.021}e{\fax-0.007}a{\fax0.007}s{\fax0.021}u{\fax0.036}r{\fax0.05}e
-Comment: 0,0:21:53.83,0:21:53.88,Sign-Treasure,,0,0,0,,Treasure
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso
@@ -630,5 +615,4 @@ Dialogue: 1,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1259,578)\blur0.4\b
 Dialogue: 0,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.3\bord4\fscx120\fscy120\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
 Dialogue: 2,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:30:38.35,0:30:43.35,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

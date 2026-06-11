@@ -38,13 +38,6 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
 Dialogue: 0,0:01:40.69,0:01:41.90,Main-207-,,0,0,0,,‫איפה ריג'ו?
 Dialogue: 0,0:01:41.90,0:01:45.91,Main-207-,,0,0,3,,‫מי יודע? היא יצאה קודם.
-Dialogue: 0,0:01:46.71,0:01:48.79,Musical,,0,0,0,,{\fad(150,150)}♪ Tea! ♪
-Dialogue: 0,0:01:48.79,0:01:50.84,Musical,,0,0,0,,{\fad(150,150)}♪ Tea! ♪
-Dialogue: 0,0:01:50.84,0:01:52.71,Musical,,0,0,0,,{\fad(150,150)}♪ Tea! ♪
-Dialogue: 0,0:01:47.92,0:01:49.83,Musical,,0,0,0,,{\fad(150,150)}♪ Green tea! ♪
-Dialogue: 0,0:01:49.83,0:01:51.75,Musical,,0,0,0,,{\fad(150,150)}♪ Green tea! ♪
-Dialogue: 0,0:01:51.75,0:01:52.75,Musical,,0,0,0,,{\fad(150,150)}♪ Green tea! ♪
-Dialogue: 0,0:01:52.75,0:01:55.38,Musical,,0,0,0,,{\fad(150,150)}♪ Which would you like to have? ♪
 Dialogue: 0,0:01:55.42,0:02:00.89,Main-207-,,0,0,0,,‫בכל מקרה, אבא, איפה יגורו סאנג'י\N‫ואשתו אחרי החתונה?
 Dialogue: 0,0:02:00.89,0:02:03.10,Main-207-,,0,0,0,,‫בג'רמה, כמובן.
 Dialogue: 0,0:02:03.10,0:02:10.02,Main-207-,,0,0,0,,‫אם לא נחזיק אותה כבת ערובה,\N‫אנחנו לא יודעים מה הם ידרשו מכאן ואילך.
@@ -394,7 +387,6 @@ Dialogue: 0,0:34:03.53,0:34:06.48,Main-207-,,0,0,0,,‫הכל הלך בדיוק 
 Dialogue: 0,0:34:09.39,0:34:11.32,Main-207-,,0,0,0,,‫בחתונה מחר,
 Dialogue: 0,0:34:13.68,0:34:16.15,Main-207-,,0,0,0,,‫כל משפחת וינסמוק...
 Dialogue: 0,0:34:20.81,0:34:22.83,Main-207-,,0,0,0,,‫תוצא להורג!
-Comment: 0,0:34:50.86,0:34:50.86,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -439,7 +431,6 @@ Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:34:50.86,0:34:50.86,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.44,0:01:39.41,Title,,0,0,0,,{\blur0.3\fad(750,750)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(4220,4265,\1a&HFF&)}A Ray of Light
 Dialogue: 1,0:01:34.44,0:01:39.41,Title,,0,0,0,,{\bord0\blur0.3\fad(750,750)\c&HEBE8E6&\4a&HFF&}A Ray of Light
 Dialogue: 0,0:01:42.44,0:01:46.71,Captions,,0,0,175,,{\blur0.3\fs60\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}The Vinsmoke Family's Guestroom

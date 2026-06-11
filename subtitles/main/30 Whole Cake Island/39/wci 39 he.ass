@@ -274,7 +274,6 @@ Dialogue: 0,0:24:40.29,0:24:42.25,Flashbacks-207-,,0,0,0,,‫תוכל לעשות
 Dialogue: 0,0:25:39.54,0:25:41.43,Flashbacks-207-,,0,0,0,,‫או...? פודינג?!
 Dialogue: 0,0:25:42.67,0:25:45.33,Flashbacks-207-,,0,0,0,,‫אמרת שרצית...\N‫לבקש ממני טובה...
 Dialogue: 0,0:25:45.33,0:25:47.02,Flashbacks-207-,,0,0,0,,‫מה זה היה?
-Dialogue: 0,0:26:07.14,0:26:09.46,Main-207-,,0,0,0,,
 Dialogue: 0,0:26:09.46,0:26:13.88,Main-207-,,0,0,0,,‫אחי פרוס, קדימה!\N‫איפה מאמא עכשיו?!
 Dialogue: 0,0:26:13.88,0:26:15.00,Main-207-,,0,0,0,,‫כל הכבוד!
 Dialogue: 0,0:26:15.00,0:26:19.00,Main-207-,,0,0,0,,‫שר מון דוֹר!\N‫קיבלנו שיחה מאי קאקאו!
@@ -389,7 +388,6 @@ Dialogue: 0,0:34:13.69,0:34:17.12,Main-207-,,0,0,0,,‫לא משנה מי הם, 
 Dialogue: 0,0:34:17.12,0:34:18.50,Main-207-,,0,0,0,,‫הנה, תאכלו!
 Dialogue: 0,0:34:19.80,0:34:22.61,Main-207-,,0,0,0,,‫– אאכיל כל מי שרעב!\N‫– אאכיל כל מי שרעב!
 Dialogue: 0,0:34:22.61,0:34:24.96,Main-207-,,0,0,0,,‫– נדבר אחר כך!\N‫– נדבר אחר כך!
-Comment: 0,0:34:29.98,0:34:29.98,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(493,419)}Team One Pace
 Dialogue: 1,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
 Dialogue: 2,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
@@ -403,8 +401,6 @@ Dialogue: 1,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(312,354)}KaitouYahiko
 Dialogue: 1,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(312,354)}KaitouYahiko
 Dialogue: 2,0:00:33.70,0:00:36.58,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(312,354)}KaitouYahiko
-Dialogue: 0,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(437,500)}
-Dialogue: 1,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(437,500)}
 Dialogue: 0,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(602,494)}{\alpha&HFF&}Dat{\alpha}enshi
 Dialogue: 1,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(602,494)}{\alpha&HFF&}Dat{\alpha}enshi
 Dialogue: 2,0:00:37.95,0:00:38.04,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(602,494)}{\alpha&HFF&}Dat{\alpha}enshi
@@ -444,11 +440,6 @@ Dialogue: 1,0:01:16.78,0:01:19.45,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:01:16.78,0:01:19.45,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(602.8,501.6)}PhosCity\NZenef
 Dialogue: 1,0:01:16.78,0:01:19.45,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(602.8,501.6)}PhosCity\NZenef
 Dialogue: 2,0:01:16.78,0:01:19.45,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(602.8,501.6)}PhosCity\NZenef
-Dialogue: 0,0:01:22.22,0:01:24.93,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(462,511)}
-Dialogue: 1,0:01:22.22,0:01:24.93,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(462,511)}
-Dialogue: 0,0:01:22.22,0:01:24.93,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(616,505)}
-Dialogue: 1,0:01:22.22,0:01:24.93,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(616,505)}
-Dialogue: 2,0:01:22.22,0:01:24.93,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(616,505)}
 Dialogue: 0,0:01:27.02,0:01:32.48,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(406.6,452.2)}Translation
 Dialogue: 1,0:01:27.02,0:01:32.48,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(406.6,452.2)}Translation
 Dialogue: 0,0:01:27.02,0:01:32.48,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(603.6,449.2)}Crunchyroll\NGaijin
@@ -459,16 +450,12 @@ Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(522.8,357.8)}Maktree
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,357.8)}Maktree
 Dialogue: 2,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,357.8)}Maktree
-Comment: 0,0:34:29.98,0:34:29.98,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:38.51,0:01:41.99,Captions,,30,0,175,,{\blur0.3\fs60\fad(525,0)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)}Puffs Island
 Dialogue: 1,0:01:38.51,0:01:41.99,Captions,,30,0,175,,{\bord0\blur0.3\fs60\fad(525,0)\4a&HFF&}Puffs Island
-Dialogue: 0,0:01:41.99,0:01:46.87,Title,,0,0,260,,{\blur0.3\fad(450,0)\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}
-Dialogue: 1,0:01:41.99,0:01:46.87,Title,,0,0,260,,{\bord0\blur0.3\fad(450,0)\4a&HFF&}
 Dialogue: 0,0:02:26.23,0:02:29.48,Captions,,60,0,175,,{\blur0.3\fs60\fad(525,0)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)}Cacao Island
 Dialogue: 1,0:02:26.23,0:02:29.48,Captions,,60,0,175,,{\bord0\blur0.3\fs60\fad(525,0)\4a&HFF&}Cacao Island
 Dialogue: 0,0:33:48.18,0:33:53.18,Captions,,0,0,240,,{\blur0.3\fs60\fad(525,0)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)}The Ocean-Going Restaurant\N(Baratie)
 Dialogue: 1,0:33:48.18,0:33:53.18,Captions,,0,0,240,,{\bord0\blur0.3\fs60\fad(525,0)\4a&HFF&}The Ocean-Going Restaurant\N(Baratie)
-Comment: 0,0:34:29.98,0:34:29.98,End Roll,,0,0,0,,TYPESETTING
 Dialogue: 1,0:24:47.00,0:24:48.21,End Roll,,0,0,400,,{\blur1\fs50\bord0\c&H000000&}JUST ONE LAST THING...
 Dialogue: 2,0:24:47.00,0:24:48.21,End Roll,,0,0,400,,{\blur1\c&HB0B0B0&\fs50\bord0\shad2\4a&HFF&}JUST ONE LAST THING...
 Dialogue: 1,0:24:47.00,0:24:48.21,End Roll,,0,0,300,,{\blur1\fs50\bord0\c&H000000&}I WANNA ASK YOU A FAVOR...!
@@ -491,6 +478,4 @@ Dialogue: 1,0:25:28.42,0:25:30.28,End Roll,,0,0,360,,{\blur1\fs50\bord0\c&H00000
 Dialogue: 2,0:25:28.42,0:25:30.28,End Roll,,0,0,360,,{\blur1\c&HB0B0B0&\fs50\bord0\shad2\4a&HFF&}THANK YOU AND...
 Dialogue: 1,0:25:30.28,0:25:32.01,End Roll,,0,0,360,,{\blur1\fs50\bord0\c&H000000&}GOODBYE...
 Dialogue: 2,0:25:30.28,0:25:32.01,End Roll,,0,0,360,,{\blur1\c&HB0B0B0&\fs50\bord0\shad2\4a&HFF&}GOODBYE...
-Dialogue: 0,0:24:45.42,0:24:50.96,Flashbacks-207-,,0,0,0,,{\an7\pos(621,350)\1c&H050608&\blur50\bord0\fscy2400\fscx1200\p1\clip(32,25,1290,685)}m -21 -19 l 23 -14 l 26 12 l -17 17 l -21 -40
-Dialogue: 0,0:25:25.87,0:25:32.01,Flashbacks-207-,,0,0,0,,{\an7\pos(621,322)\1c&H050608&\blur50\bord0\fscy2500\fscx800\p1\clip(309.714,34.286,1017.143,683.429)}m -21 -14 l 19 -14 l 19 16 l -21 16 l -21 -14
 Dialogue: 0,0:34:29.98,0:34:34.98,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

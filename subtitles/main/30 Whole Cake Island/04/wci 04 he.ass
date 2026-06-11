@@ -391,7 +391,6 @@ Dialogue: 0,0:28:51.86,0:28:54.87,Main-207-,,0,0,0,,‫כלום. גם אני ב�
 Dialogue: 0,0:28:54.87,0:28:58.00,Main-207-,,0,0,0,,‫על מה אתה מדבר? אתה מוזר.
 Dialogue: 0,0:29:10.81,0:29:13.84,Main-207-,,0,0,0,,‫אה, הנמלים התעוררו!
 Dialogue: 0,0:29:13.84,0:29:15.06,Main-207-,,0,0,0,,‫לא!
-Dialogue: 0,0:29:15.06,0:29:17.80,Main-207-,,0,0,0,,
 Dialogue: 0,0:29:17.80,0:29:19.45,Main-207-,,0,0,0,,‫הם באים!
 Dialogue: 0,0:29:20.15,0:29:22.95,Main-207-,,0,0,0,,‫תצילו את ה{\i1}סאני{\fs10} {\r}!
 Dialogue: 0,0:29:34.28,0:29:36.30,Main-207-,,0,0,0,,‫היי, חברים!
@@ -415,7 +414,6 @@ Dialogue: 0,0:30:58.41,0:31:00.96,Main-207-,,0,0,0,,‫היי, יש שם מיש�
 Dialogue: 0,0:31:08.54,0:31:09.93,Main-207-,,0,0,0,,‫סאנג'י?
 Dialogue: 0,0:31:09.93,0:31:13.17,Main-207-,,0,0,0,,‫זה סאנג'י?! היי!
 Dialogue: 0,0:31:13.17,0:31:15.97,Main-207-,,0,0,0,,‫סאנג'י!
-Comment: 0,0:01:54.34,0:01:56.34,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Team One Pace
 Dialogue: 1,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
 Dialogue: 2,0:00:00.09,0:00:03.62,Credits,,0,0,0,,{\fad(500,0)\pos(503,240)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Team One Pace
@@ -455,15 +453,12 @@ Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(524,420)\blur0.1\bord0\f
 Dialogue: 0,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord2.5\fscx130\fscy130\c&H000000&}Feeso\NZenef
 Dialogue: 1,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
 Dialogue: 2,0:00:47.72,0:00:50.34,Credits,,0,0,0,,{\pos(548,450)\blur0.1\bord0\fscx130\fscy130\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:01:26.47,0:01:28.58,Credits,,0,0,0,,{\pos(820,430)}
-Dialogue: 0,0:01:30.05,0:01:32.75,Credits,,0,0,0,,{\pos(820,410)}
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Translation
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,455)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Translation
 Dialogue: 0,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord2.5\fscx110\fscy110\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:32.89,0:01:37.38,Credits,,0,0,0,,{\an5\pos(590,610)\blur0.1\bord0\fscx110\fscy110\4a&HFF&}Crunchyroll
-Comment: 0,0:01:37.38,0:01:39.38,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:49.49,0:01:54.34,Title,,0,0,0,,{\blur0.3\fad(1000,1000)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3850,3895,\1a&HFF&)\pos(643.429,579.713)}Pirate Emperor, Charlotte Linlin
 Dialogue: 1,0:01:49.49,0:01:54.34,Title,,0,0,0,,{\bord0\blur0.3\fad(1000,1000)\4a&HFF&\pos(643.429,579.713)}Pirate Emperor, Charlotte Linlin
 Dialogue: 0,0:05:50.12,0:05:54.62,Captions,,0,0,0,,{\blur0.3\fs60\pos(653.714,551)\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Whole Cake Island

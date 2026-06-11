@@ -334,7 +334,6 @@ Dialogue: 0,0:28:18.88,0:28:20.95,Main-207-,,0,0,0,,‫תשלם על זה!
 Dialogue: 0,0:28:24.42,0:28:27.65,Main-207-,,0,0,0,,‫צאו כבר!
 Dialogue: 0,0:28:27.65,0:28:29.19,Main-207-,,0,0,0,,‫בֶּגֶה!
 Dialogue: 0,0:28:38.21,0:28:41.41,Main-207-,,0,0,0,,‫גֶרמה! התחילו לתקוף!
-Comment: 0,0:28:41.43,0:28:41.43,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.11,0:00:05.02,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.11,0:00:05.02,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.11,0:00:05.02,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -379,10 +378,8 @@ Dialogue: 1,0:01:29.70,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.70,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.70,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.70,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:28:41.43,0:28:41.43,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.31,0:01:37.34,Title,,0,0,0,,{\blur0.3\fad(800,0)\c&H000000&\1a&HFF&\t(755,800,\1a&H00&)}Under Siege
 Dialogue: 1,0:01:34.31,0:01:37.34,Title,,0,0,0,,{\bord0\blur0.3\fad(800,0)\4a&HFF&}Under Siege
 Dialogue: 0,0:12:18.25,0:12:22.49,Captions,,0,0,0,,{\blur0.3\fs50\fad(750,0)\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)}Inside Big Father
 Dialogue: 1,0:12:18.25,0:12:22.49,Captions,,0,0,0,,{\bord0\blur0.3\fs50\fad(750,0)\4a&HFF&\pos(646,475)}Inside Big Father
-Dialogue: 0,0:07:08.34,0:07:14.38,GERMA66,,0,0,0,,{\fad(750,0)}
 Dialogue: 0,0:28:41.43,0:28:46.43,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

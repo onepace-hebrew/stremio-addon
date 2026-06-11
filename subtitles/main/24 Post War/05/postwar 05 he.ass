@@ -34,14 +34,8 @@ Style: Country Sign,Guttman Yad-Brush,83,&H00454043,&H000000FF,&H00000000,&H7800
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:06:55.97,0:06:56.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:04:28.59,0:04:28.62,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:00:16.32,0:00:17.77,Flashbacks-207-,,0,0,0,,‫אייס! לופי!
 Dialogue: 0,0:00:18.58,0:00:21.98,Flashbacks-207-,,0,0,0,,‫חייבים לצאת לים יום אחד!
 Dialogue: 0,0:00:21.98,0:00:24.64,Flashbacks-207-,,0,0,0,,{\t(2144,2660,1,\3c&HFFFFFF&\4c&HFFFFFF&)}‫בואו נצא מהמדינה הזאת ונחיה בחופשיות!
@@ -502,11 +496,8 @@ Dialogue: 0,0:40:49.86,0:40:53.06,Flashbacks-207-,,0,0,0,,‫לא משנה מה 
 Dialogue: 0,0:40:53.61,0:40:56.10,Flashbacks-207-,,0,0,0,,‫הרגשתי כל כך מוקל.
 Dialogue: 0,0:41:00.20,0:41:02.71,Main-207-,,0,0,0,,‫אני... רוצה לראות אותם.
 Dialogue: 0,0:41:02.89,0:41:06.98,Main-207-,,0,0,0,,‫אני ממש רוצה לראות אותם!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:07:04.90,0:07:11.74,Title-207-,,0,0,0,,{\blur0.4\fad(1000,1400)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(5440,5485,\1a&HFF&)}Will of the Winds
 Dialogue: 1,0:07:04.90,0:07:11.74,Title-207-,,0,0,0,,{\bord0\blur0.4\fad(1000,1400)\c&HFFFFFF&\4a&HFF&}Will of the Winds
-Comment: 0,0:11:18.86,0:11:18.86,Country Sign,,0,0,0,,Ace and Luffy's Countries
 Dialogue: 0,0:11:18.86,0:11:19.72,Country Sign,,0,0,0,,{\move(1164,486,1155,489)\fscx111\fscy111\frz0.31\fry4\frx14\c&H3F3D3D&\blur1.2\t(\fscx105.86\fscy105.86\blur1.14\frz0.32)}Ace's Country
 Dialogue: 0,0:11:19.72,0:11:20.56,Country Sign,,0,0,0,,{\move(1222.5,427.5,1210.5,432)\frz4.72\fry359\frx8\blur1.2\t(\fscx95.63\fscy95.63\blur1.155\frz4.7)\fnAxe Hand}Luffy's Country
 Dialogue: 0,0:11:34.61,0:11:38.52,Country Sign,,0,0,0,,{\move(497.985,358.5,498,358.5)\fscx21\fscy21\c&H475358&\blur1.2}Ace's Country
@@ -568,7 +559,6 @@ Dialogue: 0,0:11:21.39,0:11:21.43,Country Sign,,0,0,0,,{\pos(1027.875,360.045)\f
 Dialogue: 0,0:11:21.43,0:11:21.46,Country Sign,,0,0,0,,{\pos(1027.815,359.655)\fscx21.09\fscy21.09\frz7.99\c&H545153&\blur0.6\fnAxe Hand}Luffy's Country
 Dialogue: 0,0:11:21.46,0:11:21.49,Country Sign,,0,0,0,,{\pos(1027.77,359.25)\fscx21.08\fscy21.08\frz7.99\c&H545153&\blur0.6\fnAxe Hand}Luffy's Country
 Dialogue: 0,0:11:21.49,0:11:27.34,Country Sign,,0,0,0,,{\move(1027.755,358.935,1027.5,357)\fscx21.07\fscy21.07\frz7.99\c&H545153&\blur0.6\t(\fscx21\fscy21)\fnAxe Hand}Luffy's Country
-Comment: 0,0:11:18.86,0:11:18.86,Country Sign,,0,0,0,,Ace and Luffy's Countries
 Dialogue: 0,0:16:35.26,0:16:39.93,Captions-PTS,,0,0,250,,{\blur0.3\fad(1000,675)\fscx126\fscy126\bord2.5\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3995,4040,\1a&HFF&)}7 Years Later
 Dialogue: 1,0:16:35.26,0:16:39.93,Captions-PTS,,0,0,250,,{\blur0.3\fad(1000,675)\fscx126\fscy126\bord0\c&HFDFDFD&\4a&HFF&}7 Years Later
 Dialogue: 1,0:16:41.28,0:16:45.70,Captions-PTS,,0,0,250,,{\blur0.3\fad(750,750)\fsp4\fnIwata Mincho Old Pro H-Fate\bord2.55\fscx137\fscy182\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3670,3715,\1a&HFF&)}Ace, 17 Years Old
@@ -576,16 +566,12 @@ Dialogue: 2,0:16:41.28,0:16:45.70,Captions-PTS,,0,0,250,,{\blur0.3\fad(750,750)\
 Dialogue: 0,0:16:47.02,0:16:51.69,Captions-PTS,,0,0,250,,{\blur0.5\fad(750,1400)\fsp4\fnIwata Mincho Old Pro H-Fate\bord2.55\fscx122\fscy165\c&H000000&\1a&HFF&\t(705,750,\1a&H00&)\t(3270,3315,\1a&HFF&)}Luffy, 14 Years Old
 Dialogue: 1,0:16:47.02,0:16:51.69,Captions-PTS,,0,0,250,,{\blur0.5\fad(750,1400)\fsp4\fnIwata Mincho Old Pro H-Fate\bord0\fscx122\fscy165\4a&HFF&}Luffy, 14 Years Old
 Dialogue: 1,0:20:09.29,0:20:11.52,Captions-PTS,,0,0,255,,{\fs90\bord0\c&H000000&\t(0,450,0.9,\c&HFDFDFD&)\pos(960,691)\fscx225\fscy225}Several Months Later
-Dialogue: 0,0:20:09.29,0:20:11.52,Captions-PTS,,0,0,255,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&H000000&}m 399 342 l 1519 353 1560 749 381 713
 Dialogue: 1,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,525,,{\bord0\c&H080808&\t(0,1030,\c&HFFFFFF&)\pos(957,470)\fscx505\fscy505}3 Years Later
 Dialogue: 1,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,75,,{\bord0\c&H080808&\t(0,1030,\c&HFFFFFF&)\pos(964,890)\fscx425\fscy425}Luffy, 17 Years Old
-Dialogue: 0,0:20:40.74,0:20:44.72,Captions-PTS,,0,0,75,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&H000000&}m 476 99 l 1437 111 1816 956 98 945
 Dialogue: 0,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,270,,{\blur0.3\fad(575,0)\fscx160\fscy160\bord2.7\c&H000000&\1a&HFF&\t(530,575,\1a&H00&)}Windmill Village, Kingdom of Goa, East Blue
 Dialogue: 1,0:25:31.31,0:25:35.85,Captions-PTS,,0,0,270,,{\blur0.3\fad(575,0)\fscx160\fscy160\bord0\4a&HFF&}Windmill Village, Kingdom of Goa, East Blue{\c&HFDFDFC&}
 Dialogue: 0,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,280,,{\blur0.4\fad(1000,550)\fscx150\fscy150\bord2.75\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3470,3515,\1a&HFF&)}Isle of Women, Calm Belt
 Dialogue: 1,0:34:16.40,0:34:20.42,Captions-PTS,,0,0,280,,{\blur0.4\fad(1000,550)\fscx150\fscy150\bord0\4a&HFF&}Isle of Women, Calm Belt
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:04:28.65,0:04:30.22,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1170,1215,\1a&HFF&)}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 1,0:04:28.65,0:04:30.22,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\4a&HFF&}Video Editing\N{\fs75}\h\hSewil
 Dialogue: 0,0:04:30.22,0:04:32.82,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2200,2245,\1a&HFF&)}Timing\N{\fs75}\h\hSewil\N\h\hBastia\N\h\hPhosCity
@@ -602,5 +588,4 @@ Dialogue: 0,0:04:40.43,0:04:42.03,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs48
 Dialogue: 1,0:04:40.43,0:04:42.03,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs48\fs60\pos(107.501,977.499)\4a&HFF&}Translation\N{\fs75}\h\hCrunchyroll\N\h\hYibis
 Dialogue: 0,0:04:42.03,0:04:43.50,Credits-PW,,0,0,0,,{\blur0.3\fad(600,400)\fs60\pos(108,978)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1070,1115,\1a&HFF&)}Opening Raw\N{\fs75}\h\hGavynnnnn
 Dialogue: 1,0:04:42.03,0:04:43.50,Credits-PW,,0,0,0,,{\bord0\blur0.3\fad(600,400)\fs60\pos(108,978)\4a&HFF&}Opening Raw\N{\fs75}\h\hGavynnnnn
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:41:06.98,0:41:11.98,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

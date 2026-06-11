@@ -375,7 +375,6 @@ Dialogue: 0,0:28:43.18,0:28:45.15,Main-207-,,0,0,0,,‫שמעתי רעש חזק 
 Dialogue: 0,0:28:50.96,0:28:53.11,Main-207-,,0,0,0,,‫בן של...
 Dialogue: 0,0:28:57.88,0:29:00.34,Main-207-,,0,0,0,,‫היי, עצור, בן כלבה!
 Dialogue: 0,0:29:05.47,0:29:07.33,Thoughts-207-,,0,0,0,,‫מה {\i1}לעזאזל{\i0} אני עושה?
-Comment: 0,0:29:18.91,0:29:18.91,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.09,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -420,7 +419,6 @@ Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:29:18.91,0:29:18.91,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.27,0:01:41.60,Title,,0,0,0,,{\blur0.3\fad(1000,1000)\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(6330,6375,\1a&HFF&)}Not Here
 Dialogue: 1,0:01:34.27,0:01:41.60,Title,,0,0,0,,{\bord0\blur0.3\fad(1000,1000)\4a&HFF&}Not Here
 Dialogue: 0,0:01:41.62,0:01:45.00,Captions,,0,0,0,,{\blur0.3\fs45\fad(250,250)\c&H000000&\1a&HFF&\t(205,250,\1a&H00&)\t(3210,3255,\1a&HFF&)\pos(1150,422)}Treasure\NRepository

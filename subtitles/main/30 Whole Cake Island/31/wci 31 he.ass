@@ -37,7 +37,6 @@ Style: Captions,Guttman Yad-Brush,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
 Dialogue: 0,0:01:59.06,0:02:00.00,Main-207-,,0,0,0,,{\i1}‫פָּטִיסְיֵרִים{\fs10} {\r}!
-Dialogue: 0,0:01:59.06,0:02:00.00,Note,,0,0,0,,
 Dialogue: 0,0:02:00.00,0:02:01.16,Main-207-,,0,0,0,,‫כן, אדוני!
 Dialogue: 0,0:02:02.14,0:02:03.84,Main-207-,,0,0,0,,‫אנחנו בדרך!
 Dialogue: 0,0:02:09.05,0:02:13.14,Main-207-,,0,0,0,,‫מפקד קטקורי!\N‫זו הייתה ניצחון מדהים!
@@ -334,17 +333,6 @@ Dialogue: 0,0:29:44.68,0:29:46.05,Main-207-,,0,0,0,,‫תעשה משהו!
 Dialogue: 0,0:29:46.89,0:29:48.91,Main-207-,,0,0,0,,‫א-כמו מה...?
 Dialogue: 0,0:29:48.91,0:29:52.86,Main-207-,,0,0,0,,‫תגלה למה הם נעלמו! מהרו!
 Dialogue: 0,0:29:52.86,0:29:54.24,Main-207-,,0,0,0,,‫כ-כן, אדוני!
-Dialogue: 0,0:30:10.24,0:30:14.75,Musical,,0,0,0,,{\fad(150,150)}♪ Come on, let's sing together! ♪
-Dialogue: 0,0:30:14.75,0:30:19.42,Musical,,0,0,0,,{\fad(150,150)}♪ Little sea slugs! ♪
-Dialogue: 0,0:30:19.42,0:30:24.09,Musical,,0,0,0,,{\fad(150,150)}♪ When you stop working... ♪
-Dialogue: 0,0:30:24.09,0:30:28.64,Musical,,0,0,0,,{\fad(150,150)}♪ you'll be much happier! ♪
-Dialogue: 0,0:30:28.64,0:30:30.76,Musical,,0,0,0,,{\fad(150,150)}♪ Security? I forbid it! ♪
-Dialogue: 0,0:30:30.76,0:30:33.18,Musical,,0,0,0,,{\fad(150,150)}♪ Reporting? I forbid it! ♪
-Dialogue: 0,0:30:33.18,0:30:36.31,Musical,,0,0,0,,{\fad(150,150)}♪ But singing is... ♪
-Dialogue: 0,0:30:36.31,0:30:38.55,Musical,,0,0,0,,{\fad(150,150)}♪ okay! ♪
-Dialogue: 0,0:30:45.84,0:30:50.08,Musical,,0,0,0,,{\fad(150,150)}♪ Yes, you shouldn't be working! ♪
-Dialogue: 0,0:30:54.99,0:31:02.13,Musical,,0,0,0,,{\fad(150,150)}♪ That's the rule... for a day off! ♪
-Comment: 0,0:31:07.92,0:31:07.92,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(493,419)}Team One Pace
 Dialogue: 1,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
 Dialogue: 2,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
@@ -389,21 +377,16 @@ Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 2,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
-Dialogue: 0,0:01:06.12,0:01:08.52,Credits,,0,0,0,,
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(528.8,401.6)}Translation
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(528.8,401.6)}Translation
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 2,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
-Dialogue: 0,0:01:16.78,0:01:19.45,Credits,,0,0,0,,
-Dialogue: 0,0:01:22.24,0:01:24.95,Credits,,0,0,0,,
-Dialogue: 0,0:01:27.04,0:01:32.50,Credits,,0,0,0,,
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(492.8,266.8)}Special Thanks
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(492.8,266.8)}Special Thanks
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 2,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
-Comment: 0,0:31:07.92,0:31:07.92,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:38.23,0:01:44.43,Title,,0,0,0,,{\blur0.3\fad(900,0)\c&H000000&\1a&HFF&\t(855,900,\1a&H00&)}Merienda
 Dialogue: 1,0:01:38.23,0:01:44.43,Title,,0,0,0,,{\bord0\blur0.3\fad(900,0)\4a&HFF&}Merienda
 Dialogue: 0,0:21:39.60,0:21:43.10,Captions,,0,30,155,,{\blur0.3\fs60\fad(500,0)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Cacao Island

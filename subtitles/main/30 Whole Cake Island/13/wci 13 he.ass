@@ -36,9 +36,6 @@ Style: Credits,Guttman Yad-Brush,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Dialogue: 0,0:01:39.07,0:01:40.95,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! ♪
-Dialogue: 0,0:01:40.95,0:01:43.00,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! ♪
-Dialogue: 0,0:01:43.00,0:01:45.91,Musical,,0,0,0,,{\fad(150,150)}♪ Boil, boil! Boil, bo-iiil! ♪
 Dialogue: 0,0:01:47.42,0:01:51.40,Main-207-,,0,0,0,,‫צ'וברו, עזור! חם כאן!
 Dialogue: 0,0:01:51.95,0:01:55.46,Main-207-,,0,0,0,,‫תפסיק לבכות, בחור קטן!
 Dialogue: 0,0:01:55.46,0:01:57.76,Main-207-,,0,0,0,,‫אני לא אוכל בני אדם, אבל...
@@ -59,15 +56,6 @@ Dialogue: 0,0:02:47.31,0:02:49.25,Thoughts-207-,,0,0,0,,‫דאגתי שיכבל
 Dialogue: 0,0:02:49.25,0:02:53.53,Thoughts-207-,,0,0,0,,‫כדי שאוכל להתחמק מהשרשראות\N‫תוך רגע על ידי שינוי צורה.
 Dialogue: 0,0:02:53.53,0:02:57.94,Main-207-,,0,0,0,,‫אני גורם לצ'ופר צרות!\N‫פדרו יכעס עליי!
 Dialogue: 0,0:02:57.94,0:03:03.94,Thoughts-207-,,0,0,0,,‫עברו לפחות שש שעות מאז שהשתמשתי במונסטר\N‫פוינט אתמול, אז גם זה עומד לרשותי!
-Dialogue: 0,0:03:03.94,0:03:06.24,Musical,,0,0,0,,{\fad(150,150)}♪ When the delicious soup is ready, ♪
-Dialogue: 0,0:03:06.24,0:03:07.79,Musical,,0,0,0,,{\fad(150,150)}♪ dump her in! ♪
-Dialogue: 0,0:03:07.79,0:03:09.75,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! ♪
-Dialogue: 0,0:03:09.75,0:03:11.12,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! ♪
-Dialogue: 0,0:03:11.15,0:03:13.00,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! ♪
-Dialogue: 0,0:03:13.00,0:03:14.48,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! ♪
-Dialogue: 0,0:03:14.48,0:03:16.67,Musical,,0,0,0,,{\fad(150,150)}♪ She's gonna be delicious! Let's try! ♪
-Dialogue: 0,0:03:17.18,0:03:18.67,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! ♪
-Dialogue: 0,0:03:18.67,0:03:21.47,Musical,,0,0,0,,{\fad(150,150)}♪ Booo-il, boil, boil! Puff, puff! ♪
 Dialogue: 0,0:03:22.59,0:03:24.39,Main-207-,,0,0,0,,‫צ'וברו!
 Dialogue: 0,0:03:24.39,0:03:26.14,Thoughts-207-,,0,0,0,,‫זה הרגע!
 Dialogue: 0,0:03:42.04,0:03:44.08,Main-207-,,0,0,0,,‫הנה זה.
@@ -237,12 +225,10 @@ Dialogue: 0,0:15:48.09,0:15:52.01,Main-207-,,0,0,0,,{\i1}‫אל תתנשאי ר
 Dialogue: 0,0:15:52.01,0:15:54.60,Main-207-,,0,0,0,,‫אני הולך להחזיר את סאנג'י!
 Dialogue: 0,0:15:54.60,0:15:58.85,Main-207-,,0,0,0,,‫ובסוף, אנחנו אלה שינצחו!
 Dialogue: 0,0:16:18.03,0:16:20.03,Main-207-,,0,0,0,,‫מה קורה{\i1}פה{\fs15} {\r}?
-Dialogue: 0,0:16:20.03,0:16:24.70,Main-207-,,0,0,0,,
 Dialogue: 0,0:16:24.70,0:16:27.52,Main-207-,,0,0,0,,{\i1}‫בארון טאמגו, זה הפורץ!{\i}
 Dialogue: 0,0:16:27.52,0:16:30.01,Main-207-,,0,0,0,,{\i1}‫מינק הנמר כאן!{\i}
 Dialogue: 0,0:16:30.01,0:16:32.26,Main-207-,,0,0,0,,‫לא, הוא מינק יגואר!
 Dialogue: 0,0:16:32.26,0:16:37.26,Thoughts-207-,,0,0,0,,‫פדרו... הוא כבר בטירה, כמו שחשבתי.
-Dialogue: 0,0:16:37.26,0:16:38.56,Main-207-,,0,0,0,,
 Dialogue: 0,0:16:38.56,0:16:40.68,Main-207-,,0,0,0,,‫היי, חכי, ביג מום!
 Dialogue: 0,0:16:42.39,0:16:43.98,Main-207-,,0,0,0,,‫את כל כך מצחיקה!
 Dialogue: 0,0:16:45.56,0:16:47.57,Main-207-,,0,0,0,,‫אי אפשר לרצינות!
@@ -267,23 +253,9 @@ Dialogue: 0,0:18:16.73,0:18:19.41,Main-207-,,0,0,0,,‫הופעה חיה מיו�
 Dialogue: 0,0:18:24.24,0:18:27.50,Main-207-,,0,0,0,,‫את לא כועסת, מאמא?
 Dialogue: 0,0:18:29.33,0:18:32.75,Main-207-,,0,0,0,,‫רק בגלל שאותו חרק\N‫התקוטט איתך?
 Dialogue: 0,0:18:33.50,0:18:37.84,Main-207-,,0,0,0,,‫בשום פנים, זאוס! תחשוב על זה!
-Dialogue: 0,0:18:42.26,0:18:46.56,Musical,,0,0,0,,{\fad(150,150)}♪ Tomorrow, I'll gain Germa's power, ♪
-Dialogue: 0,0:18:46.56,0:18:51.10,Musical,,0,0,0,,{\fad(150,150)}♪ and even the Tamate Box... ♪
-Dialogue: 0,0:18:53.36,0:18:56.23,Musical,,0,0,0,,{\fad(150,150)}♪ I'll eat the most delicious ♪
-Dialogue: 0,0:18:56.23,0:18:59.60,Musical,,0,0,0,,{\fad(150,150)}♪ wedding cake ever, too! ♪
-Dialogue: 0,0:18:59.60,0:19:01.07,Musical,,0,0,0,,{\fad(150,150)}♪ Right? ♪
-Dialogue: 0,0:19:01.07,0:19:04.91,Musical,,0,0,0,,{\fad(150,150)}♪ That's right! ♪
-Dialogue: 0,0:19:04.91,0:19:09.21,Musical,,0,0,0,,{\fad(150,150)}♪ If I think of tomorrow, ♪
-Dialogue: 0,0:19:09.21,0:19:13.29,Musical,,0,0,0,,{\fad(150,150)}♪ I can tolerate anything! ♪
-Dialogue: 0,0:19:14.44,0:19:18.17,Musical,,0,0,0,,{\fad(150,150)}♪ How can I be angry?! ♪
-Dialogue: 0,0:19:18.17,0:19:22.47,Musical,,0,0,0,,{\fad(150,150)}♪ Tomorrow is going to be a great day! ♪
-Dialogue: 0,0:19:22.47,0:19:27.39,Musical,,0,0,0,,{\fad(150,150)}♪ A happy day! ♪
 Dialogue: 0,0:19:28.43,0:19:32.31,Main-207-,,0,0,0,,‫אה? קיבלתי אות. מאמא!
 Dialogue: 0,0:19:32.31,0:19:35.66,Main-207-,,0,0,0,,‫אומרים שפורץ גורם לצרות\N‫ליד מאגר האוצר!
 Dialogue: 0,0:19:35.66,0:19:37.49,Main-207-,,0,0,0,,‫פורץ?
-Dialogue: 0,0:19:37.49,0:19:39.73,Musical,,0,0,0,,{\fad(150,150)}♪ Wedding cake! ♪
-Dialogue: 0,0:19:39.73,0:19:42.07,Musical,,0,0,0,,{\fad(150,150)}♪ Queen of the cakes! ♪
-Dialogue: 0,0:19:42.07,0:19:46.24,Musical,,0,0,0,,{\fad(150,150)}♪ Wedding cake! ♪
 Dialogue: 0,0:19:50.21,0:19:54.13,Main-207-,,0,0,0,,‫אל תגידי לי שהם הולכים אחרי קופסת טאמטה שלי!
 Dialogue: 0,0:19:54.88,0:19:57.30,Main-207-,,0,0,0,,‫מי זה?!
 Dialogue: 0,0:19:59.21,0:20:01.63,Thoughts-207-,,0,0,0,,‫אוי, ארור, ארור!
@@ -411,7 +383,6 @@ Dialogue: 0,0:31:25.07,0:31:28.61,Main-207-,,0,0,0,,‫אני לא הולכת ל
 Dialogue: 0,0:31:36.13,0:31:37.50,Main-207-,,0,0,0,,‫תקשיבי.
 Dialogue: 0,0:32:03.85,0:32:05.40,Main-207-,,0,0,0,,‫היי, חכי, פודינג!
 Dialogue: 0,0:32:16.63,0:32:18.27,Main-207-,,0,0,0,,‫להתראות.
-Comment: 0,0:32:25.38,0:32:25.38,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\pos(510,510)\fad(500,0)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\pos(510,510)\fad(500,0)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\pos(530,540)\fad(500,0)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -456,7 +427,6 @@ Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:32:25.38,0:32:25.38,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.31,0:01:39.01,Title,,0,0,0,,{\fad(1000,1000)\blur0.3\c&H000000&\1a&HFF&\t(955,1000,\1a&H00&)\t(3700,3745,\1a&HFF&)}Luffy and Big Mom
 Dialogue: 1,0:01:34.31,0:01:39.01,Title,,0,0,0,,{\fad(1000,1000)\bord0\blur0.3\c&HFAFAF9&\4a&HFF&}Luffy and Big Mom
 Dialogue: 0,0:01:35.06,0:01:39.07,Captions,,40,0,5,,{\fad(500,0)\blur0.3\fs55\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)}Mirro-world, Brûlée's House
@@ -481,22 +451,16 @@ Dialogue: 0,0:21:00.56,0:21:02.11,Captions,,0,0,0,,{\fad(275,0)\blur0.3\fs60\c&H
 Dialogue: 1,0:21:00.56,0:21:02.11,Captions,,0,0,0,,{\fad(275,0)\bord0\blur0.3\fs60\4a&HFF&\pos(640,540.636)}Pudding's Room
 Dialogue: 1,0:26:07.29,0:26:09.29,Chess Soldiers,,0,0,0,,{\blur0.3\c&H020007&\pos(391.182,627.636)}Bishop
 Dialogue: 2,0:26:07.29,0:26:09.29,Chess Soldiers,,0,0,0,,{\bord0\blur0.3\4a&HFF&\pos(391.182,627.636)}Bishop
-Dialogue: 0,0:26:07.29,0:26:09.29,Chess Soldiers,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HD4E4EB&\3c&HD4E4EB&}m 255 549 l 258 629 520 634 521 549
 Dialogue: 1,0:26:07.29,0:26:09.29,Chess Soldiers,,0,0,0,,{\blur0.3\c&H020007&\pos(844.818,203.945)}Pawn
 Dialogue: 2,0:26:07.29,0:26:09.29,Chess Soldiers,,0,0,0,,{\bord0\blur0.3\4a&HFF&\pos(844.818,203.945)}Pawn
-Dialogue: 0,0:26:07.29,0:26:09.29,Chess Soldiers,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HD5E4EB&\3c&HD5E4EB&}m 746 130 l 743 209 944 205 941 131
 Dialogue: 1,0:26:09.29,0:26:11.17,Chess Soldiers,,0,0,0,,{\fs65\blur0.3\c&H020007&\pos(286.8,195.6)}Knight
 Dialogue: 2,0:26:09.29,0:26:11.17,Chess Soldiers,,0,0,0,,{\fs65\bord0\blur0.3\4a&HFF&\pos(286.8,195.6)}Knight
-Dialogue: 0,0:26:09.29,0:26:11.17,Chess Soldiers,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HD4E3E9&\3c&HD4E3E9&}m 194 126 l 374 128 376 200 196 196
 Dialogue: 1,0:26:09.29,0:26:11.17,Chess Soldiers,,0,0,0,,{\fs75\blur0.3\c&H020007&\pos(843.6,623)}Rook
 Dialogue: 2,0:26:09.29,0:26:11.17,Chess Soldiers,,0,0,0,,{\fs75\bord0\blur0.3\4a&HFF&\pos(843.6,623)}Rook
-Dialogue: 0,0:26:09.29,0:26:11.17,Chess Soldiers,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HD4E4EB&\3c&HD4E4EB&}m 746 547 l 944 550 943 627 750 628
 Dialogue: 1,0:26:11.17,0:26:13.09,Chess Soldiers,,0,0,0,,{\blur0.3\pos(494.2,626.4)\c&H020007&}King
 Dialogue: 2,0:26:11.17,0:26:13.09,Chess Soldiers,,0,0,0,,{\bord0\blur0.3\pos(494.2,626.4)\4a&HFF&}King
-Dialogue: 0,0:26:11.17,0:26:13.09,Chess Soldiers,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\c&HD4E3EA&\3c&HD4E3EA&}m 386 550 l 599 551 600 628 396 628
 Dialogue: 1,0:26:11.17,0:26:13.09,Chess Soldiers,,0,0,0,,{\blur0.3\pos(665.2,250.8)\c&H020007&}Queen
 Dialogue: 2,0:26:11.17,0:26:13.09,Chess Soldiers,,0,0,0,,{\bord0\blur0.3\pos(665.2,250.8)\4a&HFF&}Queen
-Dialogue: 0,0:26:11.17,0:26:13.09,Chess Soldiers,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\fscx100\fscy100\p1\c&HD3E3E9&\3c&HD3E3E9&}m 545 175 l 539 253 780 248 785 172
 Dialogue: 0,0:28:09.57,0:28:14.08,Captions,,0,0,175,,{\fad(550,0)\blur0.3\fs60\c&H000000&\1a&HFF&\t(505,550,\1a&H00&)}Prisoner Library
 Dialogue: 1,0:28:09.57,0:28:14.08,Captions,,0,0,175,,{\fad(550,0)\bord0\blur0.3\fs60\4a&HFF&}Prisoner Library
 Dialogue: 0,0:32:25.38,0:32:30.38,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

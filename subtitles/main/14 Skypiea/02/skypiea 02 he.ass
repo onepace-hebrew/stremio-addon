@@ -31,14 +31,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.67,0:01:49.71,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:25.42,0:00:25.46,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:53.93,0:02:03.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:52.88,0:01:55.01,Main-207-,,0,0,0,,‫מה קורה?
 Dialogue: 0,0:01:55.01,0:01:57.50,Main-207-,,0,0,0,,‫השביל בין העננים\N‫נראה ממש כמו אובי.
 Dialogue: 0,0:02:03.81,0:02:07.31,Main-207-,,0,0,0,,‫זה לא נראה\N‫כמו שנוצר באופן טבעי.
@@ -386,16 +380,12 @@ Dialogue: 0,0:20:39.77,0:20:41.05,Main-207-,,0,0,0,,‫זה אדמה קדושה.
 Dialogue: 0,0:20:41.05,0:20:42.27,Main-207-,,0,0,0,,‫אדמה קדושה?
 Dialogue: 0,0:20:43.09,0:20:45.05,Main-207-,,0,0,0,,‫אנחנו קוראים למקום הזה...
 Dialogue: 0,0:20:47.00,0:20:50.02,Main-207-,,0,0,0,,‫האפר יארד,\N‫האדמה שבה אלוהינו חי.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:03:29.11,0:03:38.94,Title-207-,,0,0,0,,{\pos(720,733)\fscx120\fscy120\c&H0D0D0E&\3c&H0D0D0E&\1a&HFF&\blur0.6\fad(1809,0)\t(1764,1809,\1a&H00&)}Angel Beach
 Dialogue: 1,0:03:29.11,0:03:38.94,Title-207-,,0,0,0,,{\pos(720,733)\fscx120\fscy120\bord0\c&HFBFAF7&\4a&HFF&\blur0.6\fad(1809,0)}Angel Beach
 Dialogue: 0,0:02:59.49,0:03:04.37,Captions-207-,,0,0,0,,{\pos(720,715)\fscx75\fscy90\fnFOT-Greco Std DB Strp\bord1.8\1a&HFF&\blur0.5\fad(481,0)\t(0,563,3,\c&H000000&)\t(0,481,\1a&H00&)\b1}God Land, Skypiea\NWhite-White Sea
 Dialogue: 1,0:02:59.49,0:03:04.37,Captions-207-,,0,0,0,,{\pos(720,715)\fscx75\fscy90\fnFOT-Greco Std DB Strp\bord0\4a&HFF&\blur0.5\fad(481,0)\b1}God Land, Skypiea\NWhite-White Sea
 Dialogue: 0,0:09:40.60,0:09:49.81,Captions-207-,,0,0,0,,{\pos(720,729.89)\fscx75\fscy90\fnFOT-Greco Std DB Strp\bord2\1a&HFF&\blur0.5\fad(800,800)\b1\t(0,800,\1a&H00&)\t(8410,8455,\1a&HFF&)\t(0,856,3,\c&H000000&)}Conis & Cloud Fox Suu\NAngel Beach, Skypiea Residents
 Dialogue: 1,0:09:40.60,0:09:49.81,Captions-207-,,0,0,0,,{\pos(720,729.89)\fscx75\fscy90\fnFOT-Greco Std DB Strp\bord0\4a&HFF&\blur0.5\fad(800,800)\b1}Conis & Cloud Fox Suu\NAngel Beach, Skypiea Residents
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Video Editing
 Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Feeso
 Dialogue: 0,0:00:07.78,0:00:10.28,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Graphics
@@ -414,5 +404,4 @@ Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy
 Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}JT-421\NRavenfire\NSilence\Nthemuffinman\NZenef
 Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Translation
 Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}arch1t3cht\NExecutor\NFunimation\Nrangicus
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,==============================CREDITS==============================
 Dialogue: 0,0:20:50.02,0:20:55.02,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

@@ -101,7 +101,6 @@ Dialogue: 0,0:08:04.71,0:08:09.05,Main-207-,,0,0,0,,‫תזכו לאכול עו�
 Dialogue: 0,0:08:09.05,0:08:11.01,Main-207-,,0,0,0,,‫יאי! יאי!
 Dialogue: 0,0:08:11.01,0:08:13.26,Main-207-,,0,0,0,,‫עכשיו בואו נפגוש...
 Dialogue: 0,0:08:13.26,0:08:15.97,Main-207-,,0,0,0,,‫את משפחת החתן!
-Dialogue: 0,0:08:15.97,0:08:19.28,Musical,,0,0,0,,{\fad(150,150)}♪ Door! ♪
 Dialogue: 0,0:08:26.98,0:08:30.81,Main-207-,,0,0,0,,‫שמחים שאתם פה, גרמה 66.
 Dialogue: 0,0:08:30.81,0:08:32.49,Main-207-,,0,0,0,,‫סליחה על האיחור.
 Dialogue: 0,0:08:32.49,0:08:35.57,Thoughts-207-,,0,0,0,,‫הקיסרית... ביג מום!
@@ -116,71 +115,10 @@ Dialogue: 0,0:09:17.32,0:09:23.45,Main-207-,,0,0,0,,‫כל עוד לשנינו 
 Dialogue: 0,0:09:25.98,0:09:31.88,Main-207-,,0,0,0,,‫כן, אבל יהיה נחמד\N‫אם הילדים שלנו יהיו מאושרים.
 Dialogue: 0,0:09:34.15,0:09:36.72,Main-207-,,0,0,0,,‫בואו נהיה לנו חתונה יפה מחר!
 Dialogue: 0,0:09:36.72,0:09:39.45,Main-207-,,0,0,0,,‫כן, בואו.
-Dialogue: 0,0:09:58.41,0:10:00.03,Musical,,0,0,0,,{\fad(150,150)}♪ Tea! ♪
-Dialogue: 0,0:09:59.28,0:10:00.70,Musical,,0,0,0,,{\fad(150,150)}♪ Green tea! ♪
-Dialogue: 0,0:10:00.03,0:10:01.60,Musical,,0,0,0,,{\fad(150,150)}♪ Tea! ♪
-Dialogue: 0,0:10:00.70,0:10:01.60,Musical,,0,0,0,,{\fad(150,150)}♪ Green tea! ♪
-Dialogue: 0,0:10:01.60,0:10:03.66,Musical,,0,0,0,,{\fad(150,150)}♪ What would you like to have? ♪
 Dialogue: 0,0:10:04.66,0:10:06.21,Main-207-,,0,0,0,,‫תה.
-Dialogue: 0,0:10:07.66,0:10:10.22,Musical,,0,0,0,,{\fad(150,150)}♪ Tea! Tea! Tea! Tea! ♪
-Dialogue: 0,0:10:10.22,0:10:12.59,Musical,,0,0,0,,{\fad(150,150)}♪ Tea! ♪
-Dialogue: 0,0:10:18.18,0:10:20.80,Musical,,0,0,0,,{\fad(150,150)}♪ Eat us! Eat us! ♪
-Dialogue: 0,0:10:19.72,0:10:20.80,Musical,,0,0,0,,{\fad(150,150)}♪ Start with me! ♪
-Dialogue: 0,0:10:20.80,0:10:23.47,Musical,,0,0,0,,{\fad(150,150)}♪ Eat us! Eat us! ♪
-Dialogue: 0,0:10:22.30,0:10:23.47,Musical,,0,0,0,,{\fad(150,150)}♪ You can have me too! ♪
-Dialogue: 0,0:10:23.47,0:10:25.88,Musical,,0,0,0,,{\fad(150,150)}♪ You need lots of honey, young man! ♪
-Dialogue: 0,0:10:25.88,0:10:28.47,Musical,,0,0,0,,{\fad(150,150)}♪ It's very... ♪
-Dialogue: 0,0:10:28.47,0:10:31.52,Musical,,0,0,0,,{\fad(150,150)}♪ sweet! ♪
-Dialogue: 0,0:10:31.52,0:10:34.23,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:32.94,0:10:35.53,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:34.23,0:10:36.48,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:35.53,0:10:37.84,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:36.48,0:10:39.40,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:37.84,0:10:40.70,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:39.40,0:10:42.06,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:40.70,0:10:43.44,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:42.06,0:10:44.82,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:43.44,0:10:44.82,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:36.48,0:10:37.98,Musical,,0,0,0,,{\fad(150,150)}♪ Sausage! ♪
-Dialogue: 0,0:10:37.32,0:10:37.98,Musical,,0,0,0,,{\fad(150,150)}♪ Cabbage! ♪
-Dialogue: 0,0:10:37.98,0:10:40.70,Musical,,0,0,0,,{\fad(150,150)}♪ Ham! ♪
-Dialogue: 0,0:10:38.82,0:10:40.70,Musical,,0,0,0,,{\fad(150,150)}♪ Pancake! ♪
-Dialogue: 0,0:10:40.70,0:10:44.82,Musical,,0,0,0,,{\fad(150,150)}♪ Delicious! ♪
 Dialogue: 0,0:10:44.82,0:10:46.95,Main-207-,,0,0,0,,‫תוכל להוריד קצת את הרעש?
 Dialogue: 0,0:10:46.95,0:10:48.46,Main-207-,,0,0,0,,‫מה?!
-Dialogue: 0,0:10:48.46,0:10:49.83,Musical,,0,0,0,,{\fad(150,150)}♪ Don't say such a thing! ♪
-Dialogue: 0,0:10:49.83,0:10:52.33,Musical,,0,0,0,,{\fad(150,150)}♪ Let's have a delicious lunch! ♪
-Dialogue: 0,0:10:52.33,0:10:54.88,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:53.59,0:10:56.30,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:54.88,0:10:57.68,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:56.30,0:10:58.96,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:57.68,0:11:00.22,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:10:58.96,0:11:01.64,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:00.22,0:11:02.96,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:01.64,0:11:04.04,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:02.96,0:11:05.40,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:04.04,0:11:06.74,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:05.40,0:11:08.02,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:06.74,0:11:09.34,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:08.02,0:11:10.64,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:09.34,0:11:11.90,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:10.64,0:11:13.10,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:11.90,0:11:14.32,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:13.10,0:11:16.00,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:14.32,0:11:17.06,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:16.00,0:11:18.58,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:17.06,0:11:19.74,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:18.58,0:11:21.04,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:19.74,0:11:22.34,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:21.04,0:11:23.62,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:22.34,0:11:24.88,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:23.62,0:11:26.14,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:24.88,0:11:27.62,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:26.14,0:11:29.08,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
-Dialogue: 0,0:11:27.62,0:11:29.08,Musical,,0,0,0,,{\an8\fad(150,150)}♪ La la lunch! ♪
 Dialogue: 0,0:10:56.64,0:10:59.39,Main-207-,,0,0,0,,‫כל כך רועש!
-Dialogue: 0,0:10:59.93,0:11:02.18,Musical,,0,0,0,,{\fad(150,150)}♪ How do I taste? ♪
-Dialogue: 0,0:11:02.18,0:11:04.89,Musical,,0,0,0,,{\fad(150,150)}♪ Am I good? ♪
 Dialogue: 0,0:11:11.90,0:11:14.31,Main-207-,,0,0,0,,‫ס... סאנג'י-{\i1}סאן{\i}...
 Dialogue: 0,0:11:28.12,0:11:31.69,Note,,850,0,0,,{\an5}"I need to talk to you\Nin private later."
 Dialogue: 0,0:12:02.66,0:12:04.45,Main-207-,,0,0,0,,‫אוי, לא...
@@ -410,7 +348,6 @@ Dialogue: 0,0:33:51.64,0:33:53.25,Main-207-,,0,0,0,,‫אני.
 Dialogue: 0,0:34:02.51,0:34:04.52,Main-207-,,0,0,0,,‫פדרו-{\i1}סאן{\i},
 Dialogue: 0,0:34:04.52,0:34:07.23,Main-207-,,0,0,0,,‫האם תהיה מוכן\N‫לשמש כפיתיון?
 Dialogue: 0,0:34:10.20,0:34:14.32,Main-207-,,0,0,0,,‫בדיוק זה מה שחשבתי.
-Comment: 0,0:34:17.23,0:34:17.23,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.05,0:00:05.17,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -455,7 +392,6 @@ Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.94,0:01:34.24,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:34:17.23,0:34:17.23,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.40,0:01:38.03,Title,,0,0,0,,{\blur0.3\fad(900,700)\c&H000000&\1a&HFF&\t(855,900,\1a&H00&)\t(2930,2975,\1a&HFF&)}Forces of Rage
 Dialogue: 1,0:01:34.40,0:01:38.03,Title,,0,0,0,,{\bord0\blur0.3\fad(900,700)\c&HF8F9F9&\4a&HFF&}Forces of Rage
 Dialogue: 0,0:03:34.59,0:03:37.21,Captions,,0,0,0,,{\blur0.3\fs50\fad(400,400)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2220,2265,\1a&HFF&)\pos(1147.273,387.636)}Sweet City

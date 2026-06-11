@@ -32,15 +32,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:40.91,0:01:40.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:03:21.97,0:03:22.01,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:50.09,0:01:50.13,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:41.87,0:01:51.86,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:00:00.00,0:00:01.31,Main-207-,Orochi,0,0,0,,‫קדימה, תרקדו!
 Dialogue: 0,0:00:01.31,0:00:02.48,Main-207-,Orochi,0,0,0,,‫שתו!
 Dialogue: 0,0:00:02.81,0:00:05.31,Main-207-,Orochi,0,0,0,,‫אכלו! אל תתביישו!
@@ -389,8 +382,6 @@ Dialogue: 0,0:33:28.47,0:33:31.85,Main-207-,Linlin,0,0,0,,‫איפה... אני?
 Dialogue: 0,0:33:41.83,0:33:43.95,Main-207-,Linlin,0,0,0,,‫מי...
 Dialogue: 0,0:33:46.03,0:33:47.50,Main-207-,Linlin,0,0,0,,‫אני?!
 Dialogue: 0,0:34:00.25,0:34:01.40,Main-207-,Chopper,0,0,0,,‫הא?!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
 Dialogue: 0,0:03:24.27,0:03:28.08,Title-207-,,0,0,0,,{\fad(750,0)}Soba Mask
 Dialogue: 0,0:05:40.73,0:05:43.57,Captions Wano,,0,0,0,,{\c&H093FEA&\3c&H1ACAF6&\fs78\pos(337,662)}Ancient Saur Saur Fruit:\NPteranodon
 Dialogue: 0,0:10:29.39,0:10:32.44,Note-207-,,0,0,0,,Soba Shop
@@ -400,8 +391,6 @@ Dialogue: 0,0:25:34.59,0:25:38.07,Captions Wano,,0,0,0,,{\pos(1552,666)}Kuri Bea
 Dialogue: 0,0:28:05.70,0:28:12.64,Captions Wano,,0,0,0,,{\fad(400,0)\pos(930,735)}Orochi's Oniwabanshu\NThe personal Ninja Squad of the Shogun of Wano
 Dialogue: 0,0:28:24.43,0:28:28.91,Captions Wano,,0,0,0,,{\pos(297,1022)}Fukurokuju\NHead of the Oniwabanshu
 Dialogue: 0,0:32:10.19,0:32:13.55,Captions Wano,,0,0,0,,{\fad(600,0)\pos(915,179)}Big Mom (Charlotte Linlin)\NCaptain of the Big Mom Pirates{\fs84}
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:02:06.27,0:02:10.23,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:02:06.27,0:02:10.23,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:02:06.27,0:02:10.23,Credits-207-,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso
@@ -448,5 +437,4 @@ Dialogue: 1,0:02:38.22,0:02:41.27,Credits-207-,,0,0,0,,{\pos(1259,578)\blur0.4\b
 Dialogue: 0,0:02:38.22,0:02:41.27,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.3\bord4\fscx120\fscy120\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:02:38.22,0:02:41.27,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
 Dialogue: 2,0:02:38.22,0:02:41.27,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,==============================CREDITS==============================
 Dialogue: 0,0:34:01.40,0:34:06.40,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

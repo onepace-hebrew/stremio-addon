@@ -32,14 +32,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.10,0:00:41.15,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:02:14.66,0:02:16.32,Main-207-,,0,0,0,,‫אדון קרוקודיל...
 Dialogue: 0,0:02:16.74,0:02:18.16,Main-207-,,0,0,0,,‫קרוקודיל!
 Dialogue: 0,0:02:18.49,0:02:19.29,Main-207-,,0,0,0,,‫מה?
@@ -351,8 +345,6 @@ Dialogue: 0,0:20:12.11,0:20:15.86,Main-207-,,0,0,0,,‫האויב שלנו הפ�
 Dialogue: 0,0:20:15.86,0:20:17.20,Main-207-,,0,0,0,,‫כן. נכון.
 Dialogue: 0,0:20:17.20,0:20:20.07,Main-207-,,0,0,0,,‫היזהר לפעול על אינסטינקט,\N‫בסדר?
 Dialogue: 0,0:20:20.07,0:20:25.08,Main-207-,,0,0,0,,‫אתה צודק. קיבלתי.\N‫כן! נכון! כן! קיבלתי!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:01:49.96,0:01:53.80,Captions-207-,,0,0,0,,{\q2\pos(712,715)\fad(920,0)\blur0.6\bord4.8\fscx81\fscy92\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(875,920,\1a&H00&)}Sandy Island\N (The Kingdom of Alabasta)
 Dialogue: 1,0:01:49.96,0:01:53.80,Captions-207-,,0,0,0,,{\q2\pos(712,715)\fad(920,0)\blur0.6\bord0.5\fscx81\fscy92\fnDFPGiHi-W7-Strp\3c&HFFFFFF&\1a&HFF&\4a&HFF&\t(875,920,\1a&H00&)}Sandy Island\N (The Kingdom of Alabasta)
 Dialogue: 2,0:01:49.96,0:01:53.80,Captions-207-,,0,0,0,,{\q2\pos(712,715)\fad(920,0)\blur0.6\bord0\fscx81\fscy92\fnDFPGiHi-W7-Strp\4a&HFF&}Sandy Island\N (The Kingdom of Alabasta)
@@ -375,8 +367,6 @@ Dialogue: 0,0:13:39.88,0:13:44.85,Note-207-,,0,0,0,,"Bon Kurei"
 Dialogue: 0,0:16:12.87,0:16:15.45,Captions-207-,,0,0,0,,{\q2\pos(720,217)\fad(420,0)\blur0.6\bord4.5\fscx71\fscy86\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(0,420,\1a&H00&)}Sea Cat (Sea Monster)\NTerritory: The Coast of Sandy Island
 Dialogue: 1,0:16:12.87,0:16:15.45,Captions-207-,,0,0,0,,{\q2\pos(720,217)\fad(420,0)\blur0.6\bord0.7\fscx71\fscy86\fnDFPGiHi-W7-Strp\3c&HFFFFFF&\4a&HFF&\1a&HFF&\t(0,420,\1a&H00&)}Sea Cat (Sea Monster)\NTerritory: The Coast of Sandy Island
 Dialogue: 2,0:16:12.87,0:16:15.45,Captions-207-,,0,0,0,,{\q2\pos(720,217)\fad(420,0)\blur0.6\bord0\fscx71\fscy86\fnDFPGiHi-W7-Strp\4a&HFF&}Sea Cat (Sea Monster)\NTerritory: The Coast of Sandy Island
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.675\pos(60.001,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.675\pos(60.001,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.675\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\NRael\NZenef
@@ -417,5 +407,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.675\pos(60.001,40
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.675\pos(60.001,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.675\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1270,1315,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.675\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:20:25.08,0:20:30.08,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

@@ -32,14 +32,8 @@ Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.06,0:00:41.10,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.91,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:02:16.41,0:02:18.16,Main-207-,,0,0,0,,‫בדיוק בזמן.
 Dialogue: 0,0:02:21.16,0:02:22.58,Main-207-,,0,0,0,,‫לופי...
 Dialogue: 0,0:02:22.58,0:02:23.75,Main-207-,,0,0,0,,‫פל...
@@ -50,7 +44,6 @@ Dialogue: 0,0:02:38.01,0:02:42.77,Main-207-,,0,0,0,,‫אין מי שישמע א
 Dialogue: 0,0:02:44.02,0:02:47.15,Main-207-,,0,0,0,,‫בקצב הזה, המדינה תיהרס...
 Dialogue: 0,0:02:49.94,0:02:51.82,Main-207-,,0,0,0,,‫אל תדאג.
 Dialogue: 0,0:02:56.11,0:02:58.57,Main-207-,,0,0,0,,‫אנחנו שומעים את קולך!
-Comment: 0,0:03:03.45,0:03:04.33,Main-207-,,0,0,0,,‫כן...!
 Dialogue: 0,0:03:08.71,0:03:12.51,Main-207-,,0,0,0,,‫שוב, ברור שאני פצוע\N‫הרבה יותר ממך!
 Dialogue: 0,0:03:12.51,0:03:17.39,Main-207-,,0,0,0,,‫תהיה גבר ותסתדר!\N‫הרגל שלי פצועה! אני לא יכול לע–
 Dialogue: 0,0:03:17.39,0:03:18.80,Main-207-,,0,0,0,,‫אוי, אני עומד להתעלף. זה רע...
@@ -309,8 +302,6 @@ Dialogue: 0,0:22:05.10,0:22:06.81,Main-207-,,0,0,0,,‫קרוקו...
 Dialogue: 0,0:22:19.90,0:22:22.15,Main-207-,,0,0,0,,‫שוב פעם...
 Dialogue: 0,0:22:22.15,0:22:24.11,Main-207-,,0,0,0,,‫אתה מפסיד...
 Dialogue: 0,0:22:25.32,0:22:27.37,Main-207-,,0,0,0,,‫לופי כובע הקש.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot\Nfedew
@@ -347,5 +338,4 @@ Dialogue: 0,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,600)
 Dialogue: 1,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,600)\blur0.6\bord0\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,600)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,600)\blur0.6\bord0\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:22:27.37,0:22:32.37,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

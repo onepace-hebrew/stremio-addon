@@ -329,7 +329,6 @@ Dialogue: 0,0:23:09.44,0:23:12.43,Thoughts-207-,,0,0,0,,‫עם השוקולד �
 Dialogue: 0,0:23:13.64,0:23:16.65,Thoughts-207-,,0,0,0,,‫תמשיכו להחזיק מעמד, חברים!
 Dialogue: 0,0:23:17.65,0:23:19.17,Thoughts-207-,,0,0,0,,‫אני אראה להם!
 Dialogue: 0,0:23:20.02,0:23:22.27,Thoughts-207-,,0,0,0,,‫הבישול הלוחמני שלי!
-Dialogue: 0,0:23:22.27,0:23:26.70,Main-207-,,0,0,0,,
 Dialogue: 0,0:23:26.70,0:23:29.10,Main-207-,,0,0,0,,{\i1}‫קטאקורי, זה אני.{\i}
 Dialogue: 0,0:23:29.10,0:23:31.93,Main-207-,,0,0,0,,‫הצלחת לשרוד, אחי פרוס.
 Dialogue: 0,0:23:31.93,0:23:33.65,Main-207-,,0,0,0,,{\i1}‫כן, בקושי.{\i}
@@ -349,7 +348,6 @@ Dialogue: 0,0:24:18.34,0:24:21.30,Main-207-,,0,0,0,,‫אנחנו הולכים �
 Dialogue: 0,0:24:21.30,0:24:26.22,Main-207-,,0,0,0,,‫הם מנסים בעקשנות לברוח,\N‫אבל נדביק אותם בקרוב.
 Dialogue: 0,0:24:26.22,0:24:29.89,Main-207-,,0,0,0,,‫הצי של אמאנדה ואחרים\N‫יגיע בקרוב גם הוא.
 Dialogue: 0,0:24:29.89,0:24:30.80,Main-207-,,0,0,0,,‫אני מבין.
-Dialogue: 0,0:24:30.80,0:24:31.39,Main-207-,,0,0,0,,
 Dialogue: 0,0:24:32.20,0:24:34.10,Main-207-,,0,0,0,,‫ברולה.
 Dialogue: 0,0:24:35.99,0:24:38.46,Main-207-,,0,0,0,,‫אה, אחי הגדול...
 Dialogue: 0,0:24:38.46,0:24:43.39,Main-207-,,0,0,0,,‫כמה זמן אתה מתכנן לישון?\N‫החיילים שלנו לא יכולים לזוז לשום מקום אם תמשיך לעשות את זה.
@@ -432,7 +430,6 @@ Dialogue: 0,0:30:03.23,0:30:07.10,Main-207-,,0,0,0,,‫אני לא אתן לכם
 Dialogue: 0,0:30:07.12,0:30:10.07,Main-207-,,0,0,0,,{\i1}‫נאמי! מה קרה?!{\i}
 Dialogue: 0,0:30:10.07,0:30:12.64,Main-207-,,0,0,0,,‫אנחנו...
 Dialogue: 0,0:30:12.64,0:30:15.53,Main-207-,,0,0,0,,‫אולי נגמרנו...
-Comment: 0,0:30:21.76,0:30:21.76,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(493,419)}Team One Pace
 Dialogue: 1,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
 Dialogue: 2,0:00:01.46,0:00:05.92,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(493,419)}Team One Pace
@@ -477,21 +474,16 @@ Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\
 Dialogue: 0,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 1,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
 Dialogue: 2,0:01:03.12,0:01:05.67,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(299.6,463.2)}PhosCity\NZenef
-Dialogue: 0,0:01:06.12,0:01:08.52,Credits,,0,0,0,,
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(528.8,401.6)}Translation
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(528.8,401.6)}Translation
 Dialogue: 0,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 1,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
 Dialogue: 2,0:01:09.31,0:01:12.77,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(558.8,437.6)}Crunchyroll
-Dialogue: 0,0:01:16.78,0:01:19.45,Credits,,0,0,0,,
-Dialogue: 0,0:01:22.24,0:01:24.95,Credits,,0,0,0,,
-Dialogue: 0,0:01:27.04,0:01:32.50,Credits,,0,0,0,,
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&\pos(492.8,266.8)}Special Thanks
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&\pos(492.8,266.8)}Special Thanks
 Dialogue: 0,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord2.5\fscx115\fscy115\c&H000000&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 1,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
 Dialogue: 2,0:01:35.17,0:01:38.13,Credits,,0,0,0,,{\blur0.1\bord0\fscx115\fscy115\4a&HFF&\pos(522.8,306.8)}CyberLariat\NRedHawk02
-Comment: 0,0:30:21.76,0:30:21.76,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:38.22,0:01:43.44,Title,,0,0,0,,{\blur0.3\fad(825,0)\c&H000000&\1a&HFF&\t(780,825,\1a&H00&)}Zero Escape
 Dialogue: 1,0:01:38.22,0:01:43.44,Title,,0,0,0,,{\bord0\blur0.3\fad(825,0)\4a&HFF&}Zero Escape
 Dialogue: 0,0:07:58.98,0:08:02.99,Captions,,0,0,175,,{\blur0.3\fs60\fad(525,0)\c&H000000&\1a&HFF&\t(480,525,\1a&H00&)}Whole Cake Island
@@ -506,7 +498,6 @@ Dialogue: 0,0:14:40.45,0:14:44.62,Captions,,0,40,155,,{\blur0.3\fs60\fad(500,0)\
 Dialogue: 1,0:14:40.45,0:14:44.62,Captions,,0,40,155,,{\bord0\blur0.3\fs60\fad(500,0)\4a&HFF&}Cacao Island
 Dialogue: 0,0:16:33.08,0:16:38.09,Captions,,0,0,175,,{\blur0.3\fs60\fad(500,500)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4510,4555,\1a&HFF&)}Sweets Factory, Chocolat Town
 Dialogue: 1,0:16:33.08,0:16:38.09,Captions,,0,0,175,,{\bord0\blur0.3\fs60\fad(500,500)\4a&HFF&}Sweets Factory, Chocolat Town
-Dialogue: 0,0:16:48.63,0:16:52.27,Captions,,0,0,0,,{\fad(350,0)\pos(639.111,114.444)}
 Dialogue: 0,0:18:54.02,0:18:58.52,Captions,,0,0,0,,{\blur0.3\fs50\fad(500,500)\c&H000000&\1a&HFF&\t(455,500,\1a&H00&)\t(4000,4045,\1a&HFF&)\pos(638.222,543.222)}Inside the Factory
 Dialogue: 1,0:18:54.02,0:18:58.52,Captions,,0,0,0,,{\bord0\blur0.3\fs50\fad(500,500)\4a&HFF&\pos(638.222,543.222)}Inside the Factory
 Dialogue: 0,0:22:20.68,0:22:32.61,Map,,0,0,0,,{\blur0.9\fs30\fad(475,675)\pos(440,157.111)\c&H404244&\1a&HFF&\t(430,475,\1a&H00&)\t(11255,11300,\1a&HFF&)}Whole Cake Island

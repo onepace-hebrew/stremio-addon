@@ -34,17 +34,8 @@ Style: Narrator-207-,Guttman Yad-Brush,82,&H00FFFFFF,&H000000FF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:36.93,0:00:36.98,Main-207-,chptr,0,0,0,,
-Comment: 0,0:02:07.02,0:02:07.07,Main-207-,chptr,0,0,0,,
-Comment: 0,0:16:09.28,0:16:09.32,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:45.48,0:00:45.53,Main-207-,OP,0,0,0,,
-Comment: 0,0:16:36.10,0:16:36.14,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:02:07.02,0:02:17.01,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:02:15.82,0:02:18.70,Main-207-,,0,0,0,,‫הבעיה היא, שהממשלה העולמית...
 Dialogue: 0,0:02:21.33,0:02:24.67,Main-207-,,0,0,0,,‫לא רק רוצה להיפטר\N‫מסטלה, אלא גם {\i1}ממני{\i0}!
 Dialogue: 0,0:02:25.17,0:02:27.71,Main-207-,,0,0,0,,‫אני לא מאמינה להם! זה דפוק!
@@ -236,8 +227,6 @@ Dialogue: 0,0:15:45.80,0:15:48.84,Narrator-207-,,0,0,0,,‫באלבף, שבעו�
 Dialogue: 0,0:15:51.31,0:15:54.06,Narrator-207-,,0,0,0,,‫פיראטי קיד, בהנהגת יוסטאס "קפטן" קיד...
 Dialogue: 0,0:15:56.31,0:16:00.65,Narrator-207-,,0,0,0,,‫אדם עם פרס של שלושה מיליארד ברי...
 Dialogue: 0,0:16:01.32,0:16:02.73,Narrator-207-,,0,0,0,,‫הושמדו.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:02:07.40,0:02:09.61,Captions-207-,,0,0,0,,{\pos(1533,785)\fscx125\fscy125\fnKozuka Mincho Pro H\bord1.5\shad1\blur0.8\fad(645,481)\c&HFEFCFA&\3c&HFEFCFA&\4c&HFEFCFA&\1a&HFF&\t(603,645,\1a&H00&)\t(1687,1729,\1a&HFF&)}Several Hours Ago...
 Dialogue: 1,0:02:07.40,0:02:09.61,Captions-207-,,0,0,0,,{\pos(1533,785)\fscx125\fscy125\fnKozuka Mincho Pro H\bord0\blur0.8\fad(645,481)\c&H2B2C2C&}Several Hours Ago...
 Dialogue: 2,0:02:24.71,0:02:30.63,Title-207-,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E6E6&\blur0.6\fad(727,0)}Emperor Red Hair's Pirate Crew
@@ -252,8 +241,6 @@ Dialogue: 0,0:04:54.40,0:04:55.61,Captions-207-,,0,0,0,,{\pos(1317,500)\fscx135\
 Dialogue: 1,0:04:54.40,0:04:55.61,Captions-207-,,0,0,0,,{\pos(1317,500)\fscx135\fscy135\fnFOT-Greco Std DB Strp\bord0\blur0.8\c&H6045C9&}Bandmaster Fuga "the Addenturer"\N{\c&H0060DC&\fscx125\fscy125}Social Club
 Dialogue: 0,0:05:08.50,0:05:09.71,Captions-207-,,0,0,0,,{\pos(1359,535)\fscx135\fscy135\fnFOT-Greco Std DB Strp\bord3\shad1\blur0.8\c&HFFFEFD&\3c&HFFFEFD&\4c&HFFFEFD&}Pururu "the Brr-rave"\N{\bord2\fscx125\fscy125}Bourgeois Pirates
 Dialogue: 1,0:05:08.50,0:05:09.71,Captions-207-,,0,0,0,,{\pos(1359,535)\fscx135\fscy135\fnFOT-Greco Std DB Strp\bord0\blur0.8\c&HD7BD23&}Pururu "the Brr-rave"\N{\c&HC0AA20&\fscx125\fscy125}Bourgeois Pirates
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:37.73,0:00:43.48,Credits-207-,,0,0,0,,{\pos(1441.48,653.85)\fscx55\fscy55\fnFOT-Aokane Std EB-Strp\b800\bord0\c&H4D0403&}Video Editing
 Dialogue: 0,0:00:37.73,0:00:43.48,Credits-207-,,0,0,0,,{\pos(1460.57,676.49)\fscx90\fscy90\fnFOT-Aokane Std EB-Strp\b800\bord0\c&H4D0403&}Feeso\NGalaxy 9000
 Dialogue: 0,0:00:55.91,0:00:57.91,Credits-207-,,0,0,0,,{\an1\fscx75\fscy75\fnFOT-Carat Std UB-Strp\b900\bord0\c&H4CDAE6&\pos(184,140)}Timing
@@ -273,5 +260,4 @@ Dialogue: 0,0:01:47.50,0:01:50.05,Credits-207-,,0,0,0,,{\pos(850,73)\fscx70\fscy
 Dialogue: 0,0:01:47.50,0:01:50.05,Credits-207-,,0,0,0,,{\pos(902,104)\fscx90\fscy90\fnFOT-TsukuARdGothic Std E-Strp\b800\bord0}Gab
 Dialogue: 0,0:01:50.05,0:01:53.89,Credits-207-,,0,0,0,,{\an1\pos(1165.33,459)\fscx70\fscy70\fnFOT-Comet Std B-Strp\b700\bord0\c&HFFFEFF&}Translation
 Dialogue: 0,0:01:50.05,0:01:53.89,Credits-207-,,0,0,0,,{\an1\pos(1250.33,581)\fscx110\fscy110\fnFOT-Comet Std B-Strp\b700\bord0\c&HFFFEFF&}Crunchyroll\NLiisa-Pekka
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:16:36.14,0:16:41.14,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

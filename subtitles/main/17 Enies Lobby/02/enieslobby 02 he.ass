@@ -32,16 +32,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:19:44.45,0:19:44.50,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:01.94,0:00:01.98,Main-207-,OP,0,0,0,,
-Comment: 0,0:20:28.46,0:20:28.50,Main-207-,ED,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.91,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:02:10.40,0:02:13.95,Main-207-,,0,0,0,,{\i1}‫ד-דיווח נוסף משער הראשי!
 Dialogue: 0,0:02:13.95,0:02:15.45,Main-207-,,0,0,0,,‫מה {\i1}הפעם{\i0}?!
 Dialogue: 0,0:02:20.33,0:02:24.92,Main-207-,,0,0,0,,‫קבוצה חשודה בעגלה רתומה למפלצת\N‫פרחה מעל הגדר הקדמית!
@@ -282,16 +274,10 @@ Dialogue: 0,0:19:12.34,0:19:14.72,Main-207-,,0,0,0,,{\i1}‫עכשיו, חברה
 Dialogue: 0,0:19:16.26,0:19:18.14,Main-207-,,0,0,0,,{\i1}‫יאלה?
 Dialogue: 0,0:19:18.51,0:19:21.52,Main-207-,,0,0,0,,‫הם כבר היו צריכים לפתוח\N‫את שני השערים האלה.
 Dialogue: 0,0:19:21.52,0:19:24.98,Main-207-,,0,0,0,,‫התקפה! התקפה!
-Comment: 0,0:19:22.93,0:19:23.39,Secondary-207-,,0,0,0,,‫מיאו!
-Comment: 0,0:19:24.48,0:19:24.98,Secondary-207-,,0,0,0,,‫מיאו!
 Dialogue: 0,0:19:25.77,0:19:29.36,Main-207-,,0,0,0,,‫סמוראי! תתעסק עם הגדר הברזל!
 Dialogue: 0,0:19:29.98,0:19:31.69,Main-207-,,0,0,0,,‫תן לי.
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 2,0:01:54.64,0:02:00.18,Title-207-,,0,0,0,,{\fscx110\fscy110\bord0\c&HE5E5E5&\blur1\fad(725,727)\pos(960,825)}The Big Showdown\Non the Judicial Island!
 Dialogue: 1,0:01:54.64,0:02:00.18,Title-207-,,0,0,0,,{\fscx110\fscy110\1c&H010101&\3c&H010101&\1a&HFF&\blur1\bord2\fad(725,727)\t(684,725,\1a&H00&)\t(4813,4854,\1a&HFF&)\pos(960,825)}The Big Showdown\Non the Judicial Island!
-Comment: 0,0:03:49.29,0:03:51.17,Captions-207-,,0,0,0,,Enies Map
-Comment: 0,0:03:49.29,0:03:51.17,Captions-207-,,0,0,0,,Main Gate
 Dialogue: 1,0:03:49.29,0:03:49.33,Captions-207-,,0,0,0,,{\an8\pos(1525,521.07)\fnRoboto\b1\bord0\c&H000000&\blur0.8}Main Gate
 Dialogue: 1,0:03:49.33,0:03:49.37,Captions-207-,,0,0,0,,{\an8\pos(1525,535.71)\fnRoboto\b1\bord0\c&H000000&\blur0.8}Main Gate
 Dialogue: 1,0:03:49.37,0:03:49.41,Captions-207-,,0,0,0,,{\an8\pos(1525,549.84)\fnRoboto\b1\bord0\c&H000000&\blur0.8}Main Gate
@@ -382,8 +368,6 @@ Dialogue: 0,0:03:51.00,0:03:51.04,Captions-207-,,0,0,0,,{\an8\pos(1525,860.68)\f
 Dialogue: 0,0:03:51.04,0:03:51.08,Captions-207-,,0,0,0,,{\an8\pos(1525,862.39)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Main Gate
 Dialogue: 0,0:03:51.08,0:03:51.12,Captions-207-,,0,0,0,,{\an8\pos(1525,863.78)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Main Gate
 Dialogue: 0,0:03:51.12,0:03:51.16,Captions-207-,,0,0,0,,{\an8\pos(1525,865)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Main Gate
-Comment: 0,0:03:49.29,0:03:51.17,Captions-207-,,0,0,0,,Main Gate
-Comment: 0,0:03:49.29,0:03:51.17,Captions-207-,,0,0,0,,Island Gate
 Dialogue: 1,0:03:49.29,0:03:49.33,Captions-207-,,0,0,0,,{\an8\pos(1560,-28.93)\fnRoboto\b1\bord0\c&H000000&\blur0.8}Island Gate
 Dialogue: 1,0:03:49.33,0:03:49.37,Captions-207-,,0,0,0,,{\an8\pos(1560,-14.29)\fnRoboto\b1\bord0\c&H000000&\blur0.8}Island Gate
 Dialogue: 1,0:03:49.37,0:03:49.41,Captions-207-,,0,0,0,,{\an8\pos(1560,-0.16)\fnRoboto\b1\bord0\c&H000000&\blur0.8}Island Gate
@@ -474,16 +458,12 @@ Dialogue: 0,0:03:51.00,0:03:51.04,Captions-207-,,0,0,0,,{\an8\pos(1560,310.68)\f
 Dialogue: 0,0:03:51.04,0:03:51.08,Captions-207-,,0,0,0,,{\an8\pos(1560,312.39)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Island Gate
 Dialogue: 0,0:03:51.08,0:03:51.12,Captions-207-,,0,0,0,,{\an8\pos(1560,313.78)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Island Gate
 Dialogue: 0,0:03:51.12,0:03:51.16,Captions-207-,,0,0,0,,{\an8\pos(1560,315)\fnRoboto\b1\bord3\c&HFFFFFF&\3c&HFFFFFF&\blur0.8}Island Gate
-Comment: 0,0:03:49.29,0:03:51.17,Captions-207-,,0,0,0,,Island Gate
-Comment: 0,0:03:49.29,0:03:51.17,Captions-207-,,0,0,0,,Enies Map
 Dialogue: 0,0:10:56.05,0:11:05.98,Captions-207-,,0,0,0,,{\pos(597,675)\fscx110\fscy110\b600\bord2\shad1.5\3c&H0E0E11&\4c&H0E0E11&\c&H0E0E11&\1a&HFF&\blur0.8\fad(1023,0)\t(981,1023,\1a&H00&)}Oimo\N{\fscx90\fscy90}Gatekeeper of\NEnies Lobby's Island Gate
 Dialogue: 1,0:10:56.05,0:11:05.98,Captions-207-,,0,0,0,,{\fad(768,0)\fscx110\fscy110\bord0\blur0.8\b600\pos(597,675)\c&HFCFDFD&}Oimo\N{\fscx90\fscy90}Gatekeeper of\NEnies Lobby's Island Gate
 Dialogue: 1,0:10:56.05,0:11:05.98,Captions-207-,,0,0,0,,{\fad(768,0)\fscx110\fscy110\bord0\blur0.8\b600\pos(597,675)\c&HFCFDFD&}Oimo\N{\fscx90\fscy90}Gatekeeper of\NEnies Lobby's Island Gate
 Dialogue: 0,0:10:56.05,0:11:05.98,Captions-207-,,0,0,0,,{\pos(1279,675)\fscx110\fscy110\b600\bord2\shad1.5\3c&H0E0E11&\4c&H0E0E11&\c&H0E0E11&\1a&HFF&\blur0.8\fad(1023,0)\t(981,1023,\1a&H00&)}Kashi\N{\fscx90\fscy90}Gatekeeper of\NEnies Lobby's Island Gate
 Dialogue: 1,0:10:56.05,0:11:05.98,Captions-207-,,0,0,0,,{\fad(768,0)\fscx110\fscy110\bord0\blur0.8\b600\pos(1279,675)\c&HFCFDFD&}Kashi\N{\fscx90\fscy90}Gatekeeper of\NEnies Lobby's Island Gate
 Dialogue: 1,0:10:56.05,0:11:05.98,Captions-207-,,0,0,0,,{\fad(768,0)\fscx110\fscy110\bord0\blur0.8\b600\pos(1279,675)\c&HFCFDFD&}Kashi\N{\fscx90\fscy90}Gatekeeper of\NEnies Lobby's Island Gate
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:12.77,0:00:18.06,Credits-207-,,0,0,0,,{\pos(722,635)\blur0.6\bord3.9\c&H000000&}Video Editing
 Dialogue: 1,0:00:12.77,0:00:18.06,Credits-207-,,0,0,0,,{\pos(722,635)\blur0.6\bord0\c&HF9F9FA&\4a&HFF&}Video Editing
 Dialogue: 2,0:00:12.77,0:00:18.06,Credits-207-,,0,0,0,,{\pos(722,635)\blur0.6\bord0\c&HF9F9FA&\4a&HFF&}Video Editing
@@ -530,5 +510,4 @@ Dialogue: 2,0:01:30.89,0:01:36.59,Credits-207-,,0,0,0,,{\pos(794,697)\blur0.6\bo
 Dialogue: 0,0:01:30.89,0:01:36.59,Credits-207-,,0,0,0,,{\pos(831,744)\blur0.6\bord3.9\fscx115\fscy115\c&H000000&}arch1t3cht   Crunchyroll\NGaijin   PamkinPinguin
 Dialogue: 1,0:01:30.89,0:01:36.59,Credits-207-,,0,0,0,,{\pos(831,744)\blur0.6\bord0\fscx115\fscy115\c&HF9F9FA&\4a&HFF&}arch1t3cht   Crunchyroll\NGaijin   PamkinPinguin
 Dialogue: 2,0:01:30.89,0:01:36.59,Credits-207-,,0,0,0,,{\pos(831,744)\blur0.6\bord0\fscx115\fscy115\c&HF9F9FA&\4a&HFF&}arch1t3cht   Crunchyroll\NGaijin   PamkinPinguin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:20:28.50,0:20:33.50,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

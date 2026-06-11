@@ -30,14 +30,8 @@ Style: Note-207-,Guttman Yad-Brush,57,&H00FFFFFF,&H000000FF,&H00000000,&H7800000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:41.87,0:01:41.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:09.99,0:00:10.03,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:41.87,0:01:51.86,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:01:53.96,0:01:57.50,Main-207-,Ashura,0,0,0,,‫בחורים, קדימה להר!
 Dialogue: 0,0:01:57.50,0:01:59.46,Main-207-,Thief,0,0,0,,‫בוס שוטנמארו!
 Dialogue: 0,0:02:01.22,0:02:04.96,Main-207-,Ashura,0,0,0,,‫יש לי תחושה רעה על זה.
@@ -149,12 +143,8 @@ Dialogue: 0,0:24:23.70,0:24:26.65,Main-207-,Kaido,0,0,0,,‫אבל הוא ממש
 Dialogue: 0,0:24:38.05,0:24:41.41,Main-207-,Pirate,0,0,0,,‫נראה לי שהוא פשוט מעולף...
 Dialogue: 0,0:25:01.56,0:25:04.89,Main-207-,Kaido,0,0,0,,‫איזה סוג של מלך אמרת שתהיה?
 Dialogue: 0,0:25:05.76,0:25:07.26,Main-207-,Kaido,0,0,0,,‫בחור?!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
 Dialogue: 0,0:01:41.86,0:01:44.16,Note-207-,,0,0,0,,"Oden"
 Dialogue: 0,0:01:44.16,0:01:47.64,Title-207-,,0,0,0,,{\fad(500,0)}Emperor Kaido vs. Luffy
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,=============================TITLE AND SIGNS==============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.3\bord3.4\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(384,669)\blur0.4\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:26.17,0:00:30.13,Credits-207-,,0,0,0,,{\pos(419,720)\blur0.3\bord4\fscx130\fscy130\c&H000000&}Feeso
@@ -201,5 +191,4 @@ Dialogue: 1,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1259,578)\blur0.4\b
 Dialogue: 0,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.3\bord4\fscx120\fscy120\c&H000000&}Crunchyroll\NGaijin
 Dialogue: 1,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
 Dialogue: 2,0:00:58.12,0:01:01.16,Credits-207-,,0,0,0,,{\pos(1294,634)\blur0.4\bord0\fscx120\fscy120\4a&HFF&}Crunchyroll\NGaijin
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:25:07.26,0:25:12.26,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

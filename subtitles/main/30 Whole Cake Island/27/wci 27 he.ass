@@ -458,7 +458,6 @@ Dialogue: 0,0:32:50.11,0:32:53.62,Main-207-,,0,0,0,,‫אתה בטוח?\N‫נמ
 Dialogue: 0,0:32:53.62,0:32:56.74,Main-207-,,0,0,0,,‫כן, אין צורך לדאוג לגביהם.
 Dialogue: 0,0:32:57.41,0:33:01.25,Main-207-,,0,0,0,,‫במקום, בואו נתחיל...
 Dialogue: 0,0:33:02.87,0:33:07.71,Main-207-,,0,0,0,,‫עם העוגה שתגרום לביג מאם להתעלף!
-Comment: 0,0:33:11.86,0:33:11.86,Credits,,0,0,0,,CREDITS
 Dialogue: 0,0:00:00.06,0:00:05.00,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord2.5\fscx83\fscy88\fsp2\c&H000000&}Video Editing
 Dialogue: 1,0:00:00.06,0:00:05.00,Credits,,0,0,0,,{\fad(500,0)\pos(510,510)\blur0.1\bord0\fscx83\fscy88\fsp2\4a&HFF&}Video Editing
 Dialogue: 0,0:00:00.06,0:00:05.00,Credits,,0,0,0,,{\fad(500,0)\pos(530,540)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Feeso\NGalaxy 9000
@@ -503,7 +502,6 @@ Dialogue: 1,0:01:29.66,0:01:34.21,Credits,,0,0,0,,{\pos(80,372)\blur0.1\bord0\fs
 Dialogue: 0,0:01:29.66,0:01:34.21,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord2.5\fscx115\fscy115\c&H000000&}Crunchyroll
 Dialogue: 1,0:01:29.66,0:01:34.21,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
 Dialogue: 2,0:01:29.66,0:01:34.21,Credits,,0,0,0,,{\pos(110,408)\blur0.1\bord0\fscx115\fscy115\4a&HFF&}Crunchyroll
-Comment: 0,0:33:11.86,0:33:11.86,Captions,,0,0,0,,CAPTIONS
 Dialogue: 0,0:01:34.31,0:01:36.65,Title,,0,0,0,,{\blur0.3\fad(400,0)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}A Woman's Honor
 Dialogue: 1,0:01:34.31,0:01:36.65,Title,,0,0,0,,{\bord0\blur0.3\fad(400,0)\4a&HFF&}A Woman's Honor
 Dialogue: 0,0:01:44.50,0:01:48.88,Captions,,0,0,0,,{\blur0.3\fs45\fad(925,0)\pos(146,451)\c&H000000&\1a&HFF&\t(880,925,\1a&H00&)}Juice River\NSweet City
@@ -522,7 +520,6 @@ Dialogue: 0,0:08:08.23,0:08:10.73,Captions,,0,0,0,,{\blur0.3\fs60\fad(400,250)\p
 Dialogue: 1,0:08:08.23,0:08:10.73,Captions,,0,0,0,,{\bord0\blur0.3\fs60\fad(400,250)\pos(970,558)\4a&HFF&}Tablet
 Dialogue: 0,0:08:10.48,0:08:12.19,Captions,,0,0,0,,{\blur0.3\fs60\fad(400,0)\pos(335,558)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}High-Fat
 Dialogue: 1,0:08:10.48,0:08:12.19,Captions,,0,0,0,,{\bord0\blur0.3\fs60\fad(400,0)\pos(335,558)\4a&HFF&}High-Fat
-Comment: 0,0:08:12.19,0:08:12.19,Map,,0,0,0,,TYPESETTING
 Dialogue: 0,0:23:05.59,0:23:06.59,Map,,0,0,0,,{\blur0.9\fad(925,0)\pos(350,190)\c&H000000&\1a&HFF&\t(880,925,\1a&H00&)}Whole Cake Island
 Dialogue: 1,0:23:05.59,0:23:06.59,Map,,0,0,0,,{\bord0\blur0.9\fad(925,0)\pos(350,190)\4a&HFF&}Whole Cake Island
 Dialogue: 0,0:23:06.59,0:23:06.64,Map,,0,0,0,,{\blur0.9\pos(349.5,189.75)\c&H000000&}Whole Cake Island

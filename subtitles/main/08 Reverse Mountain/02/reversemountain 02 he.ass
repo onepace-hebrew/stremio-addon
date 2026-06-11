@@ -34,14 +34,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.10,0:00:41.15,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.92,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:02:06.86,0:02:08.32,Main-207-,,0,0,0,,‫זה פרח!
 Dialogue: 0,0:02:07.57,0:02:08.32,Secondary-207-,,0,0,0,,‫פרח?
 Dialogue: 0,0:02:13.28,0:02:15.28,Main-207-,,0,0,0,,‫אה, לא נורא. זה בן אדם.
@@ -567,8 +561,6 @@ Dialogue: 0,0:32:49.57,0:32:54.45,Main-207-,,0,0,0,,‫האם הם הפיראט�
 Dialogue: 0,0:32:54.45,0:32:58.41,Main-207-,,0,0,0,,‫לאיש הזה יש אוויר מוזר במיוחד\N...
 Dialogue: 0,0:33:01.46,0:33:02.67,Main-207-,,0,0,0,,‫לא נראה לך,
 Dialogue: 0,0:33:02.67,0:33:04.38,Main-207-,,0,0,0,,‫רוג'ר?
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:01:49.96,0:01:54.43,Title-207-,,0,0,0,,{\q2\blur0.8\fad(984,0)\bord2\c&H000000&\1a&HFF&\t(942,984,\1a&H00&)\pos(720,710)}Cape Promise
 Dialogue: 1,0:01:49.96,0:01:54.43,Title-207-,,0,0,0,,{\q2\blur0.8\fad(984,0)\c&HE6E7E8&\bord0\4a&HFF&\pos(720,710)}Cape Promise
 Dialogue: 0,0:07:51.16,0:07:53.58,Captions-207-,,0,0,0,,{\blur0.8\pos(720,640)\fnDFPGiHi-W7-Strp\b0\bord4.5\fad(478,0)\c&H000000&\1a&HFF&\3a&H00&\t(436,478,\1a&H00&)\3c&H000000&\fscy90\fscx90}Miss Wednesday\NMysterious Woman
@@ -583,8 +575,6 @@ Dialogue: 2,0:24:37.75,0:24:41.54,Captions-207-,,0,0,0,,{\blur0.8\fnDFPGiHi-W7-S
 Dialogue: 0,0:24:37.75,0:24:41.54,Captions-207-,,0,0,0,,{\blur0.8\fnDFPGiHi-W7-Strp\b0\bord4\fad(477,0)\c&H000000&\1a&HFF&\3a&H00&\t(435,476,\1a&H00&)\3c&H000000&\an5\fscy80\fscx80\pos(360,580)}Miss Friday\N\NMysterious\NVulture
 Dialogue: 1,0:24:37.75,0:24:41.54,Captions-207-,,0,0,0,,{\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(477,0)\4a&HFF&\an5\fscy80\fscx80\pos(360,580)}Miss Friday\N\NMysterious\NVulture
 Dialogue: 2,0:24:37.75,0:24:41.54,Captions-207-,,0,0,0,,{\blur0.8\fnDFPGiHi-W7-Strp\b0\bord0\c&HFFFFFF&\fad(477,0)\4a&HFF&\an5\fscy80\fscx80\pos(360,580)}Miss Friday\N\NMysterious\NVulture
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,200)\blur0.6\bord0\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,200)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Zenef
@@ -625,5 +615,4 @@ Dialogue: 0,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,600)
 Dialogue: 1,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(60,40)\fad(600,600)\blur0.6\bord0\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,600)\blur0.6\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:21.73,Credits-207-,,0,0,0,,{\pos(90,83)\fad(600,600)\blur0.6\bord0\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:33:04.38,0:33:09.38,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

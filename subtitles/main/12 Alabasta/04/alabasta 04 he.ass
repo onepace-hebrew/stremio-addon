@@ -34,14 +34,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.92,0:01:49.96,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:41.10,0:00:41.15,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.92,0:01:59.93,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫========================פרקים ופתיחות=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
 Dialogue: 0,0:01:53.18,0:01:55.60,Main-207-,,0,0,0,,‫צונאמי!
 Dialogue: 0,0:01:55.60,0:01:56.80,Main-207-,,0,0,0,,‫מה{\i1} קורה?{\i0}
 Dialogue: 0,0:01:56.80,0:01:58.47,Main-207-,,0,0,0,,‫צונאמי בדרך!
@@ -153,7 +147,6 @@ Dialogue: 0,0:06:51.22,0:06:54.77,Main-207-,,0,0,0,,‫מעולם לא פגשת�
 Dialogue: 0,0:06:54.77,0:06:56.81,Main-207-,,0,0,0,,‫הציפייה הורגת אותי!
 Dialogue: 0,0:07:01.98,0:07:05.28,Main-207-,,0,0,0,,‫יש לי משהו בשבילך. הנה.
 Dialogue: 0,0:07:08.45,0:07:11.29,Main-207-,,0,0,0,,‫שמור עליו. תמיד.
-Dialogue: 0,0:07:11.83,0:07:11.87,Main-207-,,0,0,0,,
 Dialogue: 0,0:07:11.83,0:07:13.87,Main-207-,,0,0,0,,‫הא? זה רק פיסת נייר.
 Dialogue: 0,0:07:13.87,0:07:19.34,Main-207-,,0,0,0,,‫אכן כן, אבל הנייר הזה\N‫ יום אחד יחבר אותנו שוב.
 Dialogue: 0,0:07:20.46,0:07:21.84,Main-207-,,0,0,0,,‫אתה לא רוצה אותו?
@@ -396,8 +389,6 @@ Dialogue: 0,0:24:49.84,0:24:52.68,Main-207-,,0,0,0,,‫פשוט בואי אית�
 Dialogue: 0,0:24:57.98,0:24:59.39,Main-207-,,0,0,0,,‫בחיים לא!
 Dialogue: 0,0:24:59.39,0:25:01.94,Main-207-,,0,0,0,,‫הגנו עליה עד מוות,\N‫ חמולת חול-חול!
 Dialogue: 0,0:25:01.94,0:25:03.11,Main-207-,,0,0,0,,‫– כן!\N‫ – כן!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================דיאלוג============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
 Dialogue: 0,0:02:47.98,0:02:54.95,Title-207-,,0,0,0,,{\fad(480,480)\blur0.6\bord2\c&H000000&\1a&HFF&\t(435,480,\1a&H00&)\t(6490,6535,\1a&HFF&)}Yuba, the Town of Rebels
 Dialogue: 1,0:02:47.98,0:02:54.95,Title-207-,,0,0,0,,{\fad(480,480)\blur0.6\bord0\c&HE6E6E6&\4a&HFF&}Yuba, the Town of Rebels
 Dialogue: 0,0:03:18.68,0:03:22.72,Captions-207-,,0,0,0,,{\an5\pos(720,474)\fscx80.75\fscy95\fnDFPGiHi-W7-Strp\bord5\c&H000000&\1a&HFF&\blur0.4\fad(450,0)\q2\fsp7}The Spiders Cafe,\NBaroque Works Headquarters\NKingdom of Alabasta
@@ -445,8 +436,6 @@ Dialogue: 2,0:21:20.68,0:21:27.81,Captions-207-,,0,0,0,,{\an5\pos(707.98,663.33)
 Dialogue: 0,0:21:27.85,0:21:29.98,Captions-207-,,0,0,0,,{\an5\pos(707.98,647.33)\fad(437,0)\blur0.5\bord4.6\fscx88\fnDFPGiHi-W7-Strp\c&H000000&\1a&HFF&\t(392,437,\1a&H00&)}City Outskirts
 Dialogue: 1,0:21:27.85,0:21:29.98,Captions-207-,,0,0,0,,{\an5\pos(707.98,647.33)\fad(437,0)\blur0.5\bord0.6\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\3c&HFEFEFF&\1a&HFF&\4a&HFF&\t(392,437,\1a&H00&)}City Outskirts
 Dialogue: 2,0:21:27.85,0:21:29.98,Captions-207-,,0,0,0,,{\an5\pos(707.98,647.33)\fad(437,0)\blur0.5\bord0\fscx88\fnDFPGiHi-W7-Strp\c&HFEFEFF&\4a&HFF&}City Outskirts
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫============================שלטים וכותרת=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.675\pos(60.001,40)\fad(600,200)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Video Editing
 Dialogue: 1,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\bord0\blur0.675\pos(60.001,40)\fad(600,200)\4a&HFF&}Video Editing
 Dialogue: 0,0:00:01.73,0:00:03.73,Credits-207-,,0,0,0,,{\blur0.675\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1800,1845,\1a&HFF&)}Gigglebot
@@ -487,5 +476,4 @@ Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.675\pos(60.001,40
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.675\pos(60.001,40)\fad(600,200)\4a&HFF&}Raws
 Dialogue: 0,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\blur0.675\pos(90,83)\fad(600,200)\fscx115\fscy120\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1270,1315,\1a&HFF&)}Neo-Raws
 Dialogue: 1,0:00:19.73,0:00:22.73,Credits-207-,,0,0,0,,{\bord0\blur0.675\pos(90,83)\fad(600,200)\fscx115\fscy120\4a&HFF&}Neo-Raws
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,‫===============================קרדיטים==============================
 Dialogue: 0,0:25:03.11,0:25:08.11,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil

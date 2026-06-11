@@ -33,14 +33,8 @@ Style: Secondary-207-,Guttman Yad-Brush,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.02,Main-207-,chptr,0,0,0,,
-Comment: 0,0:01:49.71,0:01:49.76,Main-207-,chptr,0,0,0,,
-Comment: 0,0:00:25.42,0:00:25.46,Main-207-,OP,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:49.71,0:01:59.71,Warning,,0,0,0,,{\org(0,0)\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,========================CHAPTERS AND OPENINGS=====================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
 Dialogue: 0,0:02:02.37,0:02:03.77,Main-207-,,0,0,0,,‫הם מגיעים! התחמקו!
 Dialogue: 0,0:02:17.43,0:02:20.08,Main-207-,,0,0,0,,‫גמלי הצמחים האלה לא רגילים!
 Dialogue: 0,0:02:21.93,0:02:24.08,Main-207-,,0,0,0,,‫– הרשת שלנו!\N‫– מה עם היער הזה?!
@@ -69,7 +63,6 @@ Dialogue: 0,0:03:33.40,0:03:34.49,Main-207-,,0,0,0,,‫מובן–
 Dialogue: 0,0:03:34.49,0:03:36.13,Main-207-,,0,0,0,,‫לא, לא את הסוג הזה של "מלח"!
 Dialogue: 0,0:03:37.36,0:03:40.83,Main-207-,,0,0,0,,‫נמאס לי לברוח! תבואו!
 Dialogue: 0,0:03:41.41,0:03:44.79,Main-207-,,0,0,0,,‫לא, לופי! {\i1}דבורי קומבאצ'י{\i0} ארסיות\N‫ממש!
-Dialogue: 0,0:03:41.41,0:03:44.79,Main-207-,,0,0,0,,{\pos(711.99,520)}
 Dialogue: 0,0:03:45.79,0:03:47.29,Main-207-,,0,0,0,,‫– גחליליות!\N‫– כל כך יפה!
 Dialogue: 0,0:03:47.29,0:03:48.79,Main-207-,,0,0,0,,‫ג'וקים!
 Dialogue: 0,0:03:49.29,0:03:50.50,Main-207-,,0,0,0,,‫חזירים!
@@ -163,7 +156,6 @@ Dialogue: 0,0:09:57.37,0:09:58.37,Main-207-,,0,0,0,,‫היי, לופי.
 Dialogue: 0,0:10:05.64,0:10:07.25,Main-207-,,0,0,0,,‫הסימן של בלמי...
 Dialogue: 0,0:10:09.21,0:10:10.67,Main-207-,,0,0,0,,‫רוצה עזרה?
 Dialogue: 0,0:10:11.38,0:10:12.62,Main-207-,,0,0,0,,‫לא, אני מסתדר.
-Comment: 0,0:10:12.72,0:10:18.16,Main-207-,,0,0,0,,‫לא, לופי! אל תהיה טיפש! אנחנו מפליגים בעוד שלוש שעות בלבד!
 Dialogue: 0,0:10:12.62,0:10:15.18,Main-207-,,0,0,0,,‫לא, לופי! אל תהיה אידיוט!
 Dialogue: 0,0:10:15.18,0:10:17.60,Main-207-,,0,0,0,,‫אנחנו מפליגים בעוד שלוש שעות בלבד!
 Dialogue: 0,0:10:21.49,0:10:25.23,Main-207-,,0,0,0,,‫אם אני ארוץ לאורך החוף, האם אגיע\N‫לעיר ההיא מוקדם יותר היום?
@@ -267,12 +259,8 @@ Dialogue: 0,0:16:37.41,0:16:38.23,Secondary-207-,,0,0,0,,‫היי!
 Dialogue: 0,0:16:44.65,0:16:48.15,Main-207-,,0,0,0,,‫דיברנו עליו ונראה...
 Dialogue: 0,0:16:48.15,0:16:50.51,Main-207-,,0,0,0,,‫יש לך עסק איתי?
 Dialogue: 0,0:16:51.03,0:16:55.49,Main-207-,,0,0,0,,‫כן! תחזיר\N‫את הזהב של ראש ערמון!
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================DIALOGUE============================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
 Dialogue: 0,0:01:49.76,0:01:55.43,Title-207-,,0,0,0,,{\blur0.8\fad(851,1066)\bord1.9\c&H000000&\1a&HFF&\t(809,851,\1a&H00&)\t(4604,4646,\1a&HFF&)}The 100-Million Man
 Dialogue: 1,0:01:49.76,0:01:55.43,Title-207-,,0,0,0,,{\blur0.7\fad(851,1025)\c&HE7E6E5&\bord0\4a&HFF&}The 100-Million Man
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,============================SIGNS AND TITLE=========================
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,===============================CREDITS==============================
 Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Video Editing
 Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Sewil
 Dialogue: 0,0:00:07.78,0:00:10.28,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Graphics
@@ -289,5 +277,4 @@ Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy
 Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}AphantasticRabbit\NPoppy\NRavenfire\NWestfal
 Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Translation
 Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Funimation\NGaijin\NPamkinPinguin\Nrangicus
-Comment: 0,0:00:00.00,0:00:00.00,Main-207-,,0,0,0,,==============================CREDITS==============================
 Dialogue: 0,0:16:55.49,0:17:00.49,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
