@@ -4,41 +4,42 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>One Pace Hebrew Subtitles</title>
-<meta name="description" content="Hebrew subtitles for One Pace, the fan-made recut of One Piece. Install as a Stremio add-on.">
-<meta name="theme-color" content="#0a1626">
+<meta name="description" content="Hebrew subtitles for One Pace, the fan-made recut of One Piece. Install as a Stremio add-on — fully compatible with the official One Pace addon.">
+<meta name="theme-color" content="#060f1d">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='0'%20y2='1'%3E%3Cstop%20offset='0'%20stop-color='%231a3a52'/%3E%3Cstop%20offset='1'%20stop-color='%230a1626'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='url(%23g)'/%3E%3Crect%20x='12'%20y='30'%20width='40'%20height='22'%20rx='7'%20fill='%23f6f7fb'/%3E%3Cpath%20d='M26%2052l-6%208%2012-8z'%20fill='%23f6f7fb'/%3E%3Cpath%20d='M32%2010c-9%200-16%205-16%2012%200%201%201%202%202%202h28c1%200%202-1%202-2%200-7-7-12-16-12z'%20fill='%23e7b84b'/%3E%3Crect%20x='12'%20y='22'%20width='40'%20height='5'%20rx='2.5'%20fill='%238a1f1f'/%3E%3Cellipse%20cx='32'%20cy='24.5'%20rx='4.5'%20ry='3'%20fill='%23f6f7fb'/%3E%3Ctext%20x='32'%20y='48'%20font-family='Arial,sans-serif'%20font-size='16'%20font-weight='700'%20text-anchor='middle'%20fill='%230a1626'%3E%D7%90%3C/text%3E%3C/svg%3E">
 <link rel="apple-touch-icon" href="icon.png">
 <meta property="og:type" content="website">
 <meta property="og:title" content="One Pace Hebrew Subtitles">
-<meta property="og:description" content="Hebrew subtitles for One Pace, the fan-made recut of One Piece. Install as a Stremio add-on.">
+<meta property="og:description" content="Hebrew subtitles for One Pace, the fan-made recut of One Piece. Install as a Stremio add-on — fully compatible with the official One Pace addon.">
 <meta property="og:image" content="icon.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="One Pace Hebrew Subtitles">
-<meta name="twitter:description" content="Hebrew subtitles for One Pace, the fan-made recut of One Piece. Install as a Stremio add-on.">
+<meta name="twitter:description" content="Hebrew subtitles for One Pace, the fan-made recut of One Piece. Install as a Stremio add-on — fully compatible with the official One Pace addon.">
 <meta name="twitter:image" content="icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Hebrew:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
-  --navy-950:#060f1d;
+  --navy-950:#050d19;
   --navy-900:#0a1626;
   --navy-800:#0e2034;
-  --teal-700:#123a47;
   --teal-500:#1d6b7a;
   --teal-glow:#4db4aa;
   --gold:#e7b84b;
   --gold-soft:#f3d585;
   --gold-deep:#c9952c;
-  --ink:#eaf1f8;
-  --ink-dim:#a9c0d4;
+  --ink:#edf3fa;
+  --ink-dim:#aac1d6;
   --ink-faint:#7e98ad;
-  --line:rgba(150,190,220,.14);
+  --line:rgba(150,190,220,.13);
   --line-strong:rgba(160,200,230,.24);
-  --glass:rgba(18,38,58,.55);
-  --glass-2:rgba(14,30,48,.6);
-  --radius:20px;
-  --radius-sm:13px;
-  --shadow:0 24px 60px -20px rgba(0,0,0,.7),0 6px 18px -8px rgba(0,0,0,.6);
+  --glass:rgba(16,33,52,.5);
+  --radius:22px;
+  --radius-sm:14px;
+  --shadow:0 30px 70px -24px rgba(0,0,0,.75),0 8px 22px -10px rgba(0,0,0,.6);
   --focus:0 0 0 3px rgba(231,184,75,.55);
-  --font:"Segoe UI",system-ui,-apple-system,"Helvetica Neue",Roboto,"Noto Sans","Noto Sans Hebrew","Arial Hebrew",Arial,sans-serif;
+  --font:"Inter","Noto Sans Hebrew","Segoe UI",system-ui,-apple-system,"Helvetica Neue",Roboto,"Noto Sans","Arial Hebrew",Arial,sans-serif;
   --mono:ui-monospace,"SF Mono","Cascadia Code","Consolas",monospace;
 }
 *{box-sizing:border-box}
@@ -52,23 +53,41 @@ body{
   -webkit-font-smoothing:antialiased;
   text-rendering:optimizeLegibility;
   background-color:var(--navy-950);
-  background-image:
-    radial-gradient(1100px 620px at 12% -8%, rgba(29,107,122,.42), transparent 60%),
-    radial-gradient(1000px 720px at 92% 4%, rgba(20,58,71,.5), transparent 58%),
-    radial-gradient(900px 900px at 78% 108%, rgba(231,184,75,.1), transparent 55%),
-    radial-gradient(1200px 800px at 30% 120%, rgba(13,40,63,.7), transparent 60%),
-    linear-gradient(180deg,#081222 0%,#060f1d 48%,#040b16 100%);
-  background-attachment:fixed;
+  background-image:linear-gradient(180deg,#071120 0%,#050d19 50%,#030a13 100%);
   position:relative;
+  overflow-x:hidden;
 }
+
+/* Aurora backdrop */
+.aurora{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+.aurora i{
+  position:absolute;border-radius:50%;
+  filter:blur(90px);
+  opacity:.55;
+  will-change:transform;
+}
+.aurora i:nth-child(1){
+  width:780px;height:780px;left:-18%;top:-32%;
+  background:radial-gradient(circle at 40% 40%,rgba(29,107,122,.55),transparent 65%);
+  animation:drift1 26s ease-in-out infinite alternate;
+}
+.aurora i:nth-child(2){
+  width:680px;height:680px;right:-16%;top:-18%;
+  background:radial-gradient(circle at 55% 45%,rgba(20,58,90,.6),transparent 65%);
+  animation:drift2 32s ease-in-out infinite alternate;
+}
+.aurora i:nth-child(3){
+  width:560px;height:560px;right:6%;bottom:-30%;
+  background:radial-gradient(circle at 50% 50%,rgba(231,184,75,.16),transparent 62%);
+  animation:drift3 30s ease-in-out infinite alternate;
+}
+@keyframes drift1{to{transform:translate(60px,46px) scale(1.08)}}
+@keyframes drift2{to{transform:translate(-70px,40px) scale(1.06)}}
+@keyframes drift3{to{transform:translate(-40px,-60px) scale(1.1)}}
 body::before{
   content:"";
-  position:fixed;
-  inset:0;
-  pointer-events:none;
-  z-index:0;
-  opacity:.05;
-  mix-blend-mode:overlay;
+  position:fixed;inset:0;pointer-events:none;z-index:0;
+  opacity:.05;mix-blend-mode:overlay;
   background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
@@ -77,9 +96,9 @@ body::before{
   position:sticky;top:0;z-index:50;
   display:flex;align-items:center;justify-content:space-between;gap:12px;
   padding:10px clamp(14px,4vw,28px);
-  background:rgba(8,18,34,.72);
-  -webkit-backdrop-filter:blur(16px) saturate(140%);
-  backdrop-filter:blur(16px) saturate(140%);
+  background:rgba(7,17,32,.7);
+  -webkit-backdrop-filter:blur(18px) saturate(150%);
+  backdrop-filter:blur(18px) saturate(150%);
   border-bottom:1px solid var(--line);
 }
 .nav-brand{display:flex;align-items:center;gap:10px;min-width:0}
@@ -91,6 +110,17 @@ body::before{
 }
 .nav-brand .mark img{width:100%;height:100%;object-fit:cover;display:block}
 .nav-brand .name{font-weight:700;font-size:.92rem;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--ink)}
+.nav-actions{display:flex;align-items:center;gap:10px;flex:0 0 auto}
+.nav-gh{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:34px;height:34px;border-radius:10px;
+  color:var(--ink-dim);
+  border:1px solid var(--line);
+  background:rgba(14,32,52,.45);
+  transition:color .2s ease,border-color .2s ease,transform .18s ease;
+}
+.nav-gh:hover{color:var(--ink);border-color:var(--line-strong);transform:translateY(-1px);text-decoration:none}
+.nav-gh svg{width:17px;height:17px}
 .nav-cta{
   display:inline-flex;align-items:center;gap:7px;flex:0 0 auto;
   font-size:.82rem;font-weight:600;
@@ -104,44 +134,69 @@ body::before{
 .nav-cta:hover{transform:translateY(-1px);text-decoration:none;box-shadow:0 9px 22px -6px rgba(231,184,75,.7),inset 0 1px 0 rgba(255,255,255,.6)}
 .nav-cta svg{width:14px;height:14px}
 
-.wrap{position:relative;z-index:1;max-width:880px;margin:0 auto;padding:clamp(12px,4vw,32px) clamp(16px,5vw,28px) 64px}
+.wrap{position:relative;z-index:1;max-width:900px;margin:0 auto;padding:clamp(12px,4vw,32px) clamp(16px,5vw,28px) 64px}
 a{color:var(--gold-soft);text-decoration:none}
 a:hover{text-decoration:underline;text-underline-offset:3px}
 a:focus-visible,button:focus-visible{outline:none;box-shadow:var(--focus);border-radius:8px}
 ::selection{background:rgba(231,184,75,.3);color:#fff}
 
-/* Header */
-header{text-align:center;padding:clamp(16px,4vw,34px) 0 clamp(8px,3vw,18px)}
+/* Hero */
+header{text-align:center;padding:clamp(26px,6vw,56px) 0 clamp(8px,3vw,18px)}
 .logo{
-  width:88px;height:88px;margin:0 auto 22px;
+  width:96px;height:96px;margin:0 auto 24px;
   display:flex;align-items:center;justify-content:center;
-  border-radius:24px;font-size:46px;
+  border-radius:26px;font-size:48px;
   background:linear-gradient(160deg,rgba(29,107,122,.35),rgba(10,22,38,.6));
   border:1px solid var(--line-strong);
   box-shadow:var(--shadow),inset 0 1px 0 rgba(255,255,255,.07);
   overflow:hidden;
+  position:relative;
+}
+.logo::after{
+  content:"";position:absolute;inset:-40%;z-index:-1;border-radius:50%;
+  background:radial-gradient(circle,rgba(231,184,75,.28),transparent 70%);
+  filter:blur(24px);
 }
 .logo img{width:100%;height:100%;object-fit:cover;display:block}
 h1{
-  margin:0 0 12px;
-  font-size:clamp(2.1rem,6.5vw,3.5rem);
-  line-height:1.06;
-  letter-spacing:-.02em;
+  margin:0 0 14px;
+  font-size:clamp(2.3rem,7vw,3.9rem);
+  line-height:1.04;
+  letter-spacing:-.03em;
   font-weight:800;
-  background:linear-gradient(180deg,#ffffff 0%,#cfe2f0 60%,#9fc0d6 100%);
+  background:linear-gradient(180deg,#ffffff 0%,#d7e7f3 55%,#9fc0d6 100%);
   -webkit-background-clip:text;background-clip:text;
   -webkit-text-fill-color:transparent;color:transparent;
 }
-.tagline{margin:0;color:var(--ink-dim);font-size:clamp(1rem,2.6vw,1.2rem);font-weight:500}
+.tagline{margin:0;color:var(--ink-dim);font-size:clamp(1rem,2.6vw,1.22rem);font-weight:500}
 .tagline-he{margin:6px 0 0;color:var(--ink-faint);font-size:clamp(.95rem,2.4vw,1.08rem)}
+
+/* Hero chips */
+.chips{
+  display:flex;flex-wrap:wrap;justify-content:center;gap:9px;
+  margin:24px 0 0;padding:0;list-style:none;
+}
+.chips li{
+  display:inline-flex;align-items:center;gap:7px;
+  font-size:.8rem;font-weight:600;color:var(--ink-dim);
+  padding:7px 14px;border-radius:999px;
+  background:rgba(14,32,52,.55);
+  border:1px solid var(--line);
+  -webkit-backdrop-filter:blur(10px);
+  backdrop-filter:blur(10px);
+}
+.chips li svg{width:13px;height:13px;color:var(--teal-glow);flex:0 0 auto}
+.chips li.compat{color:#cfe9d6;border-color:rgba(94,200,140,.3);background:rgba(20,52,38,.35)}
+.chips li.compat svg{color:#6fd394}
+.chips li a{color:inherit}
 
 /* AI disclaimer */
 .disclaimer{
   display:flex;gap:14px;align-items:flex-start;
-  margin:30px 0 8px;padding:16px 20px;
+  margin:32px 0 8px;padding:16px 20px;
   border-radius:var(--radius-sm);
-  background:linear-gradient(135deg,rgba(231,184,75,.14),rgba(231,184,75,.05));
-  border:1px solid rgba(231,184,75,.34);
+  background:linear-gradient(135deg,rgba(231,184,75,.13),rgba(231,184,75,.04));
+  border:1px solid rgba(231,184,75,.32);
   box-shadow:inset 0 1px 0 rgba(255,255,255,.05);
 }
 .disclaimer .ic{flex:0 0 auto;line-height:0;margin-top:2px;color:var(--gold-soft);filter:drop-shadow(0 1px 2px rgba(0,0,0,.4))}
@@ -151,7 +206,7 @@ h1{
 .disclaimer .he{margin-top:3px;color:#e4d6b3;display:block}
 
 /* Sections */
-section{margin-top:clamp(28px,6vw,44px)}
+section{margin-top:clamp(28px,6vw,46px)}
 .eyebrow{
   display:inline-flex;align-items:center;gap:10px;margin:0 0 14px;
   font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;
@@ -166,22 +221,40 @@ section{margin-top:clamp(28px,6vw,44px)}
 }
 .card{
   background:var(--glass);
-  -webkit-backdrop-filter:blur(20px) saturate(140%);
-  backdrop-filter:blur(20px) saturate(140%);
+  -webkit-backdrop-filter:blur(22px) saturate(150%);
+  backdrop-filter:blur(22px) saturate(150%);
   border:1px solid var(--line);
   border-radius:var(--radius);
-  padding:clamp(22px,4.5vw,34px);
+  padding:clamp(22px,4.5vw,36px);
   box-shadow:var(--shadow),inset 0 1px 0 rgba(255,255,255,.05);
   position:relative;
   overflow:hidden;
+  transition:border-color .3s ease,transform .3s ease;
 }
+.card:hover{border-color:var(--line-strong)}
 .card::after{
   content:"";position:absolute;left:0;right:0;top:0;height:1px;
   background:linear-gradient(90deg,transparent,rgba(231,184,75,.5),transparent);
   opacity:.55;
 }
-.card h2{margin:0 0 6px;font-size:clamp(1.35rem,3.6vw,1.7rem);font-weight:700;letter-spacing:-.01em}
+.card h2{margin:0 0 6px;font-size:clamp(1.35rem,3.6vw,1.7rem);font-weight:700;letter-spacing:-.015em}
 .card .lead{margin:0 0 22px;color:var(--ink-dim);font-size:1rem}
+.card + .card{margin-top:18px}
+
+/* Compat card accent */
+.card.compat-card::after{
+  background:linear-gradient(90deg,transparent,rgba(111,211,148,.55),transparent);
+}
+.compat-badge{
+  display:inline-flex;align-items:center;gap:8px;
+  margin:0 0 14px;
+  font-size:.78rem;font-weight:700;letter-spacing:.04em;
+  color:#cfe9d6;
+  padding:6px 13px;border-radius:999px;
+  background:rgba(20,52,38,.4);
+  border:1px solid rgba(94,200,140,.35);
+}
+.compat-badge svg{width:14px;height:14px;color:#6fd394}
 
 /* Copy box */
 .copy-row{
@@ -191,7 +264,7 @@ section{margin-top:clamp(28px,6vw,44px)}
 .copy-box{
   flex:1 1 320px;min-width:0;
   display:flex;align-items:center;
-  background:rgba(4,11,22,.72);
+  background:rgba(3,10,20,.72);
   border:1px solid var(--line-strong);
   border-radius:12px;
   padding:0 14px;
@@ -240,6 +313,16 @@ section{margin-top:clamp(28px,6vw,44px)}
 }
 .btn-primary:hover{transform:translateY(-2px);box-shadow:0 16px 40px -8px rgba(231,184,75,.72),0 4px 10px rgba(0,0,0,.45),inset 0 1px 0 rgba(255,255,255,.6)}
 .btn-primary:active{transform:translateY(0)}
+.btn-secondary{
+  width:100%;
+  font-size:1rem;padding:14px 24px;
+  color:#dffaf2;
+  background:linear-gradient(180deg,rgba(40,98,110,.85),rgba(24,70,82,.9));
+  border-color:rgba(77,180,170,.4);
+  box-shadow:0 10px 26px -10px rgba(29,107,122,.7),inset 0 1px 0 rgba(255,255,255,.12);
+}
+.btn-secondary:hover{transform:translateY(-2px);border-color:rgba(77,180,170,.6);box-shadow:0 14px 34px -10px rgba(29,107,122,.85),inset 0 1px 0 rgba(255,255,255,.16)}
+.btn-secondary:active{transform:translateY(0)}
 
 /* Steps */
 .steps{list-style:none;counter-reset:step;margin:26px 0 0;padding:0;display:grid;gap:14px}
@@ -274,7 +357,7 @@ section{margin-top:clamp(28px,6vw,44px)}
 /* Divider between language blocks */
 .lang-split{
   display:flex;align-items:center;gap:16px;
-  margin:34px 0 4px;color:var(--ink-faint);
+  margin:38px 0 4px;color:var(--ink-faint);
   font-size:.75rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;
 }
 .lang-split::before,.lang-split::after{content:"";flex:1;height:1px;background:var(--line)}
@@ -295,12 +378,16 @@ span[dir="ltr"]{unicode-bidi:isolate}
 
 /* Footer */
 footer{
-  margin-top:48px;padding-top:26px;text-align:center;
+  margin-top:52px;padding-top:28px;text-align:center;
   border-top:1px solid var(--line);
   color:var(--ink-faint);font-size:.85rem;
 }
-footer p{margin:0}
+footer p{margin:0 0 6px}
 footer .heart{color:var(--gold)}
+
+/* Scroll reveal (only when JS available) */
+.js .reveal{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s ease}
+.js .reveal.in{opacity:1;transform:none}
 
 .sr-only{
   position:absolute;width:1px;height:1px;padding:0;margin:-1px;
@@ -314,11 +401,16 @@ footer .heart{color:var(--gold)}
 }
 @media (prefers-reduced-motion:reduce){
   *{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important;scroll-behavior:auto!important}
-  .btn:hover,.btn-copy:hover,.btn-primary:hover,.nav-cta:hover{transform:none!important}
+  .btn:hover,.btn-copy:hover,.btn-primary:hover,.btn-secondary:hover,.nav-cta:hover,.nav-gh:hover{transform:none!important}
+  .aurora i{animation:none!important}
+  .js .reveal{opacity:1!important;transform:none!important}
 }
 </style>
+<script>document.documentElement.classList.add("js");</script>
 </head>
 <body>
+
+<div class="aurora" aria-hidden="true"><i></i><i></i><i></i></div>
 
 <nav class="nav" aria-label="Primary">
   <div class="nav-brand">
@@ -327,10 +419,15 @@ footer .heart{color:var(--gold)}
     </span>
     <span class="name">One Pace Hebrew Subtitles</span>
   </div>
-  <a class="nav-cta" href="stremio://stremio-addon.onepace-hebrew.workers.dev/manifest.json">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M7 11l5 5 5-5"/><path d="M5 21h14"/></svg>
-    Install in Stremio
-  </a>
+  <div class="nav-actions">
+    <a class="nav-gh" href="https://github.com/onepace-hebrew/stremio-addon" target="_blank" rel="noopener" aria-label="View on GitHub">
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.88-1.36-3.88-1.36-.52-1.33-1.28-1.69-1.28-1.69-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.76 2.69 1.25 3.35.96.1-.75.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.78 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.42-2.7 5.39-5.27 5.68.41.36.78 1.06.78 2.14 0 1.54-.01 2.78-.01 3.16 0 .31.21.67.8.55A11.51 11.51 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg>
+    </a>
+    <a class="nav-cta" href="stremio://stremio-addon.onepace-hebrew.workers.dev/manifest.json">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M7 11l5 5 5-5"/><path d="M5 21h14"/></svg>
+      Install in Stremio
+    </a>
+  </div>
 </nav>
 
 <div class="wrap">
@@ -342,9 +439,27 @@ footer .heart{color:var(--gold)}
     <h1>One Pace Hebrew Subtitles</h1>
     <p class="tagline">Hebrew subtitles for One Pace &mdash; the fan-made recut of One Piece.</p>
     <p class="tagline-he" dir="rtl" lang="he">כתוביות בעברית ל&#8206;<span dir="ltr">One Pace</span> &mdash; העריכה המחודשת של <span dir="ltr">One Piece</span> מעשה מעריצים.</p>
+    <ul class="chips">
+      <li class="compat">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+        Compatible with the <a href="https://fedew04.github.io/OnePaceStremio/manifest.json" target="_blank" rel="noopener">official One Pace addon</a>
+      </li>
+      <li>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M7 11l5 5 5-5"/><path d="M5 21h14"/></svg>
+        One-click install
+      </li>
+      <li>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-9-9"/><path d="M21 3v6h-6"/></svg>
+        Auto-updating subtitles
+      </li>
+      <li>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 18 22 12 16 6"/><path d="M8 6 2 12 8 18"/></svg>
+        Free &amp; open source
+      </li>
+    </ul>
   </header>
 
-  <div class="disclaimer" role="note">
+  <div class="disclaimer reveal" role="note">
     <span class="ic" aria-hidden="true">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg>
     </span>
@@ -357,7 +472,7 @@ footer .heart{color:var(--gold)}
   <!-- ENGLISH (LTR) -->
   <section dir="ltr" lang="en" aria-labelledby="en-h">
     <span class="eyebrow">Install</span>
-    <div class="card">
+    <div class="card reveal">
       <h2 id="en-h">Add to Stremio</h2>
       <p class="lead">Copy the add-on repository URL below, or install it directly in one click.</p>
 
@@ -379,14 +494,39 @@ footer .heart{color:var(--gold)}
 
       <ol class="steps">
         <li>Add the URL above in Stremio.</li>
-        <li>Play a One Pace episode (you need the One Pace stream addon installed).</li>
+        <li>Play a One Pace episode (you need the official One Pace addon installed &mdash; see below).</li>
         <li>Pick the Hebrew subtitle track.</li>
       </ol>
 
       <p class="note">The plain track works in the Stremio player. For fancier styling, use <a href="https://mpv.io/" target="_blank" rel="noopener">mpv</a>.</p>
     </div>
 
-    <div class="card" style="margin-top:18px">
+    <div class="card compat-card reveal">
+      <span class="compat-badge">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+        Fully compatible
+      </span>
+      <h2>Works with the official One Pace addon</h2>
+      <p class="lead">This add-on provides subtitles only. Pair it with the official One Pace addon for Stremio, which provides the episode streams &mdash; install both and they work together out of the box.</p>
+
+      <div class="copy-row">
+        <div class="copy-box">
+          <code>https://fedew04.github.io/OnePaceStremio/manifest.json</code>
+        </div>
+        <button type="button" class="btn btn-copy" data-copy="https://fedew04.github.io/OnePaceStremio/manifest.json" aria-label="Copy official One Pace addon URL to clipboard">
+          <svg class="clip" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          <svg class="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+          <span class="lbl">Copy</span>
+        </button>
+      </div>
+
+      <a class="btn btn-secondary" href="stremio://fedew04.github.io/OnePaceStremio/manifest.json">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M7 11l5 5 5-5"/><path d="M5 21h14"/></svg>
+        Install the official One Pace addon
+      </a>
+    </div>
+
+    <div class="card reveal">
       <p class="credits">Based on the English subtitles from the <a href="https://onepace.net" target="_blank" rel="noopener">One Pace project</a>. Hebrew translation by <strong>That One Gerbil</strong>.</p>
     </div>
   </section>
@@ -396,7 +536,7 @@ footer .heart{color:var(--gold)}
   <!-- HEBREW (RTL) -->
   <section dir="rtl" lang="he" aria-labelledby="he-h">
     <span class="eyebrow">התקנה</span>
-    <div class="card">
+    <div class="card reveal">
       <h2 id="he-h">הוספה ל&#8206;<span dir="ltr">Stremio</span></h2>
       <p class="lead">העתיקו את כתובת מאגר התוסף שלמטה, או התקינו אותה ישירות בלחיצה אחת.</p>
 
@@ -419,20 +559,46 @@ footer .heart{color:var(--gold)}
       <ol class="steps">
         <li>פתחו את <span dir="ltr">Stremio</span> ועברו אל מסך התוספים <span dir="ltr">Add-ons</span>.</li>
         <li>הדביקו את הכתובת שלמעלה בתיבה <span dir="ltr">"Add-on Repository URL"</span> ולחצו על <span dir="ltr">Install</span> (התקנה).</li>
-        <li>הפעילו פרק של <span dir="ltr">One Pace</span> (צריך שיהיה מותקן תוסף הסטרימינג של <span dir="ltr">One Pace</span>).</li>
+        <li>הפעילו פרק של <span dir="ltr">One Pace</span> (צריך שיהיה מותקן התוסף הרשמי של <span dir="ltr">One Pace</span> &mdash; ראו למטה).</li>
         <li>בחרו בכתוביות בעברית.</li>
       </ol>
 
       <p class="note">המסלול הרגיל עובד בנגן של <span dir="ltr">Stremio</span>. לעיצוב מוקפד יותר, השתמשו ב&#1470;<span dir="ltr"><a href="https://mpv.io/" target="_blank" rel="noopener">mpv</a></span>.</p>
     </div>
 
-    <div class="card" style="margin-top:18px">
+    <div class="card compat-card reveal">
+      <span class="compat-badge">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+        תאימות מלאה
+      </span>
+      <h2>עובד עם התוסף הרשמי של <span dir="ltr">One Pace</span></h2>
+      <p class="lead">התוסף הזה מספק כתוביות בלבד. הוא תואם באופן מלא לתוסף הרשמי של <span dir="ltr">One Pace</span> ל&#8206;<span dir="ltr">Stremio</span>, שמספק את הפרקים עצמם &mdash; התקינו את שניהם והם יעבדו יחד בלי שום הגדרה נוספת.</p>
+
+      <div class="copy-row" dir="ltr">
+        <div class="copy-box" dir="ltr">
+          <code>https://fedew04.github.io/OnePaceStremio/manifest.json</code>
+        </div>
+        <button type="button" class="btn btn-copy" data-copy="https://fedew04.github.io/OnePaceStremio/manifest.json" aria-label="Copy official One Pace addon URL to clipboard">
+          <svg class="clip" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          <svg class="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+          <span class="lbl">Copy</span>
+        </button>
+      </div>
+
+      <a class="btn btn-secondary" href="stremio://fedew04.github.io/OnePaceStremio/manifest.json">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M7 11l5 5 5-5"/><path d="M5 21h14"/></svg>
+        התקנת התוסף הרשמי של&nbsp;<span dir="ltr">One Pace</span>
+      </a>
+    </div>
+
+    <div class="card reveal">
       <p class="credits">מבוסס על הכתוביות באנגלית מ&#8206;<span dir="ltr"><a href="https://onepace.net" target="_blank" rel="noopener">One Pace project</a></span>. תרגום לעברית מאת <strong><span dir="ltr">That One Gerbil</span></strong>.</p>
     </div>
   </section>
 
   <footer>
     <p>One Pace Hebrew Subtitles &middot; made with <span class="heart" aria-hidden="true">&#9733;</span> for the One Pace community.</p>
+    <p>Compatible with the <a href="https://fedew04.github.io/OnePaceStremio/manifest.json" target="_blank" rel="noopener">official One Pace addon for Stremio</a> &middot; <a href="https://github.com/onepace-hebrew/stremio-addon" target="_blank" rel="noopener">Source on GitHub</a></p>
   </footer>
 
 </div>
@@ -471,6 +637,23 @@ footer .heart{color:var(--gold)}
     ta.select();
     try { document.execCommand("copy"); } catch (e) {}
     document.body.removeChild(ta);
+  }
+
+  // Scroll reveal
+  if ("IntersectionObserver" in window) {
+    var io = new IntersectionObserver(function(entries){
+      for (var j = 0; j < entries.length; j++) {
+        if (entries[j].isIntersecting) {
+          entries[j].target.classList.add("in");
+          io.unobserve(entries[j].target);
+        }
+      }
+    }, { rootMargin: "0px 0px -8% 0px", threshold: 0.06 });
+    var els = document.querySelectorAll(".reveal");
+    for (var k = 0; k < els.length; k++) { io.observe(els[k]); }
+  } else {
+    var all = document.querySelectorAll(".reveal");
+    for (var m = 0; m < all.length; m++) { all[m].classList.add("in"); }
   }
 })();
 </script>

@@ -19,6 +19,14 @@ Hebrew subtitles for One Pace (the fan-made recut of One Piece) — as a Stremio
 
 The plain track works in Stremio's player; for fancier styling, use [mpv](https://mpv.io/).
 
+## Works with the official One Pace addon
+
+This addon provides **subtitles only**. It is fully compatible with the [official One Pace addon for Stremio](https://fedew04.github.io/OnePaceStremio/manifest.json), which provides the episode streams — install both and they work together out of the box:
+
+```
+https://fedew04.github.io/OnePaceStremio/manifest.json
+```
+
 ## Credits
 
 Based on the English subtitles from the [One Pace project](https://onepace.net). Hebrew translation by **That One Gerbil**.
@@ -48,6 +56,14 @@ Based on the English subtitles from the [One Pace project](https://onepace.net).
 4. בחרו ב**כתוביות בעברית**.
 
 הכתוביות הרגילות עובדות בנגן של ‎Stremio‎; לעיצוב מושקע יותר השתמשו ב־[‎mpv‎](https://mpv.io/).
+
+## עובד עם התוסף הרשמי של ‎One Pace‎
+
+התוסף הזה מספק **כתוביות בלבד**. הוא תואם באופן מלא ל[תוסף הרשמי של ‎One Pace‎ ל־‎Stremio‎](https://fedew04.github.io/OnePaceStremio/manifest.json), שמספק את הפרקים עצמם — התקינו את שניהם והם יעבדו יחד בלי שום הגדרה נוספת:
+
+```
+https://fedew04.github.io/OnePaceStremio/manifest.json
+```
 
 ## קרדיטים
 
