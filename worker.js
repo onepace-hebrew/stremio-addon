@@ -92,6 +92,11 @@ function subtitlesFor(idSegment, mapping, origin) {
         url: `${origin}/vtt/${token.toUpperCase()}.vtt`,
         lang: 'heb',
       });
+      // Third entry: raw .ass. Dead on desktop (server pipeline rejects it,
+      // stremio-bugs#2312) but Android/TV apps have an SSA/ASS support
+      // toggle (bottom of the Playback settings section) that renders it in
+      // ExoPlayer — with the file's own styling, including black outline.
+      out.push({ id: `${token}-he-ass`, url: entry.ass, lang: 'heb' });
     }
   }
   return out;
