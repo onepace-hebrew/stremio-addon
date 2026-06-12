@@ -21,7 +21,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.2',
+  version: '1.0.3',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -79,8 +79,12 @@ function subtitlesFor(idSegment, mapping) {
   const entry = token && mapping[token.toUpperCase()];
   const out = [];
   if (entry) {
+    // SRT only. Stremio's server (v4.21, used by desktop and TV apps) returns
+    // HTTP 500 converting ANY remote .ass to VTT — even official One Pace
+    // files — so an ass track is a dead "Hebrew" entry that renders nothing
+    // when picked (and some UIs dedupe same-language tracks to the broken
+    // one). The .ass files stay in the repo for manual/mpv use.
     if (entry.srt) out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb' });
-    if (entry.ass) out.push({ id: `${token}-he-ass`, url: entry.ass, lang: 'heb' });
   }
   return out;
 }
@@ -100,7 +104,9 @@ export default {
     if (m) {
       const idSegment = m[1].split('/')[0]; // strip any /<extra...> suffix
       const mapping = await getMapping();
-      return json({ subtitles: subtitlesFor(idSegment, mapping), cacheMaxAge: 86400 });
+      // 1h, not 24h: clients cache this response, so a long TTL strands users
+      // on stale track lists for a day after a fix ships.
+      return json({ subtitles: subtitlesFor(idSegment, mapping), cacheMaxAge: 3600 });
     }
 
     return json({ subtitles: [] });
