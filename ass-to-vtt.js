@@ -16,8 +16,9 @@
 //   layered 2-3x for border/fill, which VTT would render as repeated text);
 //   Credits-style events (staff credits are stored in reversed visual
 //   letter order for the ass renderer — gibberish as plain VTT text).
-// - \pos(x,y) -> line:<y%> position:<x%> using PlayResX/Y from Script Info.
-// - \an7/8/9 (top anchors) -> line:5%; \an4/5/6 (middle) -> line:45%.
+// - No cue position settings: Stremio's server strips them on desktop and
+//   ExoPlayer scatters text with them on TV (tested both) — plain bottom
+//   cues render best. Signs/captions ride as normal cues.
 // - \N -> newline, \h -> space, all other override tags dropped.
 // - RTL marks (U+202B) in the text are preserved.
 
@@ -29,25 +30,6 @@ function toVttTime(t) {
   const m = TIME_RE.exec(t);
   if (!m) return null;
   return `${m[1].padStart(2, '0')}:${m[2]}:${m[3]}.${m[4]}0`;
-}
-
-// Extract cue positioning from the event's override tags.
-function cueSettings(text, playResX, playResY) {
-  const pos = /\\pos\(\s*([\d.]+)\s*,\s*([\d.]+)\s*\)/.exec(text);
-  if (pos && playResX && playResY) {
-    const xPct = Math.round((parseFloat(pos[1]) / playResX) * 100);
-    const yPct = Math.round((parseFloat(pos[2]) / playResY) * 100);
-    if (xPct >= 0 && xPct <= 100 && yPct >= 0 && yPct <= 100) {
-      return ` line:${yPct}% position:${xPct}% align:center`;
-    }
-  }
-  const an = /\\an([1-9])/.exec(text);
-  if (an) {
-    const n = +an[1];
-    if (n >= 7) return ' line:5%';
-    if (n >= 4) return ' line:45%';
-  }
-  return '';
 }
 
 function plainText(text) {
@@ -96,7 +78,7 @@ function assToVtt(ass) {
     if (seen.has(key)) continue;
     seen.add(key);
 
-    cues.push({ start, end, settings: cueSettings(rawText, playResX, playResY), text });
+    cues.push({ start, end, settings: '', text });
   }
 
   cues.sort((a, b) => (a.start < b.start ? -1 : a.start > b.start ? 1 : 0));
