@@ -79,14 +79,12 @@ function subtitlesFor(idSegment, mapping) {
   const entry = token && mapping[token.toUpperCase()];
   const out = [];
   if (entry) {
-    // SRT first: it is the only format Stremio's server-side VTT converter
-    // accepts (v4.21 returns HTTP 500 for ANY remote .ass — verified against
-    // official One Pace files too), so on desktop the srt entry is the one
-    // that renders. The ass entry stays for players that take external subs
-    // natively (ExoPlayer on the TV app has an SSA/ASS decoder) — there it
-    // renders with full styling. If one "Hebrew" entry is blank, pick the other.
+    // SRT only. Stremio's server (v4.21, used by desktop and TV apps) returns
+    // HTTP 500 converting ANY remote .ass to VTT — even official One Pace
+    // files — so an ass track is a dead "Hebrew" entry that renders nothing
+    // when picked (and some UIs dedupe same-language tracks to the broken
+    // one). The .ass files stay in the repo for manual/mpv use.
     if (entry.srt) out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb' });
-    if (entry.ass) out.push({ id: `${token}-he-ass`, url: entry.ass, lang: 'heb' });
   }
   return out;
 }
