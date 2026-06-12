@@ -14,6 +14,7 @@
 // the fetch ever fails.
 
 import bundledMapping from './mapping.json';
+import { assToVtt } from './ass-to-vtt.js';
 
 const MAPPING_URL =
   'https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/mapping.json';
@@ -21,7 +22,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.3',
+  version: '1.0.4',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -74,30 +75,59 @@ async function getMapping() {
 
 // Pull the <ARC>_<ep> token (WS_19, EN_1, RO_1...) out of whatever id Stremio sends
 // ("WS_19", "onepace:WS_19", a series-prefixed form, etc.) and return its Hebrew tracks.
-function subtitlesFor(idSegment, mapping) {
+function subtitlesFor(idSegment, mapping, origin) {
   const token = (String(idSegment).match(/[A-Za-z]+_\d+/g) || []).pop();
   const entry = token && mapping[token.toUpperCase()];
   const out = [];
   if (entry) {
-    // SRT first: it is the only format Stremio's server-side VTT converter
-    // accepts (v4.21 returns HTTP 500 for ANY remote .ass — verified against
-    // official One Pace files too), so on desktop the srt entry is the one
-    // that renders. The ass entry stays for players that take external subs
-    // natively (ExoPlayer on the TV app has an SSA/ASS decoder) — there it
-    // renders with full styling. If one "Hebrew" entry is blank, pick the other.
+    // SRT first — always works. Second entry: our own ass->VTT conversion
+    // served by this Worker. Stremio cannot ingest external .ass at all
+    // (server pipeline rejects every .ass — stremio-bugs#2312, all
+    // platforms), but external VTT loads fine — the conversion keeps cue
+    // positioning (top-screen signs etc.), which raw srt loses.
     if (entry.srt) out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb' });
-    if (entry.ass) out.push({ id: `${token}-he-ass`, url: entry.ass, lang: 'heb' });
+    if (entry.ass) {
+      out.push({
+        id: `${token}-he-vtt`,
+        url: `${origin}/vtt/${token.toUpperCase()}.vtt`,
+        lang: 'heb',
+      });
+    }
   }
   return out;
+}
+
+// Fetch the episode's .ass and convert to WebVTT. Edge-cached.
+async function vttFor(token, mapping) {
+  const entry = mapping[token.toUpperCase()];
+  if (!entry || !entry.ass) return null;
+  const res = await fetch(entry.ass, { cf: { cacheTtl: 300, cacheEverything: true } });
+  if (!res.ok) return null;
+  return assToVtt(await res.text());
 }
 
 export default {
   async fetch(request) {
     if (request.method === 'OPTIONS') return new Response(null, { headers: CORS });
 
-    const path = decodeURIComponent(new URL(request.url).pathname);
+    const url = new URL(request.url);
+    const path = decodeURIComponent(url.pathname);
 
     if (path === '/' || path.endsWith('/manifest.json')) return json(manifest);
+
+    // /vtt/<ARC>_<ep>.vtt — the episode's .ass converted to WebVTT
+    const v = path.match(/^\/vtt\/([A-Za-z]+_\d+)\.vtt$/);
+    if (v) {
+      const vtt = await vttFor(v[1], await getMapping());
+      if (vtt === null) return new Response('not found', { status: 404, headers: CORS });
+      return new Response(vtt, {
+        headers: {
+          'content-type': 'text/vtt; charset=utf-8',
+          'cache-control': 'public, max-age=3600',
+          ...CORS,
+        },
+      });
+    }
 
     // /subtitles/<type>/<id>.json  OR  /subtitles/<type>/<id>/<extra...>.json
     // <type> is series|anime|movie — Stremio uses the playing content's type,
@@ -108,7 +138,7 @@ export default {
       const mapping = await getMapping();
       // 1h, not 24h: clients cache this response, so a long TTL strands users
       // on stale track lists for a day after a fix ships.
-      return json({ subtitles: subtitlesFor(idSegment, mapping), cacheMaxAge: 3600 });
+      return json({ subtitles: subtitlesFor(idSegment, mapping, url.origin), cacheMaxAge: 3600 });
     }
 
     return json({ subtitles: [] });
