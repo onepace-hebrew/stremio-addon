@@ -85,18 +85,28 @@ function subtitlesFor(idSegment, mapping, origin) {
     // (server pipeline rejects every .ass — stremio-bugs#2312, all
     // platforms), but external VTT loads fine — the conversion keeps cue
     // positioning (top-screen signs etc.), which raw srt loses.
-    if (entry.srt) out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb' });
+    // label: official per-track display name (stremio-core#947, v0.55.0+);
+    // older clients ignore the field and just show "Hebrew" three times.
+    if (entry.srt) {
+      out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb', label: 'עברית (SRT)' });
+    }
     if (entry.ass) {
       out.push({
         id: `${token}-he-vtt`,
         url: `${origin}/vtt/${token.toUpperCase()}.vtt`,
         lang: 'heb',
+        label: 'עברית + שלטים (VTT)',
       });
       // Third entry: raw .ass. Dead on desktop (server pipeline rejects it,
       // stremio-bugs#2312) but Android/TV apps have an SSA/ASS support
       // toggle (bottom of the Playback settings section) that renders it in
       // ExoPlayer — with the file's own styling, including black outline.
-      out.push({ id: `${token}-he-ass`, url: entry.ass, lang: 'heb' });
+      out.push({
+        id: `${token}-he-ass`,
+        url: entry.ass,
+        lang: 'heb',
+        label: 'עברית מעוצב (ASS)',
+      });
     }
   }
   return out;
@@ -143,7 +153,15 @@ export default {
       const mapping = await getMapping();
       // 1h, not 24h: clients cache this response, so a long TTL strands users
       // on stale track lists for a day after a fix ships.
-      return json({ subtitles: subtitlesFor(idSegment, mapping, url.origin), cacheMaxAge: 3600 });
+      // cache fields mirror the official OpenSubtitles v3 addon: short fresh
+      // window so fixes propagate, long stale windows so playback never
+      // stalls on a slow/failed refetch.
+      return json({
+        subtitles: subtitlesFor(idSegment, mapping, url.origin),
+        cacheMaxAge: 3600,
+        staleRevalidate: 14400,
+        staleError: 604800,
+      });
     }
 
     return json({ subtitles: [] });
