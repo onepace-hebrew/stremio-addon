@@ -43,8 +43,8 @@ Style: Note-720p,Guttman Yad-Brush,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H9600000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
 Dialogue: 0,0:01:39.62,0:01:40.18,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
-Dialogue: 0,0:01:49.92,0:01:54.74,Title,,0,0,0,,{\blur0.6\fad(700,0)\3c&H919191&\c&H919191&\t(0,700,1,\3c&H000000&\c&H000000&)\1a&HFF&\t(655,700,\1a&H00&)}‫סנג'י נגד ג'אברה
-Dialogue: 1,0:01:49.92,0:01:54.74,Title,,0,0,0,,{\bord0\blur0.6\fad(700,0)\c&H919191&\t(0,700,1,\c&HFEFEFE&)\4a&HFF&}‫סנג'י נגד ג'אברה
+Dialogue: 0,0:01:49.92,0:01:54.74,Title,,0,0,0,,{\blur0.6\fad(700,0)\3c&H919191&\c&H919191&\t(0,700,1,\3c&H000000&\c&H000000&)\1a&HFF&\t(655,700,\1a&H00&)}‫סאנג'י נגד ג'אברה
+Dialogue: 1,0:01:49.92,0:01:54.74,Title,,0,0,0,,{\bord0\blur0.6\fad(700,0)\c&H919191&\t(0,700,1,\c&HFEFEFE&)\4a&HFF&}‫סאנג'י נגד ג'אברה
 Dialogue: 0,0:01:56.40,0:01:57.38,Main-207-,,0,0,0,,‫סאנג'י{\i1}{\i0}
 Dialogue: 0,0:01:59.44,0:02:00.80,Main-207-,,0,0,0,,‫סאנג'י...!
 Dialogue: 0,0:02:00.80,0:02:03.42,Main-207-,,0,0,0,,‫איך יצאת מהמצב הזה?!
