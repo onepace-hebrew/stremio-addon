@@ -29,7 +29,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.9',
+  version: '1.0.10',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -156,16 +156,28 @@ function normalizeForEmbed(assText) {
   return text
     .split('\n')
     .map((line) => {
-      if (!line.startsWith('Style:')) return line;
-      // Style: Name,Fontname,Fontsize,... (One Pace files use the standard order)
-      const parts = line.slice('Style:'.length).split(',');
-      if (parts.length < 3) return line;
-      parts[1] = EMBED_FAMILY;
-      if (DIALOGUE_STYLE.test(parts[0].trim())) {
-        const sz = Number(parts[2]);
-        if (sz) parts[2] = String(Math.round(sz * 1.3));
+      if (line.startsWith('Style:')) {
+        // Style: Name,Fontname,Fontsize,... (One Pace files use the standard order)
+        const parts = line.slice('Style:'.length).split(',');
+        if (parts.length < 3) return line;
+        parts[1] = EMBED_FAMILY;
+        if (DIALOGUE_STYLE.test(parts[0].trim())) {
+          const sz = Number(parts[2]);
+          if (sz) parts[2] = String(Math.round(sz * 1.3));
+        }
+        return 'Style:' + parts.join(',');
       }
-      return 'Style:' + parts.join(',');
+      if (line.startsWith('Dialogue:')) {
+        // Force RTL base direction. Dialogue starts with a Hebrew letter so it
+        // auto-detects RTL, but sign/caption lines starting with a neutral
+        // (quote, punctuation, Latin) get an LTR base -> trailing ?!. land on
+        // the wrong side. A leading RLM (U+200F, strong-RTL, not a stateful
+        // embedding like the RLE we stripped) sets the base to RTL on any bidi
+        // renderer. Inserted after the 9 header fields, before the Text (which
+        // may itself contain commas and {tags}).
+        return line.replace(/^(Dialogue:(?:[^,]*,){9})/, '$1‏');
+      }
+      return line;
     })
     .join('\n');
 }
