@@ -29,7 +29,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.10',
+  version: '1.0.11',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -168,14 +168,34 @@ function normalizeForEmbed(assText) {
         return 'Style:' + parts.join(',');
       }
       if (line.startsWith('Dialogue:')) {
-        // Force RTL base direction. Dialogue starts with a Hebrew letter so it
-        // auto-detects RTL, but sign/caption lines starting with a neutral
-        // (quote, punctuation, Latin) get an LTR base -> trailing ?!. land on
-        // the wrong side. A leading RLM (U+200F, strong-RTL, not a stateful
-        // embedding like the RLE we stripped) sets the base to RTL on any bidi
-        // renderer. Inserted after the 9 header fields, before the Text (which
-        // may itself contain commas and {tags}).
-        return line.replace(/^(Dialogue:(?:[^,]*,){9})/, '$1‏');
+        const head = line.match(/^(Dialogue:(?:[^,]*,){9})/);
+        if (!head) return line;
+        const prefix = head[1]; // "Dialogue: layer,start,end,Style,Name,...,Effect,"
+        let txt = line.slice(prefix.length); // the Text field (may hold commas/{tags})
+        const style = prefix.split(',')[3].trim();
+
+        // Sign/caption/title events are typeset to overlay the original Japanese
+        // (\pos + scale + rotation + clip). For Hebrew that overflows the screen,
+        // and players that skip bidi on \pos'd text render it reversed (bottom
+        // dialogue, which isn't positioned, renders fine). Strip the positioning/
+        // transform tags so signs fall back to plain top subtitles: they fit,
+        // wrap, and get normal bidi. Dialogue (and the invisible Warning marker)
+        // keep their tags untouched.
+        const isSign = !DIALOGUE_STYLE.test(style) && style !== 'Warning';
+        if (isSign) {
+          txt = txt
+            .replace(/\\(?:pos|move|org|i?clip|t|fade?)\([^)]*\)/g, '')
+            .replace(/\\fr[xyz]?-?[\d.]+/g, '')
+            .replace(/\\fsc[xy]-?[\d.]+/g, '')
+            .replace(/\\fsp-?[\d.]+/g, '')
+            .replace(/\\an?\d+/g, '');
+          // RLM (RTL base) + force top alignment so signs don't collide with
+          // bottom dialogue.
+          return prefix + '‏{\\an8}' + txt;
+        }
+        // Dialogue: just force RTL base with a leading RLM (U+200F, strong-RTL,
+        // not a stateful embedding like the RLE we stripped).
+        return prefix + '‏' + txt;
       }
       return line;
     })
