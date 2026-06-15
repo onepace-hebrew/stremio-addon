@@ -22,7 +22,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.4',
+  version: '1.0.5',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -101,9 +101,12 @@ function subtitlesFor(idSegment, mapping, origin) {
       // stremio-bugs#2312) but Android/TV apps have an SSA/ASS support
       // toggle (bottom of the Playback settings section) that renders it in
       // ExoPlayer — with the file's own styling, including black outline.
+      // Served via the Worker (/ass/...), NOT raw github: edge-cached delivery
+      // is fast+steady, so the player doesn't stall mid-load on a slow
+      // raw.githubusercontent fetch (the intermittent freeze on libmpv).
       out.push({
         id: `${token}-he-ass`,
-        url: entry.ass,
+        url: `${origin}/ass/${token.toUpperCase()}.ass`,
         lang: 'heb',
         label: 'עברית מעוצב (ASS)',
       });
@@ -119,6 +122,21 @@ async function vttFor(token, mapping) {
   const res = await fetch(entry.ass, { cf: { cacheTtl: 300, cacheEverything: true } });
   if (!res.ok) return null;
   return assToVtt(await res.text());
+}
+
+// Fetch the episode's raw .ass, byte-for-byte, for the ASS track. Proxied
+// through the Worker's edge cache (not served from raw github) so loads are
+// fast and consistent — a slow raw.githubusercontent fetch is what stalls
+// Stremio's libmpv into the intermittent freeze.
+async function assFor(token, mapping) {
+  const entry = mapping[token.toUpperCase()];
+  if (!entry || !entry.ass) return null;
+  const res = await fetch(entry.ass, { cf: { cacheTtl: 300, cacheEverything: true } });
+  if (!res.ok) return null;
+  // arrayBuffer, not text(): byte-for-byte passthrough. res.text() decodes
+  // UTF-8 and strips the source's leading BOM; keep the file identical to what
+  // ships in the repo.
+  return res.arrayBuffer();
 }
 
 export default {
@@ -138,6 +156,22 @@ export default {
       return new Response(vtt, {
         headers: {
           'content-type': 'text/vtt; charset=utf-8',
+          'cache-control': 'public, max-age=3600',
+          ...CORS,
+        },
+      });
+    }
+
+    // /ass/<ARC>_<ep>.ass — the episode's raw .ass, proxied + edge-cached
+    const a = path.match(/^\/ass\/([A-Za-z]+_\d+)\.ass$/);
+    if (a) {
+      const ass = await assFor(a[1], await getMapping());
+      if (ass === null) return new Response('not found', { status: 404, headers: CORS });
+      return new Response(ass, {
+        headers: {
+          // No registered MIME for SSA/ASS; players detect by the .ass URL
+          // extension. text/x-ssa is the de-facto type and harmless here.
+          'content-type': 'text/x-ssa; charset=utf-8',
           'cache-control': 'public, max-age=3600',
           ...CORS,
         },
