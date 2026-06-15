@@ -15,6 +15,13 @@
 
 import bundledMapping from './mapping.json';
 import { assToVtt } from './ass-to-vtt.js';
+import { FONTS_BLOCK_B64 } from './embedded-font.js';
+
+// ASS [Fonts] block embedding a Hebrew font (Gveret Levin, SIL OFL, internal
+// family renamed to "Guttman Yad-Brush"). Injected into every served .ass so
+// libass renders Hebrew even when the player's font set has no Hebrew glyphs
+// (VLC on Android shows boxes otherwise). Decoded once per isolate.
+const FONTS_BLOCK = atob(FONTS_BLOCK_B64);
 
 const MAPPING_URL =
   'https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/mapping.json';
@@ -22,7 +29,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.6',
+  version: '1.0.7',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -124,19 +131,25 @@ async function vttFor(token, mapping) {
   return assToVtt(await res.text());
 }
 
-// Fetch the episode's raw .ass, byte-for-byte, for the ASS track. Proxied
-// through the Worker's edge cache (not served from raw github) so loads are
-// fast and consistent — a slow raw.githubusercontent fetch is what stalls
-// Stremio's libmpv into the intermittent freeze.
+// Insert the [Fonts] block before [Events] (a top-level section, standard
+// placement between styles and events).
+function injectFonts(assText) {
+  const block = FONTS_BLOCK + '\n';
+  const idx = assText.indexOf('[Events]');
+  if (idx === -1) return assText + '\n' + block;
+  return assText.slice(0, idx) + block + assText.slice(idx);
+}
+
+// Returns the episode .ass as UTF-8 bytes (BOM-prefixed) with the Hebrew font
+// embedded, or null. res.text() decodes UTF-8 and drops the source BOM; we
+// re-add a single BOM after injecting.
 async function assFor(token, mapping) {
   const entry = mapping[token.toUpperCase()];
   if (!entry || !entry.ass) return null;
   const res = await fetch(entry.ass, { cf: { cacheTtl: 300, cacheEverything: true } });
   if (!res.ok) return null;
-  // arrayBuffer, not text(): byte-for-byte passthrough. res.text() decodes
-  // UTF-8 and strips the source's leading BOM; keep the file identical to what
-  // ships in the repo.
-  return res.arrayBuffer();
+  const text = injectFonts(await res.text());
+  return new TextEncoder().encode('\uFEFF' + text);
 }
 
 export default {
