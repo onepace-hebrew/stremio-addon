@@ -22,7 +22,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.5',
+  version: '1.0.6',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -162,19 +162,55 @@ export default {
       });
     }
 
-    // /ass/<ARC>_<ep>.ass — the episode's raw .ass, proxied + edge-cached
+    // /ass/<ARC>_<ep>.ass — the episode's raw .ass, proxied + edge-cached.
+    // Behaves like a static file host (Accept-Ranges + 206 + HEAD): mpv hands
+    // the .ass URL straight to ffmpeg, which opens it with a range probe. A
+    // server that answers 200-without-Accept-Ranges stalls ffmpeg's seekable
+    // HTTP path long enough to ANR Stremio's UI thread (it killed the app on
+    // a 32-bit Android/libmpv build). raw.githubusercontent does support
+    // ranges; match that so the direct fetch completes immediately.
     const a = path.match(/^\/ass\/([A-Za-z]+_\d+)\.ass$/);
     if (a) {
-      const ass = await assFor(a[1], await getMapping());
-      if (ass === null) return new Response('not found', { status: 404, headers: CORS });
-      return new Response(ass, {
-        headers: {
-          // No registered MIME for SSA/ASS; players detect by the .ass URL
-          // extension. text/x-ssa is the de-facto type and harmless here.
-          'content-type': 'text/x-ssa; charset=utf-8',
-          'cache-control': 'public, max-age=3600',
-          ...CORS,
-        },
+      const buf = await assFor(a[1], await getMapping());
+      if (buf === null) return new Response('not found', { status: 404, headers: CORS });
+      const total = buf.byteLength;
+      // No registered MIME for SSA/ASS; players detect by the .ass URL
+      // extension. text/x-ssa is the de-facto type and harmless here.
+      const base = {
+        'content-type': 'text/x-ssa; charset=utf-8',
+        'accept-ranges': 'bytes',
+        'cache-control': 'public, max-age=3600',
+        ...CORS,
+      };
+
+      const range = request.headers.get('Range');
+      const m = range && range.match(/^bytes=(\d*)-(\d*)$/);
+      if (m && !(m[1] === '' && m[2] === '')) {
+        // Three forms: "start-end", "start-" (to EOF), "-suffix" (last N bytes).
+        let start, end;
+        if (m[1] === '') {
+          start = Math.max(0, total - Number(m[2]));
+          end = total - 1;
+        } else {
+          start = Number(m[1]);
+          end = m[2] === '' || Number(m[2]) >= total ? total - 1 : Number(m[2]);
+        }
+        if (start > end) {
+          return new Response('range not satisfiable', {
+            status: 416,
+            headers: { ...base, 'content-range': `bytes */${total}` },
+          });
+        }
+        const len = end - start + 1;
+        return new Response(request.method === 'HEAD' ? null : buf.slice(start, end + 1), {
+          status: 206,
+          headers: { ...base, 'content-range': `bytes ${start}-${end}/${total}`, 'content-length': String(len) },
+        });
+      }
+
+      return new Response(request.method === 'HEAD' ? null : buf, {
+        status: 200,
+        headers: { ...base, 'content-length': String(total) },
       });
     }
 
