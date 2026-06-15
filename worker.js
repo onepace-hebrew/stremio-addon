@@ -29,7 +29,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.7',
+  version: '1.0.8',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -131,6 +131,39 @@ async function vttFor(token, mapping) {
   return assToVtt(await res.text());
 }
 
+// Point every glyph at the embedded font so nothing falls back to the player's
+// (Hebrew-less) default and renders as boxes. The styles reference fonts that
+// aren't on the device (Guttman Kav/Aharoni, plus inline \fn signs like Kakumin
+// Web); only the Main style matched the embed, so captions/signs still boxed.
+//   - strip inline \fn overrides  -> spans use their style font
+//   - rewrite each Style Fontname -> "Guttman Yad-Brush" (the embed; has full
+//     Hebrew AND Latin, so English/credits still render)
+//   - bump the -207- DIALOGUE family ~1.3x: Gveret Levin's glyphs sit ~0.55em,
+//     so size 82 looked tiny. Captions/titles/signs keep their (large) sizes —
+//     they're positioned to overlay on-screen text.
+const EMBED_FAMILY = 'Guttman Yad-Brush';
+const DIALOGUE_STYLE =
+  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)-207/;
+
+function normalizeForEmbed(assText) {
+  const text = assText.replace(/\\fn[^\\}]*/g, '');
+  return text
+    .split('\n')
+    .map((line) => {
+      if (!line.startsWith('Style:')) return line;
+      // Style: Name,Fontname,Fontsize,... (One Pace files use the standard order)
+      const parts = line.slice('Style:'.length).split(',');
+      if (parts.length < 3) return line;
+      parts[1] = EMBED_FAMILY;
+      if (DIALOGUE_STYLE.test(parts[0].trim())) {
+        const sz = Number(parts[2]);
+        if (sz) parts[2] = String(Math.round(sz * 1.3));
+      }
+      return 'Style:' + parts.join(',');
+    })
+    .join('\n');
+}
+
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).
 function injectFonts(assText) {
@@ -148,7 +181,7 @@ async function assFor(token, mapping) {
   if (!entry || !entry.ass) return null;
   const res = await fetch(entry.ass, { cf: { cacheTtl: 300, cacheEverything: true } });
   if (!res.ok) return null;
-  const text = injectFonts(await res.text());
+  const text = injectFonts(normalizeForEmbed(await res.text()));
   return new TextEncoder().encode('\uFEFF' + text);
 }
 
