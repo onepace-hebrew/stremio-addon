@@ -29,7 +29,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.8',
+  version: '1.0.9',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -146,7 +146,13 @@ const DIALOGUE_STYLE =
   /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)-207/;
 
 function normalizeForEmbed(assText) {
-  const text = assText.replace(/\\fn[^\\}]*/g, '');
+  // Strip Unicode bidi control chars. The source prefixes nearly every line
+  // with an unterminated RLE (U+202B, no closing PDF); libass+FriBidi tolerates
+  // it, but other renderers reverse the line. Removing them lets the renderer's
+  // implicit bidi set direction from the text itself (Hebrew -> RTL).
+  const text = assText
+    .replace(/[‎‏‪-‮⁦-⁩؜]/g, '')
+    .replace(/\\fn[^\\}]*/g, '');
   return text
     .split('\n')
     .map((line) => {
