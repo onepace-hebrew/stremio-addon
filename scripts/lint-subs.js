@@ -25,6 +25,16 @@ const HEB_LETTER = /^[א-ת]$/;
 const RLE = /‫/g;
 const CREDIT = 'תרגום לעברית'; // the top-of-episode translator credit text
 
+// Off-registry name spellings (wrong -> canonical). Keeps names consistent
+// across episodes — see .claude/skills/translating-one-pace-hebrew. Matched as
+// a word (optional single Hebrew prefix), not as a substring.
+const NAME_VARIANTS = {
+  סול: 'סאול', // Saul
+  ספנדם: 'ספאנדם', // Spandam
+  ספנדאם: 'ספאנדם',
+  "אוקיג'י": "אאוקיג'י", // Aokiji
+};
+
 const filter = process.argv[2] || '';
 
 function cues(srt) {
@@ -67,6 +77,12 @@ function lintFile(rel) {
     const latin = (text.match(/[A-Za-z]/g) || []).length;
     if (letters.length >= 4 && latin / letters.length > 0.6 && !text.includes(CREDIT))
       issues.push(`untranslated (Latin) #${i + 1}: "${text.slice(0, 40)}"`);
+
+    // off-registry name spellings (word match, optional single Hebrew prefix)
+    for (const [wrong, right] of Object.entries(NAME_VARIANTS)) {
+      const re = new RegExp(`(?<![א-ת])[בהוכלמש]?${wrong}(?![א-ת])`, 'g');
+      if (re.test(text)) issues.push(`name "${wrong}" → use "${right}" #${i + 1}`);
+    }
   });
   return issues;
 }
