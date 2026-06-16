@@ -31,7 +31,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.14',
+  version: '1.0.15',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -135,49 +135,15 @@ async function vttFor(token, mapping) {
   return assToVtt(await res.text());
 }
 
-// Conversation styles (bottom dialogue). Everything else is a "sign".
-const DIALOGUE_STYLE =
-  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)-207/;
-
-// Minimal source edits so the styled SSA renders correctly on VLC's libass:
-//   - drop inline \fn (exotic sign fonts not on device) -> use embedded style font
-//   - signs only: VLC renders bottom dialogue (style-default \an2) correctly but
-//     reverses events carrying a \pos/\an override. So strip signs' event-level
-//     position/alignment/scale/rotation overrides and set their STYLE alignment
-//     to 8 (top) — signs then use style-default top alignment (no event
-//     override, the config VLC renders correctly), keep their font/colour/
-//     outline, and don't collide with bottom dialogue. Dialogue and the
-//     invisible Warning marker are left untouched; RTL marks are preserved.
+// Only edit to the source: drop inline \fn font overrides (which name exotic
+// sign fonts like Roboto/Kakumin Web not on the device) so those spans use
+// their style font — one of the embedded Guttman families. Everything else
+// (positioning, alignment, RTL marks, layered sign events) is preserved, so
+// signs render exactly as authored on correct players. (We do NOT reposition
+// signs: that broke layered fill+outline events into doubled text and never
+// fixed VLC Android's libass RTL reversal anyway.)
 function normalizeForEmbed(assText) {
-  const text = assText.replace(/\\fn[^\\}]*/g, '');
-  return text
-    .split('\n')
-    .map((line) => {
-      if (line.startsWith('Style:')) {
-        const parts = line.slice('Style:'.length).split(',');
-        if (parts.length < 19) return line;
-        const name = parts[0].trim();
-        if (DIALOGUE_STYLE.test(name) || name === 'Warning') return line;
-        parts[18] = '8'; // Alignment field -> top
-        return 'Style:' + parts.join(',');
-      }
-      if (line.startsWith('Dialogue:')) {
-        const head = line.match(/^(Dialogue:(?:[^,]*,){9})/);
-        if (!head) return line;
-        const style = head[1].split(',')[3].trim();
-        if (DIALOGUE_STYLE.test(style) || style === 'Warning') return line;
-        const txt = line
-          .slice(head[1].length)
-          .replace(/\\(?:pos|move|org|i?clip|t)\([^)]*\)/g, '')
-          .replace(/\\fr[xyz]?-?[\d.]+/g, '')
-          .replace(/\\fsc[xy]-?[\d.]+/g, '')
-          .replace(/\\fsp-?[\d.]+/g, '')
-          .replace(/\\an?\d+/g, '');
-        return head[1] + txt;
-      }
-      return line;
-    })
-    .join('\n');
+  return assText.replace(/\\fn[^\\}]*/g, '');
 }
 
 // Insert the [Fonts] block before [Events] (a top-level section, standard
@@ -189,10 +155,9 @@ function injectFonts(assText) {
   return assText.slice(0, idx) + block + assText.slice(idx);
 }
 
-// Returns the episode .ass as UTF-8 bytes (BOM-prefixed): embed the Hebrew
-// [Fonts] block and apply normalizeForEmbed (drop \fn, reposition signs to
-// style-default top for VLC). Dialogue + RTL marks preserved. res.text() drops
-// the source BOM, so we re-add a single one.
+// Returns the episode .ass as UTF-8 bytes (BOM-prefixed): drop inline \fn,
+// embed the Hebrew [Fonts] block, leave everything else (positioning,
+// alignment, RTL marks) intact. res.text() drops the source BOM; re-add one.
 async function assFor(token, mapping) {
   const entry = mapping[token.toUpperCase()];
   if (!entry || !entry.ass) return null;
