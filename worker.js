@@ -17,10 +17,12 @@ import bundledMapping from './mapping.json';
 import { assToVtt } from './ass-to-vtt.js';
 import { FONTS_BLOCK_B64 } from './embedded-font.js';
 
-// ASS [Fonts] block embedding a Hebrew font (Gveret Levin, SIL OFL, internal
-// family renamed to "Guttman Yad-Brush"). Injected into every served .ass so
-// libass renders Hebrew even when the player's font set has no Hebrew glyphs
-// (VLC on Android shows boxes otherwise). Decoded once per isolate.
+// ASS [Fonts] block: a Hebrew font (Gveret Levin, SIL OFL) embedded three
+// times, internal family renamed to each Guttman family the One Pace styles
+// use (Yad-Brush, Kav, Aharoni). Injected into every served .ass so libass
+// renders Hebrew via the styles' EXISTING font names — no text/style rewriting,
+// so the source's RTL marks, sign positioning and alignment are preserved. VLC
+// on Android otherwise shows boxes (no Hebrew glyphs). Decoded once per isolate.
 const FONTS_BLOCK = atob(FONTS_BLOCK_B64);
 
 const MAPPING_URL =
@@ -29,7 +31,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.11',
+  version: '1.0.12',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -131,77 +133,6 @@ async function vttFor(token, mapping) {
   return assToVtt(await res.text());
 }
 
-// Point every glyph at the embedded font so nothing falls back to the player's
-// (Hebrew-less) default and renders as boxes. The styles reference fonts that
-// aren't on the device (Guttman Kav/Aharoni, plus inline \fn signs like Kakumin
-// Web); only the Main style matched the embed, so captions/signs still boxed.
-//   - strip inline \fn overrides  -> spans use their style font
-//   - rewrite each Style Fontname -> "Guttman Yad-Brush" (the embed; has full
-//     Hebrew AND Latin, so English/credits still render)
-//   - bump the -207- DIALOGUE family ~1.3x: Gveret Levin's glyphs sit ~0.55em,
-//     so size 82 looked tiny. Captions/titles/signs keep their (large) sizes —
-//     they're positioned to overlay on-screen text.
-const EMBED_FAMILY = 'Guttman Yad-Brush';
-const DIALOGUE_STYLE =
-  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)-207/;
-
-function normalizeForEmbed(assText) {
-  // Strip Unicode bidi control chars. The source prefixes nearly every line
-  // with an unterminated RLE (U+202B, no closing PDF); libass+FriBidi tolerates
-  // it, but other renderers reverse the line. Removing them lets the renderer's
-  // implicit bidi set direction from the text itself (Hebrew -> RTL).
-  const text = assText
-    .replace(/[‎‏‪-‮⁦-⁩؜]/g, '')
-    .replace(/\\fn[^\\}]*/g, '');
-  return text
-    .split('\n')
-    .map((line) => {
-      if (line.startsWith('Style:')) {
-        // Style: Name,Fontname,Fontsize,... (One Pace files use the standard order)
-        const parts = line.slice('Style:'.length).split(',');
-        if (parts.length < 3) return line;
-        parts[1] = EMBED_FAMILY;
-        if (DIALOGUE_STYLE.test(parts[0].trim())) {
-          const sz = Number(parts[2]);
-          if (sz) parts[2] = String(Math.round(sz * 1.3));
-        }
-        return 'Style:' + parts.join(',');
-      }
-      if (line.startsWith('Dialogue:')) {
-        const head = line.match(/^(Dialogue:(?:[^,]*,){9})/);
-        if (!head) return line;
-        const prefix = head[1]; // "Dialogue: layer,start,end,Style,Name,...,Effect,"
-        let txt = line.slice(prefix.length); // the Text field (may hold commas/{tags})
-        const style = prefix.split(',')[3].trim();
-
-        // Sign/caption/title events are typeset to overlay the original Japanese
-        // (\pos + scale + rotation + clip). For Hebrew that overflows the screen,
-        // and players that skip bidi on \pos'd text render it reversed (bottom
-        // dialogue, which isn't positioned, renders fine). Strip the positioning/
-        // transform tags so signs fall back to plain top subtitles: they fit,
-        // wrap, and get normal bidi. Dialogue (and the invisible Warning marker)
-        // keep their tags untouched.
-        const isSign = !DIALOGUE_STYLE.test(style) && style !== 'Warning';
-        if (isSign) {
-          txt = txt
-            .replace(/\\(?:pos|move|org|i?clip|t|fade?)\([^)]*\)/g, '')
-            .replace(/\\fr[xyz]?-?[\d.]+/g, '')
-            .replace(/\\fsc[xy]-?[\d.]+/g, '')
-            .replace(/\\fsp-?[\d.]+/g, '')
-            .replace(/\\an?\d+/g, '');
-          // RLM (RTL base) + force top alignment so signs don't collide with
-          // bottom dialogue.
-          return prefix + '‏{\\an8}' + txt;
-        }
-        // Dialogue: just force RTL base with a leading RLM (U+200F, strong-RTL,
-        // not a stateful embedding like the RLE we stripped).
-        return prefix + '‏' + txt;
-      }
-      return line;
-    })
-    .join('\n');
-}
-
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).
 function injectFonts(assText) {
@@ -212,14 +143,21 @@ function injectFonts(assText) {
 }
 
 // Returns the episode .ass as UTF-8 bytes (BOM-prefixed) with the Hebrew font
-// embedded, or null. res.text() decodes UTF-8 and drops the source BOM; we
-// re-add a single BOM after injecting.
+// embedded, or null. The source text is left untouched (its bidi marks, sign
+// positioning and alignment already render correctly); we ONLY add the [Fonts]
+// block \u2014 the font was the only thing missing. res.text() drops the source
+// BOM, so we re-add a single one.
 async function assFor(token, mapping) {
   const entry = mapping[token.toUpperCase()];
   if (!entry || !entry.ass) return null;
   const res = await fetch(entry.ass, { cf: { cacheTtl: 300, cacheEverything: true } });
   if (!res.ok) return null;
-  const text = injectFonts(normalizeForEmbed(await res.text()));
+  // ONLY change to the source: drop inline \fn font overrides (which name exotic
+  // sign fonts like Roboto/Kakumin Web not on the device) so those spans fall
+  // back to their style font \u2014 which IS one of the embedded Guttman families.
+  // This touches no text, positioning, alignment or bidi marks, so the source's
+  // correct RTL + sign layout is preserved; it just stops \fn signs boxing.
+  const text = injectFonts((await res.text()).replace(/\\fn[^\\}]*/g, ''));
   return new TextEncoder().encode('\uFEFF' + text);
 }
 
