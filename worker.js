@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.16',
+  version: '1.0.17',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -147,25 +147,28 @@ async function vttFor(token, mapping) {
   return assToVtt(await res.text());
 }
 
-// Only edit to the source: drop inline \fn font overrides (which name exotic
-// sign fonts like Roboto/Kakumin Web not on the device) so those spans use
-// their style font — one of the embedded Guttman families. Everything else
-// (positioning, alignment, RTL marks, layered sign events) is preserved, so
-// signs render exactly as authored on correct players. (We do NOT reposition
-// signs: that broke layered fill+outline events into doubled text and never
-// fixed VLC Android's libass RTL reversal anyway.)
-function normalizeForEmbed(assText) {
-  return assText.replace(/\\fn[^\\}]*/g, '');
-}
-
-// --- VLC variant: pre-bake bidi so signs read correctly on renderers that
-// don't apply the bidi algorithm (VLC Android reverses sign text). We convert
-// sign text to VISUAL order; a no-bidi renderer drawing it left-to-right then
-// shows correct Hebrew. Dialogue is left logical (VLC renders that fine), and
-// this lives on a SEPARATE track so bidi-correct players are unaffected.
+// Conversation styles (bottom dialogue); everything else is a "sign".
 const DIALOGUE_STYLE =
   /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)-207/;
 const BIDI_CTRL = /[‎‏‪-‮⁦-⁩؜]/g;
+
+// Bump dialogue style fontsize ~30% — the embedded Gveret Levin renders small
+// at the authored sizes. Sign/title sizes are handled per-event (capSignScale).
+function tuneStyleLine(line) {
+  const p = line.slice('Style:'.length).split(',');
+  if (p.length < 3 || !DIALOGUE_STYLE.test(p[0].trim())) return line;
+  const sz = Number(p[2]);
+  if (sz) p[2] = String(Math.round(sz * 1.3));
+  return 'Style:' + p.join(',');
+}
+
+// Drop event \fscx/\fscy UPSCALES (>100) on signs: the typeset 125–175% scaling
+// overflows the screen for the (different-length) Hebrew. Downscales (<=100)
+// are kept. Layered fill+outline events scale identically, so they still
+// overlap exactly — no doubling.
+function capSignScale(t) {
+  return t.replace(/\\fsc([xy])([\d.]+)/g, (m, _a, v) => (Number(v) > 100 ? '' : m));
+}
 
 // One display line (no tags) -> visual order, RTL base, with bracket mirroring.
 function lineToVisual(line) {
@@ -180,8 +183,8 @@ function lineToVisual(line) {
   return chars.join('');
 }
 
-// Convert a sign event's Text field to visual order: drop bidi control marks,
-// keep {override} blocks in place, visual-order each text run per \N line.
+// Sign event Text -> visual order: drop bidi control marks, keep {override}
+// blocks in place, visual-order each text run per \N line.
 function signTextToVisual(t) {
   return t
     .replace(BIDI_CTRL, '')
@@ -190,20 +193,29 @@ function signTextToVisual(t) {
     .join('');
 }
 
-function normalizeForVlc(assText) {
-  const text = assText.replace(/\\fn[^\\}]*/g, '');
-  return text
+// Shared normalization: drop inline \fn, bump dialogue size, cap sign upscale.
+// visual=true also converts SIGN text to visual order (VLC track) so VLC's
+// no-bidi sign rendering reads correctly; dialogue stays logical (VLC bidis it
+// fine). Positioning/alignment/layered events otherwise preserved.
+function normalize(assText, visual) {
+  return assText
+    .replace(/\\fn[^\\}]*/g, '')
     .split('\n')
     .map((line) => {
+      if (line.startsWith('Style:')) return tuneStyleLine(line);
       if (!line.startsWith('Dialogue:')) return line;
       const head = line.match(/^(Dialogue:(?:[^,]*,){9})/);
       if (!head) return line;
       const style = head[1].split(',')[3].trim();
-      if (DIALOGUE_STYLE.test(style) || style === 'Warning') return line; // dialogue: leave logical
-      return head[1] + signTextToVisual(line.slice(head[1].length));
+      if (DIALOGUE_STYLE.test(style) || style === 'Warning') return line;
+      let txt = capSignScale(line.slice(head[1].length));
+      if (visual) txt = signTextToVisual(txt);
+      return head[1] + txt;
     })
     .join('\n');
 }
+const normalizeForEmbed = (t) => normalize(t, false);
+const normalizeForVlc = (t) => normalize(t, true);
 
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).
