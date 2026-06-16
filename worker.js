@@ -31,7 +31,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.13',
+  version: '1.0.14',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -115,7 +115,9 @@ function subtitlesFor(idSegment, mapping, origin) {
       // raw.githubusercontent fetch (the intermittent freeze on libmpv).
       out.push({
         id: `${token}-he-ass`,
-        url: `${origin}/ass/${token.toUpperCase()}.ass`,
+        // ?v=<version> busts client/edge caches on every deploy — a new URL the
+        // player has never cached, so fixes can't be masked by a stale .ass.
+        url: `${origin}/ass/${token.toUpperCase()}.ass?v=${manifest.version}`,
         lang: 'heb',
         label: 'עברית מעוצב (ASS)',
       });
@@ -282,14 +284,13 @@ export default {
     if (m) {
       const idSegment = m[1].split('/')[0]; // strip any /<extra...> suffix
       const mapping = await getMapping();
-      // 1h, not 24h: clients cache this response, so a long TTL strands users
-      // on stale track lists for a day after a fix ships.
-      // cache fields mirror the official OpenSubtitles v3 addon: short fresh
-      // window so fixes propagate, long stale windows so playback never
-      // stalls on a slow/failed refetch.
+      // Short 60s fresh window so a new deploy's track list (with the bumped
+      // ?v= ASS url) reaches clients within a minute instead of being stranded
+      // on a stale list. Long stale windows so playback never stalls on a
+      // slow/failed refetch. Mirrors the OpenSubtitles v3 addon shape.
       return json({
         subtitles: subtitlesFor(idSegment, mapping, url.origin),
-        cacheMaxAge: 3600,
+        cacheMaxAge: 60,
         staleRevalidate: 14400,
         staleError: 604800,
       });
