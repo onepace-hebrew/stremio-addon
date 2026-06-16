@@ -16,6 +16,9 @@
 import bundledMapping from './mapping.json';
 import { assToVtt } from './ass-to-vtt.js';
 import { FONTS_BLOCK_B64 } from './embedded-font.js';
+import bidiFactory from 'bidi-js';
+
+const bidi = bidiFactory();
 
 // ASS [Fonts] block: a Hebrew font (Gveret Levin, SIL OFL) embedded three
 // times, internal family renamed to each Guttman family the One Pace styles
@@ -31,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.15',
+  version: '1.0.16',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -121,6 +124,15 @@ function subtitlesFor(idSegment, mapping, origin) {
         lang: 'heb',
         label: 'עברית מעוצב (ASS)',
       });
+      // Same styled ASS but with signs pre-converted to visual order, for VLC
+      // (Android) whose libass reverses sign text. Correct players should use
+      // the track above instead.
+      out.push({
+        id: `${token}-he-ass-vlc`,
+        url: `${origin}/ass-vlc/${token.toUpperCase()}.ass?v=${manifest.version}`,
+        lang: 'heb',
+        label: 'עברית מעוצב (VLC)',
+      });
     }
   }
   return out;
@@ -146,6 +158,53 @@ function normalizeForEmbed(assText) {
   return assText.replace(/\\fn[^\\}]*/g, '');
 }
 
+// --- VLC variant: pre-bake bidi so signs read correctly on renderers that
+// don't apply the bidi algorithm (VLC Android reverses sign text). We convert
+// sign text to VISUAL order; a no-bidi renderer drawing it left-to-right then
+// shows correct Hebrew. Dialogue is left logical (VLC renders that fine), and
+// this lives on a SEPARATE track so bidi-correct players are unaffected.
+const DIALOGUE_STYLE =
+  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)-207/;
+const BIDI_CTRL = /[‎‏‪-‮⁦-⁩؜]/g;
+
+// One display line (no tags) -> visual order, RTL base, with bracket mirroring.
+function lineToVisual(line) {
+  if (!line) return line;
+  const levels = bidi.getEmbeddingLevels(line, 'rtl');
+  const chars = Array.from(line);
+  for (const [i, c] of bidi.getMirroredCharactersMap(line, levels)) chars[i] = c;
+  for (const [s, e] of bidi.getReorderSegments(line, levels)) {
+    const slice = chars.slice(s, e + 1).reverse();
+    for (let i = 0; i < slice.length; i++) chars[s + i] = slice[i];
+  }
+  return chars.join('');
+}
+
+// Convert a sign event's Text field to visual order: drop bidi control marks,
+// keep {override} blocks in place, visual-order each text run per \N line.
+function signTextToVisual(t) {
+  return t
+    .replace(BIDI_CTRL, '')
+    .split(/(\{[^}]*\})/)
+    .map((tok) => (tok.startsWith('{') || tok === '' ? tok : tok.split('\\N').map(lineToVisual).join('\\N')))
+    .join('');
+}
+
+function normalizeForVlc(assText) {
+  const text = assText.replace(/\\fn[^\\}]*/g, '');
+  return text
+    .split('\n')
+    .map((line) => {
+      if (!line.startsWith('Dialogue:')) return line;
+      const head = line.match(/^(Dialogue:(?:[^,]*,){9})/);
+      if (!head) return line;
+      const style = head[1].split(',')[3].trim();
+      if (DIALOGUE_STYLE.test(style) || style === 'Warning') return line; // dialogue: leave logical
+      return head[1] + signTextToVisual(line.slice(head[1].length));
+    })
+    .join('\n');
+}
+
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).
 function injectFonts(assText) {
@@ -158,12 +217,13 @@ function injectFonts(assText) {
 // Returns the episode .ass as UTF-8 bytes (BOM-prefixed): drop inline \fn,
 // embed the Hebrew [Fonts] block, leave everything else (positioning,
 // alignment, RTL marks) intact. res.text() drops the source BOM; re-add one.
-async function assFor(token, mapping) {
+async function assFor(token, mapping, vlc) {
   const entry = mapping[token.toUpperCase()];
   if (!entry || !entry.ass) return null;
   const res = await fetch(entry.ass, { cf: { cacheTtl: 300, cacheEverything: true } });
   if (!res.ok) return null;
-  const text = injectFonts(normalizeForEmbed(await res.text()));
+  const norm = vlc ? normalizeForVlc : normalizeForEmbed;
+  const text = injectFonts(norm(await res.text()));
   return new TextEncoder().encode('\uFEFF' + text);
 }
 
@@ -197,9 +257,11 @@ export default {
     // HTTP path long enough to ANR Stremio's UI thread (it killed the app on
     // a 32-bit Android/libmpv build). raw.githubusercontent does support
     // ranges; match that so the direct fetch completes immediately.
-    const a = path.match(/^\/ass\/([A-Za-z]+_\d+)\.ass$/);
+    // /ass-vlc/ serves the same file with signs in visual order (for VLC's
+    // no-bidi sign rendering); /ass/ is the standard logical-order file.
+    const a = path.match(/^\/(ass|ass-vlc)\/([A-Za-z]+_\d+)\.ass$/);
     if (a) {
-      const buf = await assFor(a[1], await getMapping());
+      const buf = await assFor(a[2], await getMapping(), a[1] === 'ass-vlc');
       if (buf === null) return new Response('not found', { status: 404, headers: CORS });
       const total = buf.byteLength;
       // No registered MIME for SSA/ASS; players detect by the .ass URL
