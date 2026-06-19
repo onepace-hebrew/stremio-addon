@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.18',
+  version: '1.0.20',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -148,17 +148,25 @@ async function vttFor(token, mapping) {
 }
 
 // Conversation styles (bottom dialogue); everything else is a "sign".
+// Episodes use either the "-207-"/"-207+" style set OR the plain names (e.g.
+// EL11's dialogue is the plain "Main", size 55). Match BOTH — otherwise the
+// VLC track mis-classifies dialogue as a sign and visual-orders it (reversed)
+// and skips the size bump (tiny). Suffix optional; anchored so "Captions"/
+// "Title"/"Note"/"Credits" never match.
 const DIALOGUE_STYLE =
-  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)-207/;
+  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)(-207[-+])?$/;
 const BIDI_CTRL = /[‎‏‪-‮⁦-⁩؜]/g;
 
-// Bump dialogue style fontsize ~30% — the embedded Gveret Levin renders small
-// at the authored sizes. Sign/title sizes are handled per-event (capSignScale).
+// Bump dialogue style fontsize — the embedded Gveret Levin renders small at the
+// authored sizes. Two style regimes exist: "-207-" dialogue is ~82, the plain
+// set (e.g. EL11's "Main") is ~55. A flat ×1.3 leaves the plain set tiny (72),
+// so floor the result: 82→107, 55→105. Both land readable + consistent.
+// Sign/title sizes are handled per-event (capSignScale).
 function tuneStyleLine(line) {
   const p = line.slice('Style:'.length).split(',');
   if (p.length < 3 || !DIALOGUE_STYLE.test(p[0].trim())) return line;
   const sz = Number(p[2]);
-  if (sz) p[2] = String(Math.round(sz * 1.3));
+  if (sz) p[2] = String(Math.max(Math.round(sz * 1.3), 105));
   return 'Style:' + p.join(',');
 }
 
