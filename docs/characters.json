@@ -21,7 +21,7 @@
     { "he": "קאליפה", "gender": "f", "en": ["Kalifa"], "he_aliases": [] },
     { "he": "בלואנו", "gender": "m", "en": ["Blueno"], "he_aliases": [] },
     { "he": "קומאדורי", "gender": "m", "en": ["Kumadori"], "he_aliases": [] },
-    { "he": "פוקורו", "gender": "m", "en": ["Fukuro"], "he_aliases": [] },
+    { "he": "פוקורו", "gender": "m", "en": ["Fukuro", "Fukurou"], "he_aliases": [] },
     { "he": "קוקורו", "gender": "f", "en": ["Kokoro"], "he_aliases": [] },
     { "he": "צ'ימני", "gender": "f", "en": ["Chimney"], "he_aliases": [] },
     { "he": "אייסברג", "gender": "m", "en": ["Iceberg", "Iceburg"], "he_aliases": ["אייסבורג"] },

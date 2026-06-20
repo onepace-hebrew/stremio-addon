@@ -15,6 +15,7 @@ The recurring failures this skill prevents (all observed in real bad episodes): 
 - `docs/translation-glossary.json` — terms (Marines=הצי, underling=כפוף, Enies Lobby=אניאס לובי, …).
 - `docs/translation-canon.json` — canonical name spellings (20 human files).
 - **`docs/characters.json`** — the canonical character registry (Hebrew spelling + gender + English aliases). SINGLE SOURCE OF TRUTH; the lint and QA pass read it. The table below mirrors it for quick reference.
+- **`docs/character-genders.json`** — bulk gender oracle: 1433 English names → m/f, scraped from the One Piece wiki (`node scripts/fetch-character-genders.js` to refresh). To resolve a name's gender: try `characters.json` (alias-aware) first; if absent, look it up here (uses canonical wiki titles — e.g. Lucci→"Rob Lucci", Aokiji→"Kuzan", Iceberg→"Iceburg"), then add the character to `characters.json` with its Hebrew spelling.
 - When fixing/adapting: the matching `main/` Hebrew (same arc, different cut — align by CONTENT, not timestamp) as the meaning/phrasing source.
 
 ## Process (per episode)
