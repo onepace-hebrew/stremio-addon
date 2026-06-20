@@ -64,15 +64,20 @@ Hebrew inflects **verbs, adjectives, pronouns, AND numerals** for the gender (m/
 3. **The `you` decision:** one male → `אתה`; one female → `את`; group with any male → `אתם`; all-female → `אתן`. Conjugate the verb/imperative to match (`תרוץ`/`תרוצי`, `קח`/`קחי`, `אתה יודע`/`את יודעת`).
 4. **Female speakers** (Robin, Nami, Kalifa, Kokoro, Chimney, Olvia — registry) take feminine self-forms: `אני בטוחה`, `אני מוכנה`, `עשיתי זאת בעצמי`.
 5. **Grammatical vs real gender:** a pronoun may agree with a Hebrew noun's grammatical gender (`מטרה` is f → `אותה`) OR the real person. When English uses `he/she` for a **person**, match the person (male target → `אהרוג אותו`, not `אותה`).
-6. **Number from the scene, not English `you`:** "you guys"/"you all"/multiple on-screen → plural; a single addressee → singular. Numerals agree too (`שני אנשים` m / `שתי רגליים` f).
+6. **Number (sg/pl) — resolve the bare `you` with the surrounding cues.** English `you` is number-blind and ~92% of cases give NO in-line signal, so use the context window, in order:
+   - **a. Explicit in the line** → use it: `you guys / you all / you two / both of you / all of you / y'all` → PLURAL (`אתם`; all-female `אתן`). `you two/both` = exactly that small group.
+   - **b. Propagate from neighbors (±~4 cues).** An explicit signal sets the number for the whole exchange: a nearby `you guys` → the adjacent bare `you` are plural; a single named addressee (`Zoro, you…`) → adjacent bare `you` are singular. **Reset at a scene break** (large time gap, or speaker/addressee changes). ~43% of bare `you` get resolved this way.
+   - **c. Default singular** when no signal — most scenes are one-on-one; flip to plural only when the scene clearly addresses a group (the crew together, a named group, a commander to his unit).
+   - Numerals + plural verbs agree too (`שני אנשים` m / `שתי רגליים` f; `אתם יודעים`, imperative `קחו`/`רוצו`).
 7. **Never mix genders for one referent inside a line** (`מת` + `מתקוממת`).
 
 ## Self-check before done (REQUIRED)
 1. `node scripts/lint-subs.js "subtitles/.../<ep>"` → resolve flagged word-splits, dup cues, untranslated English. (Long single-lines that have no `\N` in the source are OK — they wrap in-player.)
 2. `node scripts/lint-gender.js "subtitles/.../<ep>"` → resolve flagged gender flips / name+verb mismatches.
-3. **Name consistency:** the lint flags off-registry spellings (e.g. סול, ספנדם). Zero allowed.
-4. **Gender/number QA pass (the real gate):** re-read EACH cue against the **English source line** + the registry. For every verb/adjective/pronoun/numeral, confirm it agrees with the scene's speaker/addressee/referent. This catches the internally-consistent-but-wrong gender that no lint can. Fix in `.ass` AND `.srt` identically.
-5. **.srt ↔ .ass** dialogue text consistent.
+3. `node scripts/check-number.js <ep>` → resolve cues where the English is explicitly plural (`you guys/all/two`) but the Hebrew went singular (`אתה`).
+4. **Name consistency:** the lint flags off-registry spellings (e.g. סול, ספנדם). Zero allowed.
+5. **Gender/number QA pass (the real gate):** re-read EACH cue against the **English source line** + the registry, using a ±~4-cue context window for number/addressee. For every verb/adjective/pronoun/numeral, confirm it agrees with the scene's speaker/addressee/referent. This catches the internally-consistent-but-wrong gender/number that no lint can. Fix in `.ass` AND `.srt` identically.
+6. **.srt ↔ .ass** dialogue text consistent.
 
 ## Common mistakes → fix
 | Symptom | Fix |
