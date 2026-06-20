@@ -1,0 +1,33 @@
+{
+  "_doc": "Canonical character registry — SINGLE SOURCE OF TRUTH for Hebrew gender/number agreement. Consumed by scripts/lint-gender.js and the gender/number QA pass (.claude/skills/translating-one-pace-hebrew). When a new character appears, add ONE row here (he spelling + gender + every alias). 'he' = canonical Hebrew spelling. 'gender' = m|f drives every verb/adjective/pronoun/numeral. 'en' = all names the English source calls them (incl. epithets/full names/aliases — Sogeking=Usopp, Cutty Flam=Franky, Aokiji=Kuzan), so the QA pass can map an English line's name to gender. 'he_aliases' = alternate Hebrew spellings the subs use.",
+  "characters": [
+    { "he": "לופי", "gender": "m", "en": ["Luffy", "Monkey D. Luffy", "Straw Hat", "Straw Hat Luffy"], "he_aliases": ["מונקי D. לופי"] },
+    { "he": "זורו", "gender": "m", "en": ["Zoro", "Roronoa Zoro", "Pirate Hunter"], "he_aliases": ["רורונואה זורו"] },
+    { "he": "נאמי", "gender": "f", "en": ["Nami"], "he_aliases": [] },
+    { "he": "אוסופ", "gender": "m", "en": ["Usopp", "Sogeking", "Sniper King"], "he_aliases": ["סוגקינג"] },
+    { "he": "סאנג'י", "gender": "m", "en": ["Sanji", "Black Leg"], "he_aliases": ["סנג'י"] },
+    { "he": "צ'ופר", "gender": "m", "en": ["Chopper", "Tony Tony Chopper"], "he_aliases": [] },
+    { "he": "רובין", "gender": "f", "en": ["Robin", "Nico Robin", "Miss All Sunday"], "he_aliases": ["ניקו רובין"] },
+    { "he": "פרנקי", "gender": "m", "en": ["Franky", "Cutty Flam"], "he_aliases": ["קטי פלאם"] },
+    { "he": "סאול", "gender": "m", "en": ["Saul", "Jaguar D. Saul"], "he_aliases": [] },
+    { "he": "אולביה", "gender": "f", "en": ["Olvia", "Nico Olvia"], "he_aliases": ["ניקו אולביה"] },
+    { "he": "קלובר", "gender": "m", "en": ["Clover", "Professor Clover"], "he_aliases": [] },
+    { "he": "קוזאן", "gender": "m", "en": ["Kuzan", "Aokiji"], "he_aliases": ["אאוקיג'י"] },
+    { "he": "ספנדיין", "gender": "m", "en": ["Spandine"], "he_aliases": [] },
+    { "he": "ספאנדם", "gender": "m", "en": ["Spandam"], "he_aliases": [] },
+    { "he": "לוצ'י", "gender": "m", "en": ["Lucci", "Rob Lucci"], "he_aliases": [] },
+    { "he": "קאקו", "gender": "m", "en": ["Kaku"], "he_aliases": [] },
+    { "he": "ג'אברה", "gender": "m", "en": ["Jabra"], "he_aliases": [] },
+    { "he": "קאליפה", "gender": "f", "en": ["Kalifa"], "he_aliases": [] },
+    { "he": "בלואנו", "gender": "m", "en": ["Blueno"], "he_aliases": [] },
+    { "he": "קומאדורי", "gender": "m", "en": ["Kumadori"], "he_aliases": [] },
+    { "he": "פוקורו", "gender": "m", "en": ["Fukuro"], "he_aliases": [] },
+    { "he": "קוקורו", "gender": "f", "en": ["Kokoro"], "he_aliases": [] },
+    { "he": "צ'ימני", "gender": "f", "en": ["Chimney"], "he_aliases": [] },
+    { "he": "אייסברג", "gender": "m", "en": ["Iceberg", "Iceburg"], "he_aliases": ["אייסבורג"] },
+    { "he": "תום", "gender": "m", "en": ["Tom"], "he_aliases": [] },
+    { "he": "פאולי", "gender": "m", "en": ["Paulie"], "he_aliases": [] },
+    { "he": "קיווי", "gender": "f", "en": ["Kiwi"], "he_aliases": [] },
+    { "he": "מוזו", "gender": "f", "en": ["Mozu"], "he_aliases": [] }
+  ]
+}

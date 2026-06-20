@@ -27,13 +27,12 @@ const path = require('path');
 const REPO = path.join(__dirname, '..');
 const RLE = /‫/g;
 
-// Character registry (name spelling → gender). Mirror of the skill's table.
-const FEMALE = ['רובין', 'נאמי', 'אולביה', 'קאליפה', 'קוקורו', "צ'ימני"];
-const MALE = [
-  'לופי', 'זורו', 'אוסופ', 'סוגקינג', "סאנג'י", "צ'ופר", 'פרנקי', 'סאול',
-  'קלובר', 'קוזאן', "אאוקיג'י", 'ספנדיין', 'ספאנדם', "לוצ'י", 'קאקו',
-  "ג'אברה", 'בלואנו', 'קומאדורי', 'פוקורו',
-];
+// Character registry (Hebrew name → gender) — loaded from the single source of
+// truth docs/characters.json (add new characters THERE, not here).
+const REGISTRY = JSON.parse(fs.readFileSync(path.join(REPO, 'docs/characters.json'), 'utf8')).characters;
+const heNames = (g) => REGISTRY.filter((c) => c.gender === g).flatMap((c) => [c.he, ...(c.he_aliases || [])]);
+const FEMALE = heNames('f');
+const MALE = heNames('m');
 
 // Common past-tense 3rd-person verbs, masculine vs the matching feminine.
 const MASC_VERB = new Set([

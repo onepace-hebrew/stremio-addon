@@ -14,7 +14,7 @@ The recurring failures this skill prevents (all observed in real bad episodes): 
 - `docs/translation-learnings.md` — the full house-style rules. READ IT.
 - `docs/translation-glossary.json` — terms (Marines=הצי, underling=כפוף, Enies Lobby=אניאס לובי, …).
 - `docs/translation-canon.json` — canonical name spellings (20 human files).
-- The **character registry** below (name spelling + gender).
+- **`docs/characters.json`** — the canonical character registry (Hebrew spelling + gender + English aliases). SINGLE SOURCE OF TRUTH; the lint and QA pass read it. The table below mirrors it for quick reference.
 - When fixing/adapting: the matching `main/` Hebrew (same arc, different cut — align by CONTENT, not timestamp) as the meaning/phrasing source.
 
 ## Process (per episode)
@@ -25,7 +25,7 @@ The recurring failures this skill prevents (all observed in real bad episodes): 
 5. **Structure (when editing existing files):** keep ALL timings and every sign/Caption/Title/Credits event and override tag (`{...}`, `\pos`, `\fad`, `\t`, colors, `\N`, layered events) **byte-identical** — change only dialogue text + its wrapping. Re-wrap at **word boundaries**, ≤44 chars/line, max 2 lines — **never split a word**. Leading U+202B (‫) on each dialogue line and after each `\N`. UTF-8 BOM on `.ass`. No niqqud, no Hebrew maqaf (U+05BE), no italics. Exactly one translator credit.
 
 ## Character registry (spelling + gender) — keep identical across ALL episodes
-Verify/extend against `canon.json`; gender drives every verb/adjective/pronoun.
+**Canonical = `docs/characters.json`** (this table mirrors it). Add a new character THERE (he spelling + gender + every English/Hebrew alias), not just here. Gender drives every verb/adjective/pronoun/numeral.
 
 | Character | Hebrew | Gender |
 |---|---|---|
