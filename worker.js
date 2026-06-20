@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.21',
+  version: '1.0.22',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -124,9 +124,10 @@ function subtitlesFor(idSegment, mapping, origin) {
         lang: 'heb',
         label: 'עברית מעוצב (ASS)',
       });
-      // Same styled ASS but with signs pre-converted to visual order, for VLC
-      // (Android) whose libass reverses sign text. Correct players should use
-      // the track above instead.
+      // Was: same styled ASS with signs pre-converted to visual order, for an
+      // older VLC Android that didn't bidi sign text. That VLC now bidis
+      // everything, so this track serves the SAME logical output as /ass (see
+      // normalizeForVlc). Kept as a distinct id so users' saved selection holds.
       out.push({
         id: `${token}-he-ass-vlc`,
         url: `${origin}/ass-vlc/${token.toUpperCase()}.ass?v=${manifest.version}`,
@@ -223,7 +224,13 @@ function normalize(assText, visual) {
     .join('\n');
 }
 const normalizeForEmbed = (t) => normalize(t, false);
-const normalizeForVlc = (t) => normalize(t, true);
+// VLC Android now applies the bidi algorithm to ALL subtitle text (it didn't
+// when the visual-order fix was built). Proof: on the VLC track, logical-order
+// dialogue (with its RLE marks) renders correctly — so VLC IS bidi-ing. Signs
+// pre-converted to visual order then get bidi'd AGAIN → reversed. So serve signs
+// logical too (RLE kept), and let VLC's bidi handle them like it does dialogue.
+// signTextToVisual/lineToVisual kept for easy revert if VLC's behavior flips back.
+const normalizeForVlc = (t) => normalize(t, false);
 
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).
