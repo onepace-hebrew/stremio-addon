@@ -43,7 +43,6 @@ Style: Title,Guttman Yad-Brush,85,&H00FEFEFE,&H000000FF,&H00000000,&H00000000,-1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.00,0:00:15.00,Main-207-,,0,0,383,,‫בדיקה עליונה: שלום עולם תקין
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
 Dialogue: 0,0:01:52.34,0:01:52.86,Main,,0,0,0,,‫ז...
 Dialogue: 0,0:01:52.84,0:01:55.09,Main,,0,0,0,,‫ז-זה לא יכול להיות!
