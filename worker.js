@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.27',
+  version: '1.0.28',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -127,20 +127,21 @@ async function vttFor(token, mapping) {
   return assToVtt(await res.text());
 }
 
-// Conversation styles (bottom dialogue); everything else is a "sign".
-// Episodes use either the "-207-"/"-207+" style set OR the plain names (e.g.
-// EL11's dialogue is the plain "Main", size 55). Match BOTH — otherwise the
-// VLC track mis-classifies dialogue as a sign and visual-orders it (reversed)
-// and skips the size bump (tiny). Suffix optional; anchored so "Captions"/
-// "Title"/"Note"/"Credits" never match.
+// Conversation styles (bottom dialogue); everything else is a "sign". The base
+// NAME (Main/Thoughts/Flashbacks/…) may carry ANY variant suffix — episodes use
+// "-207-", "-207+", "-720p", or no suffix (EL11's plain "Main", size 55). Match
+// the name + any "-suffix" — otherwise the VLC track mis-classifies that
+// dialogue as a sign and visual-orders it (reversed) and skips the size bump
+// (tiny); that's exactly what "Flashbacks-720p" hit. Anchored so sign names
+// (Captions/Title/Note/Credits) never match.
 const DIALOGUE_STYLE =
-  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)(-207[-+])?$/;
+  /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary|Roger[ -]Monologue)(-.*)?$/;
 const BIDI_CTRL = /[‎‏‪-‮⁦-⁩؜]/g;
 
 // Readable typeset-sign styles (episode/scene titles, location captions, notes).
 // These render small with the embedded Gveret Levin too, so bump them like
-// dialogue. Credits/Warning/song styles are intentionally left at their size.
-const SIGN_TEXT_STYLE = /^(Title|Captions|Caption|Note|Narration|Sign)(-207[-+])?$/;
+// dialogue. Same "any -suffix" rule. Credits/Warning/song styles left at size.
+const SIGN_TEXT_STYLE = /^(Title|Captions|Caption|Note|Narration|Sign)(-.*)?$/;
 
 // Bump style fontsize — the embedded Gveret Levin renders small at the authored
 // sizes. Dialogue: two regimes ("-207-" ~82, plain "Main" ~55); flat ×1.3 leaves
