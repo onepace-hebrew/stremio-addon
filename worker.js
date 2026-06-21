@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.29',
+  version: '1.0.30',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -98,9 +98,8 @@ function subtitlesFor(idSegment, mapping, origin) {
     // extra tracks (a VTT, a second styled ASS) were just indistinguishable
     // duplicates the user couldn't tell apart and kept landing on the wrong one.
     // The /vtt and /ass endpoints still exist and work — they're simply not
-    // listed. The styled track is the VLC build (signs pre-converted to visual
-    // order; dialogue logical) — VLC Android bidis bottom dialogue but not
-    // positioned signs, so signs must be pre-flipped. See normalizeForVlc.
+    // listed. The styled track (id kept as -ass-vlc) serves all-logical text
+    // with the embedded font + size bumps; VLC bidis it all. See normalizeForVlc.
     if (entry.srt) {
       out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb', label: 'עברית' });
     }
@@ -197,6 +196,12 @@ function signTextToVisual(t) {
 function normalize(assText, visual) {
   return assText
     .replace(/\\fn[^\\}]*/g, '')
+    // Strip inline italic toggles. They're often vestigial (e.g. "תום-{\i0}סאן
+    // {\i1}.") and fragment a dialogue line into separate bidi runs, which VLC
+    // reorders → the trailing word jumps to the front ("Robin-chan" bug).
+    // Style-level italics (Italic field) are unaffected.
+    .replace(/\\i[01]/g, '')
+    .replace(/\{\}/g, '')
     .split('\n')
     .map((line) => {
       if (line.startsWith('Style:')) return tuneStyleLine(line);
@@ -217,12 +222,17 @@ function normalize(assText, visual) {
     .join('\n');
 }
 const normalizeForEmbed = (t) => normalize(t, false);
+// All-logical: serve signs logical too (visual flag off). Both confirmed sign
+// reports (E20 \pos captions, E22 title) were REVERSED when pre-flipped, and
+// dialogue is correct when logical — so VLC bidis ALL the text; pre-flipping
+// anything double-reverses it. signTextToVisual kept as dead code in case a
+// player that does NOT bidi signs turns up.
 // VLC Android bidis BOTTOM dialogue (so it reads correctly when logical) but does
 // NOT bidi positioned/typeset SIGNS — so signs must be pre-converted to visual
 // order, while dialogue stays logical. (An earlier attempt served signs logical
 // on the theory that VLC bidis everything; that reversed the titles — VLC does
 // not bidi them. Reverted.) Dialogue-vs-sign split is DIALOGUE_STYLE in normalize.
-const normalizeForVlc = (t) => normalize(t, true);
+const normalizeForVlc = (t) => normalize(t, false);
 
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).
