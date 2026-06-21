@@ -4,12 +4,18 @@ How the Cloudflare Worker serves the Hebrew tracks, and why. Hard-won; don't re-
 
 ## Tracks served (per episode)
 
+Only **two** are advertised in the subtitles list. Most players render no per-track
+`label` — every entry shows as a generic "Hebrew" — so extra tracks were just
+indistinguishable duplicates the user kept landing on wrong. The `/vtt` and `/ass`
+endpoints still work; they're simply not listed.
+
 | Track label | URL | For |
 |---|---|---|
-| `עברית (SRT)` | github raw `.srt` | universal, plain text |
-| `עברית + שלטים (VTT)` | `/vtt/<TOK>.vtt` (ass→VTT) | desktop; keeps cue positioning |
-| `עברית מעוצב (ASS)` | `/ass/<TOK>.ass` | bidi-correct players: **ExoPlayer, mpv, VLC desktop** |
-| `עברית מעוצב (VLC)` | `/ass-vlc/<TOK>.ass` | **VLC Android** only |
+| `עברית` | github raw `.srt` | universal, plain text |
+| `עברית מעוצב` | `/ass-vlc/<TOK>.ass` | styled; signs visual-order for **VLC Android** |
+
+Unlisted but live: `/vtt/<TOK>.vtt` (ass→VTT, keeps positioning) and `/ass/<TOK>.ass`
+(styled, signs **logical** — for bidi-correct players: ExoPlayer/mpv/VLC-desktop).
 
 URLs carry `?v=<manifest.version>` (cache-bust every deploy); list `cacheMaxAge=60s`.
 

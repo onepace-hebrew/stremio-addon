@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.26',
+  version: '1.0.27',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -92,46 +92,26 @@ function subtitlesFor(idSegment, mapping, origin) {
   const entry = token && mapping[token.toUpperCase()];
   const out = [];
   if (entry) {
-    // SRT first — always works. Second entry: our own ass->VTT conversion
-    // served by this Worker. Stremio cannot ingest external .ass at all
-    // (server pipeline rejects every .ass — stremio-bugs#2312, all
-    // platforms), but external VTT loads fine — the conversion keeps cue
-    // positioning (top-screen signs etc.), which raw srt loses.
-    // label: official per-track display name (stremio-core#947, v0.55.0+);
-    // older clients ignore the field and just show "Hebrew" three times.
+    // Only TWO tracks advertised: plain SRT + the styled track. The `label`
+    // field is the official per-track name (stremio-core#947, v0.55.0+) but most
+    // clients ignore it and show every entry as the same generic "Hebrew" — so
+    // extra tracks (a VTT, a second styled ASS) were just indistinguishable
+    // duplicates the user couldn't tell apart and kept landing on the wrong one.
+    // The /vtt and /ass endpoints still exist and work — they're simply not
+    // listed. The styled track is the VLC build (signs pre-converted to visual
+    // order; dialogue logical) — VLC Android bidis bottom dialogue but not
+    // positioned signs, so signs must be pre-flipped. See normalizeForVlc.
     if (entry.srt) {
-      out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb', label: 'עברית (SRT)' });
+      out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb', label: 'עברית' });
     }
     if (entry.ass) {
       out.push({
-        id: `${token}-he-vtt`,
-        url: `${origin}/vtt/${token.toUpperCase()}.vtt`,
-        lang: 'heb',
-        label: 'עברית + שלטים (VTT)',
-      });
-      // Third entry: raw .ass. Dead on desktop (server pipeline rejects it,
-      // stremio-bugs#2312) but Android/TV apps have an SSA/ASS support
-      // toggle (bottom of the Playback settings section) that renders it in
-      // ExoPlayer — with the file's own styling, including black outline.
-      // Served via the Worker (/ass/...), NOT raw github: edge-cached delivery
-      // is fast+steady, so the player doesn't stall mid-load on a slow
-      // raw.githubusercontent fetch (the intermittent freeze on libmpv).
-      out.push({
-        id: `${token}-he-ass`,
+        id: `${token}-he-ass-vlc`,
         // ?v=<version> busts client/edge caches on every deploy — a new URL the
         // player has never cached, so fixes can't be masked by a stale .ass.
-        url: `${origin}/ass/${token.toUpperCase()}.ass?v=${manifest.version}`,
-        lang: 'heb',
-        label: 'עברית מעוצב (ASS)',
-      });
-      // Same styled ASS but with SIGNS pre-converted to visual order (dialogue
-      // stays logical), for VLC Android: it bidis bottom dialogue but not
-      // positioned signs, so signs need pre-flipping. See normalizeForVlc.
-      out.push({
-        id: `${token}-he-ass-vlc`,
         url: `${origin}/ass-vlc/${token.toUpperCase()}.ass?v=${manifest.version}`,
         lang: 'heb',
-        label: 'עברית מעוצב (VLC)',
+        label: 'עברית מעוצב',
       });
     }
   }
