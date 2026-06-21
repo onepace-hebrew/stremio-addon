@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.28',
+  version: '1.0.29',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -206,7 +206,12 @@ function normalize(assText, visual) {
       const style = head[1].split(',')[3].trim();
       if (DIALOGUE_STYLE.test(style) || style === 'Warning') return line;
       let txt = capSignScale(line.slice(head[1].length));
-      if (visual) txt = signTextToVisual(txt);
+      // Only PRE-FLIP signs VLC won't bidi itself. VLC bidis \pos/\move-anchored
+      // text (like it does bottom dialogue), so pre-flipping those double-
+      // reverses them (E20 18:41 \pos captions). Signs positioned via style
+      // alignment/margin only (no \pos) are NOT bidi'd by VLC → those we flip.
+      const posAnchored = /\\(pos|move)\b/.test(txt);
+      if (visual && !posAnchored) txt = signTextToVisual(txt);
       return head[1] + txt;
     })
     .join('\n');
