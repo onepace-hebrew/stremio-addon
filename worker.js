@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.24',
+  version: '1.0.25',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -124,10 +124,9 @@ function subtitlesFor(idSegment, mapping, origin) {
         lang: 'heb',
         label: 'עברית מעוצב (ASS)',
       });
-      // Was: same styled ASS with signs pre-converted to visual order, for an
-      // older VLC Android that didn't bidi sign text. That VLC now bidis
-      // everything, so this track serves the SAME logical output as /ass (see
-      // normalizeForVlc). Kept as a distinct id so users' saved selection holds.
+      // Same styled ASS but with SIGNS pre-converted to visual order (dialogue
+      // stays logical), for VLC Android: it bidis bottom dialogue but not
+      // positioned signs, so signs need pre-flipping. See normalizeForVlc.
       out.push({
         id: `${token}-he-ass-vlc`,
         url: `${origin}/ass-vlc/${token.toUpperCase()}.ass?v=${manifest.version}`,
@@ -158,16 +157,24 @@ const DIALOGUE_STYLE =
   /^(Main|Thoughts|Narrator|Secondary|Flashbacks|FlashbacksSecondary|FlashbackThoughts|FlashbackSecondary)(-207[-+])?$/;
 const BIDI_CTRL = /[‎‏‪-‮⁦-⁩؜]/g;
 
-// Bump dialogue style fontsize — the embedded Gveret Levin renders small at the
-// authored sizes. Two style regimes exist: "-207-" dialogue is ~82, the plain
-// set (e.g. EL11's "Main") is ~55. A flat ×1.3 leaves the plain set tiny (72),
-// so floor the result: 82→107, 55→105. Both land readable + consistent.
-// Sign/title sizes are handled per-event (capSignScale).
+// Readable typeset-sign styles (episode/scene titles, location captions, notes).
+// These render small with the embedded Gveret Levin too, so bump them like
+// dialogue. Credits/Warning/song styles are intentionally left at their size.
+const SIGN_TEXT_STYLE = /^(Title|Captions|Caption|Note|Narration|Sign)(-207[-+])?$/;
+
+// Bump style fontsize — the embedded Gveret Levin renders small at the authored
+// sizes. Dialogue: two regimes ("-207-" ~82, plain "Main" ~55); flat ×1.3 leaves
+// the plain set tiny (72) so floor at 105 (82→107, 55→105). Sign text (titles,
+// captions, notes): ×1.3, no floor (they're short, overflow risk is low).
 function tuneStyleLine(line) {
   const p = line.slice('Style:'.length).split(',');
-  if (p.length < 3 || !DIALOGUE_STYLE.test(p[0].trim())) return line;
+  if (p.length < 3) return line;
+  const name = p[0].trim();
   const sz = Number(p[2]);
-  if (sz) p[2] = String(Math.max(Math.round(sz * 1.3), 105));
+  if (!sz) return line;
+  if (DIALOGUE_STYLE.test(name)) p[2] = String(Math.max(Math.round(sz * 1.3), 105));
+  else if (SIGN_TEXT_STYLE.test(name)) p[2] = String(Math.round(sz * 1.3));
+  else return line;
   return 'Style:' + p.join(',');
 }
 
@@ -224,13 +231,12 @@ function normalize(assText, visual) {
     .join('\n');
 }
 const normalizeForEmbed = (t) => normalize(t, false);
-// VLC Android now applies the bidi algorithm to ALL subtitle text (it didn't
-// when the visual-order fix was built). Proof: on the VLC track, logical-order
-// dialogue (with its RLE marks) renders correctly — so VLC IS bidi-ing. Signs
-// pre-converted to visual order then get bidi'd AGAIN → reversed. So serve signs
-// logical too (RLE kept), and let VLC's bidi handle them like it does dialogue.
-// signTextToVisual/lineToVisual kept for easy revert if VLC's behavior flips back.
-const normalizeForVlc = (t) => normalize(t, false);
+// VLC Android bidis BOTTOM dialogue (so it reads correctly when logical) but does
+// NOT bidi positioned/typeset SIGNS — so signs must be pre-converted to visual
+// order, while dialogue stays logical. (An earlier attempt served signs logical
+// on the theory that VLC bidis everything; that reversed the titles — VLC does
+// not bidi them. Reverted.) Dialogue-vs-sign split is DIALOGUE_STYLE in normalize.
+const normalizeForVlc = (t) => normalize(t, true);
 
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).

@@ -19,8 +19,9 @@ Source `.ass` is served almost verbatim. Edits:
 1. **Embed fonts** — inject `[Fonts]` with **Gveret Levin** (SIL OFL) renamed 3×: `Guttman Yad-Brush`, `Guttman Kav`, `Guttman Aharoni` (the families the styles use). Without this, VLC/libass shows **boxes** (no Hebrew glyphs on device). In `embedded-font.js` (base64).
 2. **Strip inline `\fn`** — exotic sign fonts (Roboto/Kakumin Web…) not on device → use style font (= embedded).
 3. **Dialogue size bump** — `DIALOGUE_STYLE` matches the conversation styles `Main/Thoughts/Narrator/Secondary/Flashbacks…` **with OR without** the `-207-`/`-207+` suffix. Some episodes (e.g. EL11) author dialogue with the plain `Main` (~55) instead of `Main-207-` (~82). Size = `max(round(size×1.3), 105)` so both regimes land readable (82→107, 55→105). **Critical for `/ass-vlc`:** if dialogue isn't matched here it's treated as a *sign* → visual-ordered (reversed Hebrew) **and** un-bumped (tiny). That exact regex-too-strict bug shipped once; don't reintroduce the `-207`-only form.
-4. **Cap sign `\fscx/\fscy` > 100** — typeset 125–175% zoom overflowed screen for Hebrew; downscales kept.
-5. Range/HEAD + `Accept-Ranges` (ffmpeg range-probes the URL; 200-without-ranges ANR'd Stremio). BOM-prefixed UTF-8.
+4. **Sign-text size bump** — `SIGN_TEXT_STYLE` (Title/Captions/Note…) bumped ×1.3 (no floor; they're short). Episode/scene titles + location captions otherwise render tiny with Gveret Levin.
+5. **Cap sign `\fscx/\fscy` > 100** — typeset 125–175% zoom overflowed screen for Hebrew; downscales kept.
+6. Range/HEAD + `Accept-Ranges` (ffmpeg range-probes the URL; 200-without-ranges ANR'd Stremio). BOM-prefixed UTF-8.
 
 ## The VLC Android fix (`/ass-vlc`)
 
