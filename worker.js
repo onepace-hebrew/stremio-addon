@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.32',
+  version: '1.0.33',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -148,16 +148,17 @@ const BIDI_CTRL = /[‎‏‪-‮⁦-⁩؜]/g;
 const SIGN_TEXT_STYLE = /^(Title|Captions|Caption|Note|Narration|Sign)(-.*)?$/;
 
 // Bump style fontsize — the embedded Gveret Levin renders small at the authored
-// sizes. Dialogue: two regimes ("-207-" ~82, plain "Main" ~55); flat ×1.3 leaves
-// the plain set tiny (72) so floor at 105 (82→107, 55→105). Sign text (titles,
-// captions, notes): ×1.3, no floor (they're short, overflow risk is low).
-function tuneStyleLine(line) {
+// sizes. Dialogue: ×1.3 with a floor so the small "plain" regime lands readable
+// (82→107, 55→105 at 1080p). The floor SCALES with PlayResY (105 is a 1080p
+// number = 9.7% of height); a 720p episode floors at 70 so it isn't oversized.
+// Sign text (titles, captions, notes): ×1.3, no floor (short, low overflow risk).
+function tuneStyleLine(line, sizeFloor) {
   const p = line.slice('Style:'.length).split(',');
   if (p.length < 3) return line;
   const name = p[0].trim();
   const sz = Number(p[2]);
   if (!sz) return line;
-  if (DIALOGUE_STYLE.test(name)) p[2] = String(Math.max(Math.round(sz * 1.3), 105));
+  if (DIALOGUE_STYLE.test(name)) p[2] = String(Math.max(Math.round(sz * 1.3), sizeFloor));
   else if (SIGN_TEXT_STYLE.test(name)) p[2] = String(Math.round(sz * 1.3));
   else return line;
   return 'Style:' + p.join(',');
@@ -199,6 +200,9 @@ function signTextToVisual(t) {
 // no-bidi sign rendering reads correctly; dialogue stays logical (VLC bidis it
 // fine). Positioning/alignment/layered events otherwise preserved.
 function normalize(assText, visual) {
+  // Dialogue size floor scales with the script's resolution (105 = a 1080p px).
+  const playResY = Number((assText.match(/^PlayResY:\s*(\d+)/m) || [])[1]) || 1080;
+  const sizeFloor = Math.max(60, Math.round(105 * (playResY / 1080)));
   return assText
     .replace(/\\fn[^\\}]*/g, '')
     // Strip inline italic toggles. They're often vestigial (e.g. "תום-{\i0}סאן
@@ -209,7 +213,7 @@ function normalize(assText, visual) {
     .replace(/\{\}/g, '')
     .split('\n')
     .map((line) => {
-      if (line.startsWith('Style:')) return tuneStyleLine(line);
+      if (line.startsWith('Style:')) return tuneStyleLine(line, sizeFloor);
       if (!line.startsWith('Dialogue:')) return line;
       const head = line.match(/^(Dialogue:(?:[^,]*,){9})/);
       if (!head) return line;

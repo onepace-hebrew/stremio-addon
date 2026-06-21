@@ -647,6 +647,12 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/03/orangetown%2003%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/02%20Orange%20Town/03/orangetown%2003%20he.ass"
   },
+  "PEN_1": {
+    "arc": "fedew/18 Post-Enies Lobby",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/18%20Post-Enies%20Lobby/01/postenieslobby%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/18%20Post-Enies%20Lobby/01/postenieslobby%2001%20he.ass"
+  },
   "PW_1": {
     "arc": "24 Post War",
     "ep": 1,
