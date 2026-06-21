@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.33',
+  version: '1.0.34',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -231,17 +231,13 @@ function normalize(assText, visual) {
     .join('\n');
 }
 const normalizeForEmbed = (t) => normalize(t, false);
-// All-logical: serve signs logical too (visual flag off). Both confirmed sign
-// reports (E20 \pos captions, E22 title) were REVERSED when pre-flipped, and
-// dialogue is correct when logical — so VLC bidis ALL the text; pre-flipping
-// anything double-reverses it. signTextToVisual kept as dead code in case a
-// player that does NOT bidi signs turns up.
-// VLC Android bidis BOTTOM dialogue (so it reads correctly when logical) but does
-// NOT bidi positioned/typeset SIGNS — so signs must be pre-converted to visual
-// order, while dialogue stays logical. (An earlier attempt served signs logical
-// on the theory that VLC bidis everything; that reversed the titles — VLC does
-// not bidi them. Reverted.) Dialogue-vs-sign split is DIALOGUE_STYLE in normalize.
-const normalizeForVlc = (t) => normalize(t, false);
+// VLC track: dialogue logical (VLC bidis bottom text), \pos/\move signs logical
+// (VLC bidis those too), and NON-\pos signs (alignment/margin-positioned titles
+// & the like) PRE-FLIPPED to visual order — VLC does not bidi those, so the file
+// must carry them reversed. See the posAnchored split in normalize(). Confirmed:
+// E24 title (non-\pos) was reversed when left logical; E20 \pos captions were
+// reversed when pre-flipped.
+const normalizeForVlc = (t) => normalize(t, true);
 
 // Insert the [Fonts] block before [Events] (a top-level section, standard
 // placement between styles and events).
