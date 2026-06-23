@@ -12,10 +12,10 @@ endpoints still work; they're simply not listed.
 | Track label | URL | For |
 |---|---|---|
 | `עברית` | github raw `.srt` | universal, plain text |
-| `עברית מעוצב` | `/ass-vlc/<TOK>.ass` | styled; signs visual-order for **VLC Android** |
+| `עברית מעוצב` | `/ass/<TOK>.ass` | styled; **all text logical** (dialogue + signs) |
 
-Unlisted but live: `/vtt/<TOK>.vtt` (ass→VTT, keeps positioning) and `/ass/<TOK>.ass`
-(styled, signs **logical** — for bidi-correct players: ExoPlayer/mpv/VLC-desktop).
+Unlisted but live: `/vtt/<TOK>.vtt` (ass→VTT, keeps positioning) and `/ass-vlc/<TOK>.ass`
+(signs pre-reversed — **deprecated, kept only as a one-line revert**; see below).
 
 URLs carry `?v=<manifest.version>` (cache-bust every deploy); list `cacheMaxAge=60s`.
 
@@ -29,21 +29,23 @@ Source `.ass` is served almost verbatim. Edits:
 5. **Cap sign `\fscx/\fscy` > 100** — typeset 125–175% zoom overflowed screen for Hebrew; downscales kept.
 6. Range/HEAD + `Accept-Ranges` (ffmpeg range-probes the URL; 200-without-ranges ANR'd Stremio). BOM-prefixed UTF-8.
 
-## The VLC Android fix (`/ass-vlc`)
+## Signs: serve LOGICAL (the `/ass-vlc` pre-reversal was wrong)
 
-VLC Android's libass renders **sign text without bidi → reversed** (dialogue is fine). The file is correct — mpv, VLC desktop, and Linux libass+fontconfig all render it right; it's that VLC build's bug, **not reproducible locally**.
+For a long time signs were pre-reversed to "visual order" (`/ass-vlc`, `bidi-js`) on the theory that VLC Android draws sign text **without** bidi. **That was wrong** and caused the recurring "sign is reversed again" reports: a pre-reversed `\an8` Note still rendered reversed on a real VLC Android TV (2026-06-24, user-confirmed). A pre-reversed sign can only look reversed if VLC **does** apply the Unicode bidi algorithm to it — so pre-reversing **double-reverses** it.
 
-Fix: `/ass-vlc` runs the **Unicode bidi algorithm** (`bidi-js`) over **sign** text → **visual order** (drop bidi-control marks, keep `{tags}`, reorder each `\N` line + mirror brackets). VLC's no-bidi left-to-right draw then shows correct Hebrew. **Dialogue stays logical** (VLC bidis it fine). Separate track because visual-order would **double-reverse** on correct players.
+**Fix (v1.0.39): serve everything LOGICAL.** The styled track points at `/ass` (signs + dialogue both logical). VLC Android bidis it all correctly, exactly like mpv/desktop. No per-style reversal, no `\pos`-split heuristic — the whole fragile class is gone. `/ass-vlc` + `signTextToVisual` + `bidi-js` are dead code, kept only so the track URL can be reverted in one line if a real regression ever appears.
 
 ## Player matrix
 
-- **VLC Android** → `(VLC)` track. Styled + correct.
-- **ExoPlayer** → `(ASS)`. Correct RTL but plain (ignores embedded font/outline).
-- **mpv / VLC desktop** → `(ASS)`. Full styling, correct.
+- **VLC Android** → `/ass` (logical). Styled + correct, signs included (bidis everything).
+- **ExoPlayer** → `/ass`. Correct RTL but plain (ignores embedded font/outline).
+- **mpv / VLC desktop** → `/ass`. Full styling, correct.
 - **Built-in mpv (Stremio)** → **can't fetch external ASS** (direct-HTTPS fetch ANRs/crashes). Use SRT/VTT.
 
 ## Don't re-try (dead ends)
 
-- Repositioning signs (strip `\pos`, force `\an`): splits **layered fill+outline events** (same `\pos`) into **doubled** text; never fixed reversal.
-- Strip bidi controls alone / prepend RLM / force RTL base / VLC subtitle-encoding setting: did not fix VLC Android.
+- **Pre-reversing signs to "visual order" for VLC** (`/ass-vlc`): VLC Android DOES bidi signs, so this double-reverses them → reversed. Serve logical. This was the single biggest time-sink; do not bring it back.
+- Repositioning signs (strip `\pos`, force `\an`): splits **layered fill+outline events** (same `\pos`) into **doubled** text.
+- Strip bidi controls alone / prepend RLM / force RTL base / VLC subtitle-encoding setting: no effect.
 - Render-cost tags (`\blur`) are a red herring (official He.ass uses them, works).
+- **The Android emulator can't validate signs** — its VLC plays video but renders **no subtitle overlay** (SwiftShader GPU). Only a real device confirms sign rendering.
