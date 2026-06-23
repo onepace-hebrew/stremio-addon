@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.39',
+  version: '1.0.40',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -100,21 +100,19 @@ function subtitlesFor(idSegment, mapping, origin) {
     // The /vtt and /ass endpoints still exist and work — they're simply not
     // listed. The styled track (id kept as -ass-vlc) serves all-logical text
     // with the embedded font + size bumps; VLC bidis it all. See normalizeForVlc.
-    if (entry.srt) {
-      out.push({ id: `${token}-he-srt`, url: entry.srt, lang: 'heb', label: 'עברית' });
-    }
+    // ONE track only: the styled .ass, served all-logical (signs + dialogue) with
+    // the embedded font + size bumps. VLC/ExoPlayer bidi it correctly. Signs were
+    // never pre-reversed here — a pre-reversed \an8 sign still rendered reversed on
+    // VLC Android, i.e. VLC DOES bidi signs, so pre-reversing double-reverses them.
+    // SRT/VTT dropped per request (no duplicate tracks). Trade-off: Stremio's
+    // built-in mpv can't fetch an external .ass (TLS ANR) → no Hebrew there; use an
+    // external player (VLC/ExoPlayer). New id (-he-logical) forces a clean refetch.
     if (entry.ass) {
       out.push({
-        // Signs now served in LOGICAL order (/ass), not pre-reversed (/ass-vlc).
-        // Evidence: a pre-reversed \an8 sign still rendered reversed on VLC Android
-        // — which only happens if VLC applies the bidi algorithm to signs (it does).
-        // Pre-reversing therefore double-reverses → reversed. Logical = VLC bidis it
-        // correctly, same as dialogue. New id forces a clean refetch past the
-        // player's per-id session cache (?v alone was masked by it).
         id: `${token}-he-logical`,
         url: `${origin}/ass/${token.toUpperCase()}.ass?v=${manifest.version}`,
         lang: 'heb',
-        label: 'עברית מעוצב',
+        label: 'עברית',
       });
     }
   }
