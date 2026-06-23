@@ -200,6 +200,10 @@ function build() {
     'EN_25': 'fedew/17 Enies Lobby/25/enieslobby 25 he',
     // Post-Enies Lobby (PEN, fedew04 cut) — translated from the One Pace English.
     'PEN_1': 'fedew/18 Post-Enies Lobby/01/postenieslobby 01 he',
+    'PEN_2': 'fedew/18 Post-Enies Lobby/02/postenieslobby 02 he',
+    'PEN_3': 'fedew/18 Post-Enies Lobby/03/postenieslobby 03 he',
+    'PEN_4': 'fedew/18 Post-Enies Lobby/04/postenieslobby 04 he',
+    'PEN_5': 'fedew/18 Post-Enies Lobby/05/postenieslobby 05 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');
