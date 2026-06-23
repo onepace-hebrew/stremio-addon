@@ -84,6 +84,22 @@ function lintFile(rel) {
       if (re.test(text)) issues.push(`name "${wrong}" → use "${right}" #${i + 1}`);
     }
   });
+
+  // structural .ass guard: Hebrew must live in the Text field, NEVER in Effect.
+  // A dropped comma between the Effect and Text fields once put every cue's
+  // Hebrew into Effect, so Text was empty and the cue rendered blank ("holes").
+  const assAbs = path.join(REPO, rel.replace(/\.srt$/, '.ass'));
+  if (fs.existsSync(assAbs)) {
+    let inEv = false, n = 0;
+    for (const l of fs.readFileSync(assAbs, 'utf8').split(/\r?\n/)) {
+      if (/^\[Events\]/.test(l)) { inEv = true; continue; }
+      if (/^\[/.test(l)) inEv = false;
+      if (!inEv || !l.startsWith('Dialogue:')) continue;
+      n++;
+      const parts = l.slice('Dialogue:'.length).split(',');
+      if (HEB.test(parts[8] || '')) issues.push(`ASS cue #${n}: Hebrew in Effect field (text leaked out of Text — missing comma?)`);
+    }
+  }
   return issues;
 }
 

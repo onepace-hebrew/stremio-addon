@@ -7,7 +7,8 @@
     "start": "node index.js",
     "build-mapping": "node scripts/build-mapping.js",
     "build-static": "node scripts/build-static.js",
-    "build": "node scripts/build-mapping.js && node scripts/build-static.js"
+    "build": "node scripts/build-mapping.js && node scripts/build-static.js",
+    "build-onepace": "node scripts/build-onepace-episode.js"
   },
   "license": "MIT",
   "dependencies": {
