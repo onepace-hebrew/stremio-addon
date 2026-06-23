@@ -34,7 +34,7 @@ const MAPPING_TTL_MS = 5 * 60 * 1000; // refresh at most every 5 min per isolate
 
 const manifest = {
   id: 'community.onepace.hebrew',
-  version: '1.0.38',
+  version: '1.0.39',
   name: 'One Pace Hebrew Subtitles',
   description:
     'Hebrew subtitles for One Pace — the fan-made recut of One Piece. Pick the Hebrew ' +
@@ -105,15 +105,14 @@ function subtitlesFor(idSegment, mapping, origin) {
     }
     if (entry.ass) {
       out.push({
-        // id deliberately changed from -he-ass-vlc to -he-styled: the player
-        // caches a subtitle by its id and reuses the first-loaded copy for the
-        // whole session, so old (visual-order, pre-all-logical) signs kept being
-        // shown no matter how often ?v bumped. A fresh id is an unseen track →
-        // forced clean fetch. One-time re-pick clears the stale cache for good.
-        id: `${token}-he-styled`,
-        // ?v=<version> busts client/edge caches on every deploy — a new URL the
-        // player has never cached, so fixes can't be masked by a stale .ass.
-        url: `${origin}/ass-vlc/${token.toUpperCase()}.ass?v=${manifest.version}`,
+        // Signs now served in LOGICAL order (/ass), not pre-reversed (/ass-vlc).
+        // Evidence: a pre-reversed \an8 sign still rendered reversed on VLC Android
+        // — which only happens if VLC applies the bidi algorithm to signs (it does).
+        // Pre-reversing therefore double-reverses → reversed. Logical = VLC bidis it
+        // correctly, same as dialogue. New id forces a clean refetch past the
+        // player's per-id session cache (?v alone was masked by it).
+        id: `${token}-he-logical`,
+        url: `${origin}/ass/${token.toUpperCase()}.ass?v=${manifest.version}`,
         lang: 'heb',
         label: 'עברית מעוצב',
       });
