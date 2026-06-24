@@ -204,6 +204,13 @@ function build() {
     'PEN_3': 'fedew/18 Post-Enies Lobby/03/postenieslobby 03 he',
     'PEN_4': 'fedew/18 Post-Enies Lobby/04/postenieslobby 04 he',
     'PEN_5': 'fedew/18 Post-Enies Lobby/05/postenieslobby 05 he',
+    // Thriller Bark (TB, fedew04 cut) — translated from the One Pace English.
+    'TB_1': 'fedew/19 Thriller Bark/01/thrillerbark 01 he',
+    'TB_2': 'fedew/19 Thriller Bark/02/thrillerbark 02 he',
+    'TB_3': 'fedew/19 Thriller Bark/03/thrillerbark 03 he',
+    'TB_4': 'fedew/19 Thriller Bark/04/thrillerbark 04 he',
+    'TB_5': 'fedew/19 Thriller Bark/05/thrillerbark 05 he',
+    'TB_6': 'fedew/19 Thriller Bark/06/thrillerbark 06 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');

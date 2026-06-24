@@ -43,10 +43,21 @@ const EPISODES = {
   PEN_3: { arc: '18 Post-Enies Lobby', nn: '03', stem: 'postenieslobby 03 he', epLabel: 'Post-Enies Lobby 03' },
   PEN_4: { arc: '18 Post-Enies Lobby', nn: '04', stem: 'postenieslobby 04 he', epLabel: 'Post-Enies Lobby 04' },
   PEN_5: { arc: '18 Post-Enies Lobby', nn: '05', stem: 'postenieslobby 05 he', epLabel: 'Post-Enies Lobby 05' },
+  TB_1: { arc: '19 Thriller Bark', nn: '01', stem: 'thrillerbark 01 he', epLabel: 'Thriller Bark 01' },
+  TB_2: { arc: '19 Thriller Bark', nn: '02', stem: 'thrillerbark 02 he', epLabel: 'Thriller Bark 02' },
+  TB_3: { arc: '19 Thriller Bark', nn: '03', stem: 'thrillerbark 03 he', epLabel: 'Thriller Bark 03' },
+  TB_4: { arc: '19 Thriller Bark', nn: '04', stem: 'thrillerbark 04 he', epLabel: 'Thriller Bark 04' },
+  TB_5: { arc: '19 Thriller Bark', nn: '05', stem: 'thrillerbark 05 he', epLabel: 'Thriller Bark 05' },
+  TB_6: { arc: '19 Thriller Bark', nn: '06', stem: 'thrillerbark 06 he', epLabel: 'Thriller Bark 06' },
 };
 
-// Events to DROP entirely: opening-song karaoke + the English fansub staff credits.
+// Events DROPPED at extract (never in cues/he.json): fansub staff credits +
+// PEN's "Rainbow Star lyrics" OP (kept here for PEN index stability).
 const DROP_STYLES = new Set(['Credits', 'Rainbow Star lyrics']);
+// Other opening-theme karaoke styles (TB's "Jungle P lyrics" / "Lyrics") that
+// WERE extracted (so indices are stable) but are skip-emitted at build — the OP
+// song isn't shown. Any "...lyrics" style not already in DROP_STYLES.
+const SONG_STYLE = /lyric/i;
 
 // Font per style role (matches the human He.ass set; the Worker embeds these three).
 const ROLE_FONT = {
@@ -145,14 +156,16 @@ async function build(id) {
       const p = line.split(',');
       const name = p[0].slice('Style:'.length).trim();
       p[1] = ROLE_FONT[name] || SIGN_FALLBACK;
-      if (!ROLE_FONT[name]) problems.push(`unknown style "${name}" -> ${SIGN_FALLBACK}`);
+      if (!ROLE_FONT[name] && !SONG_STYLE.test(name)) problems.push(`unknown style "${name}" -> ${SIGN_FALLBACK}`);
       out.push(p.join(','));
       continue;
     }
     if (inEvents && line.startsWith('Comment:')) continue;
     if (inEvents && line.startsWith('Dialogue:')) {
       const p = line.slice('Dialogue:'.length).split(',');
-      if (DROP_STYLES.has(p[3].trim())) continue;
+      const style = p[3].trim();
+      if (DROP_STYLES.has(style)) continue; // not indexed → no ci++
+      if (SONG_STYLE.test(style)) { ci++; continue; } // OP theme: indexed but not shown
       const enField = p.slice(9).join(',');
       const he = tr.get(ci);
       if (he == null) { problems.push(`MISSING translation cue ${ci}`); ci++; continue; }

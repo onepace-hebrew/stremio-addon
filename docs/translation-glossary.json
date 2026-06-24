@@ -227,6 +227,13 @@
       "ai": "עליי",
       "human": "עלי",
       "count": 2
+    },
+    "Seven Warlords of the Sea (Shichibukai)": {
+      "he": "שבעת לוחמי הים",
+      "note": "singular: לוחם ים. Not לורדי המלחמה."
+    },
+    "Warlord of the Sea": {
+      "he": "לוחם ים"
     }
   },
   "captions": {
