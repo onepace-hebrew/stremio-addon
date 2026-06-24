@@ -9,13 +9,18 @@ Only **two** are advertised in the subtitles list. Most players render no per-tr
 indistinguishable duplicates the user kept landing on wrong. The `/vtt` and `/ass`
 endpoints still work; they're simply not listed.
 
+**ONE** track is advertised (v1.0.40+): duplicate tracks show as indistinguishable
+"Hebrew" entries and the user kept landing on the wrong one, and one episode showed
+plain-SRT (small) while the next showed the bumped ASS (big) → "why is E03 huge".
+
 | Track label | URL | For |
 |---|---|---|
-| `עברית` | github raw `.srt` | universal, plain text |
-| `עברית מעוצב` | `/ass/<TOK>.ass` | styled; **all text logical** (dialogue + signs) |
+| `עברית` | `/ass/<TOK>.ass` | styled; logical text **except centered titles** (see below) |
 
-Unlisted but live: `/vtt/<TOK>.vtt` (ass→VTT, keeps positioning) and `/ass-vlc/<TOK>.ass`
-(signs pre-reversed — **deprecated, kept only as a one-line revert**; see below).
+Unlisted but live: `/vtt/<TOK>.vtt`, the github raw `.srt`, and `/ass-vlc/<TOK>.ass`
+(all signs pre-reversed — **deprecated, kept only as a one-line revert**; see below).
+Dropping SRT means Stremio's **built-in mpv shows no Hebrew** (it can't fetch external
+`.ass`) — external player (VLC/ExoPlayer) only.
 
 URLs carry `?v=<manifest.version>` (cache-bust every deploy); list `cacheMaxAge=60s`.
 
@@ -29,22 +34,38 @@ Source `.ass` is served almost verbatim. Edits:
 5. **Cap sign `\fscx/\fscy` > 100** — typeset 125–175% zoom overflowed screen for Hebrew; downscales kept.
 6. Range/HEAD + `Accept-Ranges` (ffmpeg range-probes the URL; 200-without-ranges ANR'd Stremio). BOM-prefixed UTF-8.
 
-## Signs: serve LOGICAL (the `/ass-vlc` pre-reversal was wrong)
+## Signs: LOGICAL everywhere EXCEPT the centered episode TITLE
 
-For a long time signs were pre-reversed to "visual order" (`/ass-vlc`, `bidi-js`) on the theory that VLC Android draws sign text **without** bidi. **That was wrong** and caused the recurring "sign is reversed again" reports: a pre-reversed `\an8` Note still rendered reversed on a real VLC Android TV (2026-06-24, user-confirmed). A pre-reversed sign can only look reversed if VLC **does** apply the Unicode bidi algorithm to it — so pre-reversing **double-reverses** it.
+VLC Android applies the Unicode bidi algorithm to **almost everything** — bottom
+dialogue (`an2`), `\pos`/`\move` signs, AND top/bottom alignment signs. Proof: a
+pre-reversed `\an8` Note rendered *reversed* on a real VLC TV, and serving it
+**logical** rendered it *correct* (user-confirmed PEN_2 17:48). So pre-reversing
+those double-reverses them — serve logical.
 
-**Fix (v1.0.39): serve everything LOGICAL.** The styled track points at `/ass` (signs + dialogue both logical). VLC Android bidis it all correctly, exactly like mpv/desktop. No per-style reversal, no `\pos`-split heuristic — the whole fragile class is gone. `/ass-vlc` + `signTextToVisual` + `bidi-js` are dead code, kept only so the track URL can be reverted in one line if a real regression ever appears.
+The **one exception is the vertically-centered episode Title (`an5`)**: VLC draws it
+left-to-right (NOT bidi'd) → reversed unless pre-flipped. User-confirmed on PEN_4
+title @5:56 (logical = reversed) and historically E16/17/22/23/24 titles.
+
+**Rule (worker `normalize`, v1.0.41):** flip a cue to visual order (`signTextToVisual`)
+iff `TITLE_STYLE` matches **and** it's not `\pos`/`\move`-anchored. Everything else —
+dialogue, notes, captions, `\pos` titles — stays logical. The legacy `visual=true`
+path (`/ass-vlc`) still flips *all* signs; it's dead code kept as a one-line revert.
+
+Why titles differ: only `an5` (vertical-middle) signs hit VLC's no-bidi path; `an2`/
+`an8` and `\pos` do not. If a non-title centered sign ever shows reversed, widen
+`TITLE_STYLE` (or key off effective alignment 4/5/6) — do **not** go back to
+flipping all signs (that re-breaks notes/captions).
 
 ## Player matrix
 
-- **VLC Android** → `/ass` (logical). Styled + correct, signs included (bidis everything).
-- **ExoPlayer** → `/ass`. Correct RTL but plain (ignores embedded font/outline).
-- **mpv / VLC desktop** → `/ass`. Full styling, correct.
-- **Built-in mpv (Stremio)** → **can't fetch external ASS** (direct-HTTPS fetch ANRs/crashes). Use SRT/VTT.
+- **VLC Android** → `/ass`. Styled + correct; logical text, centered Title pre-flipped.
+- **ExoPlayer** → `/ass`. Correct RTL but plain (ignores embedded font/outline). NOTE: bidis the Title too, so the pre-flipped title is reversed here — acceptable trade (user is on VLC; ExoPlayer is secondary).
+- **mpv / VLC desktop** → `/ass`. Full styling; dialogue/signs correct, pre-flipped title double-reversed (same trade).
+- **Built-in mpv (Stremio)** → **can't fetch external ASS** (direct-HTTPS fetch ANRs/crashes). No Hebrew (SRT dropped).
 
 ## Don't re-try (dead ends)
 
-- **Pre-reversing signs to "visual order" for VLC** (`/ass-vlc`): VLC Android DOES bidi signs, so this double-reverses them → reversed. Serve logical. This was the single biggest time-sink; do not bring it back.
+- **Pre-reversing ALL signs to "visual order"** (`/ass-vlc`): VLC Android DOES bidi dialogue, `\pos` signs, AND `an2`/`an8` signs, so flipping those double-reverses → reversed. Only the centered `an5` Title needs flipping. Do not flip the rest.
 - Repositioning signs (strip `\pos`, force `\an`): splits **layered fill+outline events** (same `\pos`) into **doubled** text.
 - Strip bidi controls alone / prepend RLM / force RTL base / VLC subtitle-encoding setting: no effect.
 - Render-cost tags (`\blur`) are a red herring (official He.ass uses them, works).
