@@ -70,6 +70,7 @@
     { "he": "קומאשי", "gender": "m", "en": ["Kumashi", "Kumacy"], "he_aliases": [] },
     { "he": "אורס", "gender": "m", "en": ["Oars", "Oz", "Oars Zombie"], "he_aliases": [] },
     { "he": "אינופה", "gender": "m", "en": ["Inuppe"], "he_aliases": [] },
-    { "he": "ג'יגורו", "gender": "m", "en": ["Jigoro", "Jigorou", "Gigoro"], "he_aliases": [] }
+    { "he": "ג'יגורו", "gender": "m", "en": ["Jigoro", "Jigorou", "Gigoro"], "he_aliases": [] },
+    { "he": "קומא", "gender": "m", "en": ["Kuma", "Bartholomew Kuma"], "he_aliases": ["ברתולומיאו קומא"] }
   ]
 }

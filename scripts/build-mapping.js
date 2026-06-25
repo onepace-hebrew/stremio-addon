@@ -217,6 +217,11 @@ function build() {
     'TB_10': 'fedew/19 Thriller Bark/10/thrillerbark 10 he',
     'TB_11': 'fedew/19 Thriller Bark/11/thrillerbark 11 he',
     'TB_12': 'fedew/19 Thriller Bark/12/thrillerbark 12 he',
+    'TB_13': 'fedew/19 Thriller Bark/13/thrillerbark 13 he',
+    'TB_14': 'fedew/19 Thriller Bark/14/thrillerbark 14 he',
+    'TB_15': 'fedew/19 Thriller Bark/15/thrillerbark 15 he',
+    'TB_16': 'fedew/19 Thriller Bark/16/thrillerbark 16 he',
+    'TB_17': 'fedew/19 Thriller Bark/17/thrillerbark 17 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');

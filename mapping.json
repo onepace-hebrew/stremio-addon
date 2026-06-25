@@ -1013,6 +1013,36 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/12/thrillerbark%2012%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/12/thrillerbark%2012%20he.ass"
   },
+  "TB_13": {
+    "arc": "fedew/19 Thriller Bark",
+    "ep": 13,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/13/thrillerbark%2013%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/13/thrillerbark%2013%20he.ass"
+  },
+  "TB_14": {
+    "arc": "fedew/19 Thriller Bark",
+    "ep": 14,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/14/thrillerbark%2014%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/14/thrillerbark%2014%20he.ass"
+  },
+  "TB_15": {
+    "arc": "fedew/19 Thriller Bark",
+    "ep": 15,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/15/thrillerbark%2015%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/15/thrillerbark%2015%20he.ass"
+  },
+  "TB_16": {
+    "arc": "fedew/19 Thriller Bark",
+    "ep": 16,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/16/thrillerbark%2016%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/16/thrillerbark%2016%20he.ass"
+  },
+  "TB_17": {
+    "arc": "fedew/19 Thriller Bark",
+    "ep": 17,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/17/thrillerbark%2017%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/19%20Thriller%20Bark/17/thrillerbark%2017%20he.ass"
+  },
   "TB_2": {
     "arc": "fedew/19 Thriller Bark",
     "ep": 2,
