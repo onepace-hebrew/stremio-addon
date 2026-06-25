@@ -49,6 +49,12 @@ const EPISODES = {
   TB_4: { arc: '19 Thriller Bark', nn: '04', stem: 'thrillerbark 04 he', epLabel: 'Thriller Bark 04' },
   TB_5: { arc: '19 Thriller Bark', nn: '05', stem: 'thrillerbark 05 he', epLabel: 'Thriller Bark 05' },
   TB_6: { arc: '19 Thriller Bark', nn: '06', stem: 'thrillerbark 06 he', epLabel: 'Thriller Bark 06' },
+  TB_7: { arc: '19 Thriller Bark', nn: '07', stem: 'thrillerbark 07 he', epLabel: 'Thriller Bark 07' },
+  TB_8: { arc: '19 Thriller Bark', nn: '08', stem: 'thrillerbark 08 he', epLabel: 'Thriller Bark 08' },
+  TB_9: { arc: '19 Thriller Bark', nn: '09', stem: 'thrillerbark 09 he', epLabel: 'Thriller Bark 09' },
+  TB_10: { arc: '19 Thriller Bark', nn: '10', stem: 'thrillerbark 10 he', epLabel: 'Thriller Bark 10' },
+  TB_11: { arc: '19 Thriller Bark', nn: '11', stem: 'thrillerbark 11 he', epLabel: 'Thriller Bark 11' },
+  TB_12: { arc: '19 Thriller Bark', nn: '12', stem: 'thrillerbark 12 he', epLabel: 'Thriller Bark 12' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +

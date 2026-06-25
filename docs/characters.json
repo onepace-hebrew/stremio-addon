@@ -58,15 +58,18 @@
     { "he": "קאיה", "gender": "f", "en": ["Kaya"], "he_aliases": ["גברת קאיה"] },
     { "he": "זף", "gender": "m", "en": ["Zeff"], "he_aliases": ["שף זף"] },
     { "he": "באגי", "gender": "m", "en": ["Buggy"], "he_aliases": [] },
-    { "he": "ברוק", "gender": "m", "en": ["Brook", "Humming Brook", "Soul King"], "he_aliases": [] },
+    { "he": "ברוק", "gender": "m", "en": ["Brook", "Brooke", "Humming Brook", "Soul King"], "he_aliases": [] },
     { "he": "מוריה", "gender": "m", "en": ["Moria", "Moriah", "Gecko Moria", "Gecko Moriah", "Gekko Moria"], "he_aliases": ["גקו מוריה"] },
     { "he": "הוגבק", "gender": "m", "en": ["Hogback", "Dr. Hogback", "Doctor Hogback"], "he_aliases": ["ד\"ר הוגבק"] },
     { "he": "אבסלום", "gender": "m", "en": ["Absalom", "Absolom"], "he_aliases": [] },
-    { "he": "פרונה", "gender": "f", "en": ["Perona", "Ghost Princess"], "he_aliases": [] },
-    { "he": "סינדרי", "gender": "f", "en": ["Cindry", "Victoria Cindry"], "he_aliases": ["ויקטוריה סינדרי"] },
+    { "he": "פרונה", "gender": "f", "en": ["Perona", "Pelona", "Ghost Princess"], "he_aliases": [] },
+    { "he": "סינדרי", "gender": "f", "en": ["Cindry", "Cindy", "Victoria Cindry"], "he_aliases": ["ויקטוריה סינדרי"] },
     { "he": "ריומה", "gender": "m", "en": ["Ryuma", "Ryuuma"], "he_aliases": [] },
     { "he": "לולה", "gender": "f", "en": ["Lola"], "he_aliases": [] },
     { "he": "הילדון", "gender": "m", "en": ["Hildon"], "he_aliases": [] },
-    { "he": "קומאשי", "gender": "m", "en": ["Kumashi", "Kumacy"], "he_aliases": [] }
+    { "he": "קומאשי", "gender": "m", "en": ["Kumashi", "Kumacy"], "he_aliases": [] },
+    { "he": "אורס", "gender": "m", "en": ["Oars", "Oz", "Oars Zombie"], "he_aliases": [] },
+    { "he": "אינופה", "gender": "m", "en": ["Inuppe"], "he_aliases": [] },
+    { "he": "ג'יגורו", "gender": "m", "en": ["Jigoro", "Jigorou", "Gigoro"], "he_aliases": [] }
   ]
 }
