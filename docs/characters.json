@@ -71,6 +71,10 @@
     { "he": "אורס", "gender": "m", "en": ["Oars", "Oz", "Oars Zombie"], "he_aliases": [] },
     { "he": "אינופה", "gender": "m", "en": ["Inuppe"], "he_aliases": [] },
     { "he": "ג'יגורו", "gender": "m", "en": ["Jigoro", "Jigorou", "Gigoro"], "he_aliases": [] },
-    { "he": "קומא", "gender": "m", "en": ["Kuma", "Bartholomew Kuma"], "he_aliases": ["ברתולומיאו קומא"] }
+    { "he": "קומא", "gender": "m", "en": ["Kuma", "Bartholomew Kuma"], "he_aliases": ["ברתולומיאו קומא"] },
+    { "he": "לבון", "gender": "m", "en": ["Laboon"], "he_aliases": ["לאבון", "ראבון"] },
+    { "he": "יורקי", "gender": "m", "en": ["Yorki", "Calico Yorki"], "he_aliases": [] },
+    { "he": "מרגריטה", "gender": "f", "en": ["Margarita"], "he_aliases": [] },
+    { "he": "הנקוק", "gender": "f", "en": ["Hancock", "Boa Hancock", "Pirate Empress", "Snake Princess"], "he_aliases": ["בואה הנקוק"] }
   ]
 }

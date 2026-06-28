@@ -60,6 +60,11 @@ const EPISODES = {
   TB_15: { arc: '19 Thriller Bark', nn: '15', stem: 'thrillerbark 15 he', epLabel: 'Thriller Bark 15' },
   TB_16: { arc: '19 Thriller Bark', nn: '16', stem: 'thrillerbark 16 he', epLabel: 'Thriller Bark 16' },
   TB_17: { arc: '19 Thriller Bark', nn: '17', stem: 'thrillerbark 17 he', epLabel: 'Thriller Bark 17' },
+  TB_18: { arc: '19 Thriller Bark', nn: '18', stem: 'thrillerbark 18 he', epLabel: 'Thriller Bark 18' },
+  TB_19: { arc: '19 Thriller Bark', nn: '19', stem: 'thrillerbark 19 he', epLabel: 'Thriller Bark 19' },
+  TB_20: { arc: '19 Thriller Bark', nn: '20', stem: 'thrillerbark 20 he', epLabel: 'Thriller Bark 20' },
+  TB_21: { arc: '19 Thriller Bark', nn: '21', stem: 'thrillerbark 21 he', epLabel: 'Thriller Bark 21' },
+  TB_22: { arc: '19 Thriller Bark', nn: '22', stem: 'thrillerbark 22 he', epLabel: 'Thriller Bark 22' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +
@@ -75,7 +80,7 @@ const ROLE_FONT = {
   Main: 'Guttman Yad-Brush', Secondary: 'Guttman Yad-Brush', Flashbacks: 'Guttman Yad-Brush',
   Thoughts: 'Guttman Yad-Brush', Narrator: 'Guttman Yad-Brush', Note: 'Guttman Yad-Brush', Gold: 'Guttman Yad-Brush',
   Captions: 'Guttman Kav', 'Captions small': 'Guttman Kav', 'TS paper': 'Guttman Kav', 'Rainbow Star lyrics': 'Guttman Kav',
-  Title: 'Guttman Aharoni', Credits: 'Guttman Aharoni',
+  Title: 'Guttman Aharoni', Credits: 'Guttman Aharoni', "Binks' Sake title": 'Guttman Aharoni',
 };
 const SIGN_FALLBACK = 'Guttman Kav';
 
