@@ -65,15 +65,21 @@ const EPISODES = {
   TB_20: { arc: '19 Thriller Bark', nn: '20', stem: 'thrillerbark 20 he', epLabel: 'Thriller Bark 20' },
   TB_21: { arc: '19 Thriller Bark', nn: '21', stem: 'thrillerbark 21 he', epLabel: 'Thriller Bark 21' },
   TB_22: { arc: '19 Thriller Bark', nn: '22', stem: 'thrillerbark 22 he', epLabel: 'Thriller Bark 22' },
+  SAB_1: { arc: '20 Sabaody Archipelago', nn: '01', stem: 'sabaody 01 he', epLabel: 'Sabaody Archipelago 01' },
+  SAB_2: { arc: '20 Sabaody Archipelago', nn: '02', stem: 'sabaody 02 he', epLabel: 'Sabaody Archipelago 02' },
+  SAB_3: { arc: '20 Sabaody Archipelago', nn: '03', stem: 'sabaody 03 he', epLabel: 'Sabaody Archipelago 03' },
+  SAB_4: { arc: '20 Sabaody Archipelago', nn: '04', stem: 'sabaody 04 he', epLabel: 'Sabaody Archipelago 04' },
+  SAB_5: { arc: '20 Sabaody Archipelago', nn: '05', stem: 'sabaody 05 he', epLabel: 'Sabaody Archipelago 05' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +
 // PEN's "Rainbow Star lyrics" OP (kept here for PEN index stability).
 const DROP_STYLES = new Set(['Credits', 'Rainbow Star lyrics']);
-// Other opening-theme karaoke styles (TB's "Jungle P lyrics" / "Lyrics") that
-// WERE extracted (so indices are stable) but are skip-emitted at build — the OP
-// song isn't shown. Any "...lyrics" style not already in DROP_STYLES.
-const SONG_STYLE = /lyric/i;
+// Styles that WERE extracted (so indices are stable) but are skip-emitted at
+// build — never shown. Opening-theme karaoke (TB "Jungle P lyrics"/"Lyrics",
+// SAB "OP11 Lyrics") + fansub staff credits that aren't the exact "Credits"
+// style (SAB "OP11 Credits"). Any "...lyrics"/"...credits" style.
+const SKIP_STYLE = /lyric|credits/i;
 
 // Font per style role (matches the human He.ass set; the Worker embeds these three).
 const ROLE_FONT = {
@@ -163,6 +169,7 @@ async function build(id) {
 
   const out = [], srt = [];
   const problems = [];
+  const warnings = [];
   let inEvents = false, ci = 0, srtN = 0;
   for (const line of enLines) {
     if (/^\[Events\]/.test(line)) { inEvents = true; out.push(line); continue; }
@@ -172,7 +179,9 @@ async function build(id) {
       const p = line.split(',');
       const name = p[0].slice('Style:'.length).trim();
       p[1] = ROLE_FONT[name] || SIGN_FALLBACK;
-      if (!ROLE_FONT[name] && !SONG_STYLE.test(name)) problems.push(`unknown style "${name}" -> ${SIGN_FALLBACK}`);
+      // Unknown style -> Guttman Kav (sign default). Non-fatal: new arcs keep
+      // adding sign/caption styles (Map/Bounty/Supernova/Hentai…). Just a warning.
+      if (!ROLE_FONT[name] && !SKIP_STYLE.test(name)) warnings.push(`unknown style "${name}" -> ${SIGN_FALLBACK}`);
       out.push(p.join(','));
       continue;
     }
@@ -181,7 +190,7 @@ async function build(id) {
       const p = line.slice('Dialogue:'.length).split(',');
       const style = p[3].trim();
       if (DROP_STYLES.has(style)) continue; // not indexed → no ci++
-      if (SONG_STYLE.test(style)) { ci++; continue; } // OP theme: indexed but not shown
+      if (SKIP_STYLE.test(style)) { ci++; continue; } // OP lyrics / fansub credits: indexed but not shown
       const enField = p.slice(9).join(',');
       const he = tr.get(ci);
       if (he == null) { problems.push(`MISSING translation cue ${ci}`); ci++; continue; }
@@ -207,6 +216,7 @@ async function build(id) {
   fs.writeFileSync(path.join(dir, ep.stem + '.ass'), assBody, 'utf8');
   fs.writeFileSync(path.join(dir, ep.stem + '.srt'), srt.join('\n'), 'utf8');
   console.log(`${id}: wrote ${srtN} cues -> subtitles/fedew/${ep.arc}/${ep.nn}/${ep.stem}.{ass,srt}`);
+  [...new Set(warnings)].forEach((w) => console.log(`  ! ${w}`));
 }
 
 // Structural guard: the bug that caused the "holes". Every Dialogue line MUST

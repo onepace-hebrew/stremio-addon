@@ -1,0 +1,3788 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,410)}Translation\\NYibis"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,500)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,142)}Editing\\NSewil"
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,253)}Infoboxes\\NSewil"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,383)}Timing\\NDatenshi"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,493)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 7,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 9,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 10,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 19,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(1000,0)}Adventure on the Archipelago\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\Nof Dancing Soap Bubbles"
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's good!"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Right?"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin's takoyaki is the best in the world, isn't it?"
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I can't stop, I'm unstoppable!"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "This takoyaki is great!"
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "It really is good."
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "How does he bring out the taste of the sauce like this?"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "There's just something great about a food stall at sea, huh?"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "Brook",
+  "text": "This is the first time I have ever eaten takoyaki."
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "Brook",
+  "text": "It tastes really good."
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "Brook",
+  "text": "It feels like my stomach is going to burst..."
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "Brook",
+  "text": "... although I have no stomach."
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Eat as much as you like, it's free today!"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "It's our way of thanking you for saving us!"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "Camie",
+  "text": "These have Dashi in them, and these have Mochi."
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "Camie",
+  "text": "They're hot, so be careful."
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "So..."
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "What does she think...?"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Uh, Nami, I mean..."
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Uh..."
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Well..."
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "H-How does it taste?"
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's not like I'll forgive you just because of this, you know."
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Of course not!"
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's not what I meant!"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I just wanted to know what you think, honestly!"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's really good!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Really?"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Is that so?"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Great, what a relief!"
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Alright, you guys!"
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Feel free to eat as much as you want!"
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah! Just keep making more!"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'll eat all of it!"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Hey, you guys~!"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Young masters~!"
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Who's that?"
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "Robin",
+  "text": "That voice..."
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Wait, wait!"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Don't leave without giving us a chance to thank you!"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm Handsome..."
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Oh, that was wrong."
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "Duval",
+  "text": "It's me, Duval!"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Was that how his face looked...?"
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I altered his bone-structure."
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "He shouldn't have anything to complain about now, right?"
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "Duval",
+  "text": "My, Master Black Leg..."
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "Duval",
+  "text": "After you smashed my face in, we were all really surprised when I woke up!"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "Duval",
+  "text": "You've made me really handsome!"
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I can't even recognize myself any more!"
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Now, the ladies will be crazy for me."
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I must say..."
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "Duval",
+  "text": "It truly is a rosy life!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I want to go back to my lazy country-life as soon as possible..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "Duval",
+  "text": "But if I left without showing my thanks to you, I could never forgive myself!"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "Duval",
+  "text": "This is your first time visiting these parts, right?"
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "Duval",
+  "text": "If there's anything we can help you with, just call us!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Don't wink if you're not used to it!"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Well, as long as you're satisfied, that's good enough."
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If you wanna do us a favor, then don't bother us again..."
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Beautiful..."
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Too beautiful!"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Are you even listening?!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I want to ride on a white horse..."
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Hey, listen!"
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Head..."
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Head!"
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Listen to what he's saying!"
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Oh, that's right..."
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "Duval",
+  "text": "What?"
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm handsome?"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I never said a single word about that!"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "Duval",
+  "text": "It is somewhat embarrassing, but... I accept it!"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Your fair maiden's kiss~!"
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "Nami",
+  "text": "I wasn't doing anything like that!"
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "Nami",
+  "text": "I was just wiping off the takoyaki!"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What's with that ridiculously positive attitude of yours?!"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Oh, mirror, mirror..."
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Am I the most handsome man in the world?"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "Riders",
+  "text": "You're only giving it one choice?!"
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "We get that you're handsome, but you're still an idiot."
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Jealousy?"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "No way!"
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Stop it, Usopp!"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "You're no match against his craziness!"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Well then, young master!"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "Duval",
+  "text": "This is my snail phone number."
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Feel free to call me whenever you like!"
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'll definitely help you out when that time comes!"
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I really did cause you a lot of trouble, huh?"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I am really... sorry!"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Let's go, Rosy Life Riders!"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "Riders",
+  "text": "Yes, handsome!"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "Luffy; Sanji and Usopp",
+  "text": "Hurry up and go."
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Ah, I'm full!"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Ah, I ate a lot!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm in Heaven!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Ah, what a wonderful afternoon..."
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "Brook",
+  "text": "This is the first time I have eaten takoyaki.."
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I am quite satisfied, too."
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Ah, excuse me."
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "Nami",
+  "text": "That was too dirty!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I'm exhausted..."
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "They sure ate a lot..."
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "As expected of the Straw Hat crew..."
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I wish I had six more arms."
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Good job, Hachi!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Seems like they're all satisfied."
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Really?"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Then, I'm satisfied too."
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "That was really good!"
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I can't eat any more..."
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Hey!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Octopus, starfish, Camie-chan!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If you want a break, then come up to the deck."
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I'll give you a cup of tea."
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Yeah!"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's some good tea!"
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "Camie",
+  "text": "This is the course we're gonna take."
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "Camie",
+  "text": "We're headed for the Sabaody Archipelago."
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "We can't get to Fishman Island without going there first?"
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "We Fishmen and merfolk can just dive straight down to go back."
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "But you're humans, so if you tried to dive down there, the pressure would kill you!"
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Indeed..."
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "Franky",
+  "text": "The submarine couldn't reach it either."
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Alright, pay attention!"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "It seems like you don't know anything..."
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "So I'll tell you a thing or two about these seas!"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Huh?"
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Who is gonna do that?"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "That..."
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Would..."
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Be..."
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Me!"
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Uh, would you please listen?"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "To start with, there are actually two routes you can take to reach the New World!"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "But only one of them is accessible for outlaws, like yourselves!"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why?"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Well, that's because..."
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "One requires the World Government's permission,"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "for you to cross the Red Line by going over the top,"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "through the Holy Land Mariejoa at its summit!"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Of course, there's no way a pirate would be allowed to pass through like that."
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "You mean, walking over the Red Line?"
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Then what would we do about the ship?"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "You'd have to leave the ship behind, and get a new one on the other side."
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Leave the ship behind?!"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Yeah."
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Getting permission takes both time and money, but it's the safest way to get there."
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "However..."
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Huh?"
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The passage you're taking will allow you to get through with your ship and everything!"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "That passage is known as..."
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The Ocean-floor Route, which goes straight by Fishman Island!"
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "Camie",
+  "text": "But the Ocean-floor Route is pretty dangerous as well."
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Huh?"
+ },
+ {
+  "i": 176,
+  "style": "Secondary",
+  "name": "Pappag",
+  "text": "Camie, Camie?"
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "Franky",
+  "text": "What do you mean?"
+ },
+ {
+  "i": 178,
+  "style": "Secondary",
+  "name": "Pappag",
+  "text": "I didn't say you could take over..."
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "Camie",
+  "text": "There are plenty of people who are eaten, along with their ships, by sea-monsters and Sea Kings."
+ },
+ {
+  "i": 180,
+  "style": "Secondary",
+  "name": "Pappag",
+  "text": "Hey!"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I get it..."
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "Franky",
+  "text": "That would be pretty dangerous."
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Right?"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I don't want to go to Fishman Island after all..."
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Me neither..."
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Wait a minute, Camie!"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Did you just say \"along with their ships\"?"
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Huh?"
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Yeah!"
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What kind of ship can we use to travel on the ocean-floor?"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "Camie",
+  "text": "This ship."
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "Crew",
+  "text": "Huh?"
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Hey, this ship can't travel under water!"
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "Camie",
+  "text": "No, it'll be alright."
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Huh?"
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "Camie",
+  "text": "You see, inside of that huge wall, that circles the whole globe, the Red Line..."
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "Camie",
+  "text": "there's a small hole in a certain spot."
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Although from our perspective, it's a huge hole."
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "Camie",
+  "text": "And that's where Fishman Island is!"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Actually, it's right underneath the Holy Land, Mariejoa!"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You just head about ten thousand meters down, and there it is!"
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "Nami",
+  "text": "That far down?"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "It's a really nice place!"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Wasn't Sky Island about ten thousand meters up in the sky, too?"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "Franky",
+  "text": "What do you mean, we're going to take this ship to the ocean-floor?"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "Camie",
+  "text": "We're going to get the ship coated at the island we're going to now."
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Coated?"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Now, look ahead!"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Everyone, we're here!"
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's beautiful!"
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What is that?"
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Something's flying around..."
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Well, I must say..."
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "Robin",
+  "text": "A true wonder."
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Bubbles...?"
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "This is..."
+ },
+ {
+  "i": 217,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,0)}Grand Line\\NSabaody Archipelago"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Sabaody Archipelago!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "There's tons of soap-bubbles floating around!"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Beautiful!"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What's going on?"
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "They just keep floating up, one after another..."
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Who's blowing them all?"
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "Camie",
+  "text": "They're rising up from the island."
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Just saying that they're rising doesn't really help..."
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why?"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "Robin",
+  "text": "If I may..."
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Sorry for interrupting, but is the Log Pose alright?"
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Oh, right..."
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's still pointing to Fishman Island, but..."
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Say, won't this island cause it to change its course?"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You don't have to worry about that."
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "The Sabaody Archipelago is just a lot of trees."
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Then, those aren't really islands?"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Correct."
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Have you ever heard of mangrove trees?"
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "You mean trees with roots in the ocean that sink and emerge with the tides, right?"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's right."
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Although the mangroves here never sink."
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "The Sabaody Archipelago is the largest mangrove in the world."
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "They call the trees here the Yarukiman Mangroves."
+ },
+ {
+  "i": 242,
+  "style": "Note",
+  "name": "*Translator's note",
+  "text": "{\\fad(200,200)}\"Yaru ki manman\": To be pumped up."
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Pumped up groves?"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah, they sure look like they're excited!"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm getting excited too!"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "In all, there are 79 trees, and all of them are like small islands."
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "There are towns or other structures on each one."
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "All of the islands together are known as the Sabaody Archipelago."
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "The closest grove, grove 44, is the civilian entrance, so let's take the ship a little closer."
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Now that we're seeing them up-close, those roots really are huge, huh?"
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Is that a bridge?"
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Yeah."
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's how each of the islands are connected."
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Alright, we're here!"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "This is grove 41."
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "This is where we're dropping anchor."
+ },
+ {
+  "i": 257,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm setting foot on it first!"
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Alright everyone, don't forget the number here!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Like I said earlier..."
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "All of the islands are connected via bridges..."
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "So if you remember the number, you won't get lost."
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Even then, there is one guy who'll get lost, right?"
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "There is."
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Huh, what?"
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "What is it?!"
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "One popped out from the ground!"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "That's really funny!"
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "Chopper and Usopp",
+  "text": "Awesome!"
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I got on it!"
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "It's not popping, huh?"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "That's really nice!"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Those soap-bubbles really are mysterious."
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "Robin",
+  "text": "How do they work?"
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The roots of these Yarukiman Mangroves... secrete a unique kind of resin."
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Oh, no!"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "Robin",
+  "text": "This is all sticky."
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Don't wipe it off!"
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "So, when the trees \"breathe out\", the resin {gets}is blown out as well, and forms these soap-bubbles."
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I see..."
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "So that's why they're all floating into the sky?"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "So all of this is actually natural?"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hey!"
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Huh?"
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey, Luffy!"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "When did you get up there?!"
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I can see an amusement park over there!"
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Let's go!"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Let's ride the ferris wheel!"
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "An amusement park?"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "Camie",
+  "text": "That's the Sabaody Park."
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "Camie",
+  "text": "How nice..."
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "Camie",
+  "text": "The ferris wheel..."
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Riding on that is my dream."
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Your dream?"
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Why can't you ride it?"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Don't be ridiculous!"
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "You can't do that, Camie!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Yeah, I know..."
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I want to ride it too, but I guess I can't..."
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "Nami",
+  "text": "By the way, Hachi..."
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What's our goal on this island?"
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "Nami",
+  "text": "You said something about coating for the ship earlier, didn't you?"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "We have to find a coating mechanic, and have him coat your ship with this resin!"
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Simply put, that will enable your ship to travel under the sea!"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Seriously?"
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's the only way humans can reach Fishman Island."
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "However, if you get an amateur to do it..."
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "The ship, and the humans riding it, would be crushed by the water-pressure."
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I know one mechanic who's trustworthy, so I'm gonna take you to him."
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Octopus-san, you are such a nice fellow for helping us so much..."
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Ah, he is a nice octopus!"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "In exchange..."
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I'd like you to make just a single promise to me."
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Sure, what is it?"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Once we enter the city, we might run into the World Nobles walking around there."
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Who are they?"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "Robin",
+  "text": "The citizens of the Holy Land, Mariejoa."
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "And, what about them?"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "No matter what might happen in the city..."
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I want you to promise that you won't lay a hand on the World Nobles!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Even if someone were to be killed..."
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Right before your very eyes..."
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Just pretend you didn't see anything!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Everyone left for the town..."
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "You're not going?"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "Franky",
+  "text": "We used up all our cola in that battle back there."
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Taking care of the ship is my job!"
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Of course, I wanted to help out as well!"
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Once we're done, let's head out, all three of us."
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "This island looks fun!"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Nah..."
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I can't leave the ship before someone comes back."
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Huh, why?"
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Well, you see..."
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "My beloved Nami-san said..."
+ },
+ {
+  "i": 336,
+  "style": "Flashbacks",
+  "name": "Nami",
+  "text": "Hmm, this is a problem..."
+ },
+ {
+  "i": 337,
+  "style": "Flashbacks",
+  "name": "Nami",
+  "text": "We've got tons of treasure stored on the ship right now..."
+ },
+ {
+  "i": 338,
+  "style": "Flashbacks",
+  "name": "Nami",
+  "text": "Is there a knight around who would safeguard it?"
+ },
+ {
+  "i": 339,
+  "style": "Flashbacks",
+  "name": "Sanji",
+  "text": "Ta-daah!"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "It's me!"
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You really do anything Nami wants you to, huh?"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I am a slave of love!"
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "There's no point if you admit it yourself..."
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Huh?"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Zoro!"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Hello?!"
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Zoro-kun?!"
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "Usopp and Sanji",
+  "text": "Where are you going, all by yourself?"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "For a walk."
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "So what?"
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Stop it!"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Don't! You'll get lost, dammit!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "This is an Archipelago, you know?!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "We won't be able to find you!"
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Like I'd get lost!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Who'd get lost on an island like this, where it's so easy to find your way?"
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Each of the trees have a number on them, right?"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Even a kid with the worst sense of direction would be able to find his way!"
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You'd thought that far ahead?"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I didn't think of that."
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Sorry!"
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Be careful!"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Don't forget to ask for directions!"
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Don't believe in yourself!"
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "They're going way overboard."
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "As long as I don't forget the number on this tree..."
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Number one, right?"
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "The World Nobles are also known as the Celestial Dragons."
+ },
+ {
+  "i": 370,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "They're really arrogant, and wear a mask so they don't have to breathe the same air as everyone else."
+ },
+ {
+  "i": 371,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "No matter what, don't try to oppose those guys."
+ },
+ {
+  "i": 372,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I need you to promise that!"
+ },
+ {
+  "i": 373,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Sure!"
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "And there are several other things to look out for."
+ },
+ {
+  "i": 375,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Like I said earlier, this island is where everyone who wants to go to the New World, gathers."
+ },
+ {
+  "i": 376,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "There are plenty of big-name pirates like yourselves..."
+ },
+ {
+  "i": 377,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "And then there are marines and bounty-hunters trying to catch them."
+ },
+ {
+  "i": 378,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Also..."
+ },
+ {
+  "i": 379,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Kidnappers!"
+ },
+ {
+  "i": 380,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Even if pirates are taken away by slave-traders, the law won't protect them."
+ },
+ {
+  "i": 381,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "If you do anything to get yourselves noticed, they'll go after you instantly, so be careful!"
+ },
+ {
+  "i": 382,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "The marines around here are not to be taken lightly."
+ },
+ {
+  "i": 383,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "These waters are close to the Navy HQ, after all."
+ },
+ {
+  "i": 384,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "All the bounty-hunters around here are on a totally different level as well!"
+ },
+ {
+  "i": 385,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "And there's one more thing..."
+ },
+ {
+  "i": 386,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "What's that?"
+ },
+ {
+  "i": 387,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "You're too concerned about stuff!"
+ },
+ {
+  "i": 388,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Camie and I are not a mermaid and a fishman, okay?"
+ },
+ {
+  "i": 389,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "While we're here, please pretend that we're ordinary people."
+ },
+ {
+  "i": 390,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why?"
+ },
+ {
+  "i": 391,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "It's just easier that way."
+ },
+ {
+  "i": 392,
+  "style": "Main",
+  "name": "Robin",
+  "text": "We should follow the customs of the culture around here, Luffy."
+ },
+ {
+  "i": 393,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Let's just do as the octopus told us to."
+ },
+ {
+  "i": 394,
+  "style": "Main",
+  "name": "Person",
+  "text": "There we go..."
+ },
+ {
+  "i": 395,
+  "style": "Main",
+  "name": "Person",
+  "text": "Slowly, slowly..."
+ },
+ {
+  "i": 396,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm in!"
+ },
+ {
+  "i": 397,
+  "style": "Main",
+  "name": "Brook and Chopper",
+  "text": "How amusing!"
+ },
+ {
+  "i": 398,
+  "style": "Main",
+  "name": "Robin",
+  "text": "It really is mysterious..."
+ },
+ {
+  "i": 399,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm getting into it!"
+ },
+ {
+  "i": 400,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "None of the air is coming out, either!"
+ },
+ {
+  "i": 401,
+  "style": "Main",
+  "name": "Person",
+  "text": "Well, then..."
+ },
+ {
+  "i": 402,
+  "style": "Main",
+  "name": "Person",
+  "text": "How about putting this in?"
+ },
+ {
+  "i": 403,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Like this?"
+ },
+ {
+  "i": 404,
+  "style": "Main",
+  "name": "Person",
+  "text": "Is that about the right height?"
+ },
+ {
+  "i": 405,
+  "style": "Main",
+  "name": "Person",
+  "text": "Now you can drive around with it."
+ },
+ {
+  "i": 406,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm moving!"
+ },
+ {
+  "i": 407,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Awesome!"
+ },
+ {
+  "i": 408,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "This is fun!"
+ },
+ {
+  "i": 409,
+  "style": "Main",
+  "name": "Brook",
+  "text": "It is not breaking!"
+ },
+ {
+  "i": 410,
+  "style": "Main",
+  "name": "Person",
+  "text": "Aren't they convenient, the Sabaody Archipelago's exclusive Bubble Bike?"
+ },
+ {
+  "i": 411,
+  "style": "Main",
+  "name": "Person",
+  "text": "How about it?"
+ },
+ {
+  "i": 412,
+  "style": "Main",
+  "name": "Person",
+  "text": "If you want to rent it, it's 500 Belly per person."
+ },
+ {
+  "i": 413,
+  "style": "Main",
+  "name": "Person",
+  "text": "If you want to buy it, it's 1,000 Belly!"
+ },
+ {
+  "i": 414,
+  "style": "Main",
+  "name": "Person",
+  "text": "Cheap, isn't it?"
+ },
+ {
+  "i": 415,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Then, we'll rent one."
+ },
+ {
+  "i": 416,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I want one!"
+ },
+ {
+  "i": 417,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm gonna buy it with my spending money!"
+ },
+ {
+  "i": 418,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Me too, me too!"
+ },
+ {
+  "i": 419,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Don't."
+ },
+ {
+  "i": 420,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "There's no point in buying it, just rent one."
+ },
+ {
+  "i": 421,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why should you get to decide that?"
+ },
+ {
+  "i": 422,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "That's right!"
+ },
+ {
+  "i": 423,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Uh, I'll tell you the reason later."
+ },
+ {
+  "i": 424,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Old man!"
+ },
+ {
+  "i": 425,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "We'll rent two more of them."
+ },
+ {
+  "i": 426,
+  "style": "Main",
+  "name": "Person",
+  "text": "Oh, you're a local, huh? That's too bad..."
+ },
+ {
+  "i": 427,
+  "style": "Main",
+  "name": "Nami",
+  "text": "This feels great!"
+ },
+ {
+  "i": 428,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm definitely buying one of these Bubble bikes!"
+ },
+ {
+  "i": 429,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Straw Hat..."
+ },
+ {
+  "i": 430,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You rode the soap bubbles into the sky when we first got here, right?"
+ },
+ {
+  "i": 431,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Why did you fall?"
+ },
+ {
+  "i": 432,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Oh, well, when I reached the top of the trees, I thought I'd go even higher..."
+ },
+ {
+  "i": 433,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "But then all the soap bubbles around me suddenly started popping..."
+ },
+ {
+  "i": 434,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "And then the one I was riding did, too..."
+ },
+ {
+  "i": 435,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "So, I ended up falling."
+ },
+ {
+  "i": 436,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's because you left the Sabaody Archipelago's unique atmosphere."
+ },
+ {
+  "i": 437,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "This place has a special, unique climate specifically suited to the Yarukiman Mangroves."
+ },
+ {
+  "i": 438,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "But once you leave that climate, the soap bubbles won't be strong enough to stay whole."
+ },
+ {
+  "i": 439,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Is that so?"
+ },
+ {
+  "i": 440,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Then, that means that you can only ride the soap bubbles..."
+ },
+ {
+  "i": 441,
+  "style": "Main",
+  "name": "Robin",
+  "text": "for as long as you stay on the island, doesn't it?"
+ },
+ {
+  "i": 442,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's how it is."
+ },
+ {
+  "i": 443,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "People who come here for the first time often buy a Bubble bike..."
+ },
+ {
+  "i": 444,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "But that's basically a rip-off."
+ },
+ {
+  "i": 445,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Renting one is good enough."
+ },
+ {
+  "i": 446,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "No, I think I'll buy one!"
+ },
+ {
+  "i": 447,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I don't accept that explanation at all..."
+ },
+ {
+  "i": 448,
+  "style": "Main",
+  "name": "Nami",
+  "text": "You don't get it, do you?"
+ },
+ {
+  "i": 449,
+  "style": "Main",
+  "name": "Nami",
+  "text": "In short, once you leave the island, the soap bubbles will break."
+ },
+ {
+  "i": 450,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's mysterious, isn't it?"
+ },
+ {
+  "i": 451,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "What?!"
+ },
+ {
+  "i": 452,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "They just mysteriously break?"
+ },
+ {
+  "i": 453,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why didn't you say so right away?!"
+ },
+ {
+  "i": 454,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Ah, but Luffy-chin, you can use them at Fishman Island."
+ },
+ {
+  "i": 455,
+  "style": "Main",
+  "name": "Camie",
+  "text": "We've got soap bubbles on the ocean floor too."
+ },
+ {
+  "i": 456,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I wanna go to Fishman Island soon~"
+ },
+ {
+  "i": 457,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm really looking forward to it~"
+ },
+ {
+  "i": 458,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "In that case, you should meet the mermaid princess!"
+ },
+ {
+  "i": 459,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "She's so beautiful, I can't even describe it!"
+ },
+ {
+  "i": 460,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "I can't look away from her myself!"
+ },
+ {
+  "i": 461,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I will be looking forward to that!"
+ },
+ {
+  "i": 462,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I have a good eye for beauties..."
+ },
+ {
+  "i": 463,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Though being a skeleton, I do not have eyes."
+ },
+ {
+  "i": 464,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Eh, are you listening?"
+ },
+ {
+  "i": 465,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Wow, this looks good!"
+ },
+ {
+  "i": 466,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "What's Graman?"
+ },
+ {
+  "i": 467,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Manjuu: Steamed bun"
+ },
+ {
+  "i": 468,
+  "style": "Main",
+  "name": "Person",
+  "text": "They're Grand Line Manjuus!"
+ },
+ {
+  "i": 469,
+  "style": "Main",
+  "name": "Person",
+  "text": "Or Graman for short."
+ },
+ {
+  "i": 470,
+  "style": "Main",
+  "name": "Person",
+  "text": "Would you like to taste some?"
+ },
+ {
+  "i": 471,
+  "style": "Main",
+  "name": "Person",
+  "text": "You can see that it's got \"Grand Line First Half\" written on it, right?"
+ },
+ {
+  "i": 472,
+  "style": "Main",
+  "name": "Person",
+  "text": "The idea is to take them into the New World as a souvenir of sorts."
+ },
+ {
+  "i": 473,
+  "style": "Main",
+  "name": "Person",
+  "text": "They'll last for about three months, so don't worry about it!"
+ },
+ {
+  "i": 474,
+  "style": "Main",
+  "name": "Brook",
+  "text": "This tastes great!"
+ },
+ {
+  "i": 475,
+  "style": "Main",
+  "name": "Brook",
+  "text": "May I open another package?"
+ },
+ {
+  "i": 476,
+  "style": "Main",
+  "name": "Person",
+  "text": "Aren't you gonna buy any?!"
+ },
+ {
+  "i": 477,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Grove 35..."
+ },
+ {
+  "i": 478,
+  "style": "Main",
+  "name": "Robin",
+  "text": "There are lots of hotels here, aren't there?"
+ },
+ {
+  "i": 479,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "It's the living quarters for those waiting for permission to pass through Mariejoa."
+ },
+ {
+  "i": 480,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "It's really easy to make these hotels..."
+ },
+ {
+  "i": 481,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "See that over there?"
+ },
+ {
+  "i": 482,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "They just coat those huge soap bubbles in a special alloy, and the foundation is done."
+ },
+ {
+  "i": 483,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "That's how they make those round buildings."
+ },
+ {
+  "i": 484,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Really?"
+ },
+ {
+  "i": 485,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Robin!"
+ },
+ {
+  "i": 486,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Isn't that a shopping mall?!"
+ },
+ {
+  "i": 487,
+  "style": "Main",
+  "name": "Person",
+  "text": "Come back any time!"
+ },
+ {
+  "i": 488,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Grasen..."
+ },
+ {
+  "i": 489,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Grachoco..."
+ },
+ {
+  "i": 490,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "A key-holder!"
+ },
+ {
+  "i": 491,
+  "style": "Main",
+  "name": "Brook",
+  "text": "A pennant!"
+ },
+ {
+  "i": 492,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Hold on to those memories!"
+ },
+ {
+  "i": 493,
+  "style": "Main",
+  "name": "Camie",
+  "text": "You bought a lot of them, huh?"
+ },
+ {
+  "i": 494,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Carrying that around everywhere should be a problem..."
+ },
+ {
+  "i": 495,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Put them in the Bubble bag."
+ },
+ {
+  "i": 496,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Bubble bag?"
+ },
+ {
+  "i": 497,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's so light!"
+ },
+ {
+  "i": 498,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "You don't need to put in any effort to carry your luggage on this island, huh?"
+ },
+ {
+  "i": 499,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Huh?"
+ },
+ {
+  "i": 500,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Where did Nami and Robin go?"
+ },
+ {
+  "i": 501,
+  "style": "Main",
+  "name": "Camie",
+  "text": "They went to the shopping mall in Grove 30."
+ },
+ {
+  "i": 502,
+  "style": "Main",
+  "name": "Camie",
+  "text": "They said they'd leave the coating of the ship to us."
+ },
+ {
+  "i": 503,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Oh, so that's it?"
+ },
+ {
+  "i": 504,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Right!"
+ },
+ {
+  "i": 505,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Leave it to us!"
+ },
+ {
+  "i": 506,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Even though we invited her, Camie-chan wouldn't come with us..."
+ },
+ {
+  "i": 507,
+  "style": "Main",
+  "name": "Nami",
+  "text": "She's seemed more reserved ever since we arrived on this island..."
+ },
+ {
+  "i": 508,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What could be bothering Camie?"
+ },
+ {
+  "i": 509,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Perhaps there is some sort of bad history on this island...?"
+ },
+ {
+  "i": 510,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Bad history...?"
+ },
+ {
+  "i": 511,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm in the lead!"
+ },
+ {
+  "i": 512,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Don't get cocky!"
+ },
+ {
+  "i": 513,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "There's still a long way to go!"
+ },
+ {
+  "i": 514,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Go, Hacchin!"
+ },
+ {
+  "i": 515,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "How did this turn into a race?"
+ },
+ {
+  "i": 516,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "What's all the commotion about?"
+ },
+ {
+  "i": 517,
+  "style": "Main",
+  "name": "Man",
+  "text": "I'm begging you!"
+ },
+ {
+  "i": 518,
+  "style": "Main",
+  "name": "Man",
+  "text": "Hey!"
+ },
+ {
+  "i": 519,
+  "style": "Main",
+  "name": "Man",
+  "text": "I'm asking you a favor here!"
+ },
+ {
+  "i": 520,
+  "style": "Main",
+  "name": "Man",
+  "text": "Anyone's fine!"
+ },
+ {
+  "i": 521,
+  "style": "Main",
+  "name": "Man",
+  "text": "An axe!"
+ },
+ {
+  "i": 522,
+  "style": "Main",
+  "name": "Man",
+  "text": "A saw!"
+ },
+ {
+  "i": 523,
+  "style": "Main",
+  "name": "Man",
+  "text": "Anything will do!"
+ },
+ {
+  "i": 524,
+  "style": "Main",
+  "name": "Man",
+  "text": "Just give me something!"
+ },
+ {
+  "i": 525,
+  "style": "Main",
+  "name": "Man",
+  "text": "I just want to get this off my neck!"
+ },
+ {
+  "i": 526,
+  "style": "Main",
+  "name": "Man",
+  "text": "I won't hurt anyone!"
+ },
+ {
+  "i": 527,
+  "style": "Main",
+  "name": "Woman",
+  "text": "Please let go of me..."
+ },
+ {
+  "i": 528,
+  "style": "Main",
+  "name": "Woman",
+  "text": "I don't want to die..."
+ },
+ {
+  "i": 529,
+  "style": "Main",
+  "name": "Man",
+  "text": "I've given up on going to the New World!"
+ },
+ {
+  "i": 530,
+  "style": "Main",
+  "name": "Man",
+  "text": "I've got a wife and a child back home!"
+ },
+ {
+  "i": 531,
+  "style": "Main",
+  "name": "Man",
+  "text": "I'm begging you!"
+ },
+ {
+  "i": 532,
+  "style": "Main",
+  "name": "Man",
+  "text": "Please lend me a hand!"
+ },
+ {
+  "i": 533,
+  "style": "Main",
+  "name": "Man",
+  "text": "I wanna go home!"
+ },
+ {
+  "i": 534,
+  "style": "Main",
+  "name": "Man",
+  "text": "Last time I saw my kid, he was still a baby..."
+ },
+ {
+  "i": 535,
+  "style": "Main",
+  "name": "Man",
+  "text": "He still doesn't even know what I look like!"
+ },
+ {
+  "i": 536,
+  "style": "Main",
+  "name": "Man",
+  "text": "I'm begging you!"
+ },
+ {
+  "i": 537,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "He's..."
+ },
+ {
+  "i": 538,
+  "style": "Main",
+  "name": "Man",
+  "text": "I wanna go home!"
+ },
+ {
+  "i": 539,
+  "style": "Main",
+  "name": "Man",
+  "text": "Hey, please!"
+ },
+ {
+  "i": 540,
+  "style": "Main",
+  "name": "Man",
+  "text": "Please help me!"
+ },
+ {
+  "i": 541,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Don't get involved."
+ },
+ {
+  "i": 542,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "He's probably a pirate who was caught by kidnappers and sold as a slave..."
+ },
+ {
+  "i": 543,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "His owner probably brought him to this island, and he made a run for it!"
+ },
+ {
+  "i": 544,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Even though he should know that he can't escape!"
+ },
+ {
+  "i": 545,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "W-What's that sound?"
+ },
+ {
+  "i": 546,
+  "style": "Main",
+  "name": "Man",
+  "text": "Damn!"
+ },
+ {
+  "i": 547,
+  "style": "Main",
+  "name": "Man",
+  "text": "This ring!"
+ },
+ {
+  "i": 548,
+  "style": "Main",
+  "name": "Man",
+  "text": "If I could just get this off my neck!"
+ },
+ {
+  "i": 549,
+  "style": "Main",
+  "name": "Man",
+  "text": "Damn it!"
+ },
+ {
+  "i": 550,
+  "style": "Main",
+  "name": "Man",
+  "text": "No!"
+ },
+ {
+  "i": 551,
+  "style": "Main",
+  "name": "Man",
+  "text": "Stop!"
+ },
+ {
+  "i": 552,
+  "style": "Main",
+  "name": "Man",
+  "text": "Please stop!"
+ },
+ {
+  "i": 553,
+  "style": "Main",
+  "name": "Man",
+  "text": "Hey!"
+ },
+ {
+  "i": 554,
+  "style": "Main",
+  "name": "Man",
+  "text": "Hey!"
+ },
+ {
+  "i": 555,
+  "style": "Main",
+  "name": "Man",
+  "text": "Damn it all to Hell!"
+ },
+ {
+  "i": 556,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Slaves always have those chains attached to their necks..."
+ },
+ {
+  "i": 557,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "If they try to take them off or run away, they'll explode!"
+ },
+ {
+  "i": 558,
+  "style": "Main",
+  "name": "Man",
+  "text": "Just let me buy some souvenirs and go home..."
+ },
+ {
+  "i": 559,
+  "style": "Main",
+  "name": "Man",
+  "text": "I've given up on being a pirate..."
+ },
+ {
+  "i": 560,
+  "style": "Main",
+  "name": "People",
+  "text": "It's a slave who tried to run away!"
+ },
+ {
+  "i": 561,
+  "style": "Main",
+  "name": "People",
+  "text": "Get away!"
+ },
+ {
+  "i": 562,
+  "style": "Main",
+  "name": "People",
+  "text": "Don't get involved with him!"
+ },
+ {
+  "i": 563,
+  "style": "Main",
+  "name": "Brook",
+  "text": "L-Look at that..."
+ },
+ {
+  "i": 564,
+  "style": "Main",
+  "name": "Brook",
+  "text": "We have to help him!"
+ },
+ {
+  "i": 565,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Idiot!"
+ },
+ {
+  "i": 566,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "You promised to not get involved, no matter what, right?!"
+ },
+ {
+  "i": 567,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "What's with this city?!"
+ },
+ {
+  "i": 568,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin, what are we going to do?!"
+ },
+ {
+  "i": 569,
+  "style": "Main",
+  "name": "Camie",
+  "text": "The Celestial Dragons are nearby!"
+ },
+ {
+  "i": 570,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "It's alright."
+ },
+ {
+  "i": 571,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Calm down, Camie!"
+ },
+ {
+  "i": 572,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Straw Hat!"
+ },
+ {
+  "i": 573,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Get out of the Bubble bike!"
+ },
+ {
+  "i": 574,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Huh?"
+ },
+ {
+  "i": 575,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why?"
+ },
+ {
+  "i": 576,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Just hurry up and do it!"
+ },
+ {
+  "i": 577,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Uh, sure..."
+ },
+ {
+  "i": 578,
+  "style": "Main",
+  "name": "People",
+  "text": "They're here!"
+ },
+ {
+  "i": 579,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Are those the Celestial Dragons?"
+ },
+ {
+  "i": 580,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You have to bow down too!"
+ },
+ {
+  "i": 581,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why?"
+ },
+ {
+  "i": 582,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "No matter what, don't look them in the eyes!"
+ },
+ {
+  "i": 583,
+  "style": "Main",
+  "name": "Lady",
+  "text": "My, how vulgar, Saruu!"
+ },
+ {
+  "i": 584,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Them, huh?"
+ },
+ {
+  "i": 585,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(700,0)\\fs34\\}Celestial Dragon\\NSaint Roswald"
+ },
+ {
+  "i": 586,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(700,0)\\fs34\\}Celestial Dragon\\NSaint Shalria"
+ },
+ {
+  "i": 587,
+  "style": "Main",
+  "name": "Lady",
+  "text": "Oh no, Father."
+ },
+ {
+  "i": 588,
+  "style": "Main",
+  "name": "Lady",
+  "text": "Yet another one has been broken."
+ },
+ {
+  "i": 589,
+  "style": "Main",
+  "name": "World Noble",
+  "text": "Did you make sure to give him his tranquilizer every day?"
+ },
+ {
+  "i": 590,
+  "style": "Main",
+  "name": "Lady",
+  "text": "Why, yes, I did."
+ },
+ {
+  "i": 591,
+  "style": "Main",
+  "name": "Lady",
+  "text": "However, it appears that it does not work on fools..."
+ },
+ {
+  "i": 592,
+  "style": "Main",
+  "name": "Lady",
+  "text": "Would you please buy me a new one?"
+ },
+ {
+  "i": 593,
+  "style": "Main",
+  "name": "World Noble",
+  "text": "Your disciplining skills are truly terrible."
+ },
+ {
+  "i": 594,
+  "style": "Main",
+  "name": "World Noble",
+  "text": "You keep destroying my captain collection, one after another..."
+ },
+ {
+  "i": 595,
+  "style": "Main",
+  "name": "Lady",
+  "text": "This one is certainly useless."
+ },
+ {
+  "i": 596,
+  "style": "Main",
+  "name": "Lady",
+  "text": "A grown man always crying about family this, family that..."
+ },
+ {
+  "i": 597,
+  "style": "Main",
+  "name": "Lady",
+  "text": "You are just a mere human!"
+ },
+ {
+  "i": 598,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "He can't even move any more!"
+ },
+ {
+  "i": 599,
+  "style": "Main",
+  "name": "Lady",
+  "text": "You disgust me!"
+ },
+ {
+  "i": 600,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why, that-!"
+ },
+ {
+  "i": 601,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Please, wait!"
+ },
+ {
+  "i": 602,
+  "style": "Main",
+  "name": "Lady",
+  "text": "I would like a giant slave next."
+ },
+ {
+  "i": 603,
+  "style": "Main",
+  "name": "World Noble",
+  "text": "You should start with a human child."
+ },
+ {
+  "i": 604,
+  "style": "Main",
+  "name": "Lady",
+  "text": "But I detest the weak."
+ },
+ {
+  "i": 605,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Please don't do anything rash!"
+ },
+ {
+  "i": 606,
+  "style": "Main",
+  "name": "Person",
+  "text": "It's the marines!"
+ },
+ {
+  "i": 607,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Move it, move it!"
+ },
+ {
+  "i": 608,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "First off, we should get away from here!"
+ },
+ {
+  "i": 609,
+  "style": "Main",
+  "name": "Brook",
+  "text": "How about some tea?"
+ },
+ {
+  "i": 610,
+  "style": "Main",
+  "name": "Brook",
+  "text": "It will help you calm down."
+ },
+ {
+  "i": 611,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I feel terrible..."
+ },
+ {
+  "i": 612,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Do you think that guy will be alright?"
+ },
+ {
+  "i": 613,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "He's a pirate, so even if they save him, he'll just be sent to prison."
+ },
+ {
+  "i": 614,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "That pirate should be able to beat that old guy and the woman, right?"
+ },
+ {
+  "i": 615,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Why?!"
+ },
+ {
+  "i": 616,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "If you hurt one of the Celestial Dragons..."
+ },
+ {
+  "i": 617,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "An admiral from Navy HQ and a fleet of battle ships will come here."
+ },
+ {
+  "i": 618,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "An admiral..."
+ },
+ {
+  "i": 619,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Aokiji?!"
+ },
+ {
+  "i": 620,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "It could be Akainu or Kizaru..."
+ },
+ {
+  "i": 621,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "There's no way to know who'd show up."
+ },
+ {
+  "i": 622,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The HQ is right next to us, after all."
+ },
+ {
+  "i": 623,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "What makes those guys so special?!"
+ },
+ {
+  "i": 624,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Those guys are descendants of the creators!"
+ },
+ {
+  "i": 625,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "The creators?"
+ },
+ {
+  "i": 626,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "800 years ago, a group of 20 kings formed the organization known as the World Government."
+ },
+ {
+  "i": 627,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The Celestial Dragons are their descendants."
+ },
+ {
+  "i": 628,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "And over the course of the years..."
+ },
+ {
+  "i": 629,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "They've come to abuse their incredible influence."
+ },
+ {
+  "i": 630,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "The Celestial Dragons..."
+ }
+]

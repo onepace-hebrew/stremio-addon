@@ -797,6 +797,36 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/03/rts%2003%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/25%20Return%20to%20Sabaody/03/rts%2003%20he.ass"
   },
+  "SAB_1": {
+    "arc": "fedew/20 Sabaody Archipelago",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/01/sabaody%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/01/sabaody%2001%20he.ass"
+  },
+  "SAB_2": {
+    "arc": "fedew/20 Sabaody Archipelago",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/02/sabaody%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/02/sabaody%2002%20he.ass"
+  },
+  "SAB_3": {
+    "arc": "fedew/20 Sabaody Archipelago",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/03/sabaody%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/03/sabaody%2003%20he.ass"
+  },
+  "SAB_4": {
+    "arc": "fedew/20 Sabaody Archipelago",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/04/sabaody%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/04/sabaody%2004%20he.ass"
+  },
+  "SAB_5": {
+    "arc": "fedew/20 Sabaody Archipelago",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/05/sabaody%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/05/sabaody%2005%20he.ass"
+  },
   "SK_1": {
     "arc": "14 Skypiea",
     "ep": 1,

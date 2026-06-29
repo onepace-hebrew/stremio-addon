@@ -1,0 +1,2636 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,410)}Translation\\NYibis"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,500)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,142)}Editing\\NSewil"
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,253)}Infoboxes\\NSewil"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,383)}Timing\\NDatenshi"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,493)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 7,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 9,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 10,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 19,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(650,1000)}Flying Fish Riders"
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "See you guys later!"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "We'll never forget what you did for us, Straw Hat!"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "The sun...! Thanks for giving us the sun back!"
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Everyone! Be careful to not get yourselves wiped out!"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Don't say crazy stuff like that!"
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Lola! Thanks for the Vivrecard! Stay well!"
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "Lola",
+  "text": "If you meet Mama, give her my regards!"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "Lola",
+  "text": "Let's meet again someday, Namizou!"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Set sail!"
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "Narrator",
+  "text": "{\\i1}No one truly knows what happens in this mysterious sea, the Florian Triangle...{\\i0}"
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "Lola",
+  "text": "They're gone..."
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "Seems like it."
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "Lola",
+  "text": "Now that that's over, let's set sail tomorrow!"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "Pirates",
+  "text": "Yeah!"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "Narrator",
+  "text": "{\\i1}Every year, over 100 ships vanish in the mist.{\\i0}"
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "Narrator",
+  "text": "{\\i1}This started long before the enormous pirate ship, Thriller Bark, started hiding in the mist ten years ago.{\\i0}"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "Narrator",
+  "text": "{\\i1}It is a deep, ancient mystery...{\\i0}"
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "Narrator",
+  "text": "{\\i1}It is lucky that the mist is as thick as ever this day...{\\i0}"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "Narrator",
+  "text": "{\\i1}For that strange face in the sea is concealed by its thick white veil...{\\i0}"
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Luffy..."
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Is this really okay with you?"
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Huh?"
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Ah, about Ace's paper, huh?"
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's fine. Don't worry about it."
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Luffy-san, I would have no objections if you wished to take a detour!"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Time is of no great importance to Laboon and myself!"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "Brook",
+  "text": "To \"live\" and \"meet once more\"... That is all that matters!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Luffy, we're all totally fine if you want to take a detour!"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "It's fine, it's fine!"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Yeah! Let's go see your whale of a brother!"
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "No, it's fine, really!"
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Even if he was in some kind of trouble, he wouldn't want me to worry..."
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Ace hates being made to look weak!"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "If we went to help him, he'd just get pissed off."
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "If we do meet up, it'll be as enemy pirates!"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Ace has his own adventure."
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "That \"Vivre Card\" apparently doesn't just shrink when the owner's in bad condition..."
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "It goes back to how it was once they recover."
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah! If we meet, it'll be at that time."
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "That's why Ace gave me this paper, right?"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Oh, and Zoro!"
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "You were asleep all along, so we haven't done this yet!"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Well, let's do it properly then!"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "To celebrate the recruitment of our new companion, the musician Brook..."
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "Strawhats",
+  "text": "Cheers!"
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Most obliged!"
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Alright! Pull in the sails! We'll launch our way out of here with the Coup de Burst!"
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Coup de Burst!"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "Brook",
+  "text": "What is this?!"
+ },
+ {
+  "i": 69,
+  "style": "Captions",
+  "name": "Caption",
+  "text": "{\\fad(2000,0)}Holy Land, Mariejoa"
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "Don't be ridiculous!"
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "Bartholomew Kuma, are you telling me that they managed to escape from your powers?!"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "I want a better explanation than that! I'm the one who has to report this to the higher-ups!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Just what I expected from my grandson!"
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "Garp, be quiet!"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "You were given a special Government order to eliminate the whole crew,"
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "yet you couldn't even bring back Straw Hat Luffy's head? This is a disgrace!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Don't worry about that, Sengoku!"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Luffy isn't the kind of guy who would go around bragging about defeating Moriah anyway!"
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "Hmph!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "Kuma, I hope you didn't take pity on those pirates just because they were injured."
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "Because you've failed to take this seriously, this game of cat-and-mouse will have no end."
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "If they continue blindly following the Log, as they are now, they will draw ever closer to the Navy HQ."
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Oh, yeah, by the way... I brought the new tea!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Get out the crackers!"
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "Sengoku",
+  "text": "Garp, will you be quiet?!"
+ },
+ {
+  "i": 86,
+  "style": "Captions",
+  "name": "",
+  "text": "A few days later"
+ },
+ {
+  "i": 87,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(400,0)}Grand Line"
+ },
+ {
+  "i": 88,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(500,0)}Thousand Sunny"
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Serpent currents!"
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Serpent... currents?"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Everyone, be careful!"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Let's go, everyone!"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "",
+  "text": "That's..."
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Coup de Burst!"
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We're here..."
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We've finally made it this far!"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It feels kind of nostalgic..."
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I can't see the top! It's huge!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "So this is the Red Line?"
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I wonder if we've matured since then?"
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I kinda feel like crying!"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "A lot of stuff has happened, huh?"
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Anyways, now we're halfway there!"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "The Twin Capes on the other side of the world, where we met Laboon, is connected to this spot!"
+ },
+ {
+  "i": 105,
+  "style": "Captions",
+  "name": "Caption",
+  "text": "{\\fad(250,0)}Current location"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's great that we've all made it this far, huh?"
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I was told I came over Reverse Mountain from South Blue when I was just a kid..."
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "Franky",
+  "text": "But I guess that's a 30 year old tale."
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "Robin",
+  "text": "I came to this sea from West Blue, five years ago."
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "When we've crossed the other half of the world, and see this wall again..."
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "At that time..."
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'll be the Pirate King! {Starts Late}"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "Nami",
+  "text": "But we've got to be careful now."
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "Nami",
+  "text": "This place is close to the \"Holy Land\" of the World Government and the Navy HQ, Mariejoa."
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "This \"surprise-pool\" is the best!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I'm too weak."
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I have to become stronger!"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I'm still far too weak!"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I'm still...!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "Nami",
+  "text": "How is it, Robin, Brook, Luffy?"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "Robin",
+  "text": "No use. It's completely black."
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's totally black out there!"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hey, I think I saw something there!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Was that the eyeball of a monster?"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "A-a monster?"
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "Brook",
+  "text": "W-We are going to die!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Although I am already dead!"
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Oh, by the way, Nami-san? I have a question..."
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "Brook",
+  "text": "What panties are you wearing today?"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Shut up! Take this seriously!"
+ },
+ {
+  "i": 131,
+  "style": "Thoughts",
+  "name": "Chopper",
+  "text": "Scary...!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "He's a plucky guy, huh?"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Hey, you guys! The Shark Submerge can't go any deeper than 5,000 metres, so be careful!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Hmm? The hull seems to be creaking."
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Yes, it's because..."
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "Robin",
+  "text": "we're deeper than 5,000 metres right now."
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Ah, that means..."
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "Brook",
+  "text": "But that is terrible! We are going to be crushed by the water-pressure!"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Oh! The monster from earlier! It's still here!"
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "Robin",
+  "text": "What a big mouth it has."
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Watch out!"
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's gonna eat us!"
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Here it comes again!"
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "Franky",
+  "text": "This sounds pretty bad..."
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I don't want to ride the Shark Submerge..."
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Me neither."
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Nami-swan!"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "The \"Horror-Nashi Tarte\" from Thriller Bark is done!"
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Oh, it looks good!"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "Nami",
+  "text": "But this is a problem..."
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It tastes great!"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "Franky; Usopp and Chopper",
+  "text": "It's good!"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "It's the same problem we had with Sky Island."
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "Nami",
+  "text": "That's right..."
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "Nami",
+  "text": "We know the direction we have to take,"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "Nami",
+  "text": "but we have no idea how we're gonna get there."
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "Nami",
+  "text": "How are we gonna reach Fishman Island?"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We're back!"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "Brook",
+  "text": "That was fun!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Welcome back! Good work!"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's no use!"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We can't see anything on the bottom of the sea at all. Is Fishman Island really there?"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "Brook",
+  "text": "That was my first time riding a submarine."
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "Robin",
+  "text": "If we'd have gone further down, the pressure would have killed us."
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "Nami",
+  "text": "The Log Pose is certainly pointing straight down, but..."
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "Nami",
+  "text": "This is no good... I should have gotten some more info from Lola and the others."
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's that thing from earlier!"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "Brook",
+  "text": "It followed us!"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Don't think you can beat me when we're above the water!"
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Rubber..."
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Rifle!"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Somehow, he didn't seem all that huge."
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Because we dealt with Oars! Seems like we're fine."
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Something came out."
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "A fish?"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "A person?!"
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "Brook",
+  "text": "No, that is wrong..."
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "Robin",
+  "text": "That's a..."
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "C-Could it be?!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Ah! I crushed a human!"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I'm so sorry! Are you OK?"
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Oh, don't worry about it~!"
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Anyway, who are..."
+ },
+ {
+  "i": 184,
+  "style": "Secondary",
+  "name": "Camie",
+  "text": "{\\an8}Please pull yourself together! Are you OK?"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "Nami",
+  "text": "That's..."
+ },
+ {
+  "i": 186,
+  "style": "Secondary",
+  "name": "Camie",
+  "text": "{\\an8}I can't believe I did something like that! Please pull yourself together!"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "A fin..."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Could it really be...?"
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "Strawhats",
+  "text": "A mermaid?!"
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "Camie",
+  "text": "What a shock! There are so many humans here!"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "W-What?"
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "W-We're surprised too!"
+ },
+ {
+  "i": 193,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(800,0)\\fs55}Camie"
+ },
+ {
+  "i": 194,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(800,0)\\fs32}Kissing Gourami\\NMermaid"
+ },
+ {
+  "i": 195,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(800,0)\\fs32}(Designer Apprentice,"
+ },
+ {
+  "i": 196,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(800,0)\\fs32}Takoyaki Shop Employee)"
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "Camie",
+  "text": "{\\an8}I thought I was going to be digested. Thank you for saving me."
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "Camie",
+  "text": "{\\an8}I keep getting swallowed by monsters."
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "Camie",
+  "text": "This was probably the 20th time."
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You get eaten too much!"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I have to repay you somehow."
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Oh, I know! Would you like some takoyaki?"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Takoyaki?! That's my favorite food!"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Really?! Then that'll be 500 belly per person!"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Hey, you're selling them?!"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I screwed up!"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Mermaid~! Mermaid~!"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Mermaids, the dream of all mankind! Mermaids, the jewels of the ocean!"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Yes, I've finally gotten to meet one of them!"
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "She's so cute~!"
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "This is the first time I've ever met one!"
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Camie, was it?"
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "It's not the first time."
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You met old lady Kokoro, didn't you?"
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Thriller Bark? No, that wasn't scary. Not scary at all."
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "The scariest thing we've encountered so far was..."
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Uh, that's right, Sanji! Let's just pretend that never happened!"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "This is the first mermaid we've ever met!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "Nami",
+  "text": "You guys are so rude!"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Huh? Old lady Kokoro was a mermaid?"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "But she could walk, couldn't she?"
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I see... You didn't know, huh?"
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Well, it happened while you were fighting that Lucci fellow after all."
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Imagining old lady Kokoro as a mermaid is really gross for some reason."
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "Nami",
+  "text": "You are too freaking blunt!"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Geez, when it comes to this guy's expectations of mermaids..."
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "Robin",
+  "text": "But she seems like a cute mermaid, doesn't she?"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "Brook",
+  "text": "This is my first encounter with a mermaid too."
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Excuse me, would you please lend me some money?"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Why would she?!"
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "Camie",
+  "text": "A skeleton!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "See?! How are you gonna make it up if you scare her?! Get lost!"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I can open my head as well. Isn't that funny?"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Why you...!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "Camie",
+  "text": "That's so funny!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "She sure got over that quickly."
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "By the way, can you poop?"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What are you trying to ask, damn you?!"
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Ah, well, I..."
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Don't answer!"
+ },
+ {
+  "i": 241,
+  "style": "Secondary",
+  "name": "Sanji",
+  "text": "{\\an8}She does not poop!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Camie? Camie? This is just weird..."
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Aren't you missing someone?"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Who's the one left out of this fun group?"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Answer: Me."
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "That's right. I was wondering about this..."
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hey, Camie, what's this?\\NThis talking glove-thingy..."
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Oh, sorry. I completely forgot.\\NHe's my pet, Pappag."
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "Camie",
+  "text": "He's a starfish, and he's my master."
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Nice to meet you!"
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Can starfish talk?"
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Isn't it strange for her pet to be her master?"
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Well, I was taken in, and with reason."
+ },
+ {
+  "i": 254,
+  "style": "OP11 Lyrics",
+  "name": "Pappag",
+  "text": "Camie always feeds me clams"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "Nami",
+  "text": "So she feeds you?"
+ },
+ {
+  "i": 256,
+  "style": "OP11 Lyrics",
+  "name": "Pappag",
+  "text": "Am I a person? I'm a starfish, yet I'm not a human."
+ },
+ {
+  "i": 257,
+  "style": "OP11 Lyrics",
+  "name": "Pappag",
+  "text": "Am I not a person? I'm not a person, but I am a starfish."
+ },
+ {
+  "i": 258,
+  "style": "OP11 Lyrics",
+  "name": "Pappag",
+  "text": "Are you busy? No, it's fine."
+ },
+ {
+  "i": 259,
+  "style": "OP11 Lyrics",
+  "name": "Pappag",
+  "text": "We've got enough hands around here."
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Yay, thank you!"
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "This is where you're supposed to laugh!"
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "Camie",
+  "text": "So, this T-shirt is of the \"Criminal\" brand, and it's really popular on Fishman Island these days."
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Oh?"
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "That's pretty cool."
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Pappug designed it!"
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I want to become a designer one day too!"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "You will! You'll definitely make it, Camie!"
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Thank you, Sanji!"
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Nobody listens to me..."
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Oh yeah, you. How can you talk?"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "I'm glad you asked!"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Back when I was a kid, I always thought I was a human."
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "By the time I found out that I was actually a starfish, I was already speaking the human language!"
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Does it really work like that?"
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Ah, the world works in strange and frightening ways. That's just how the world is!"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Anyway, I'm Pappag the starfish!"
+ },
+ {
+  "i": 277,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1200)\\fs42}Pappag"
+ },
+ {
+  "i": 278,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1200)\\fs27}The starfish"
+ },
+ {
+  "i": 279,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1200)\\fs27}(Criminal brand\\Ndesigner)"
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Up-and-coming designer."
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Thanks for saving me!"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What a relief! We were having trouble figuring out what to do. I want to ask you something..."
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hey, Nami! The takoyaki comes first!"
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Ah, that's right! The takoyaki to show my gratitude!"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Well, I've got to meet up with Hacchin somewhere."
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hacchin?"
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hello, Hacchin? This is Camie!"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Sorry I got kinda lost. Where are you right now?"
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "Macro",
+  "text": "Oh, that voice must be Camie, right?"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin?"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "Macro",
+  "text": "Do you know who you're talking to?\\NThis ain't Hacchin, y'know!"
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "Camie",
+  "text": "You're not Hacchin?!"
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "Macro",
+  "text": "This is Macro! From the simple-minded Macro Crew! Wait, I shouldn't say that myself..."
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Seems like trouble."
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Why do you have Hacchin's Transponder Snail?"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "Macro",
+  "text": "'Cause we beat up Hachi! Isn't it obvious?!"
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Liar! There is no way Hacchin would lose to you guys!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "Macro",
+  "text": "Yeah, you have a point. Usually, we'd be no match for him,"
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "Macro",
+  "text": "but this time, we had the Flying Fish Riders on our side!"
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The Flying Fish Riders?!"
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Camie, are you still alright? Thank goodness."
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin! Did they really beat you?"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I let my guard down."
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Don't come here! I'll take out these guys and come straight back! It'll be fine!"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "Macro",
+  "text": "Y'know, Camie, we're just about to sell this guy."
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "Macro",
+  "text": "Octopus Fishmen are pretty rare, so he should fetch us quite the price."
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "Macro",
+  "text": "Feel free to come and save him!"
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "Macro",
+  "text": "We're at the Sabaody Archipelago, in the waters five kilometres east of grove 44."
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "Macro",
+  "text": "This is where the Flying Fish Riders' base is!"
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "No! Camie, don't come here!"
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "Macro",
+  "text": "Shut up, you damn octopus!"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "Macro",
+  "text": "See ya!"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin..."
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "So what about the takoyaki?"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "Franky and Sanji",
+  "text": "This isn't the time for that!"
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Wait... The voice of that Hacchin guy we just heard on the Transponder-Snail. It seemed kinda familiar..."
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's just my imagination, right? There's no way..."
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Sorry, Luffy-chin. Can we do takoyaki later?"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I've got to go save my friend!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Huh?"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "Franky and Sanji",
+  "text": "Hey!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Wait, Camie."
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "Nami",
+  "text": "I shouldn't be meddling here, but if you want to save your friend, then we'll help you!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "Nami",
+  "text": "No, that's wrong. I mean, they'll help you!"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "Franky & Usopp",
+  "text": "Why, you...!"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "Nami",
+  "text": "And in exchange, how about you help us get to Fishman Island?"
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Really, Nami-chin?"
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "Camie",
+  "text": "You're gonna help me save Hacchin, Luffy-chin?"
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Well, I'm fine with it. But who is this Hacchin anyway?"
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "Camie",
+  "text": "He runs the Takoyaki store I work at."
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Our takoyaki is the best in the world!"
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "That's important!"
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Men! Even if it costs you your lives, we're gonna save the takoyaki!"
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "Strawhats",
+  "text": "Yeah!"
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "Nami",
+  "text": "They say it's okay. So, do you know where they are?"
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Yeah, let's see..."
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Grove 44 is an island at the very eastern edge of the archipelago."
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "5 kilometres west from there. I guess the Flying Fish Riders' base would be about here."
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Seeing how we're about here right now..."
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "If we head straight for the Sabaody Archipelago from here, we should pass it on the way."
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "So, let's head west!"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Afterwards we can ask the fish, and figure it out."
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Yeah, that's right. Let's hurry and go!"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hey!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Wow! The fish are sticking their heads out!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "Camie",
+  "text": "We want you to lead the way!"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "Camie",
+  "text": "They say they're afraid of the Flying Fish and won't take us all the way, but will show us the direction."
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Incredible! You can talk to fish?"
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "Nami",
+  "text": "I had no idea mermaids could do that!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Camie, if you were around, we could eat as much fish as we wanted!"
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Watch your mouth. I'll beat you senseless."
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "Nami",
+  "text": "But how do we follow the fish in the sea anyway?"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Well, just take a look!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Awesome!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "They can do this? I don't believe it!"
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "The fish are drawing an arrow on the sea!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Fantastic! We just have to follow this, right?"
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "You're awesome, Camie!"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "Camie",
+  "text": "No, I have a long way to go."
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "No, this is really impressive!"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Alright! Then, I'll take the helm!"
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Turn it around to 4 o'clock."
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Right!"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Zoro!"
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Are we already setting off? Does it look like we can make it to Fishman Island?"
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Forget that, and look here. It's Camie the mermaid! She's real! Awesome, right?"
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hello!"
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "A mermaid?"
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "First time I've seen one."
+ },
+ {
+  "i": 370,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "He erased it! He just... erased his memory!"
+ },
+ {
+  "i": 371,
+  "style": "Main",
+  "name": "Camie",
+  "text": "But I'm worried."
+ },
+ {
+  "i": 372,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin sounded like he had trouble talking. I'm sure they've done something awful to him."
+ },
+ {
+  "i": 373,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Well, he's tough, so it should be alright."
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Anyway, you guys were pretty quick to offer your help, but are you sure you can handle this?"
+ },
+ {
+  "i": 375,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah! We're strong."
+ },
+ {
+  "i": 376,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "I should warn you, there's not just one gang of kidnappers around here."
+ },
+ {
+  "i": 377,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Human trading is big business on Sabaody Archipelago."
+ },
+ {
+  "i": 378,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Selling human lives? That's horrible!"
+ },
+ {
+  "i": 379,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "And seeing how mermaids are particularly valuable,"
+ },
+ {
+  "i": 380,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "the Macro crew, a gang of three fishmen, have been after Camie for a while now."
+ },
+ {
+  "i": 381,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Hachi from the Takoyaki shop probably thought we were kidnapped by the Macro Crew"
+ },
+ {
+  "i": 382,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "and went after them, since we'd been missing for a while after we were eaten by that monster."
+ },
+ {
+  "i": 383,
+  "style": "Main",
+  "name": "Camie",
+  "text": "That's probably it."
+ },
+ {
+  "i": 384,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin is a kind, straight-forward person after all."
+ },
+ {
+  "i": 385,
+  "style": "Main",
+  "name": "Camie",
+  "text": "It's my fault."
+ },
+ {
+  "i": 386,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Hearing about this octopus named Hachi,\\NI can't help but think of that stupid fishman."
+ },
+ {
+  "i": 387,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If it's really him, then we're not gonna help."
+ },
+ {
+  "i": 388,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Well, there's no way..."
+ },
+ {
+  "i": 389,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Usually, Hachi could beat those guys easily..."
+ },
+ {
+  "i": 390,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "But who'd have thought the Flying Fish Riders would help them?"
+ },
+ {
+  "i": 391,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Who're they?"
+ },
+ {
+  "i": 392,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Another kidnapping gang who started causing a lot of trouble around these parts recently."
+ },
+ {
+  "i": 393,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "They say that if they target you, you're doomed."
+ },
+ {
+  "i": 394,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Their boss, Duval, is a guy with an iron mask."
+ },
+ {
+  "i": 395,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Nobody knows what he really looks like."
+ },
+ {
+  "i": 396,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "It seems like they're looking for someone."
+ },
+ {
+  "i": 397,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "They check every single ship that passes this area."
+ },
+ {
+  "i": 398,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Well, anyway, there's no need for you to worry, Camie. We'll definitely save the takoyaki!"
+ },
+ {
+  "i": 399,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "It's the takoyaki seller!"
+ },
+ {
+  "i": 400,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Thank you, Luffy-chin!"
+ },
+ {
+  "i": 401,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Well then, Brook! Play a song to get us in the mood!"
+ },
+ {
+  "i": 402,
+  "style": "Main",
+  "name": "Brook",
+  "text": "With pleasure!"
+ },
+ {
+  "i": 403,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Huh? Is that...?"
+ },
+ {
+  "i": 404,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey! We're in trouble!"
+ },
+ {
+  "i": 405,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What's wrong, Camie?"
+ },
+ {
+  "i": 406,
+  "style": "Main",
+  "name": "Camie",
+  "text": "The fish said, \"We're sorry, but we can't take you any further.\""
+ },
+ {
+  "i": 407,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "They're here! The Flying Fish Riders!"
+ },
+ {
+  "i": 408,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Where? I can't see anything!"
+ },
+ {
+  "i": 409,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Wrong! They're not in the sea, but in the air!"
+ },
+ {
+  "i": 410,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "The fish are flying!"
+ },
+ {
+  "i": 411,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "So cool!"
+ },
+ {
+  "i": 412,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Is this the time to be impressed?!"
+ },
+ {
+  "i": 413,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Damn, they're gonna attack us!"
+ },
+ {
+  "i": 414,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "So the \"Flying Fish\" really can fly?!"
+ },
+ {
+  "i": 415,
+  "style": "Main",
+  "name": "Raider 1",
+  "text": "Hey, did you see that?!"
+ },
+ {
+  "i": 416,
+  "style": "Main",
+  "name": "Raider 2",
+  "text": "I saw it! No doubt, that's the Straw Hat Pirates!"
+ },
+ {
+  "i": 417,
+  "style": "Main",
+  "name": "Raider 1",
+  "text": "Contact him right now!"
+ },
+ {
+  "i": 418,
+  "style": "Main",
+  "name": "Raider 2",
+  "text": "Understood."
+ },
+ {
+  "i": 419,
+  "style": "Main",
+  "name": "Raider 1",
+  "text": "We only came here to find a single mermaid, but this must be our lucky day!"
+ },
+ {
+  "i": 420,
+  "style": "Main",
+  "name": "Raider 2",
+  "text": "Master Duval is gonna be overjoyed!"
+ },
+ {
+  "i": 421,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Here they come again!"
+ },
+ {
+  "i": 422,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Don't come any closer!"
+ },
+ {
+  "i": 423,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Bombs, huh?"
+ },
+ {
+  "i": 424,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Damn those guys!"
+ },
+ {
+  "i": 425,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Rubber..."
+ },
+ {
+  "i": 426,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "{\\fad(150,150)}72 Pound Canon!"
+ },
+ {
+  "i": 427,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Pistol!"
+ },
+ {
+  "i": 428,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "That was close."
+ },
+ {
+  "i": 429,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Be careful! Once the flying fish jump out of the water, they can stay in the air for five minutes!"
+ },
+ {
+  "i": 430,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(150,1800)}Flying Fish Riders'\\NHideout"
+ },
+ {
+  "i": 431,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, Macro."
+ },
+ {
+  "i": 432,
+  "style": "Main",
+  "name": "",
+  "text": "Yes, Duval, my lord."
+ },
+ {
+  "i": 433,
+  "style": "Main",
+  "name": "",
+  "text": "It seems that the mermaid you were luring to the base is on a pirate ship right now."
+ },
+ {
+  "i": 434,
+  "style": "Main",
+  "name": "",
+  "text": "Huh? Camie is on a pirate ship?!"
+ },
+ {
+  "i": 435,
+  "style": "Main",
+  "name": "",
+  "text": "I'm sick of waiting... I really was sick of waiting!"
+ },
+ {
+  "i": 436,
+  "style": "Main",
+  "name": "",
+  "text": "That pirate ship is the one I've been waiting for!"
+ },
+ {
+  "i": 437,
+  "style": "Main",
+  "name": "",
+  "text": "I'll kill him!"
+ },
+ {
+  "i": 438,
+  "style": "Main",
+  "name": "",
+  "text": "That man who screwed up my life!"
+ }
+]

@@ -1,0 +1,2426 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,410)}Translation\\NYibis"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,500)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,142)}Editing\\NSewil"
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,253)}Infoboxes\\NSewil"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,383)}Timing\\NDatenshi"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,493)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 7,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 9,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 10,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 19,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I have reached my limit! I have a muscle cramp!"
+ },
+ {
+  "i": 20,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(1800,0)}Duval's Tragedy"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Though I do not have any muscles to have a cramp in!"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Brook, you're pretty enthusiastic, huh?"
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "You took out quite a few of the Flying Fish."
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I am glad to have been of help!"
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "Brook",
+  "text": "But please... let me rest for a while..."
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Zoro-san..."
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "Brook",
+  "text": "It looks like you're still hurt..."
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I won't let these fish beat me! Don't worry about it!"
+ },
+ {
+  "i": 29,
+  "style": "Thoughts",
+  "name": "Hachi",
+  "text": "You let down your guard, Roronoa!"
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "{\\fad(150,150)}Six-Sword Style..."
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "{\\fad(150,150)}Octopus-Arm Danger!"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "You saved me, huh?"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's right! You guys were spacing out and all..."
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin! You were really cool!"
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Just what I'd expect from you, Hachi!"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Really?"
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Die, fishman!"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Right! Excuse me!"
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I thought I was gonna die! Thanks!"
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I told you to watch yourself, didn't I?"
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "Riders",
+  "text": "Don't take them on one by one... Get in formation!"
+ },
+ {
+  "i": 42,
+  "style": "Hentai",
+  "name": "Text-bubble",
+  "text": "{\\frz22\\pos(778,594)}Formation (Hentai)"
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Pervert?"
+ },
+ {
+  "i": 44,
+  "style": "Hentai",
+  "name": "Text-bubble",
+  "text": "{\\frz339\\pos(790,126)}Pervert\\N(Hentai)"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "Franky",
+  "text": "You called?"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "Riders",
+  "text": "Attack in flying formation!"
+ },
+ {
+  "i": 47,
+  "style": "Hentai",
+  "name": "Text-bubbles",
+  "text": "{\\frz25\\fs38\\pos(958,436)}Formation (Hentai)"
+ },
+ {
+  "i": 48,
+  "style": "Hentai",
+  "name": "Text-bubbles",
+  "text": "{\\frz28\\pos(560,662)}Flying (Hikou)"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Delinquent pervert?"
+ },
+ {
+  "i": 50,
+  "style": "Hentai",
+  "name": "Text-bubbles",
+  "text": "{\\frz341\\fs36\\pos(814,394)}Pervert (Hentai)"
+ },
+ {
+  "i": 51,
+  "style": "Hentai",
+  "name": "Text-bubbles",
+  "text": "{\\frz340.9\\fs33\\pos(582,144)}Delinquent (Hikou)"
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "Franky",
+  "text": "You mean me?"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "They're here!"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Here I am! Here!"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Welcome!"
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "Rider",
+  "text": "A woman? It's a shame, but we were ordered to kill everyone!"
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Can you kill me?"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "Riders",
+  "text": "What the-?!"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Too bad."
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "Nami",
+  "text": "{\\fad(150,150)}Mirage Tempo!"
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Beware of thunderclouds of despair!"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Dos Mano"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Clutch!"
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "{\\fad(150,150)}Split-Hoof"
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "{\\fad(150,150)}Diamond!"
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Don't break formation!"
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I knew it, they're calling for me."
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Now!"
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Huh? They didn't mean me?"
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "Rider",
+  "text": "What?! Bullets don't affect him?!"
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Strong Hammer!"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Amazing! They're all really strong, Pappag!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "To think they'd go this far..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "We were just gonna grab Hachi and escape..."
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Take this!"
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Damn! Franky! We need to get the ship ashore!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "They're at an advantage out here in the ocean!"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "Franky",
+  "text": "That's probably why they live out here, you know."
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "Franky",
+  "text": "They're not gonna give us a chance to steer the ship!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Luffy!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Run! A huge guy is coming!"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Is it the Iron Mask?!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "The masked guy and a cow!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "A cow?"
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "Riders",
+  "text": "That's Motobaro's voice!"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "Riders",
+  "text": "It's the Head!"
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Getting yourselves knocked down in droves..."
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What's that?! Something showed up!"
+ },
+ {
+  "i": 89,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(500,0)\\fs32}Duval's\\NBeloved Bison\\N{\\r}Motobaro"
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "Duval",
+  "text": "You're not just bugs, y'know! Flying Fish Riders!"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "H-He crushed his own house..."
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I don't need this base any more, as long as I can kill the Straw Hats!"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "Rider",
+  "text": "We're so sorry, Head! We'll draw them out to sea and finish them off right..."
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Move it!"
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I have no need for a fishman, mermaid, or glove! If you wanna run, then just get lost!"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "I'm a starfish!"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I didn't enter the slave-trading market 'cause I wanted to!"
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "Duval",
+  "text": "You guys understand that, right?!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "Riders",
+  "text": "Of course, Head!"
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "Duval",
+  "text": "What a great day this is!"
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "Duval",
+  "text": "The man whom I wanted to kill so badly that I even saw him in my dreams, is right here."
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm so grateful!"
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I guess there is a god, huh?"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "Duval",
+  "text": "One day, I was suddenly thrown into the depths of hell because of that man!"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey, isn't he looking at us while he's talking?"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Today, I'll kill ya right here, even if I die myself..."
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Pirate... Black Leg Sanji!"
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I really wanted to meet'cha!"
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Oh, crap! The Head's really pissed off!"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Me? That guy wants to kill me?"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Sanji, who's that guy?"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "Franky",
+  "text": "It seems like he's got some sort of grudge against you..."
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Could it be something that happened at the restaurant? Try to remember!"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If it's something from back then, I did plenty of things that people might be mad at me for..."
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Let him shoot you! You've deserved it!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Quit playin' dumb, Black Leg!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "Duval",
+  "text": "We're talkin' about somethin' recent here!"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Crap! Those are harpoons!"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "But if it's something recent, then I'm even more confused!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "W-What? There's something strange about these harpoons..."
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "Duval",
+  "text": "These're my scorpion venom harpoons!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "Duval",
+  "text": "If they hit'cha, ya'll be headed for the afterlife in three minutes!"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Know the depths of my fury!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Nami-san, watch out!"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Damn bastard, I can't remember at all! Who are you?!"
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm gonna kill ya and yer crew!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I saw what was underneath that mask."
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Really? Who is he?"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Don't be surprised. You've seen his face too!"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Me too?"
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "Riders",
+  "text": "That bastard...!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "Riders",
+  "text": "He knocked off Duval-sama's iron mask!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Very well... Take a close look at my scarred face!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What the-?!?!?!"
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "Nami",
+  "text": "No way!"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "He's...!"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "Robin",
+  "text": "My..."
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Oh, my..."
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I wanna cry!"
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I've been waitin' for this day..."
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I decided to murder ya, and so I set out to sea!"
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "Duval",
+  "text": "But lookin' for ya would be a problem, y'know..."
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "Duval",
+  "text": "After all, yer wanted poster and yer true face didn't match!"
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Even if the marines or bounty hunters ran into ya, they just might' not notice ya!"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Nah, there's no way that'd happen!"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Those guys'd definitely find ya!"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "Riders",
+  "text": "Head...!"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "Duval",
+  "text": "They'd find ya, and then they'd say..."
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "Duval",
+  "text": "\"Found you!\""
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "Duval",
+  "text": "\"Black Leg Sanji!\""
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "Duval",
+  "text": "And then I'd tell 'em..."
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "Duval",
+  "text": "\"I dunno anyone like that!\""
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "Duval",
+  "text": "\"I ain't even a pirate!\""
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey, Sanji, where are you going?!"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Do ya realise..."
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "Duval",
+  "text": "How frightenin' it was, suddenly bein' targeted by bounty hunters?!"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Why?"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Why'd I suddenly have to be chased by the Navy HQ?!"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Why'd all those big name bounty hunters suddenly start huntin' me?!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Why?!"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Sanji?"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "Duval",
+  "text": "What'd I do?!"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Give me my life back!"
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Black Leg Sanji!"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Like I care!"
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "Riders",
+  "text": "Head!"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Whaddaya mean, \"Like I care\"?!"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "Duval",
+  "text": "If ya ain't gonna take responsibility for dis, then who will?!"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Shut up!"
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I'm more pissed about that wanted-poster than anyone!"
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "So, things like this really can happen, huh?"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What a surprise..."
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "Nami",
+  "text": "This world is really big."
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Was Sanji born under some kind of miracle-star or something?"
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "Robin",
+  "text": "He might meet quite an interesting end someday..."
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I can't help but feel sorry for that Duval guy..."
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Those two look exactly like each other!"
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Like two peas in a pod."
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Brook! I'm so gonna kick the crap out of you afterwards!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Well then, Sanji..."
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We'll just be going on ahead."
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Are you saying this is my fault?!"
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If you don't want to look like that wanted picture, you could just change your hairstyle or your beard!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "There are plenty of things you could just change!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "Duval",
+  "text": "So I could have done that?"
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Are you all morons?!"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "Duval",
+  "text": "We're not morons!"
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "Duval",
+  "text": "You know, Black Leg, we..."
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "Duval",
+  "text": "We..."
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Were running a small, unknown mafia in some distant corner of this sea..."
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "Duval",
+  "text": "We spent every single day by threatening the villagers for money..."
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "Duval",
+  "text": "That was the kind of happy life we had."
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Black Leg..."
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Do you understand?"
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I, who had never caused any kind of uproar..."
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Suddenly found myself with a bounty of 77 million..."
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "Duval",
+  "text": "And was chased around by those powerful marines..."
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I got this nasty scar on my back,"
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "Duval",
+  "text": "and was forced to wear this iron mask to hide my face from the world!"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "Duval",
+  "text": "It's yer fault dat my life was ruined!"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm prepared to chase ya to da ends of Hell!"
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "Duval",
+  "text": "If dat's a problem for ya..."
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Then how about you just kill me right now?!"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm bein' killed!"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Those stupid accusations of yours..."
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Why'd you even have to put Nami-san and Robin-chan in danger?!"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "Duval",
+  "text": "It's dat ship and dat crew dat made ya a famous pirate!"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Of course I'd want revenge on'em!"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Ya guys should all die!"
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Poison harpoons?!"
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Get in formation!"
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Huh?"
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Oh, crap!"
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Sanji-kun!"
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "They're trying to pull him down into the ocean!"
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Sanji! Hurry up and get out of there!"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Damn, this net is made of steel!"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Now suffer and drown!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Sanji!"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Dammit... I'll save you right now!"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Don't go there yourself, idiot! I'll go get him!"
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Wait!"
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You humans are too slow, you can't catch him!"
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Leave this to me!"
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Fool!"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "Duval",
+  "text": "You fishmen don't stand a chance at catching up!"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "Duval",
+  "text": "The Flying Fish are the fastest animals in the sea!"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "Duval",
+  "text": "And the Riders riding them have air canisters, so they can stay under water for as long as they like!"
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "Duval",
+  "text": "That guy doesn't stand a chance!"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "Duval",
+  "text": "The next time that guy, Black Leg surfaces..."
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "Duval",
+  "text": "He'll already have drowned and died!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "Rider",
+  "text": "What was that!?"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Feel the Head's anger, Black Leg!"
+ },
+ {
+  "i": 234,
+  "style": "Thoughts",
+  "name": "Sanji",
+  "text": "Can't breathe..."
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "Camie",
+  "text": "It's okay!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Camie!"
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Hey, cowboy!"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "It seems that you forgot someone here!"
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "",
+  "text": "Huh?"
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The Flying Fish are most certainly faster than fishmen."
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "They're in the top-class among sea-creatures. They really are something!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "However..."
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "The creatures at the very top of that top-class are the merfolk!"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "In this great sea..."
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "There are no creatures that can outrun a mermaid under water!"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "Camie",
+  "text": "It's alright..."
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I'll save you right now, Sanji-chin!"
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Is she really that incredible?"
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "Pappag",
+  "text": "Actually, if she hadn't been spacing out all the time, nobody would ever catch her!"
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I see..."
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Camie!"
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Take care of Sanji!"
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What's that?!"
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "Franky",
+  "text": "A huge anchor?"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "Franky",
+  "text": "It's way too huge!"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Aim for the Straw Hat crew's ship."
+ },
+ {
+  "i": 257,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Hit it head-on and sink it!"
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Some of'em are Devil Fruit users!\\NIf we get'em into the water, they're ours!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "Franky",
+  "text": "This is bad! Just one hit from that and we'll sink!"
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Dodge it! Use the Burst or the Paddle! Can we make it?"
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "Franky",
+  "text": "No, it's too late!"
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Hurry and come with me, Usopp!"
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Huh?"
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Y-Yeah!"
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "Franky",
+  "text": "You get on the bow!"
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Huh?"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Uh, right!"
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "Franky",
+  "text": "We're gonna use our secret weapon!"
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Secret weapon?"
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Drop it!"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "The Sunny's in trouble!"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "Brook",
+  "text": "That thing is dangerous!"
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Believe in this ship!"
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "The mane started spinning!"
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Sink!"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "It's falling right at us!"
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Emergency Evasion..."
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Secret Weapon!"
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Chicken Voyage!"
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "Riders",
+  "text": "They dodged it!"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "Rider",
+  "text": "No way!"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "Rider",
+  "text": "I've never heard of any ship that can go backwards!"
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Usopp!"
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Get inside the prow!"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "Franky",
+  "text": "The prow?"
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Woah! You can enter it!"
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Don't think dodging it was all we could do!"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "Franky",
+  "text": "This ship has got way more power than that!"
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "Chopper & Luffy",
+  "text": "Awesome!"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "Duval",
+  "text": "What is it now?!"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Charging complete!"
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey!"
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What should I do now?"
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Get as many as you can inside the circle!"
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Circle?"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Like this?"
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "They're in!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Lock on with the button on the handle, then pull the lever!"
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "Franky",
+  "text": "This and..."
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "Franky",
+  "text": "This?"
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "Rider",
+  "text": "What's that?"
+ },
+ {
+  "i": 302,
+  "style": "Note",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Gaon: Lion's roar"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Gaon Cannon!"
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "Franky & Usopp",
+  "text": "Fire!"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Amazing!"
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "You're too impressed!"
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Did you see that?!"
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "Franky",
+  "text": "The Sunny's full power?"
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "That move took out almost all the Flying Fish!"
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "Franky",
+  "text": "That's just how good Usopp is!"
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "Franky",
+  "text": "For a first try it was magnificent!"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Wow!!! What an amazing destructive power!"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Sunny!"
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Lion-chan is incredible! It seemed as if my eyes were going to pop out!"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Though I have no eyes to pop out..."
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "Franky",
+  "text": "It uses three barrels of cola to prevent the ship from being blown away..."
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "Franky",
+  "text": "And at the same time, it releases two barrels worth of Coup de Burst from the cannon."
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "Franky",
+  "text": "It uses a ton of cola, so don't you overuse it!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "Rider",
+  "text": "She's tied us up with the net!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Damn!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "Rider",
+  "text": "That speedy mermaid!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "Camie",
+  "text": "We're almost there, Sanji-chin..."
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hang in there!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Camie!"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Thank goodness!"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Is Sanji all right?"
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Everyone, it's terrible!"
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Sanji-chin is losing a lot of blood!"
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Huh?"
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Did he get done in?!"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Just when I thought I'd saved him, a lot of blood suddenly started flowing out of his nose!"
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Nosebleed?"
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "It's fine..."
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "If he dies like that, then let him die."
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "Nami",
+  "text": "That's true..."
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "Nami",
+  "text": "At least he seems happy."
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hang in there, Sanji-chin!"
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Is this..."
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Heaven?"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Damn..."
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "Duval",
+  "text": "He survived, huh?!"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Well, it looks like your subordinates are useless now, doesn't it?"
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Why, you...!"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Then, I guess you should learn how terrifying Motobaro is!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I've lost count of how many fools have been impaled by his giant horns to this day!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "Duval",
+  "text": "They say his horns have even managed to destroy village dams..."
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Put him in a cage, and he'll break straight out!"
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "Duval",
+  "text": "The only reason I've been able to escape from the Navy all this time..."
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Is because of this guy's horns!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "Duval",
+  "text": "They call them the \"Heart-smashing horns\"!"
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "All right."
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'll stop you!"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Go, Motobaro!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Watch out, Luffy!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "The horns were completely useless!"
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "There's no point in us fighting!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Hey, what's wrong, Motobaro?"
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "The cow's acting strangely, isn't it?"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "Franky",
+  "text": "What?"
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "He lost consciousness?"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What just happened?"
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Luffy!"
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What did you do?"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I didn't do anything!"
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Motobaro!"
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Damn, how can this be?!"
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "Robin",
+  "text": "It doesn't seem like he attacked it..."
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "Robin",
+  "text": "It seems like Luffy won the cow over by talking to it..."
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What?"
+ },
+ {
+  "i": 370,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You mean, he psyched it out?"
+ },
+ {
+  "i": 371,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "But that huge thing just fainted!"
+ },
+ {
+  "i": 372,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Is that even possible?"
+ },
+ {
+  "i": 373,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Why, you... Damn Straw Hat kid...!"
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Hey, wait a minute, Luffy!"
+ },
+ {
+  "i": 375,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Sanji!"
+ },
+ {
+  "i": 376,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm glad you're alright!"
+ },
+ {
+  "i": 377,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I'll end this stupid incident filled with pointless accusations myself!"
+ },
+ {
+  "i": 378,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Finish it?"
+ },
+ {
+  "i": 379,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Black Leg!"
+ },
+ {
+  "i": 380,
+  "style": "Main",
+  "name": "Duval",
+  "text": "As long as you keep on living as a pirate I'll never find peace!"
+ },
+ {
+  "i": 381,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm the one who's sick of the accusations!"
+ },
+ {
+  "i": 382,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Shut up!"
+ },
+ {
+  "i": 383,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I don't want to see that stupid poster-face any more than you do."
+ },
+ {
+  "i": 384,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "It shouldn't even exist in real life!"
+ },
+ {
+  "i": 385,
+  "style": "Main",
+  "name": "",
+  "text": "Well, then..."
+ },
+ {
+  "i": 386,
+  "style": "Main",
+  "name": "",
+  "text": "You should just die!"
+ },
+ {
+  "i": 387,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Oeil"
+ },
+ {
+  "i": 388,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Eye"
+ },
+ {
+  "i": 389,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Nez"
+ },
+ {
+  "i": 390,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Nose"
+ },
+ {
+  "i": 391,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Joue"
+ },
+ {
+  "i": 392,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Cheek"
+ },
+ {
+  "i": 393,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Bouche"
+ },
+ {
+  "i": 394,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Mouth"
+ },
+ {
+  "i": 395,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Dents"
+ },
+ {
+  "i": 396,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Teeth"
+ },
+ {
+  "i": 397,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Menton"
+ },
+ {
+  "i": 398,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Jaw"
+ },
+ {
+  "i": 399,
+  "style": "Main",
+  "name": "",
+  "text": "Please, stop it..."
+ },
+ {
+  "i": 400,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Parage Shot!"
+ },
+ {
+  "i": 401,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Trimming Shot"
+ },
+ {
+  "i": 402,
+  "style": "Main",
+  "name": "",
+  "text": "Taste the classiness of my finishing attack, and end your misery."
+ },
+ {
+  "i": 403,
+  "style": "Main",
+  "name": "",
+  "text": "You shitty bastard."
+ }
+]

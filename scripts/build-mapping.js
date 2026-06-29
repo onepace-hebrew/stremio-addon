@@ -227,6 +227,12 @@ function build() {
     'TB_20': 'fedew/19 Thriller Bark/20/thrillerbark 20 he',
     'TB_21': 'fedew/19 Thriller Bark/21/thrillerbark 21 he',
     'TB_22': 'fedew/19 Thriller Bark/22/thrillerbark 22 he',
+    // Sabaody Archipelago (SAB, fedew04 cut) — translated from the One Pace English.
+    'SAB_1': 'fedew/20 Sabaody Archipelago/01/sabaody 01 he',
+    'SAB_2': 'fedew/20 Sabaody Archipelago/02/sabaody 02 he',
+    'SAB_3': 'fedew/20 Sabaody Archipelago/03/sabaody 03 he',
+    'SAB_4': 'fedew/20 Sabaody Archipelago/04/sabaody 04 he',
+    'SAB_5': 'fedew/20 Sabaody Archipelago/05/sabaody 05 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');
