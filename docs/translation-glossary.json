@@ -283,6 +283,18 @@
     "fishman / merman": {
       "he": "איש-דג",
       "note": "רבים: אנשי-דג / אנשי-הדג. תמיד עם מקף — עקבי עם translation-canon.json"
+    },
+    "Gunpowder Star (Usopp)": {
+      "he": "כוכב אבק שריפה",
+      "note": "נגזר מת׳רילר בארק 03 (כוכב אבק שריפה קטלני). לא לקצר ל-כוכב שריפה — מתנגש עם Fire Star"
+    },
+    "Sword of the Gathering Clouds of Heaven (Kizaru)": {
+      "he": "חרב ענני השמיים המתקבצים",
+      "note": "אמה-נו-מורקומו"
+    },
+    "Strong Right / Strong Hammer (Franky)": {
+      "he": "ימין עוצמה / פטיש עוצמה",
+      "note": "תבנית סבאודי (SAB_03/10). הקורפוס המוקדם התלבט בין ימני חזק לימין חזקה"
     }
   },
   "captions": {

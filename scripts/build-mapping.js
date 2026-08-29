@@ -238,6 +238,7 @@ function build() {
     'SAB_8': 'fedew/20 Sabaody Archipelago/08/sabaody 08 he',
     'SAB_9': 'fedew/20 Sabaody Archipelago/09/sabaody 09 he',
     'SAB_10': 'fedew/20 Sabaody Archipelago/10/sabaody 10 he',
+    'SAB_11': 'fedew/20 Sabaody Archipelago/11/sabaody 11 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');

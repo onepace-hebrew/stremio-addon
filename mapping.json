@@ -809,6 +809,12 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/10/sabaody%2010%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/10/sabaody%2010%20he.ass"
   },
+  "SAB_11": {
+    "arc": "fedew/20 Sabaody Archipelago",
+    "ep": 11,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/11/sabaody%2011%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/11/sabaody%2011%20he.ass"
+  },
   "SAB_2": {
     "arc": "fedew/20 Sabaody Archipelago",
     "ep": 2,
