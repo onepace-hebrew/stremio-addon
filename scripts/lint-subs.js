@@ -46,6 +46,20 @@ const TERM_VARIANTS = {
   'חגורות שקטות': 'רצועות שקטות',
 };
 
+// Nif'al infinitives keep their yod (Academy spelling) — see
+// docs/translation-learnings.md §1.6, reversed 2026-08-29. Deliberately absent:
+// להראות (hif'il "to show", a different verb), להמשך (noun), להתבשל (hitpa'el).
+const NIFAL_NO_YOD = {
+  להלחם: 'להילחם', להשאר: 'להישאר', להכנס: 'להיכנס', להפרד: 'להיפרד',
+  להפטר: 'להיפטר', להמנע: 'להימנע', להרגע: 'להירגע', להזהר: 'להיזהר',
+  להתקל: 'להיתקל', להמתח: 'להימתח', להפגע: 'להיפגע', להשמע: 'להישמע',
+  להכנע: 'להיכנע', להתפס: 'להיתפס', להזכר: 'להיזכר', להאחז: 'להיאחז',
+  להתקע: 'להיתקע', להכשל: 'להיכשל', להגמר: 'להיגמר', להפצע: 'להיפצע',
+  להטבע: 'להיטבע', להשבע: 'להישבע', להמלט: 'להימלט', להפגש: 'להיפגש',
+  להעלם: 'להיעלם', להאבק: 'להיאבק', להסחף: 'להיסחף', להנצל: 'להינצל',
+  להרדם: 'להירדם', להשבר: 'להישבר', להנות: 'ליהנות',
+};
+
 // The "Miss" honorific must become גברת. It only counts when a name follows —
 // that lookahead, plus the narrow prefix set, is what separates the honorific
 // from the verbs that merely contain the same three letters (ממיס / להמיס
@@ -64,10 +78,21 @@ function cues(srt) {
   }).filter(Boolean);
 }
 
+// Episode directories holding a human " He.ass". Those translations are ground
+// truth and are never rewritten, so the nif'al-yod rule (which reflects OUR
+// output standard, not his habit) is not enforced on them or the .srt beside
+// them. See docs/translation-learnings.md §1.6.
+const HUMAN_DIRS = new Set(
+  execFileSync('git', ['ls-files', '-z', 'subtitles'], { cwd: REPO, maxBuffer: 1 << 28 })
+    .toString().split('\0').filter((f) => / He\.ass$/.test(f))
+    .map((f) => path.dirname(f))
+);
+
 function lintFile(rel) {
   const srt = fs.readFileSync(path.join(REPO, rel), 'utf8');
   const cs = cues(srt);
   const issues = [];
+  const isHuman = HUMAN_DIRS.has(path.dirname(rel));
   let prevText = null;
   cs.forEach((c, i) => {
     const text = c.textLines.join(' ');
@@ -108,6 +133,12 @@ function lintFile(rel) {
     }
 
     if (MISS_RE.test(text)) issues.push(`honorific "מיס" → use "גברת" #${i + 1}`);
+
+    // nif'al infinitive missing its yod (one Hebrew prefix may precede)
+    for (const [wrong, right] of (isHuman ? [] : Object.entries(NIFAL_NO_YOD))) {
+      const re = new RegExp(`(?<![א-ת])[ושכמב]?${wrong}(?![א-ת])`, 'g');
+      if (re.test(text)) issues.push(`nif'al "${wrong}" → use "${right}" #${i + 1}`);
+    }
   });
 
   // structural .ass guard: Hebrew must live in the Text field, NEVER in Effect.

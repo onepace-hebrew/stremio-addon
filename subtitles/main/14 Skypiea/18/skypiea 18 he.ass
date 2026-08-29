@@ -36,11 +36,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Main-207-,,0,0,0,,{\an8}‫תרגום לעברית — That One Gerbil
 Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
 Dialogue: 0,0:01:50.05,0:02:00.04,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)\org(0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
-Dialogue: 0,0:02:04.40,0:02:08.23,Main-207-,,0,0,0,,‫אם אינך רוצה להשאר\N‫על הספינה הזאת...
+Dialogue: 0,0:02:04.40,0:02:08.23,Main-207-,,0,0,0,,‫אם אינך רוצה להישאר\N‫על הספינה הזאת...
 Dialogue: 0,0:02:08.23,0:02:10.99,Main-207-,,0,0,0,,‫יש לך יעד אחד בלבד...
 Dialogue: 0,0:02:11.78,0:02:13.95,Main-207-,,0,0,0,,‫העולם הבא.
 Dialogue: 0,0:02:17.74,0:02:20.75,Thoughts-207-,,0,0,0,,‫אין סיכוי שאצליח להתמודד\N‫עם הבן אדם הזה...
-Dialogue: 0,0:02:21.29,0:02:24.04,Thoughts-207-,,0,0,0,,‫אבל גם להשאר פה אני לא יכול!
+Dialogue: 0,0:02:21.29,0:02:24.04,Thoughts-207-,,0,0,0,,‫אבל גם להישאר פה אני לא יכול!
 Dialogue: 0,0:02:24.04,0:02:25.50,Thoughts-207-,,0,0,0,,‫זאת האמת!
 Dialogue: 0,0:02:25.50,0:02:27.00,Thoughts-207-,,0,0,0,,‫אין לי חרטות!
 Dialogue: 0,0:02:27.59,0:02:31.71,Main-207-,,0,0,0,,‫ובכן, אחרי הנאום הזה שלך,
@@ -324,7 +324,7 @@ Dialogue: 0,0:21:42.78,0:21:43.78,Main-207-,,0,0,0,,‫כן.
 Dialogue: 0,0:21:43.78,0:21:47.37,Main-207-,,0,0,0,,‫אבל אנל כבר שדד את כל הזהב.
 Dialogue: 0,0:21:47.37,0:21:51.58,Main-207-,,0,0,0,,{\an8}‫בכל מקרה, האחרים\N‫אמורים להיות בחורבות למטה!
 Dialogue: 0,0:21:52.08,0:21:55.00,Main-207-,,0,0,0,,‫אני לא מכיר את הטופוגרפיה\N‫כמוך...
-Dialogue: 0,0:21:56.67,0:22:00.84,Main-207-,,0,0,0,,‫אבל... אני יודע\N‫שמסוכן להשאר פה!
+Dialogue: 0,0:21:56.67,0:22:00.84,Main-207-,,0,0,0,,‫אבל... אני יודע\N‫שמסוכן להישאר פה!
 Dialogue: 0,0:22:00.84,0:22:02.63,Main-207-,,0,0,0,,‫כן. עלה!
 Dialogue: 0,0:22:02.63,0:22:04.85,Main-207-,,0,0,0,,‫בוא נמצא את כולם\N‫ונסתלק מהאי הזה!
 Dialogue: 0,0:22:05.47,0:22:06.30,Main-207-,,0,0,0,,‫כ-כן!

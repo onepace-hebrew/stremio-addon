@@ -63,9 +63,26 @@ The AI kept attack lines untranslated; the human translates them, keeps the `{\f
 
 ### 1.6 House orthography (consistent, sometimes non-Academy — follow it anyway)
 - **זאת → זו**; **האלה/כאלה → האלו/כאלו**; **הכול → הכל**; **יותר מדי → יותר מידי**; **די → דיי**.
-- Nif'al infinitives without yod: **ליהנות → להנות**, **להילחם → להלחם**, **להיזהר → להזהר**.
 - **עליי → עלי** (but ידיי keeps double yod).
 - No niqqud anywhere; no Hebrew maqaf (U+05BE).
+
+#### Nif'al infinitives — WITH the yod (this rule was reversed 2026-08-29)
+Write **להילחם, להישאר, להיכנס, ליהנות, להיזהר** — the yod stays.
+
+The human files spell these *without* the yod (53 of 56 occurrences), and this
+section used to prescribe that. It was wrong as a rule: the Academy of the
+Hebrew Language writes the i-vowel with a yod here, and names these exact
+forms (להיכנס / ייכנס / תיכנס) in its own examples, plus ליהנות explicitly.
+The no-yod spelling is common in informal Israeli writing but is not normative.
+
+So the human habit is *described* here, not followed. His files stay untouched
+as ground truth; our generated output uses the standard spelling. Swept across
+the corpus by `scripts/adopt-nifal-yod.js` (933 replacements, 416 files) and
+guarded by `NIFAL_NO_YOD` in `scripts/lint-subs.js`.
+
+Three look-alikes are NOT nif'al and keep their spelling:
+**להראות** (hif'il "to show" — a different verb from להיראות "to appear"),
+**להמשך** (the noun המשך with a ל prefix), **להתבשל** (hitpa'el).
 
 ### 1.7 Sentence flow, line breaks, continuity
 - Human merges two short consecutive events into one when they form one sentence (0:02:30 «יש שם בוודאות עוד!\N‫פוצצו אותה לפני שהם יצאו!» replaced two AI events).
