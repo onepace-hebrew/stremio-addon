@@ -33,7 +33,24 @@ const NAME_VARIANTS = {
   ספנדם: 'ספאנדם', // Spandam
   ספנדאם: 'ספאנדם',
   "אוקיג'י": "אאוקיג'י", // Aokiji
+  לבון: 'לאבון', // Laboon — the ע/ח lookbehind in the word match keeps עלבון/חלבון out
 };
+
+// Terms settled against the official Hebrew (docs/translation-canon.json →
+// adopted_from_upstream). Same word-match rule as the names above.
+const TERM_VARIANTS = {
+  לוויתן: 'לווייתן', // whale — ktiv male wants the second yod
+  'לוג פוז': 'לוג-פוז', // Log Pose
+  'חגורה השקטה': 'רצועה השקטה', // Calm Belt — a strip of sea, not a garment
+  'חגורה שקטה': 'רצועה שקטה',
+  'חגורות שקטות': 'רצועות שקטות',
+};
+
+// The "Miss" honorific must become גברת. It only counts when a name follows —
+// that lookahead, plus the narrow prefix set, is what separates the honorific
+// from the verbs that merely contain the same three letters (ממיס / להמיס
+// "melt", תעמיס "burden") and from הוומיס (Homies, Whole Cake Island).
+const MISS_RE = /(?<![א-ת])(?:כש|[ולש])?מיס(?=[ ־][א-ת])/;
 
 const filter = process.argv[2] || '';
 
@@ -83,6 +100,14 @@ function lintFile(rel) {
       const re = new RegExp(`(?<![א-ת])[בהוכלמש]?${wrong}(?![א-ת])`, 'g');
       if (re.test(text)) issues.push(`name "${wrong}" → use "${right}" #${i + 1}`);
     }
+
+    // off-canon term spellings (same word match)
+    for (const [wrong, right] of Object.entries(TERM_VARIANTS)) {
+      const re = new RegExp(`(?<![א-ת])[בהוכלמש]?${wrong}(?![א-ת])`, 'g');
+      if (re.test(text)) issues.push(`term "${wrong}" → use "${right}" #${i + 1}`);
+    }
+
+    if (MISS_RE.test(text)) issues.push(`honorific "מיס" → use "גברת" #${i + 1}`);
   });
 
   // structural .ass guard: Hebrew must live in the Text field, NEVER in Effect.

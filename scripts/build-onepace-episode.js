@@ -70,6 +70,12 @@ const EPISODES = {
   SAB_3: { arc: '20 Sabaody Archipelago', nn: '03', stem: 'sabaody 03 he', epLabel: 'Sabaody Archipelago 03' },
   SAB_4: { arc: '20 Sabaody Archipelago', nn: '04', stem: 'sabaody 04 he', epLabel: 'Sabaody Archipelago 04' },
   SAB_5: { arc: '20 Sabaody Archipelago', nn: '05', stem: 'sabaody 05 he', epLabel: 'Sabaody Archipelago 05' },
+  SAB_6: { arc: '20 Sabaody Archipelago', nn: '06', stem: 'sabaody 06 he', epLabel: 'Sabaody Archipelago 06' },
+  SAB_7: { arc: '20 Sabaody Archipelago', nn: '07', stem: 'sabaody 07 he', epLabel: 'Sabaody Archipelago 07' },
+  SAB_8: { arc: '20 Sabaody Archipelago', nn: '08', stem: 'sabaody 08 he', epLabel: 'Sabaody Archipelago 08' },
+  SAB_9: { arc: '20 Sabaody Archipelago', nn: '09', stem: 'sabaody 09 he', epLabel: 'Sabaody Archipelago 09' },
+  SAB_10: { arc: '20 Sabaody Archipelago', nn: '10', stem: 'sabaody 10 he', epLabel: 'Sabaody Archipelago 10' },
+  SAB_11: { arc: '20 Sabaody Archipelago', nn: '11', stem: 'sabaody 11 he', epLabel: 'Sabaody Archipelago 11' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +

@@ -1,0 +1,2210 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,410)}Translation\\NYibis"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,500)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,142)}Editing\\NFeeso"
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,253)}Infoboxes\\NBernieCrane"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,383)}Formatting\\NSewil\\NDatenshi"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,493)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 7,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 9,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 10,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 19,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(550,55}Kizaru vs. the Four Captains"
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Unbelievable!"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "From his hands, and from his mouth, too?"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Scary!"
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Another one's coming!"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Just what the hell is that?!"
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Like they said, it's a beam!"
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "Franky",
+  "text": "A beam is just a ray of light!"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Having something like that working as a weapon is just a fantasy!"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Uh, what are you doing?"
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Playing dead."
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "Franky & Usopp",
+  "text": "He already knows you're not!"
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "{\\fad(150,150)}Three Sword Style"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Rubber"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "{\\fad(150,150)}Diable"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "{\\fad(150,150)}Mouton"
+ },
+ {
+  "i": 35,
+  "style": "Note",
+  "name": "Sanji",
+  "text": "{\\fad(150,150)}Mutton"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Jet"
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "{\\fad(150,150)}600 Pound"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "All",
+  "text": "{\\fad(150,150)}Cannon"
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "Nami",
+  "text": "All right!"
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Did they get him?"
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "They're awesome!"
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "Robin",
+  "text": "The opponent is a Warlord."
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "Robin",
+  "text": "They can't beat him so easily."
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "Robin",
+  "text": "I can tell just from their expressions."
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Is he really that different?"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Does that mean that he's his twin or something?"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Yeah, that is a possibility."
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Anyway, if he was the real guy, then he would have instantly dodged our attacks."
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "More importantly, he's not shooting out shock waves, and he doesn't have pads."
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "But if he's a fake, then that's a problem as well."
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "That means that there are two people as strong as him."
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "You hurt me pretty badly..."
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "But don't think that I'm the same as I was earlier!"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "{\\fad(150,150)}Karmic Retribution"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "\"Mad Monk\" Urouge..."
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "How can a man who was so badly injured until now..."
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "Have gotten this big and strong all of a sudden?"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "Drake",
+  "text": "That was Kizaru's laser!"
+ },
+ {
+  "i": 59,
+  "style": "Thoughts",
+  "name": "Drake",
+  "text": "Did you manage to put Kizaru's destructive power into Bartholomew Kuma's body..."
+ },
+ {
+  "i": 60,
+  "style": "Thoughts",
+  "name": "Drake",
+  "text": "Vegapunk?!"
+ },
+ {
+  "i": 61,
+  "style": "Thoughts",
+  "name": "Drake",
+  "text": "Are the Pacifista already this advanced?!"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "This is getting out of hand!"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Yeah, even three men worth over 100 million..."
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Can't possibly survive when they're up against a Warlord and an admiral!"
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Rear admiral Drake..."
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "No, former rear admiral..."
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Didn't you come here to see this?"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "If you'd like to try fighting, then go ahead."
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Seeing how you know the circumstances already..."
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I guess you're just too terrified to try, right?"
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "But try not to lose your cool, my flimsy little friends."
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I'm here too, after all."
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Well, I just got to see another interesting thing..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "This is the first time I've seen a rare, ancient Zoan-type."
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "Drake",
+  "text": "I'm surprised to see that even you have red blood in your veins."
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "I just saw something really unusual..."
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I said that I'm here too, didn't I?"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "One after another..."
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Seems like all you people worth over 100 million are monsters."
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "That's pretty scary!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "{\\fad(150,150)}Phase of Demon Subjugation"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "He vanished!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "M-My eyes!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Captain Hawkins!"
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "I can't see!"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I don't know what kind of ability you possess, but you have a physical form..."
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "So I suppose you're not a Logia-type."
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "Captain!"
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "This is bad!"
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "He's exceeded his damage limit!"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "He's really gonna die!"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Here's the first one..."
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Good work making it this far in your long journey."
+ },
+ {
+  "i": 94,
+  "style": "Lyrics",
+  "name": "Apoo",
+  "text": "Is this music reachin' you?"
+ },
+ {
+  "i": 95,
+  "style": "Lyrics",
+  "name": "Apoo",
+  "text": "If you hear me, then tune in!"
+ },
+ {
+  "i": 96,
+  "style": "Lyrics",
+  "name": "Apoo",
+  "text": "Navy admiral Kizaru!"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "Drake",
+  "text": "He's the \"Roaring Tide\"..."
+ },
+ {
+  "i": 98,
+  "style": "Lyrics",
+  "name": "Apoo",
+  "text": "Everybody, listen to my fighting music!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "What?"
+ },
+ {
+  "i": 100,
+  "style": "Lyrics",
+  "name": "Apoo",
+  "text": "Here we go!"
+ },
+ {
+  "i": 101,
+  "style": "Lyrics",
+  "name": "Apoo",
+  "text": "Check it out!"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Well, I doubt a navy admiral would die from something like this, though..."
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Wow, I sure got to see a lot of interesting stuff."
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Well, I'll be getting out of here now."
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "See ya!"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "That's awful..."
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Ooh, what a surprise..."
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "{\\fad(150,150)}Mirror of Yata"
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Huh, what?"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Hello?"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Huh?"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Hello?"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oh, here it is."
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Borsalino here."
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Old man!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "You did have your baby snail-phone with you!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Why didn't you contact me?!"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oh, Sentoumaru-kun!"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Don't just say \"Oh\"!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "What're you doing?!"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "You've arrived on the island, right?!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Well, I couldn't get in touch with you, you see..."
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I bet you tried to talk into the black snail-phone again, right?!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I told you before, the black snail-phone on your arm is just for tapping!"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oh..."
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oh...!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Whatever!"
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Just hurry up and get back to work!"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "We've already identified our targets!"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Straw Hat Luffy, Captain Kid, and Trafalgar Law, who do you wanna start with?"
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oh, is that so?"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Then..."
+ },
+ {
+  "i": 133,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(0,20)}Sabaody Archipelago\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NGrove 12"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Zoro!"
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hey, Zoro!"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Were you really so badly injured that you can't move?"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Leave him alone, Luffy!"
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "We've gotta defeat this thing first!"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah..."
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "There's no way his wounds from back then could've healed completely..."
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "From what I can see, just standing up to face the enemy must be really painful for him."
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If this bastard isn't Bartholomew Kuma, then who is he?!"
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "He looks exactly like one of the Seven Warlords..."
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What the hell is going on?!"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey, Zoro!"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "{\\fad(150,150)}Split-Hoof"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "{\\fad(150,150)}Roseo Blizzard"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "Luffy and Sanji",
+  "text": "Chopper!"
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Strong Hammer"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Franky Boxing"
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Spider Net"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "We can't take his physical strength lightly either!"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Take care!"
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Here I go!"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "Brook",
+  "text": "{\\fad(150,150)}Swallow"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "Brook",
+  "text": "{\\fad(150,150)}Bond En Avant"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "Brook",
+  "text": "H-huh?"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I have stopped!"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "Brook",
+  "text": "W-Wait, that's dangerous!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Are you planning on killing me?!"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "Brook",
+  "text": "...Though I'm already dead..."
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Wait, this is no time to be saying that...!"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "{\\fad(150,150)}Sure Kill Atlas Comet"
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Now's our chance! Let's run!"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "Brook",
+  "text": "That was scary! Thank you so much!"
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Huh? He's acting strangely..."
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What? Bombs work on him NOW?"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "Franky",
+  "text": "One shot went inside his mouth... Something inside his body must have short-circuited..."
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "Franky",
+  "text": "His body might be tough, but he's still got blood on the inside."
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "Franky",
+  "text": "He's had his entire body modified to become a weapon, just like me..."
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "Franky",
+  "text": "but he's really a normal human!"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Nami-san, watch out! He's found you!"
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Oh, no!"
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Ochenta Fleurs"
+ },
+ {
+  "i": 175,
+  "style": "Note",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Eighty Flower"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Cuatro Manos"
+ },
+ {
+  "i": 177,
+  "style": "Note",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Four Hands"
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Shock!"
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You did it! He fired off the beam inside his own mouth!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "He self-destructed!"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Sorry to interrupt your break, mister..."
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "Nami",
+  "text": "But you should watch out for lightning there!"
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "Nami",
+  "text": "From dark clouds to the Clima Tact..."
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "Nami",
+  "text": "{\\fad(150,150)}Thunder Lance Tempo!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "Brook",
+  "text": "That one definitely worked... Fantastic!"
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "It didn't work at all, did it?! He's still perfectly fine, isn't he?!"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Once you get desperate, the fight is over."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Hey, blast him over here!"
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "You're too damn stubborn..."
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "{\\fad(150,150)}Diable Jambe"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "{\\fad(150,150)}Flambage Shot!"
+ },
+ {
+  "i": 192,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(150,150)}Flambé Shot"
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Alright! He's finally starting to fall apart!"
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "{\\fad(150,150)}Demonic Spirit"
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "{\\fad(150,150)}Nine Sword Style"
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "{\\fad(150,150)}Asura!"
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "Brook",
+  "text": "W... What is that?!"
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Zoro multiplied?!"
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "{\\fad(150,150)}Nine Demonic Flashes"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Gear Third!"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Let's go!"
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Go, Luffy!"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "Franky",
+  "text": "We just need one more hit!"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Rubber"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "Usopp and Chopper",
+  "text": "Crush him, Luffy!"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Giant Rifle!"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm shrinking!"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "Franky",
+  "text": "We stopped that bastard, right?"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "We must have..."
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It almost seems like he's gonna start moving again... Creepy..."
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "If he does, we're doomed."
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I'm totally beat, I can't move anymore."
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Maybe we should've escaped, instead of trying to fight him?"
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "Robin",
+  "text": "No, if we can beat him, then that's what we should do."
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "Robin",
+  "text": "He'd chase us wherever we went."
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "But what was with that guy anyway?"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "Franky",
+  "text": "He's definitely a modified human..."
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "Franky",
+  "text": "That means that he was once a human who looked just like Bartholomew Kuma."
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I'd guess they were twins, or perhaps they just found someone who looked super similar..."
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I suppose that's the most likely explanation."
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "Franky",
+  "text": "There's no way they could've actually created a human, after all."
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "PX-4?"
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Let's rest for a bit..."
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I never thought we'd be forced to go all-out in a battle so soon..."
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I want to rest, but we should find a hiding-place first."
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If they find us now, we're in big trouble, you know."
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I guess that's true."
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "But..."
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Wait just a minute, okay?"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Man, you guys have really done it now!"
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "What?! Another enemy?!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Where'd that voice come from?!"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Up there! They're up there!"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Who's there?!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Hey, hey! What a pitiful state you're in, PX-4!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Just building one of you Pacifista costs us as much as an entire warship!"
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Man, how am I supposed to explain this to that damn Punk?!"
+ },
+ {
+  "i": 238,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(700,300)}Navy Headquarters\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NCaptain of the Science Patrol"
+ },
+ {
+  "i": 239,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(450,0)}Sentoumaru"
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Another Warlord!"
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "D-Don't tell me that's the real guy?!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Doesn't matter whether he's real or a fake..."
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "We don't have the strength to stand up to that thing again!"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "Robin",
+  "text": "He just said \"Pacifista\"..."
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "Nami",
+  "text": "\"Pacifista\"... That's like someone who creates peace, right?"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Is that the name of the one we just defeated?"
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Who are you, broadaxe?!"
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "You don't call a man by his weapon's name!"
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "There's no point in asking me questions."
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I have nothing to tell any of you!"
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I'm the man with the toughest guard in the whole world!"
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Of course, my mouth is well-guarded too!"
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Can't you at least tell us your name?!"
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I have no obligations to answer that!"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Didn't I just tell you? I'm the world's most tight-lipped man, Sentoumaru!"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Really? Sentoumaru, is it?"
+ },
+ {
+  "i": 257,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I just felt like telling you that!"
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I wasn't answering your question!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Let's go, PX-1!"
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "He's firing beams from his palms too..."
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "He doesn't have pads."
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I didn't want to think about it, but that makes him the third!"
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What's going on?!"
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Rather than wondering about that,\\Nit'd be safer for us to run away right now!"
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "If we get into another fight now, someone will definitely die!"
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Let's run before we meet the admiral...!"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah..."
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Let's run away from here!"
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We can't stay together... We'll split up and escape!"
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "Usopp and Chopper",
+  "text": "I think we should run, too!"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "The three of us should split up!"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Sure... Are you gonna be alright?"
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Shut up!"
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I'll protect Nami-swan!"
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Even if it costs me my life!"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Right, thank you. Let's get going!"
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "Franky",
+  "text": "If you're ready to risk your life, then you should be the decoy for all of us!"
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Ladies only, damn bastard!"
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Just take care of yourself, panty-man!"
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Zoro-kun will protect me as well as he can, so don't worry!"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Wait a minute, Usopp! I'm hurt..."
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Do not worry! I shall cover for you!"
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Your injuries still haven't healed, right?"
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "Brook",
+  "text": "To tell you the truth, I saw your act of self-sacrifice back on Thriller Bark!"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I see..."
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Thanks!"
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We're running over there!"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Right."
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Those beams are scary!"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Everyone, we'll meet up at the Sunny in three days!"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "They're splitting up and running!"
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Chase them, PX-1!"
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Don't let them get out of Grove 12, or we'll be in trouble."
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "{\\fad(150,150)}Sure Kill Super Smoke Star!"
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Now's our chance!"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "Brook",
+  "text": "You are quite reliable!"
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Damn! The bridge!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Here he is!"
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Why did he come here?!"
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Hey, hey... You...! Hey!"
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Don't push me!"
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "He went that way? Are they alright?!"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "You don't have time to worry about others!"
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I don't have anything against pirates though."
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Rubber"
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Gatling!"
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "What?!"
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "What did he just do?!"
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "You've got some pretty good offensive power, but..."
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "My guard is the strongest in the world!"
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "{\\fad(150,150)}Leg Locked, Heave-Ho!"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Luffy!"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "What?! He's this strong, too?!"
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I just thought I'd tell you, I'm not a devil fruit-user!"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "There's something strange about his techniques...!"
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "W-What?! Who are you?!"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You... Get away!"
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Get away from Zoro, you freak!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Z-Z-Zoro-san!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Zoro-san was hit by a beam!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey, Zoro, pull yourself together!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Man, he's late!"
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "So you finally arrived, old man Kizaru?!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Kizaru?!"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Be careful! That man is a navy admiral!"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Admiral?!"
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oh, you're a bit too late..."
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "120 million bounty-head, \"Pirate Hunter\" Zoro..."
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I'd heard that you were a reasonably accomplished swordsman..."
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "But seeing how you were beaten with one shot, I suppose you're pretty exhausted, huh?"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Damn..."
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "He's an admiral...?"
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Take yourself a long rest..."
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Zoro!!!"
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Hey, he can fire beams too!"
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "Franky",
+  "text": "This is bad! We've gotta do something!"
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "Franky",
+  "text": "If he's hit at such a close range, he'll die!"
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Oh no! Zoro's in trouble!"
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Usopp!"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You... Stop it!"
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Damn it! Why?!"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I can't hit him!"
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "Brook",
+  "text": "I can't stab him either! What do we do?!"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Damn!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You..."
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Move your leg!"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Please move!"
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "That's no use."
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I ate the Light Fruit, I'm a light man."
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I'm a Logia."
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Light man?!"
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "Nami",
+  "text": "You're kidding, right?! He's gonna die!"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Zoro! Run!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Zoro!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "My body... won't..."
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "It's no use! That guy is at his limit already!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Veinte Fleur!"
+ },
+ {
+  "i": 358,
+  "style": "Note",
+  "name": "Robin",
+  "text": "{\\fad(150,150)}Twenty Flower"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Alright! Great, Robin!"
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I won't let you get away."
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "It's useless."
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "You'll die now."
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "So, now you decide to appear..."
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "\"Dark King\", Rayleigh?"
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I won't let you take out these youngsters."
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Their era is only beginning!"
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Pops!"
+ }
+]

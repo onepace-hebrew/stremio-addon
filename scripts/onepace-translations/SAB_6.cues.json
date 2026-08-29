@@ -1,0 +1,2522 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,410)}Translation\\NYibis"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,500)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,142)}Editing\\NSewil"
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,253)}Infoboxes\\NSewil"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,383)}Timing\\NDatenshi"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,493)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 7,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 9,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 10,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 19,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1300,0)}Navy HQ"
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "Garp",
+  "text": "The Dark King, Silvers Rayleigh, huh?"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "Marine",
+  "text": "It would appear the others haven't noticed, and think he's just a normal old guy."
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "Garp",
+  "text": "They're gonna sell the Dark King in the Human Auction, huh?"
+ },
+ {
+  "i": 23,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(1000,1000)}The Auction House Incident"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "Marine",
+  "text": "If he's the real deal, then this is a really bad situation..."
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Although my subordinates can't be 100% sure..."
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Tea!"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Uh, right."
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "Marine",
+  "text": "What should we do, vice-admiral? Should I report this to Fleet Admiral Sengoku?"
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Nah, I'll handle this myself. Don't tell anyone else, not even Sengoku!"
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "Garp",
+  "text": "Make sure to tell your subordinates!"
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "Marine",
+  "text": "But if it really is him..."
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "Garp",
+  "text": "It's him. No doubt about that."
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "Garp",
+  "text": "I hear some reports about the guy from time to time."
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "Garp",
+  "text": "I'd say he's probably ended up losing his freedom in a gamble."
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "Garp",
+  "text": "He might be an old man, but if we try to take on Rayleigh unprepared,"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "Garp",
+  "text": "I'd say we'd probably lose countless soldiers in the attempt."
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "Garp",
+  "text": "It's especially dangerous right now."
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "Garp",
+  "text": "You think the Navy can handle two legends at the same time?!"
+ },
+ {
+  "i": 39,
+  "style": "Captions",
+  "name": "",
+  "text": "Grove 1\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NHuman Auction Site"
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Well then, everyone! Thank you for your patience!"
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "In a moment, the 1st grove's monthly tradition..."
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "the Great Human Auction, shall commence!"
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Our host, of course, is this man!"
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "The walking super bazaar..."
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Mr. Disco!"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Good day, everyone! This time, we've got quite an excellent selection of slaves for you!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "Disco",
+  "text": "You are all lucky! We've got a spectacular deluxe item for later in the show!"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "Disco",
+  "text": "The only thing on my mind is making sure everyone here leaves with the slave they've been waiting for!"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well, then, let us start the auction!"
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Prepare numbers 2 and 3."
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "Slave-trader 2",
+  "text": "Understood!"
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Entry #1: from Toroa in West Blue!"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "Disco",
+  "text": "A master of instruments from a musician family!"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "Disco",
+  "text": "A pirate standing proud and tall!"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "Disco",
+  "text": "With his instrument, he'll play any music you want,"
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "Disco",
+  "text": "a human music box!"
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Give him a mop, and he will clean up any filth perfectly!"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "Disco",
+  "text": "He is also a fantastic wine maker!"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "Disco",
+  "text": "A 25 year old human male, a perfect working age!"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "Disco",
+  "text": "192 cm, 130 kg, name: Byron!"
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "Disco",
+  "text": "We will start off the bidding with the special starting price of 480 thousand belly!"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well, then, raise your plate if you wish to place a bid!"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Number 82 makes a bid of 500 thousand belly!"
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "Disco",
+  "text": "We have 600 thousand from number 7! Anyone else?!"
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Sold, for 600 thousand belly!"
+ },
+ {
+  "i": 66,
+  "style": "Note",
+  "name": "",
+  "text": "Note: Human trade"
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What's this, Duval?"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "This disgusting list?"
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "Duval",
+  "text": "It's the market prices."
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Market prices?"
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Basic auction minimum prices..."
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Humans, 500 thousand belly."
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Male giants are 50 million belly..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What? Female mermen are sold for 70 million belly?!"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "Duval",
+  "text": "You understand why everyone tries to catch mermaids now, right?"
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "Duval",
+  "text": "The value is something else!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "Duval",
+  "text": "You can do whatever you want to them once you've bought them..."
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "Duval",
+  "text": "but they usually end up in some rich person's aquarium."
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "Duval",
+  "text": "They have to live out their lives as decorations in small tanks."
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What're you trying to say, damn you?!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Now that I think about it though, you can hardly call that \"living\" at all."
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If that's what you think, then hurry up and find her!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "Rider",
+  "text": "We've covered all the slave-traders stationed in the 20's!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hurry up and go into the air!"
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Don't make it sound so easy!"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "Rider",
+  "text": "This ain't a bird, you know, it's gotta pick up speed first!"
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Camie! Where are you?!"
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "This is what's getting to me!"
+ },
+ {
+  "i": 89,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1600,0)}Kidnapping team \"Coffee Monkeys\""
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "It was a giant, damn it! It was easy enough to catch the guy sleeping..."
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "but do you have any idea how hard it was to carry'im?!"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Of course, you'd think we'd gotten the big draw this time, right?"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "That's how it usually is, right?"
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "But then some guy went and brought a freakin' mermaid to the auction house!"
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Who wouldn't get drunk when somethin' like that happens?"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hang on! Who was that?"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "Rider",
+  "text": "This is unit 5, to all Rosy Life Riders!"
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Can you hear me? The guy who took the mermaid is Peterman!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "Rider",
+  "text": "The place they took her to was the auction in Grove 1!"
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "Rider 2",
+  "text": "Did you say it was Peterman?"
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Did you find it out?"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "Rider 2",
+  "text": "Yeah, let's fly!"
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "Brook",
+  "text": "This is a little too fast! I am scared!"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "Franky",
+  "text": "She hasn't been sold already, has she?"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Hurry!"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Grove 1 should be nearby! Leave it to me!"
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "Rider 2",
+  "text": "We'll head towards the Auction House!"
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You figured out where she is? Thank god!"
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Camie!"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hurry!"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "I'd like to return to the ship, but where's the number 1 tree?"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "Bounty-hunter",
+  "text": "I'll tell you!"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well, well, let us keep going! Here is entry #6!"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "Disco",
+  "text": "A 10-pack of male human workers!"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "Duval",
+  "text": "This is the Head, calling all men! Get me some info on today's auction!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "Rider",
+  "text": "It started at 4 o'clock, and it's been going for 30 minutes already!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Hey, will this really be alright?"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "Duval",
+  "text": "No problem at all!"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "Duval",
+  "text": "A mermaid would certainly be the main event, so they'll save her for the end!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "Duval",
+  "text": "We'll make it!"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Anyway, take the fastest route! This thing is slower than the Flying Fish!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Like I said, calm down, Master Black Leg!"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I'm the Head of this team! Did you see me change my course after we learned the mermaid's location?"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Uh, no..."
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "Duval",
+  "text": "That's because..."
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "Duval",
+  "text": "I've been heading to Grove 1 from the beginning!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "Duval",
+  "text": "Look ahead! That's Grove 1! I am the Head, so I got here before everyone else!"
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Are you serious?"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "This must be the intuition of a professional!"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "Rider",
+  "text": "We've arrived, Reindeer-san!"
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Thank you. Huh?"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Oh, Sanji!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "You lost, didn't you?!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "Rider",
+  "text": "Be careful!"
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Yeah! Thanks a lot!"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "Franky",
+  "text": "What's with this guy?"
+ },
+ {
+  "i": 137,
+  "style": "Secondary",
+  "name": "Disco",
+  "text": "200 thousand belly! Anyone else?"
+ },
+ {
+  "i": 138,
+  "style": "Secondary",
+  "name": "Disco",
+  "text": "Sold!"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Is this it?"
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Like I said, why can't you give her back?!"
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I'm telling you that Camie-chan is not for sale!"
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "You're the one who's out of line here!"
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "If you don't drop it soon, I can take legal countermeasures!"
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "You're disturbing our business!"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Those guys...!"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What do you mean, \"business\", you damn bastard?!"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Do you think I'll accept a business like this in this world?!"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "A lawless pirate like yourself has no right to lecture me about morality!"
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Slave-trading is a worldwide taboo! How much did you pay the government?"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "What an ill-mannered accusation..."
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "But I suppose you're right!"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "When talking to the government or marines,"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "it seems that terms like \"slave-trading\" are hard for them comprehend."
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "It's as if they have no idea that this business of ours exists!"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "How ridiculous... So the whole system is crooked, then?!"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "Nami",
+  "text": "How can the government tolerate this?!"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "So, could you please..."
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "Franky",
+  "text": "This is annoying!"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "Franky",
+  "text": "We're sure the mermaid is in there, so let's just break her out!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Weapons..."
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "No! There are Celestial Dragons inside!"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "And if Camie has been brought here, then she's probably got a neck ring already!"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "That exploding thing?!"
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Then, we can't just get her out?"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "If you'd please leave then."
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Why, you...!"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "No, Sanji!"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Let me go, Chopper!"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I can't, Sanji!"
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Damn it..."
+ },
+ {
+  "i": 171,
+  "style": "Secondary",
+  "name": "Sanji",
+  "text": "If the guy won't listen, then...!"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Hey, Girlie! Where are you going?"
+ },
+ {
+  "i": 173,
+  "style": "Secondary",
+  "name": "Chopper",
+  "text": "I said calm down, Sanji!"
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "Nami",
+  "text": "If we can't hurt them, then we'll just play by their rules to get Camie back!"
+ },
+ {
+  "i": 175,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(800,0)}Backstage"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "Slave-trader 1",
+  "text": "Bring out numbers 15 and 16."
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "Slave-trader 2",
+  "text": "Understood."
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Please stop!"
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "I don't want to! I'd rather stay in the cell!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "I don't wanna be a slave!"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Help me, please! Help!"
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Give him a tranquilizer."
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Call the Navy! Please!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Don't sell me, please!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin... Save me!"
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "{\\fad(0,1000)}Noooooo!"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Chief, I think that's the Straw Hat crew."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "Kid",
+  "text": "The Straw Hats' captain isn't there..."
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "Kid",
+  "text": "I was hoping to see just how dumb he was myself..."
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Now, things are heating up, on this Grand Human Auction!"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Our next entry is an instant purchase, for sure!"
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Entry number 15 is a knockout female slave!"
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Please observe the miraculous proportions of this 20 year old dancer, Pascia!"
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "Disco",
+  "text": "She's one of today's big draws!"
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Her marvelous dancing figure is sure to impress even the heavens!"
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "Nami",
+  "text": "We've got loads of treasure stored on the ship."
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's at least 200 million in all..."
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What's the going price for a mermaid?"
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "If you have that much, then it should be enough, but I can't repay that!"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What, Hachi? Are you Camie's guardian or something?"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "It's not like that..."
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "Nami",
+  "text": "If it's to get our friend back, then I don't care how much we have to pay!"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Everyone agrees, right?"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Of course! This isn't about money!"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Thanks a lot... you guys..."
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "I'll never forget this...!"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "That's the Nami-san I love!"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Shut up and come on."
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hurry! Hurry!"
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "Rider",
+  "text": "I get it!"
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hurry to Grove 1!"
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "So this is Grove 2, huh?"
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Then it's the next one, right?"
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Is everyone there yet?"
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "Man",
+  "text": "Extra! Extra!"
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Is the World Government out of its mind?"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "If they really do this, then...!"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Captain, this could mean trouble!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "Drake",
+  "text": "Is that how it is?"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Is something wrong, Captain Drake?"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "Drake",
+  "text": "I understand now..."
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "Drake",
+  "text": "Seeing how close this island is to Navy HQ..."
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "Drake",
+  "text": "I thought it was strange that there were so few marines around."
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "What has happened?"
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "Drake",
+  "text": "It's been decided that Fire Fist Ace, commander of Whitebeard's second division, is set to be executed!"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "If they do that, then Whitebeard is sure to make a move!"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "Drake",
+  "text": "There's gonna be a war!"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Entry #15!"
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "Disco",
+  "text": "The beautiful dancer, Pascia!"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "Disco",
+  "text": "With a splendid starting bid of 800 thousand belly,"
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "Disco",
+  "text": "the bid has risen to an amazing 7 million 200 thousand belly!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Ah... We have finally arrived."
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well well, things are heating up now..."
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "Disco",
+  "text": "What will be the next item up for bid?!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Good, the auction is still going."
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "Servant",
+  "text": "However they're almost done."
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "This one is truly useless!"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Hey! Have this one sold off too! I don't want him anymore."
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "Servant",
+  "text": "I'll do the paperwork right away."
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "A Celestial Dragon..."
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Another one showed up... One of the World Nobles..."
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Those guys that can call an admiral from the Navy if we attack them, huh?"
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "I would like a mermaid... Are they gonna sell one today?"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "Servant",
+  "text": "It seems that mermaids are quite difficult to catch..."
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "Servant",
+  "text": "so I doubt they've got one this time."
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Oh, my! Saint Charlos!"
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Hurry and take me to my seat!"
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Yes, right away, Sir!"
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "Sharlia",
+  "text": "So, you are finally here, big brother Charlos?"
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well then, it seems we're ready..."
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Entry #16 is..."
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Can you believe it?! A pirate captain!"
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "Disco",
+  "text": "A wanted man with a bounty of 17 million belly! His name is Lacuba!"
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "Disco",
+  "text": "He is a pirate famous for his delicate, intricate planning! His well built body is also worthy of note."
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "Disco",
+  "text": "He'd make an excellent transport, hard worker, or sandbag!"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "Disco",
+  "text": "A practical choice if I ever saw one!"
+ },
+ {
+  "i": 257,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Now then...!"
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Don't tell me, he...?!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "Man 1",
+  "text": "He collapsed! What's going on?!"
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "Man 2",
+  "text": "I saw blood!"
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Hey! Hurry up and pull the curtains!"
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What just happened?"
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "He bit his tongue."
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "He decided that he didn't want to live his life as a slave..."
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "and figured it would be better to just die right now."
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "I suppose that's actually a logical choice."
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Aren't they going to bring out the mermaid soon?"
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I'm sure Camie is really scared..."
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Just hang in there a little longer..."
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "Nami",
+  "text": "We're going to save you!"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Fortunately, we have the treasure from Thriller Bark!"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Thanks a lot, you guys..."
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "This is no good..."
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "Disco",
+  "text": "God damn it! We can't sell him now... That idiot!"
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "Disco",
+  "text": "The mermaid is up next, right?"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Yes. We're ready to get her whenever you want us to."
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Alright!"
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Get her out, now!"
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "Slave-trader",
+  "text": "Yes!"
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well then, about #16!"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "Disco",
+  "text": "It would appear that the pirate Lacuba got a little nervous... He had a nosebleed, and collapsed."
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "Disco",
+  "text": "We'll put him up for sale again later."
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "Disco",
+  "text": "However, everyone...!"
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "Disco",
+  "text": "The next item we're going to bring out now..."
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "Disco",
+  "text": "is a super deluxe-item that's sure to make you forget all about this trouble!"
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Countless people have tried to capture one..."
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Please look at this silhouette!"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "Man",
+  "text": "Could it be...?!"
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "Disco",
+  "text": "An introduction should not be necessary... Just have a look with your own eyes!"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Thank you for your patience! Well then, here it comes!"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Have a good look at this!"
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Straight from Fishman Island..."
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Camie, the mermaid!!!"
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "Man",
+  "text": "It's real! A young mermaid!"
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Hacchin and the others! They're here to save me!"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Camie! They've brought out Camie!"
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Alright, we're gonna take her back!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "Nami",
+  "text": "We've got 200 million after all!"
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Camie!"
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Finally! A mermaid! They're selling a mermaid!"
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Five hundred million!!"
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "I'll buy it for 500 million belly!"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "Man 2",
+  "text": "No use... We can't beat that..."
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What's that? We don't have that much!"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "Rosward",
+  "text": "You've gone and wasted our money again."
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "Rosward",
+  "text": "You already have piranhas in your fish tank, do you not?"
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "I'd like too see them try and chase after her..."
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Mermaids are the fastest sea-creatures in the world."
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "Camie",
+  "text": "I can't hear the voices outside..."
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Get me out of here, Hacchin!"
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "Disco",
+  "text": "It would appear that the audience has been rendered speechless..."
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well, does anyone want to make a higher bid than 500 million?"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "There's gotta be something we can do..."
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Hey, Sanji?"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Nami?"
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "This can't be happening! They can't take our friend away just because we don't have enough money!"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "This is bad... We never considered this possibility..."
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "If we can't get her back with money, then the situation has gotten even worse!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "Disco",
+  "text": "If not, then this auction will be quite a short one!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Now that it's come to this, I might as well just take her back by force and run off to the sea!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Don't be ridiculous! What about the neck-ring?"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "You'd just blow her up!"
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Then I just have to get the key to that ring somehow..."
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "Disco",
+  "text": "That's enough time!"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "I did it!"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "Kid",
+  "text": "It's like a symbol of how messed up the world is..."
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "Kid",
+  "text": "I've seen enough of this farce. We're leaving."
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Well then, thank you for your attention up until now."
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "Disco",
+  "text": "The main prize this time, the mermaid Camie..."
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "Disco",
+  "text": "goes to the World Noble, Saint Charlos for the price of 500 million belly..."
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "Disco",
+  "text": "It's..."
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "Kid",
+  "text": "What?!"
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "Disco",
+  "text": "...a deal!"
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "Disco",
+  "text": "What?!"
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "Rosward",
+  "text": "How noisy."
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Luffy!"
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "What the heck?! Couldn't you land any better than that?!"
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "Rider",
+  "text": "No way! It's a Flying Fish, you know!"
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "Rider",
+  "text": "And it was you who told me to crash into the building!"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Anyway, you told me to get on..."
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "But why were you in such a hurry to get back to the Sunny anyway?"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Where are we?"
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Zoro, too?"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "You guys!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "Kid",
+  "text": "Hey, that's Straw Hat Luffy!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "Man",
+  "text": "What's with those guys? Who are they?"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Oh! Camie!"
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "Camie",
+  "text": "Luffy-chin!"
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Camie! I looked for you!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Thank God!"
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Wait a second, Straw Hat! What are you doing?"
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "What do you mean?! Camie's right there!"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "She's there, but she's got an exploding neck-ring attached! So you can't just take her!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Besides, the Celestial Dragons are here!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Like I care!"
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "Man 2",
+  "text": "He's a pirate!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Camie!"
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Just stop already!"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "Woman",
+  "text": "A fishman!"
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "Man",
+  "text": "That's disgusting!"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "Man 2",
+  "text": "What's a fishman doing here?"
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "Man 3",
+  "text": "You octopus monster!"
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm gonna save you right now, Camie!"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Get him!"
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Damn you! Camie isn't for sale!"
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "Disco",
+  "text": "Don't let him get any closer to the stage!"
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "Man",
+  "text": "What's a fishman doing on land?"
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "Woman",
+  "text": "No, don't get any closer! It's creepy!"
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "Man",
+  "text": "Hey, staff! Hurry up and restrain him!"
+ },
+ {
+  "i": 370,
+  "style": "Main",
+  "name": "Woman",
+  "text": "No, don't come here!"
+ },
+ {
+  "i": 371,
+  "style": "Main",
+  "name": "Man",
+  "text": "Go back to the sea, you monster!"
+ },
+ {
+  "i": 372,
+  "style": "Main",
+  "name": "Man 2",
+  "text": "Yeah, that's right!"
+ },
+ {
+  "i": 373,
+  "style": "Main",
+  "name": "Man 3",
+  "text": "Get off this island!"
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "Man 4",
+  "text": "Get lost!"
+ },
+ {
+  "i": 375,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Hachi! Hurry up and escape!"
+ },
+ {
+  "i": 376,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "You're the one who's in trouble now!"
+ },
+ {
+  "i": 377,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I'm fine! What about Camie?"
+ },
+ {
+  "i": 378,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "What's going on here?"
+ },
+ {
+  "i": 379,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It's just like Robin said..."
+ },
+ {
+  "i": 380,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Mermen and fishmen are discriminated against on this island!"
+ },
+ {
+  "i": 381,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Discriminated against...?"
+ },
+ {
+  "i": 382,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Even Camie and Hachi?!"
+ },
+ {
+  "i": 383,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "I hit it! I shot a fishman!"
+ },
+ {
+  "i": 384,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Hachi!"
+ },
+ {
+  "i": 385,
+  "style": "Main",
+  "name": "Woman",
+  "text": "I'm glad he shot it!"
+ },
+ {
+  "i": 386,
+  "style": "Main",
+  "name": "Woman",
+  "text": "I was afraid that if it came any closer, we might get infected by it!"
+ },
+ {
+  "i": 387,
+  "style": "Main",
+  "name": "Man",
+  "text": "He was definitely trying to cause some trouble... After all, they've only got the brains of a fish!"
+ },
+ {
+  "i": 388,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Father, please look! I caught a fishman!"
+ },
+ {
+  "i": 389,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "I caught it myself, so it's for free!"
+ },
+ {
+  "i": 390,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Free! Free! An octopus for free!"
+ },
+ {
+  "i": 391,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "I got it, I got it!"
+ },
+ {
+  "i": 392,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "An octopus-slave for free! Free!"
+ },
+ {
+  "i": 393,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "W... Wait... Please..."
+ },
+ {
+  "i": 394,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Straw Hat..."
+ },
+ {
+  "i": 395,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You can't... get upset...\\NI was just careless, that's all..."
+ },
+ {
+  "i": 396,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "You promised that... even if someone was shot right before your eyes..."
+ },
+ {
+  "i": 397,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "you wouldn't lay a hand on the Celestial Dragons, right?!"
+ },
+ {
+  "i": 398,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "After all, I used to be a pirate..."
+ },
+ {
+  "i": 399,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I did so many awful things, so..."
+ },
+ {
+  "i": 400,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I had this coming..."
+ },
+ {
+  "i": 401,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Sorry..."
+ },
+ {
+  "i": 402,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I never wanted this to happen..."
+ },
+ {
+  "i": 403,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I just wanted... to make up for all the things I did to Nami...!"
+ },
+ {
+  "i": 404,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I was trying to help you, but..."
+ },
+ {
+  "i": 405,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "As always..."
+ },
+ {
+  "i": 406,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I just screw up no matter what I do...!"
+ },
+ {
+  "i": 407,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I really am... clumsy after all..."
+ },
+ {
+  "i": 408,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Hachi..."
+ },
+ {
+  "i": 409,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "In the end... I just caused you trouble...!"
+ },
+ {
+  "i": 410,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I'm sorry!"
+ },
+ {
+  "i": 411,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "I'm so sorry!"
+ },
+ {
+  "i": 412,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Damn fish!"
+ },
+ {
+  "i": 413,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "Even after I shot you, you keep on blabbering! You're annoying!"
+ },
+ {
+  "i": 414,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "You, what's with that look of yours?!"
+ },
+ {
+  "i": 415,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Stop it, Straw!"
+ },
+ {
+  "i": 416,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "If you do that, you'll be in huge trouble! Please stop!"
+ },
+ {
+  "i": 417,
+  "style": "Main",
+  "name": "Man",
+  "text": "What is that guy doing?!"
+ },
+ {
+  "i": 418,
+  "style": "Main",
+  "name": "Kid",
+  "text": "Is he serious?!"
+ },
+ {
+  "i": 419,
+  "style": "Main",
+  "name": "Charlos",
+  "text": "You are annoying, too!"
+ }
+]

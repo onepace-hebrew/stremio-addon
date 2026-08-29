@@ -1,0 +1,2222 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,410)}Translation\\NYibis"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(655,500)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,142)}Editing\\NFeeso"
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,253)}Infoboxes\\NBernieCrane"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,383)}Formatting\\NSewil\\NDatenshi"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,493)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 7,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 9,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 10,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 19,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(30,600)}Sabaody Archipelago\\NGrove #13"
+ },
+ {
+  "i": 20,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(400,0}Kizaru Arrives"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Ever since then, Monkey D. Luffy..."
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I've wanted to meet you someday."
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Shanks...!"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "If Shanks hadn't told me all those things about you, I wouldn't have told you any of this either."
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Anyway, you did well to make it this far."
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "He must be awaiting your arrival in the New World."
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Really?"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah, he must be!"
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I wanna see him again, too!"
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Well, the situation is like this, so..."
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I was supposed to coat your ship, right?"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Come to think of it, ship-coating costs a lot of money..."
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "No, it's fine, Hachi."
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I won't take any money from your friends."
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "That's good."
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Thank you, Rayleigh."
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I don't really get it, but it's great that he'll do it for free!"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Thanks for that!"
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "You're really generous!"
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Rayleigh-san..."
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Hmm?"
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "Robin",
+  "text": "I have a question."
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Exactly what is the \"Will of D\"?"
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "Robin",
+  "text": "On the Poneglyph I saw on Sky Island..."
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Roger's name was engraved with the ancient language."
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "Robin",
+  "text": "How did he know those letters?"
+ },
+ {
+  "i": 47,
+  "style": "Flashbacks",
+  "name": "Roger",
+  "text": "I have come here, and I will lead these words to the end."
+ },
+ {
+  "i": 48,
+  "style": "Flashbacks",
+  "name": "Roger",
+  "text": "Pirate Gol D. Roger."
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Do you people know what happened during the \"void century\" 900 years ago?"
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Yeah, we know."
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "We learned the entire history."
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "However, miss..."
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Don't be hasty."
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Please push forward with your ship, one step at a time."
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Perhaps we, as well as Ohara, were too impatient."
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "If I were to tell you the entire history here and now..."
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "it's not like you could do anything the way you are now."
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "After you've taken your time to see the world..."
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "The conclusion you'll reach might be different from what we found."
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "If you still want to hear it, then I'll tell you everything about the world now."
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "Robin",
+  "text": "No, don't tell me."
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "Robin",
+  "text": "I'll continue on the journey."
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "You'll see it all eventually."
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "It's too bad about what happened to your homeland, Ohara."
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "But Roger couldn't actually read those letters."
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "We were pirates."
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "We couldn't possibly compare to the genius Clover, or the other Oharans' intelligence."
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "He..."
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Could hear the \"voice of all things\"."
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "That's all there is."
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey, are you sure, Robin?"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Didn't you just let a great chance slip away?!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Hey, old man!"
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I wanna ask something too!"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "The legendary treasure, One Piece..."
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Is it really..."
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Usopp!"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I don't wanna hear where the treasure is!"
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I don't even wanna hear if there {\\i1}is{\\i0} a treasure or not!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I dunno anything about it, but everyone sets off to sea to find out for themselves!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "If Pops were to tell us anything here, then I'll quit on becoming Pirate King!"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "If we're gonna have a boring adventure like that, then I won't do it!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Uh, I got it!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I got it!"
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Sorry, I just got carried away!"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I don't wanna hear anything either!"
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Oh, yeah!"
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "I've got the \"I'll die if I hear anything about One Piece\"-disease!"
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "So don't you dare say anything, old man!"
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Can you do it?"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "The Grand Line far exceeds anything than you can imagine."
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "The enemies will be strong too."
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Can you conquer such a terrifying sea?"
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I don't wanna conquer anything!"
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It's just that the person with the most freedom on the sea is the Pirate King!"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I see."
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "Shakki",
+  "text": "I'm really a big fan of yours, Monkey-chan."
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "The ship is in Grove 41, right?"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I'll be going there."
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "What about you?"
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "The admiral is still coming to this island, you know."
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "Nami",
+  "text": "We'll just cause trouble if we stay here..."
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "Nami",
+  "text": "So, let's go somewhere..."
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "Nami",
+  "text": "And shop!"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Are you out of your mind?!"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "We're being chased, so we have to stay hidden!"
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "Franky",
+  "text": "She's right."
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "Franky",
+  "text": "If we stay together, people will probably come after us."
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "Franky",
+  "text": "In order to get off more smoothly, it'd be better for us to split up in town."
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "Then, we'll just randomly split up into groups and gather up there when he's done, right?"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Talking about gathering up like it's a plan..."
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "Whose mouth did that come from?"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Shakki, you have that, right?"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "Shakki",
+  "text": "Yeah, I've got one."
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "Nami",
+  "text": "This is a Vivrecard!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Oh, if you know about it, that makes things easier."
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I'm a wanted man too..."
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "So I think I'll move the ship from Grove 41 and work on it somewhere else."
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "The coating should take about three days."
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "It takes three whole days?"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Your lives depend on my work, so that's the fastest I can do."
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "Brook",
+  "text": "So, we have to survive for three days..."
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Scary!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "Shall we say sunset in three days?"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I'm not sure which grove I'll be in..."
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "But just follow the Vivrecard, and I'll be waiting for you with the ship coated."
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "You'd better go buy whatever supplies you'll need for your underwater trip to Fishman Island."
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "Caimie",
+  "text": "Thanks a lot, Luffy-chin and everyone!"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Really, thanks!"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "This all happened because of me, so sorry!"
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "To show our gratitude, we'll show you the way to Fishman Island, so don't worry!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "Hachi",
+  "text": "Watch out for the navy for the next three days!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "Hachi, watch your health."
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "Shakki",
+  "text": "Let's meet again in three days."
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "Shakki",
+  "text": "I'll be there to send you off, okay?"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "See ya later, granny!"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We're up against an admiral!"
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "We'll have to make sure that none of us die, eh?"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Don't say scary stuff like that!"
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Three days, huh?"
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Then, let's go..."
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "To the amusement park!"
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "Crew",
+  "text": "Hey!"
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "Caimie",
+  "text": "Take care!"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "Pappagg",
+  "text": "Don't be too reckless!"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Yeah, you too!"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I'll leave Hachi to you!"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "Rayleigh",
+  "text": "I guess I should go, then."
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Yeah, I'm counting on you!"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "Franky",
+  "text": "But who'd have thought..."
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "Franky",
+  "text": "that we'd meet one of the Pirate King's crew mate in a place like this?"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "Franky",
+  "text": "It surprised me."
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "Franky",
+  "text": "How should I put it... He really left an impression, especially for a geezer."
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Well, he is the most famous of Roger's crewmates, after all."
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "Franky",
+  "text": "So he was a crew mate on the Oro Jackson, huh?"
+ },
+ {
+  "i": 156,
+  "style": "Flashbacks",
+  "name": "Tom",
+  "text": "I did assist a man named Roger..."
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "Franky",
+  "text": "I'm glad I met him."
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "So, you're the type of guy who respects his elders?"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "Franky",
+  "text": "It happens from time to time!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hey..."
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Why don't we go to the amusement park?"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "Franky and Usopp",
+  "text": "Will you shut up?!"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "Chopper and Brook",
+  "text": "I want to go..."
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "Franky and Usopp",
+  "text": "You, too?!"
+ },
+ {
+  "i": 165,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(700,400)}Sabaody Archipelago\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NGrove 27 Harbor"
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "It's Admiral Kizaru!"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "We've got to run!"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Capture the pirates!"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Hello?"
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "Marine",
+  "text": "There are plenty of wanted pirates around!"
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Look out for those with bounties exceeding 100 million!"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "Pirates",
+  "text": "Run!"
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Hello? This is Kizaru..."
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Now, that's odd..."
+ },
+ {
+  "i": 175,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(700,0)}Navy Headquarters Admiral\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\"Kizaru\" (Borsalino)"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "{\\an8}Hello?"
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "How strange..."
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "This is really bad!"
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "If I..."
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "If I were to take him down, I'd become famous at once!"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "Don't be a fool! He's one of the navy's strongest fighters!"
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Now! You..."
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "Stop it!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Hello?"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "What?! Hey, I'm sure I just hit him!"
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "It definitely passed through his head!"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Now, that's really odd..."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "It's obvious that he's got some sort of ability!"
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "There's no way a gun would work!"
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "Pirate 1",
+  "text": "Run!"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I'd like to ask you a question..."
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I'm looking for a man named Sentoumaru..."
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "That guy's my subordinate, you see..."
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Sheesh, I was just asking..."
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "Marine 1",
+  "text": "Don't you think that's going too far, Kizaru-san?"
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "Marine 2",
+  "text": "You can't destroy the Yarukiman Mangroves!"
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oops, seems like I overdid it..."
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "He's totally messed up..."
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "So, that's Admiral Kizaru?"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Apoo-san! We're in trouble, too!"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "We have to get away!"
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "You're such an idiot."
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Where's the fun in just running away?"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "We've gotta upset the enemy before we go."
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "What are you planning to do?!"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "Marine 4",
+  "text": "Requesting backup at the port!"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "Marine 2",
+  "text": "What happened?"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "Marine 4",
+  "text": "I don't know!"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "Marine 4",
+  "text": "I have no idea, but all our troops..."
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "Marine 4",
+  "text": "have turned into children and old men!"
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "Marine-kid",
+  "text": "What's going on?!"
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "Old marine-guy",
+  "text": "My back is killing me..."
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "Bonney",
+  "text": "This is classic!"
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "Marine",
+  "text": "It's her doing!"
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "Marine",
+  "text": "The one with the bounty of 140 million: Jewelry Bonney!"
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Watch out for the rookies with bounties over 100 million!"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "Marine 2",
+  "text": "You dog!"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "Marine 2",
+  "text": "You're Capone \"Gang\" Bege, the guy with 138 million on your head, right?!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "Marine 3",
+  "text": "You'll never reach the sea!"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "Marine 4",
+  "text": "What happened to your subordinates?! Are they moving independently?!"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "Marine 5",
+  "text": "What an unlucky man you are... Surrender!"
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "Bege",
+  "text": "I've got you guys beaten..."
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "Bege",
+  "text": "when it comes to military might."
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Oh, I'd like to ask you something..."
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "K-Kizaru!"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "W-We'll take care of this..."
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Captain, please run away!"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "Do not panic."
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "I will not die today."
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I'm telling you, we'll hide in the amusement park!"
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "Nami",
+  "text": "Stop lying."
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "You'd just play around, flashily at that."
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Who're you?"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "Soldier",
+  "text": "We're under attack!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "Soldier 2",
+  "text": "Don't just stand around!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "Soldier 3",
+  "text": "Standby to attack!"
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "Soldier 3",
+  "text": "Bring out the cannons!"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "Soldier 4",
+  "text": "Open the gates!"
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "Soldier",
+  "text": "Commence attack!"
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "Marines",
+  "text": "What?!"
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "Soldier",
+  "text": "Shoot!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "Marine",
+  "text": "What?"
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "Marine 2",
+  "text": "This guy's got something inside his body!"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "Marine",
+  "text": "It got bigger...!"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "Marine 2",
+  "text": "What's going on?!"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "Marine 3",
+  "text": "He didn't even do anything!"
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "Soldier",
+  "text": "Cavalry, charge!"
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Something's coming out of his stomach again!"
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "Marine",
+  "text": "An army is coming out!"
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "Marine 2",
+  "text": "Now it's horses?!"
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "Marine",
+  "text": "Capone \"Gang\" Bege..."
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "Marine",
+  "text": "What kind of power does he have?!"
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "Soldiers",
+  "text": "Firing squad, take aim!"
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "Soldier",
+  "text": "What's with the smoke?"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "Soldier",
+  "text": "Father, there's too much smoke!"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "Bege",
+  "text": "Like I said, I've got you outnumbered!"
+ },
+ {
+  "i": 257,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(300,200)}Sabaody Archipelago\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NGrove 27 Harbor"
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "Man",
+  "text": "Hurry up and run!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "Man",
+  "text": "It seems that the Seven Warlords are on the move!"
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "Man 2",
+  "text": "Seriously? Who?"
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "Bonney",
+  "text": "The Seven Warlords?!"
+ },
+ {
+  "i": 262,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(550,500)}Grove 24"
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "I suppose they won't let us pass Navy HQ..."
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "But!"
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "I've got a bit of a stubborn streak!"
+ },
+ {
+  "i": 266,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,700)}Island Grove 24"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "I'm begging you. Run, Captain Hawkins!"
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Captain Hawkins!"
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "Battle: Probability of defeat, 100%..."
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Do you have a moment?"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "Escape: Probability of success, 12%..."
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I'm trying to find a man named Sentoumaru..."
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "Defense: Probability of evasion, 76%..."
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "I do not know that man."
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "Please ask someone else."
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Well, if I can't find him..."
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "I won't have anything to do..."
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "And with that being the case, there's no way I'd let someone with a bounty like yours, go free."
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "A bounty of 249 million, \"The Mage\", Basil Hawkins..."
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Speed is weight."
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Have you ever experienced a light-speed kick?"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "Pirates",
+  "text": "Captain!"
+ },
+ {
+  "i": 283,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(250,250)}Grove 27"
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "What happened?!"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "Pirate 3",
+  "text": "Hey, what happened?!"
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "I don't know! He just suddenly flew off!"
+ },
+ {
+  "i": 287,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(200,200)}Grove 24"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "He's really strong."
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Hey, is he still gonna fight?!"
+ },
+ {
+  "i": 290,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(300,150)}Archipelago Harbor"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Hey, what was that?"
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "He just suddenly..."
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "He must have been attacked from somewhere..."
+ },
+ {
+  "i": 294,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(350,350)}Grove 24"
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Captain!"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "I should have guessed, you are far stronger than I imagined."
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "How odd..."
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "You've beaten two already..."
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "Having only ten bodies against an admiral is pretty discouraging..."
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "That's the \"Mad Monk\", Urouge!"
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Not just him!"
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "That's one of the Seven Warlords, Bartholomew Kuma!"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "He got me... He's too strong!"
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "Don't tell me... that's Kizaru?!"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "I've got terrible luck!"
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "A navy admiral in front of me..."
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "A Warlord behind me..."
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "Is this the end for me?!"
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "I wouldn't say that."
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "Hawkins",
+  "text": "I still do not see the mark of death upon you."
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "Really?"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "Hawkins from North Blue, huh?"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "You may be my enemy, but I appreciate the joke!"
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "What? Another one showed up!"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "That's \"Red Flag\", X-Drake!"
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "Pirate 2",
+  "text": "Why?!"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "Kizaru",
+  "text": "Rear admiral, Drake..."
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "Drake",
+  "text": "Damn, I didn't intend to meet Kizaru!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "I'm pretty badly beaten, but let's see..."
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "if there really is some hope of victory!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "Urouge",
+  "text": "Now, it's time for my counterattack!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Look! This has become quite the situation."
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "Now, this is interesting!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "We're in trouble!"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "Those guys are all gonna die!"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "Pirate",
+  "text": "This is our chance to run, right?!"
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "What're you saying?"
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "Apoo",
+  "text": "This is where the fun begins!"
+ },
+ {
+  "i": 329,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(500,400)}Grove 12"
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Who're you?"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Stand back, Luffy!"
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "Nami",
+  "text": "He's one of the Seven Warlords!"
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Seven Warlords?"
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "How do you know?"
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "No matter what, don't let that attack hit you!"
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "It's a shockwave!"
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "Nami",
+  "text": "What's this?!"
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "He could even do this?!"
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Hey, that's not a shockwave!"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "That's a..."
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "Chopper and Luffy",
+  "text": "Beam!"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "This is no time to be happy!"
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "Robin",
+  "text": "Bartholomew Kuma... Why is he here again?!"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "Zoro",
+  "text": "That bastard...!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Is he that guy who showed up afterwards on Thriller Bark?!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Yeah, that's him!"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "Usopp",
+  "text": "Back then, he made some shockwave from the pads on his hand and caused us a lot of trouble!"
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "He was planning to eliminate us there, but..."
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "Chopper",
+  "text": "I guess he realized we survived and came back!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "Franky",
+  "text": "Back then, you sure got us good!"
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "Franky",
+  "text": "{\\fad(150,150)}Coup de Vent"
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "Nami",
+  "text": "It worked!"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "Franky",
+  "text": "No."
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "Brook",
+  "text": "Luffy-san!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "{\\fad(150,150)}Gear Second"
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "I already know you're strong, so I'll go all-out right away!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "Sanji",
+  "text": "We've got no choice!"
+ },
+ {
+  "i": 358,
+  "style": "Thoughts",
+  "name": "Zoro",
+  "text": "Something's strange..."
+ },
+ {
+  "i": 359,
+  "style": "Thoughts",
+  "name": "Zoro",
+  "text": "He feels different from back then..."
+ },
+ {
+  "i": 360,
+  "style": "Thoughts",
+  "name": "Zoro",
+  "text": "Is it just my imagination?"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "Luffy",
+  "text": "Let's go!"
+ },
+ {
+  "i": 362,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(300,450)}Grove 36"
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "He's late!"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "The warships should be here by now..."
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "That's strange..."
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "Why hasn't he contacted me yet, that old man Kizaru..."
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "If he doesn't hurry up..."
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "I'll have to..."
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "Sentoumaru",
+  "text": "finish off all those rookies!"
+ }
+]
