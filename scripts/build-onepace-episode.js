@@ -76,11 +76,21 @@ const EPISODES = {
   SAB_9: { arc: '20 Sabaody Archipelago', nn: '09', stem: 'sabaody 09 he', epLabel: 'Sabaody Archipelago 09' },
   SAB_10: { arc: '20 Sabaody Archipelago', nn: '10', stem: 'sabaody 10 he', epLabel: 'Sabaody Archipelago 10' },
   SAB_11: { arc: '20 Sabaody Archipelago', nn: '11', stem: 'sabaody 11 he', epLabel: 'Sabaody Archipelago 11' },
+  AM_1: { arc: '21 Amazon Lily', nn: '01', stem: 'amazonlily 01 he', epLabel: 'Amazon Lily 01' },
+  AM_2: { arc: '21 Amazon Lily', nn: '02', stem: 'amazonlily 02 he', epLabel: 'Amazon Lily 02' },
+  AM_3: { arc: '21 Amazon Lily', nn: '03', stem: 'amazonlily 03 he', epLabel: 'Amazon Lily 03' },
+  AM_4: { arc: '21 Amazon Lily', nn: '04', stem: 'amazonlily 04 he', epLabel: 'Amazon Lily 04' },
+  AM_5: { arc: '21 Amazon Lily', nn: '05', stem: 'amazonlily 05 he', epLabel: 'Amazon Lily 05' },
+  IM_1: { arc: '22 Impel Down', nn: '01', stem: 'impeldown 01 he', epLabel: 'Impel Down 01' },
+  IM_2: { arc: '22 Impel Down', nn: '02', stem: 'impeldown 02 he', epLabel: 'Impel Down 02' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +
 // PEN's "Rainbow Star lyrics" OP (kept here for PEN index stability).
 const DROP_STYLES = new Set(['Credits', 'Rainbow Star lyrics']);
+// Impel Down's OP is exploded into karaoke/kanji/translation layers — drop them
+// at extract so cue indices stay dialogue-only (never in cues/he.json).
+const DROP_STYLE_RE = /^(Karaoke|Kanji|Translation)(\s|$|-)/i;
 // Styles that WERE extracted (so indices are stable) but are skip-emitted at
 // build — never shown. Opening-theme karaoke (TB "Jungle P lyrics"/"Lyrics",
 // SAB "OP11 Lyrics") + fansub staff credits that aren't the exact "Credits"
@@ -131,7 +141,7 @@ function keptCues(enText) {
     if (!inEvents || !line.startsWith('Dialogue:')) continue;
     const p = line.slice('Dialogue:'.length).split(',');
     const style = p[3].trim();
-    if (DROP_STYLES.has(style)) continue;
+    if (DROP_STYLES.has(style) || DROP_STYLE_RE.test(style)) continue;
     out.push({ i: i++, style, name: p[4].trim(), start: p[1].trim(), end: p[2].trim(), prefix: p.slice(0, 9), text: p.slice(9).join(',') });
   }
   return out;
@@ -195,7 +205,7 @@ async function build(id) {
     if (inEvents && line.startsWith('Dialogue:')) {
       const p = line.slice('Dialogue:'.length).split(',');
       const style = p[3].trim();
-      if (DROP_STYLES.has(style)) continue; // not indexed → no ci++
+      if (DROP_STYLES.has(style) || DROP_STYLE_RE.test(style)) continue; // not indexed → no ci++
       if (SKIP_STYLE.test(style)) { ci++; continue; } // OP lyrics / fansub credits: indexed but not shown
       const enField = p.slice(9).join(',');
       const he = tr.get(ci);

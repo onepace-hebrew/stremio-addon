@@ -239,6 +239,15 @@ function build() {
     'SAB_9': 'fedew/20 Sabaody Archipelago/09/sabaody 09 he',
     'SAB_10': 'fedew/20 Sabaody Archipelago/10/sabaody 10 he',
     'SAB_11': 'fedew/20 Sabaody Archipelago/11/sabaody 11 he',
+    // Amazon Lily (AM, fedew04 cut) — translated from the One Pace English.
+    'AM_1': 'fedew/21 Amazon Lily/01/amazonlily 01 he',
+    'AM_2': 'fedew/21 Amazon Lily/02/amazonlily 02 he',
+    'AM_3': 'fedew/21 Amazon Lily/03/amazonlily 03 he',
+    'AM_4': 'fedew/21 Amazon Lily/04/amazonlily 04 he',
+    'AM_5': 'fedew/21 Amazon Lily/05/amazonlily 05 he',
+    // Impel Down (IM, fedew04 cut) — translated from the One Pace English.
+    'IM_1': 'fedew/22 Impel Down/01/impeldown 01 he',
+    'IM_2': 'fedew/22 Impel Down/02/impeldown 02 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');

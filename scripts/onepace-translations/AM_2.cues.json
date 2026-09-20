@@ -1,0 +1,2552 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1040,108)}Translation\\NFunimation"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1040,195)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1040,298)}Quality-checking\\Nalasta"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 7,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,110)}Editing\\NSewil\\NFeeso"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,252)}Infoboxes\\NBernieCrane"
+ },
+ {
+  "i": 9,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,350)}Formatting\\NDatenshi"
+ },
+ {
+  "i": 10,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,460)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 19,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "",
+  "text": "There."
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks!"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "",
+  "text": "Hating frills..."
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "",
+  "text": "Men really are strange creatures."
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "",
+  "text": "Well yeah I guess so."
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks for taking it off!"
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "",
+  "text": "Well bye!"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "",
+  "text": "I'll never feel relaxed until I find my friends!"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "",
+  "text": "You certainly are hasty..."
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "",
+  "text": "As long as the others are still alive like I am that's all that matters."
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "",
+  "text": "As long as they're alive..."
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "",
+  "text": "I can keep fighting again and again!"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "",
+  "text": "I'm gonna surpass all of those guys!"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "",
+  "text": "Alright! I'm gonna walk on my hands all the way to Sabaody Archipelago!"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "",
+  "text": "That'll make me stronger!"
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "",
+  "text": "Could you give me a ship?"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "",
+  "text": "You really are hasty..."
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "",
+  "text": "You don't have any ships?!"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "",
+  "text": "This is the Calm Belt?!"
+ },
+ {
+  "i": 39,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(1000,700)}Pirate Empress\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NBoa Hancock"
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "",
+  "text": "That's right."
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "",
+  "text": "This maiden island is surrounded by a giant Sea King den known as the Calm Belt."
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "",
+  "text": "Which is why sailors never dare come near."
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "",
+  "text": "Castaways will sometimes miraculously drift here but most of the time only as corpses."
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "",
+  "text": "But you said there's a pirate group here!"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess's pirate ship Yuda is pulled by vicious poisonous sea snakes."
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "",
+  "text": "Sea Kings can't attack it."
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "",
+  "text": "It's the only ship on Amazon Lily!"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "",
+  "text": "Now what do I do?"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "",
+  "text": "There's no wind..."
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "",
+  "text": "Should I build a raft and paddle all the way there?"
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "",
+  "text": "That's ridiculous..."
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "",
+  "text": "Okay! I'm gonna build a raft and paddle all the way there!"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "",
+  "text": "That's what you just thought up!"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "",
+  "text": "It's done!"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "",
+  "text": "That's terrible! It's already about to break!"
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "",
+  "text": "I had no obligation to save you!"
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "",
+  "text": "Are all men unable to swim even if they're pirates?"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "",
+  "text": "That was close!"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "",
+  "text": "Darn it!"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "",
+  "text": "If only Franky were here!"
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "",
+  "text": "I dunno what to do!"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "",
+  "text": "I'm the one who doesn't know what to do!"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "",
+  "text": "You could've at least escaped to somewhere far away..."
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "",
+  "text": "If we keep this up I'll only grow attached to you!"
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "",
+  "text": "Whoa now! Stop!"
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "",
+  "text": "What're you doing?!"
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "",
+  "text": "Oh yeah! These arrows!"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "",
+  "text": "They were strong enough to destroy stone walls when I was being chased earlier!"
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "",
+  "text": "They don't seem like special arrows though..."
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "",
+  "text": "What are you talking about?"
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "",
+  "text": "The arrows possess \"Haki\"!"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "",
+  "text": "Of course they're powerful!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "",
+  "text": "Haki?"
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "",
+  "text": "What's that?!"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "",
+  "text": "There she is!"
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "",
+  "text": "Marguerite is all right!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "",
+  "text": "Everyone!"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "",
+  "text": "The man is with her! Kill him!"
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "",
+  "text": "Uh oh!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "",
+  "text": "Halt!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "",
+  "text": "Stop!"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "",
+  "text": "Marguerite! Are you alright?!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "",
+  "text": "We need to hurry and finish the man off!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess has returned!"
+ },
+ {
+  "i": 85,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1100,0)}Calm Belt\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NThe seas around\\Nthe Island of Women"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "",
+  "text": "You have real guts to lay anchor in the middle of monster-infested waters."
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "",
+  "text": "Yes. We were attacked only moments ago in fact!"
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "",
+  "text": "The Sea Prism Stone in this warship may conceal our presence,"
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "",
+  "text": "but staying anchored here for so long is bound to attract attention visually."
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "",
+  "text": "It's not, easy but the agreement between the Kuja and the government"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "",
+  "text": "forbids us from getting any closer than three kilometers from your island."
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "",
+  "text": "Consequently we're forced to wait in the middle of the monsters' den."
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "",
+  "text": "Have you heard?"
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "",
+  "text": "They say the Kuja are specters that turn people to stone!"
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "",
+  "text": "Get real!"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "",
+  "text": "Did you kill that Sea King?"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "",
+  "text": "Sea Kings are hardly rare in the Grand Line..."
+ },
+ {
+  "i": 98,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Impossible!"
+ },
+ {
+  "i": 99,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Not even cannons have an effect?!"
+ },
+ {
+  "i": 100,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "That's..."
+ },
+ {
+  "i": 101,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "The vice-admiral!"
+ },
+ {
+  "i": 102,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Allowing an entire warship to be food for a Sea King..."
+ },
+ {
+  "i": 103,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "...would belittle the name of justice!"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "",
+  "text": "I have not come to hunt Sea Kings."
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "",
+  "text": "I would like to finish my business here and leave these waters quickly."
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "",
+  "text": "It looks like you have some skill."
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "",
+  "text": "I was growing tired of waiting!"
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "",
+  "text": "At last you've returned Kuja Pirates!"
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "",
+  "text": "I am Vice-Admiral Momonga of Navy Headquarters!"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "",
+  "text": "Warlord of the Sea and Pirate Empress Boa Hancock!"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "",
+  "text": "Show yourself! I've come for you!"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "",
+  "text": "So sorry but the Snake Princess isn't coming out."
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "",
+  "text": "She's sent many replies now!"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "",
+  "text": "That's men for you! Such unsophisticated creatures!"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "",
+  "text": "I haven't seen a live man in a long time!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "",
+  "text": "Pirates and merchants always escape by boat when they see the Kuja flag!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "",
+  "text": "Stop. That's a crude laugh."
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "",
+  "text": "We have received her replies..."
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "",
+  "text": "\"I will follow your orders to convene at once.\""
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "",
+  "text": "But she shows no indication of coming whatsoever!"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "",
+  "text": "This morning's newspaper."
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "",
+  "text": "A place and date has been decided for the public execution of Portgas D. Ace,"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "",
+  "text": "2nd Division Commander of the Whitebeard Pirates!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "",
+  "text": "There is no turning back now!"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "",
+  "text": "The World Government has issued strict orders"
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "",
+  "text": "forcing the Seven Warlords of the Sea to assemble!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "",
+  "text": "Refuse and the agreement is off!"
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "",
+  "text": "Your title of Warlord of the Sea will be revoked!"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "",
+  "text": "Do you hear that, Boa Hancock?!"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "",
+  "text": "Who placed a kitten..."
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "",
+  "text": "...in my path?!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "",
+  "text": "M-My deepest apologies!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "",
+  "text": "I'm the one responsible!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "",
+  "text": "Be more careful."
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "",
+  "text": "Y-Yes!"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "",
+  "text": "S-Stop that!"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "",
+  "text": "So you've come out, Boa Hancock!"
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "",
+  "text": "Don't let your guard down men!"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "",
+  "text": "That's the Pirate Empress?!"
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "",
+  "text": "She's the definition of the most beautiful woman in the world!"
+ },
+ {
+  "i": 141,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(650,0)}Amazon Lily Empress\\NCaptain of the Kuja Pirates\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NWarlord of the Sea –‘Empress’ Boa Hancock"
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "",
+  "text": "{\\a6}So you've finally come for me..."
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "",
+  "text": "What meddlesome people."
+ },
+ {
+  "i": 144,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(500,0)}Youngest of the Gorgon Sisters\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NBoa Marigold"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "",
+  "text": "{\\a6}My recent replies were lies."
+ },
+ {
+  "i": 146,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(500,0)}Second of the Gorgon Sisters\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NBoa Sandersonia"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "",
+  "text": "{\\a6}I will not go to war!"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "",
+  "text": "But..."
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "",
+  "text": "I want you to let me keep my title of Warlord of the Sea."
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "",
+  "text": "And..."
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "",
+  "text": "I also want all of the cargo on your ship."
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "",
+  "text": "What nonsense is this?!"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "",
+  "text": "You're not a selfish little child!"
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "",
+  "text": "Do you honestly think we'll accept such outrageous demands?!"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "",
+  "text": "Hurry and haul it over!"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "",
+  "text": "What a beautiful woman!"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "",
+  "text": "I'll give her anything!"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "",
+  "text": "Why are you hauling our cargo?!"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "",
+  "text": "Come to your senses!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "",
+  "text": "Oh no! I blindly listened to what she said!"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "",
+  "text": "Portgas D. Ace's public execution is in exactly one week from today!"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "",
+  "text": "Fire Fist Ace's life will be ended in the town square of Marineford, at the Navy Headquarters!"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "",
+  "text": "In other words Whitebeard will make a move within the next week."
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "",
+  "text": "Navy Headquarters, led by three admirals"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "",
+  "text": "is prepared to counter Whitebeard with full military force!"
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "",
+  "text": "Will you lose the title of Warlord or accept the orders to assemble?!"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "",
+  "text": "Decide now!"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "",
+  "text": "Time is nearly up!"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "",
+  "text": "I like the title of Warlord."
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "",
+  "text": "I don't want it taken away."
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "",
+  "text": "But I hate the World Government."
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "",
+  "text": "I don't want to obey its orders."
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "",
+  "text": "How does this sound?"
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "",
+  "text": "The marines who came to get me..."
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "",
+  "text": "Had a mysterious accident on the sea"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "",
+  "text": "and were wiped out when they all turned to stone?"
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "",
+  "text": "She's planning to do something!"
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "",
+  "text": "Don't let your guard down!"
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "",
+  "text": "I've heard about this before!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "",
+  "text": "A ship was attacked by the Kuja pirate ship..."
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "",
+  "text": "And when it was discovered later only strange statues were found onboard!"
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "",
+  "text": "S-Strange statues?!"
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "",
+  "text": "I already told you!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "",
+  "text": "Your childish selfishness will not be allowed!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "",
+  "text": "Big Sis has a terrible personality."
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "",
+  "text": "But she gets everything she wants."
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "",
+  "text": "Yes."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "",
+  "text": "There is a reason for that."
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "",
+  "text": "Do you know why that is?"
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "",
+  "text": "Because no matter what I do..."
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "",
+  "text": "Even if I kick a kitten..."
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "",
+  "text": "Even if I pull your ears off..."
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "",
+  "text": "Or even if I kill someone, everyone in the world would forgive me."
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "",
+  "text": "The reason for that is..."
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "",
+  "text": "Yes..."
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "",
+  "text": "Because I'm beautiful!"
+ },
+ {
+  "i": 197,
+  "style": "Secondary",
+  "name": "",
+  "text": "Because I'm beautiful...!"
+ },
+ {
+  "i": 198,
+  "style": "Secondary",
+  "name": "",
+  "text": "Because I'm beautiful...!"
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "",
+  "text": "Snake Princess!"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "",
+  "text": "We'll let you do anything!"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "",
+  "text": "After all you're beautiful!"
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "",
+  "text": "Stop that all of you!"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "",
+  "text": "For being charmed by me your guilty consciences..."
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "",
+  "text": "...will turn your bodies solid!"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Love Mellow! {No idea what to translate her attacks as, thoughts? Original was \"Love-Love Beam\"}"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "",
+  "text": "Hanco--!"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "",
+  "text": "I'd expect no less from a navy vice-admiral..."
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "",
+  "text": "I see."
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "",
+  "text": "You used pain to block out the evil thoughts."
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "",
+  "text": "You've much experience indeed."
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "",
+  "text": "However..."
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "",
+  "text": "I can't say the same about your men."
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "",
+  "text": "Fools...!"
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "",
+  "text": "It looks like you're the only one left now."
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "",
+  "text": "One and zero are not the same!"
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "",
+  "text": "We will now return to the peaceful Amazon Lily!"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "",
+  "text": "Yes Snake Princess!"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "",
+  "text": "Boa Hancock!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "",
+  "text": "I will wait here as long as I can!"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "",
+  "text": "I will not return empty-handed!"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "",
+  "text": "If you do not reappear in two days' time..."
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "",
+  "text": "The agreement is off!"
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "",
+  "text": "Do as you wish."
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "",
+  "text": "Open the gate!"
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess has returned!"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "",
+  "text": "Welcome back!"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "",
+  "text": "Welcome back Kuja Pirates!"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "",
+  "text": "Snake Princess!"
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "",
+  "text": "Ran-sama!"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "",
+  "text": "Daisy-sama!"
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "",
+  "text": "We had a big haul!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "",
+  "text": "They're so cool!"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "",
+  "text": "I'm gonna join the pirates someday too!"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "",
+  "text": "It's the Gorgon Sisters!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "",
+  "text": "Snake Princess! Snake Princess!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "",
+  "text": "Welcome back."
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "",
+  "text": "Your Monkey Carriage is ready."
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "",
+  "text": "Has anything happened?"
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "",
+  "text": "No. Nothing at all..."
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "",
+  "text": "Iron ore gunpowder alcohol and crops from the north..."
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "",
+  "text": "What a tremendous haul!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "",
+  "text": "We plundered two merchant ships and one pirate ship."
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "",
+  "text": "The center sea people just offshore also gave us their cargo."
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "",
+  "text": "The Kuja Pirates truly are elite!"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "",
+  "text": "Ran. Any books at all?"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "",
+  "text": "Granny Nyon!"
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "",
+  "text": "Let me think."
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "",
+  "text": "Oh! Those center sea people did give us a newspaper."
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "",
+  "text": "Here you are!"
+ },
+ {
+  "i": 250,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(640,0)}Amazon Lily\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\N\\NKuja Castle"
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "",
+  "text": "Welcome back!"
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "",
+  "text": "Welcome back Snake Princess."
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "",
+  "text": "Thank you for holding down the fort."
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "",
+  "text": "Enishida. What is this?"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "",
+  "text": "Oh!"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "",
+  "text": "It's a clay model that children from the village worked hard to make for you!"
+ },
+ {
+  "i": 257,
+  "style": "Main",
+  "name": "",
+  "text": "They must have worked hard to paint it too."
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "",
+  "text": "The way they carefully carried it to the castle to prevent it from breaking was truly tender and innocent!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "",
+  "text": "Oh I see."
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "",
+  "text": "So they made me..."
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "",
+  "text": "...Out of mud and clay..."
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "",
+  "text": "Snake Princess!"
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "",
+  "text": "Don't bring such filthy things into the castle!"
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "",
+  "text": "Throw it away at once and clean the floor."
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "",
+  "text": "Anyway Enishida..."
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "",
+  "text": "Y-Yes?"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "",
+  "text": "I didn't see any of our defense warriors there to greet us on our arrival..."
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, well actually..."
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "",
+  "text": "A rather violent monkey appeared in the jungle and..."
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "",
+  "text": "It was such a savage and crude beast that they all had to go after it..."
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "",
+  "text": "A monkey?"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "",
+  "text": "Don't worry. They'll be back shortly."
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "",
+  "text": "I'm truly sorry they weren't there to greet you."
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "",
+  "text": "Well no matter."
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "",
+  "text": "Would you like something to drink?"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "",
+  "text": "White sake."
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "",
+  "text": "I think I'll have some too."
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "",
+  "text": "Granny Nyon."
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "",
+  "text": "This is my room. Why are you here?"
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "",
+  "text": "G-Granny Nyon!"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "",
+  "text": "How did you get in?!"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "",
+  "text": "I can get in any way I want."
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "",
+  "text": "Throw her out."
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "",
+  "text": "Wait Snake Princess!"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "",
+  "text": "You forgot \"please\"..."
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "",
+  "text": "\"Please.\""
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "",
+  "text": "Pardon me. Please wait Snake Princess."
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "",
+  "text": "The center sea people's ship is anchored off shore."
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "",
+  "text": "They've come here to get you have they not?"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "",
+  "text": "They've ordered you into active duty have they not?"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "",
+  "text": "That's right. An invitation to war."
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "",
+  "text": "Why aren't you going?! You must go!"
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "",
+  "text": "If you go the agreement will be upheld!"
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "",
+  "text": "Certainly someone with your abilities..."
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "",
+  "text": "...won't meet an untimely fate!"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "",
+  "text": "But..."
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "",
+  "text": "I'm scared!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "",
+  "text": "She's almost like a puppy!"
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "",
+  "text": "Wait this is no time for that!"
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "",
+  "text": "Granny Nyon..."
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "",
+  "text": "This land is currently protected by your title of Warlord of the Sea!"
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "",
+  "text": "Up until recently this island was protected from outside enemies"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "",
+  "text": "by the great defense network that is the Calm Belt!"
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "",
+  "text": "However now the center sea people are using new ship-crafting techniques"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "",
+  "text": "to come and go through these waters as they please."
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "",
+  "text": "The fact that you're a Warlord of the Sea is the only reason they won't set foot on this island"
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "",
+  "text": "to put a stop to the Kuja's pirate ways."
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "",
+  "text": "The island is also home to the very young and the very old."
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "",
+  "text": "If you lose the title and we return to being a regular pirate nation"
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "",
+  "text": "only tragedy will await us!"
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "",
+  "text": "Are you sure you're not just afraid?"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "",
+  "text": "My life could end at any time now."
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "",
+  "text": "Look closely at this crystal ball!"
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "",
+  "text": "Let us shed light on your future..."
+ },
+ {
+  "i": 315,
+  "style": "Note",
+  "name": "",
+  "text": "\"Go!\""
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "",
+  "text": "Detestable!"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "",
+  "text": "Throw her out!"
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "",
+  "text": "This instant!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "",
+  "text": "Y-Yes! Right away!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "",
+  "text": "Wait! Snake Princess!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "",
+  "text": "Stop! What are you doing?!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "",
+  "text": "I watched quietly\\Nonly for you to put on a pathetic act."
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "",
+  "text": "What are you trying to pull here?"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "",
+  "text": "Your era came to an end a long time ago..."
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "",
+  "text": "You lost your place as Amazon Lily's empress three decades ago,"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "",
+  "text": "Gloriosa!"
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "",
+  "text": "If my own selfishness should bring about the end of our kingdom, I would be forgiven for it..."
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "",
+  "text": "The reason for that is"
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "",
+  "text": "yes..."
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "",
+  "text": "...because I'm beautiful!"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "",
+  "text": "There it is!"
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess's \"Extreme Looking-Down Pose!\""
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "",
+  "text": "You may have been the empress of this kingdom once,"
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "",
+  "text": "and yet you abandoned the kingdom and set off to sea!"
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "",
+  "text": "You Kuja traitor!"
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "",
+  "text": "That's why I live quietly on\\Nthe edge of the village now!"
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "",
+  "text": "Then you should continue\\Nto live there quietly."
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "",
+  "text": "I will not have you interfering with me\\Nthe current empress!"
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "",
+  "text": "Snake Princess!"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! Let go!"
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "",
+  "text": "That said I can't help but admire your zeal."
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "",
+  "text": "You win."
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "",
+  "text": "You agree to what I said Snake Princess?"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "",
+  "text": "It really does pay to talk things through!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "",
+  "text": "Thank you!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "",
+  "text": "You'll go then?!"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "",
+  "text": "I lied. Don't get cocky!"
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "",
+  "text": "Get out of my sight!"
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "",
+  "text": "Curse you Snake Princess!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "",
+  "text": "S-Snake Princess..."
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "",
+  "text": "What have you done?! She's an old woman!"
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "",
+  "text": "I don't know what came over me..."
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "",
+  "text": "Yes! Yes! That sort of thing\\Nhappens to all of us!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "",
+  "text": "Granny Nyon!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "",
+  "text": "Aged as I may be I am still a Kuja warrior."
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "",
+  "text": "I have not grown decrepit!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess is about to bathe!"
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "",
+  "text": "Leave the castle premises immediately!"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "",
+  "text": "Come on! Let's hurry!"
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "",
+  "text": "I-I just started eating!"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "",
+  "text": "Hurry outside!"
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "",
+  "text": "It's time for their bath!"
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "",
+  "text": "Get ready!"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "",
+  "text": "The people in the castle are coming\\Nso it's about to get packed in here!"
+ },
+ {
+  "i": 365,
+  "style": "Note",
+  "name": "",
+  "text": "{\\pos(388,488)}Bath"
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "",
+  "text": "For the next several hours"
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "",
+  "text": "entrance into the castle\\Nis strictly forbidden!"
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "",
+  "text": "Say..."
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "",
+  "text": "Why does everyone make such a big deal when the Snake Princess takes a bath?"
+ },
+ {
+  "i": 370,
+  "style": "Main",
+  "name": "",
+  "text": "How old are you now?"
+ },
+ {
+  "i": 371,
+  "style": "Main",
+  "name": "",
+  "text": "Eight."
+ },
+ {
+  "i": 372,
+  "style": "Main",
+  "name": "",
+  "text": "Then I'll tell you."
+ },
+ {
+  "i": 373,
+  "style": "Main",
+  "name": "",
+  "text": "The Gorgon Sisters' secret?!"
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "",
+  "text": "That's right."
+ },
+ {
+  "i": 375,
+  "style": "Main",
+  "name": "",
+  "text": "Gorgon was the name of a monster\\Nthat once lived in the center ocean."
+ },
+ {
+  "i": 376,
+  "style": "Main",
+  "name": "",
+  "text": "Anyone who looked at this terrifying\\Nmonster would instantly turn to stone."
+ },
+ {
+  "i": 377,
+  "style": "Main",
+  "name": "",
+  "text": "At the end of an adventure\\Nthe Snake Princess and her sisters"
+ },
+ {
+  "i": 378,
+  "style": "Main",
+  "name": "",
+  "text": "managed to slay the Gorgon monster."
+ },
+ {
+  "i": 379,
+  "style": "Main",
+  "name": "",
+  "text": "But when the monster uttered its death howls"
+ },
+ {
+  "i": 380,
+  "style": "Main",
+  "name": "",
+  "text": "it placed a horrible curse\\Non the three warriors."
+ },
+ {
+  "i": 381,
+  "style": "Main",
+  "name": "",
+  "text": "The monster's large eyes\\Nwere etched onto their backs"
+ },
+ {
+  "i": 382,
+  "style": "Main",
+  "name": "",
+  "text": "and everyone nearby who's lured in\\Nby their charm and looks at them"
+ },
+ {
+  "i": 383,
+  "style": "Main",
+  "name": "",
+  "text": "is turned to stone and killed."
+ },
+ {
+  "i": 384,
+  "style": "Main",
+  "name": "",
+  "text": "The Gorgon Sisters never remove\\Ntheir clothes in front of people."
+ },
+ {
+  "i": 385,
+  "style": "Main",
+  "name": "",
+  "text": "And when they bathe"
+ },
+ {
+  "i": 386,
+  "style": "Main",
+  "name": "",
+  "text": "they always post guards\\Nlike this to keep people away."
+ },
+ {
+  "i": 387,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(400,0)\\pos(262,508)}Island of Women, Jungle"
+ },
+ {
+  "i": 388,
+  "style": "Main",
+  "name": "",
+  "text": "Where did he run to?!"
+ },
+ {
+  "i": 389,
+  "style": "Main",
+  "name": "",
+  "text": "He went up the craggy mountain!"
+ },
+ {
+  "i": 390,
+  "style": "Main",
+  "name": "",
+  "text": "Don't tell me he went back into the village?!"
+ },
+ {
+  "i": 391,
+  "style": "Main",
+  "name": "",
+  "text": "He wanted a ship!"
+ },
+ {
+  "i": 392,
+  "style": "Main",
+  "name": "",
+  "text": "What?!"
+ },
+ {
+  "i": 393,
+  "style": "Main",
+  "name": "",
+  "text": "Now then, what now?"
+ },
+ {
+  "i": 394,
+  "style": "Main",
+  "name": "",
+  "text": "I'll get spotted again if I just sit here..."
+ },
+ {
+  "i": 395,
+  "style": "Main",
+  "name": "",
+  "text": "She did mention this island\\Nhas a pirate ship..."
+ },
+ {
+  "i": 396,
+  "style": "Main",
+  "name": "",
+  "text": "If I can just borrow it somehow..."
+ },
+ {
+  "i": 397,
+  "style": "Main",
+  "name": "",
+  "text": "No wait. Nami's not here."
+ },
+ {
+  "i": 398,
+  "style": "Main",
+  "name": "",
+  "text": "I'll end up drifting around\\Nif I go all by myself."
+ },
+ {
+  "i": 399,
+  "style": "Main",
+  "name": "",
+  "text": "Oh I know!"
+ },
+ {
+  "i": 400,
+  "style": "Main",
+  "name": "",
+  "text": "Asking for a ride on the\\Nship is the best way!"
+ },
+ {
+  "i": 401,
+  "style": "Main",
+  "name": "",
+  "text": "I'll ask if they'll take me to\\NSabaody Archipelago!"
+ },
+ {
+  "i": 402,
+  "style": "Main",
+  "name": "",
+  "text": "Which means..."
+ },
+ {
+  "i": 403,
+  "style": "Main",
+  "name": "",
+  "text": "I'll have to talk to someone important"
+ },
+ {
+  "i": 404,
+  "style": "Main",
+  "name": "",
+  "text": "and since important people\\Nlive in tall buildings..."
+ },
+ {
+  "i": 405,
+  "style": "Main",
+  "name": "",
+  "text": "I'm thinking so hard I might get a fever!"
+ },
+ {
+  "i": 406,
+  "style": "Main",
+  "name": "",
+  "text": "Okay! I'll just go into\\Na tall building first!"
+ },
+ {
+  "i": 407,
+  "style": "Main",
+  "name": "",
+  "text": "Hurry to the village!"
+ },
+ {
+  "i": 408,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess has\\Nprobably already returned!"
+ },
+ {
+  "i": 409,
+  "style": "Main",
+  "name": "",
+  "text": "If she finds the man\\Nthings will turn serious!"
+ },
+ {
+  "i": 410,
+  "style": "Main",
+  "name": "",
+  "text": "It's brittle!"
+ },
+ {
+  "i": 411,
+  "style": "Main",
+  "name": "",
+  "text": "What was that?!"
+ },
+ {
+  "i": 412,
+  "style": "Main",
+  "name": "",
+  "text": "The castle tower's roof collapsed!"
+ },
+ {
+  "i": 413,
+  "style": "Main",
+  "name": "",
+  "text": "What's happening?!"
+ },
+ {
+  "i": 414,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess is taking a bath in there!"
+ },
+ {
+  "i": 415,
+  "style": "Main",
+  "name": "",
+  "text": "More water?!"
+ },
+ {
+  "i": 416,
+  "style": "Main",
+  "name": "",
+  "text": "Ouch it's hot! Wait this is bathwater!"
+ },
+ {
+  "i": 417,
+  "style": "Main",
+  "name": "",
+  "text": "I'm gonna die! I'm gonna drown!"
+ },
+ {
+  "i": 418,
+  "style": "Main",
+  "name": "",
+  "text": "My feet are on the ground. I'm safe!"
+ },
+ {
+  "i": 419,
+  "style": "Main",
+  "name": "",
+  "text": "Is this a bath?"
+ },
+ {
+  "i": 420,
+  "style": "Main",
+  "name": "",
+  "text": "A man!?"
+ },
+ {
+  "i": 421,
+  "style": "Main",
+  "name": "",
+  "text": "Hey..."
+ },
+ {
+  "i": 422,
+  "style": "Main",
+  "name": "",
+  "text": "That thing on your back..."
+ },
+ {
+  "i": 423,
+  "style": "Main",
+  "name": "",
+  "text": "It seems familiar somehow..."
+ },
+ {
+  "i": 424,
+  "style": "Main",
+  "name": "",
+  "text": "You saw it?!"
+ }
+]

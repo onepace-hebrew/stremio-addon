@@ -1075,6 +1075,213 @@
         "Dr. Vegapunk"
       ],
       "he_aliases": []
+    },
+    {
+      "he": "סנדרסוניה",
+      "gender": "f",
+      "en": [
+        "Sandersonia",
+        "Boa Sandersonia",
+        "Sonia"
+      ],
+      "he_aliases": [
+        "סוניה",
+        "בואה סנדרסוניה"
+      ]
+    },
+    {
+      "he": "מריגולד",
+      "gender": "f",
+      "en": [
+        "Marigold",
+        "Boa Marigold"
+      ],
+      "he_aliases": [
+        "בואה מריגולד"
+      ]
+    },
+    {
+      "he": "ניון",
+      "gender": "f",
+      "en": [
+        "Nyon",
+        "Granny Nyon",
+        "Elder Nyon",
+        "Gloriosa"
+      ],
+      "he_aliases": [
+        "סבתא ניון",
+        "זקנת ניון",
+        "גלוריוסה"
+      ]
+    },
+    {
+      "he": "מרגריט",
+      "gender": "f",
+      "en": [
+        "Marguerite",
+        "Margaret"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "סוויטפי",
+      "gender": "f",
+      "en": [
+        "Sweetpea",
+        "Sweet Pea"
+      ],
+      "he_aliases": [
+        "סוויט פי"
+      ]
+    },
+    {
+      "he": "אפלנדרה",
+      "gender": "f",
+      "en": [
+        "Aphelandra"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "בלאדונה",
+      "gender": "f",
+      "en": [
+        "Belladonna"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "קיקו",
+      "gender": "f",
+      "en": [
+        "Kikyo"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "ראן",
+      "gender": "f",
+      "en": [
+        "Ran"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "דייזי",
+      "gender": "f",
+      "en": [
+        "Daisy"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "אנישידה",
+      "gender": "f",
+      "en": [
+        "Enishida"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "מומונגה",
+      "gender": "m",
+      "en": [
+        "Momonga",
+        "Vice-Admiral Momonga",
+        "Vice Admiral Momonga"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "סלומה",
+      "gender": "f",
+      "en": [
+        "Salome"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "באקורה",
+      "gender": "f",
+      "en": [
+        "Bacura"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "אלבידה",
+      "gender": "f",
+      "en": [
+        "Alvida"
+      ],
+      "he_aliases": [
+        "גברת אלבידה"
+      ]
+    },
+    {
+      "he": "ג'ינביי",
+      "gender": "m",
+      "en": [
+        "Jinbe",
+        "Jinbei",
+        "Jimbei",
+        "First Son of the Sea"
+      ],
+      "he_aliases": [
+        "ג'ינבי"
+      ]
+    },
+    {
+      "he": "קרוקודייל",
+      "gender": "m",
+      "en": [
+        "Crocodile",
+        "Sir Crocodile",
+        "Mr. 0"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "מגלן",
+      "gender": "m",
+      "en": [
+        "Magellan"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "הניאבאל",
+      "gender": "m",
+      "en": [
+        "Hannyabal"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "איבנקוב",
+      "gender": "m",
+      "en": [
+        "Ivankov",
+        "Emporio Ivankov",
+        "Iva"
+      ],
+      "he_aliases": [
+        "אמפוריו איבנקוב"
+      ]
+    },
+    {
+      "he": "בון קליי",
+      "gender": "m",
+      "en": [
+        "Bon Clay",
+        "Bonclay",
+        "Mr. 2",
+        "Bentham"
+      ],
+      "he_aliases": [
+        "מר 2"
+      ]
     }
   ]
 }

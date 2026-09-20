@@ -1,0 +1,2432 @@
+[
+ {
+  "i": 0,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Until I can reach the sky,"
+ },
+ {
+  "i": 1,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I believe, until the next tomorrow, hey"
+ },
+ {
+  "i": 2,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Chasing and being chased on top of Mobius' ring."
+ },
+ {
+  "i": 3,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1040,108)}Translation\\NFunimation"
+ },
+ {
+  "i": 4,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1040,195)}Soundtracking\\NHalee"
+ },
+ {
+  "i": 5,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1040,298)}Quality-checking\\Nalasta"
+ },
+ {
+  "i": 6,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Getting closer and facing forward, hey I want to share your style."
+ },
+ {
+  "i": 7,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,110)}Editing\\NSewil\\NFeeso"
+ },
+ {
+  "i": 8,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,252)}Infoboxes\\NBernieCrane"
+ },
+ {
+  "i": 9,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,350)}Formatting\\NSewil"
+ },
+ {
+  "i": 10,
+  "style": "OP11 Credits",
+  "name": "",
+  "text": "{\\pos(1050,460)}Edit-checking\\NGalaxy 9000"
+ },
+ {
+  "i": 11,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "It begins, it expands, this flavor that exceeds imagination"
+ },
+ {
+  "i": 12,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I feel so good throughout my body, I will become free, oh yeah"
+ },
+ {
+  "i": 13,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the music, even if it's far."
+ },
+ {
+  "i": 14,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the one dream, by telling each other."
+ },
+ {
+  "i": 15,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Share the good times and laugh."
+ },
+ {
+  "i": 16,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll keep going until I can reach the sky."
+ },
+ {
+  "i": 17,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "Let's overcome it now, I believe in the next tomorrow yeah yeah..."
+ },
+ {
+  "i": 18,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "You were waiting there on the other side of the invisible wall."
+ },
+ {
+  "i": 19,
+  "style": "OP11 Lyrics",
+  "name": "",
+  "text": "I'll be there soon, I believe in one world yeah yeah..."
+ },
+ {
+  "i": 20,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(315,0)\\pos(1051.667,543.333)}Sabaody Archipelago\\NGrove #41"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "",
+  "text": "Duval-sama."
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "",
+  "text": "What's taking Young Master Straw Hat\\Nand the others so long?"
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "",
+  "text": "Maybe they're busy with\\Nthe people chasing ‘em?"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "",
+  "text": "I heard the port's in a real uproar!"
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "",
+  "text": "Then that's all the more\\Nreason to stay sharp!"
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "",
+  "text": "We don't want any idiots showing up\\Nand taking off with this ship!"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "",
+  "text": "Guard it well until the\\Ncoating craftsman arrives!"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "",
+  "text": "Rosy Life Riders!"
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "",
+  "text": "Yes Duva-some!"
+ },
+ {
+  "i": 30,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(667,617)\\pos(1038.333,555)}Grove #1\\NAuction House"
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "",
+  "text": "You still haven't caught them?!"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "",
+  "text": "Admiral Kizaru is currently pursuing them"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "",
+  "text": "so it should only be a matter of time!"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "",
+  "text": "Please have patience!"
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "",
+  "text": "You pathetic dimwitted dogs!"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "",
+  "text": "Not only did they do this\\Nto my father and brother..."
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "",
+  "text": "but they also let all of our slaves escape!"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "",
+  "text": "What do they take the blood\\Nof this world's Creators for?!"
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "",
+  "text": "When I get my hands on them..."
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "",
+  "text": "I'm going to put them through\\Na living hell so horrible..."
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "",
+  "text": "that they'll crawl on the ground\\Nand beg for forgiveness!"
+ },
+ {
+  "i": 42,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(534,300)\\pos(1051.667,541.667)}Grove #13\\NShakki's Rip-off Bar"
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "",
+  "text": "I'm suddenly feeling uneasy."
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "",
+  "text": "I hope Luffy-chin and the others are okay..."
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "",
+  "text": "What's with you Camie?!"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "",
+  "text": "Don't say worrisome stuff like that!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "",
+  "text": "But..."
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "",
+  "text": "They're strong.\\NThere's nothing to worry about Camie..."
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "",
+  "text": "I hope you're right..."
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "",
+  "text": "They're up against a navy admiral."
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "",
+  "text": "Not even Monkey-chan's group\\Nstands a chance strength-wise."
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "",
+  "text": "The seas ahead will be rough."
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "",
+  "text": "Giant waves they've never\\Nseen before are coming."
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "",
+  "text": "They mustn't let these waves do them in."
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "",
+  "text": "There. Can you hear it?"
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "",
+  "text": "Little by little the tide of\\Nthe times is beginning to change."
+ },
+ {
+  "i": 57,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(834,000)}Adventure on the Island of Women"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "",
+  "text": "Meanwhile, Monkey D. Luffy\\Nafter being ejected"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "",
+  "text": "from Sabaody Archipelago\\Nby Bartholomew Kuma."
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "",
+  "text": "Damn it!"
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "",
+  "text": "Zoro! Nami!"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "",
+  "text": "Usopp! Sanji! Chopper!"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "",
+  "text": "Robin! Franky! Brook!"
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "",
+  "text": "Where did you send all my friends?!"
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "",
+  "text": "Where did you guys disappear to?!"
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "",
+  "text": "That bear-like Warlord\\Nof the Sea is gonna pay!"
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "",
+  "text": "How far am I gonna fly anyway?!"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "",
+  "text": "Perhaps, instead of disappearing, they were all sent flying like this too?"
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "",
+  "text": "I'm dead if I fall into the ocean..."
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "",
+  "text": "I'm hungry too..."
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "",
+  "text": "But... I'm feeling sleepy..."
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "",
+  "text": "I'm alive..."
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "",
+  "text": "I don't think me being rubber\\Nis why I'm still alive..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "",
+  "text": "But what's this bear paw-looking thing?"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "",
+  "text": "I just hope the others\\Nwere saved the same way..."
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "",
+  "text": "Anyway, I gotta get back!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "",
+  "text": "Where is this place..."
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "",
+  "text": "...and which way is Sabaody Archipelago?!"
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "",
+  "text": "Oh yeah!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "",
+  "text": "I have my Vivre Card!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "",
+  "text": "Good thing we all got one!"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "",
+  "text": "Alright! I gotta go back!\\NI gotta get back there!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "",
+  "text": "I'm sure I'll see everyone again!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "",
+  "text": "That way, huh?"
+ },
+ {
+  "i": 85,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Everyone focus on escaping!"
+ },
+ {
+  "i": 86,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "As we are now we can't beat these guys!"
+ },
+ {
+  "i": 87,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Just get out of here!"
+ },
+ {
+  "i": 88,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "You can think things over after you're safe!"
+ },
+ {
+  "i": 89,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Go!"
+ },
+ {
+  "i": 90,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "What's wrong with me?!"
+ },
+ {
+  "i": 91,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "I couldn't save even one of my friends...!"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "",
+  "text": "Ouch!"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "",
+  "text": "Actually, that doesn't hurt."
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "",
+  "text": "but oh there's something in the way..."
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "",
+  "text": "Still..."
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "",
+  "text": "...the card is pointing this way..."
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "",
+  "text": "Alright!"
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(250,250)}Giant Pistol!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "",
+  "text": "N-No good..."
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "",
+  "text": "I'm out of strength..."
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "",
+  "text": "Sanji! Food!"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "",
+  "text": "Oh wait he's not here..."
+ },
+ {
+  "i": 103,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(250,250)}\"Stomach rumble\""
+ },
+ {
+  "i": 104,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(250)}\"Stomach rumble\"\\N\"Stomach rumble\"\\N\"Stomach rumble\""
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks for the food!"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "",
+  "text": "This brings back memories..."
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "",
+  "text": "Back when Grandpa would throw me\\Ninto the jungle when I was a kid!"
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "",
+  "text": "I don't wanna remember that."
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "",
+  "text": "Aren't these Laughing Mushrooms?"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah! This is perfect for times like this!"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "",
+  "text": "Now I'm having fun!"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "",
+  "text": "Even though I'm all alone!"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "",
+  "text": "There are some weird ones over here too!"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "",
+  "text": "Now I'm feeling mad!"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "",
+  "text": "Laughing Mushrooms! Laughing Mushrooms!"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "",
+  "text": "Oh! There are weird mushrooms here too!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "",
+  "text": "Crying Mushrooms!"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "",
+  "text": "Marguerite! Marguerite!"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "",
+  "text": "Over here!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "",
+  "text": "What is it Sweetpea?"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "",
+  "text": "What do you make of this?"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "",
+  "text": "Of what?"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "",
+  "text": "What do you suppose this is?"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "",
+  "text": "Wh-What the...?! This is a person!"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "",
+  "text": "Is it someone from the village?"
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "",
+  "text": "I don't know."
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "",
+  "text": "There are so many mushrooms\\Ngrowing out of her body..."
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "",
+  "text": "This is it."
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "",
+  "text": "Look! She ate this mushroom!"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "",
+  "text": "A Parasite Mushroom."
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "",
+  "text": "When eaten mushrooms\\Ngrow out of your body!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "",
+  "text": "This is bad!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "",
+  "text": "If we don't do something the mushrooms\\Nwill sap away her vitality and kill her!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "",
+  "text": "So it's a race against time!"
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "",
+  "text": "Aphelandra! Carry her to the village!"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "",
+  "text": "Okay!"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "",
+  "text": "To the village it is!"
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "",
+  "text": "Let's hurry!"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "",
+  "text": "We have an urgent patient!"
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! Down in front! I can't see!"
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "",
+  "text": "What happened to her?!\\NShe's covered in mushrooms!"
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "",
+  "text": "Have you seen her in the village before?"
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "",
+  "text": "No never..."
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "",
+  "text": "Hey who is she?"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "",
+  "text": "The mushrooms are covering her face..."
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "",
+  "text": "Where do you think she came from?"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "",
+  "text": "Is she even alive?"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "",
+  "text": "She ate a Parasite Mushroom."
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "",
+  "text": "What should we do Belladonna?"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "",
+  "text": "They come off when pulled\\Nso pull them out. All of them."
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "",
+  "text": "They come off?"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "",
+  "text": "They really do!"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "",
+  "text": "But some of the roots are left behind!"
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "",
+  "text": "I'll get rid of them afterward\\Nso don't worry about the roots."
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "",
+  "text": "You've certainly brought\\Na strange one home Marguerite."
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "",
+  "text": "Ouch! Hot! Hot!"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "",
+  "text": "Hold on Belladonna! What are you doing?!"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "",
+  "text": "This is the only way to keep\\Nthem from growing back."
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "",
+  "text": "But isn't that a little excessive?"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "",
+  "text": "She passed out again!"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "",
+  "text": "Still, she was covered in injuries\\Nbefore she was covered in mushrooms."
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "",
+  "text": "Really?"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "",
+  "text": "They seem like marks\\Nfrom a tremendous battle."
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "",
+  "text": "We'll need to treat her wounds too."
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "",
+  "text": "I hate to ask Marguerite"
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "",
+  "text": "but could you go wash her off in the river?"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "",
+  "text": "O-Okay! Sure!"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "",
+  "text": "It sounds like she's not from\\Nthis village after all Sweetpea."
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah..."
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "",
+  "text": "Huh? Look here!"
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "",
+  "text": "What's wrong?"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "",
+  "text": "There's still a mushroom\\Nbetween her legs that we missed!"
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "",
+  "text": "There's one left!"
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "",
+  "text": "But doesn't this one seem\\Ndifferent from the others?"
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "",
+  "text": "It's oddly shaped!"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "",
+  "text": "Alright!"
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "",
+  "text": "It won't come off! How come?!"
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "",
+  "text": "It's stretching!"
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "",
+  "text": "Hey what's going on? What happened?"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "",
+  "text": "She says it stretches..."
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "",
+  "text": "That's enough gawking all of you!"
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "",
+  "text": "This isn't a freak show!"
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "",
+  "text": "You're watching too you know!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "",
+  "text": "Look! There seems to be a problem!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "",
+  "text": "Still she's not very well-endowed."
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "",
+  "text": "She even seems sort of rugged."
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "",
+  "text": "It's no use."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "",
+  "text": "What's this? What's this?"
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "",
+  "text": "What's going on?"
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "",
+  "text": "Oh Granny Nyon!"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "",
+  "text": "There's a mushroom growing\\Non this girl that won't come off!"
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "",
+  "text": "Now now. Wait. Just who is this?"
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "",
+  "text": "Oh my!"
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "",
+  "text": "Th-This person..."
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "",
+  "text": "...is a m-m-man!"
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "",
+  "text": "Th-This is a m-man?!"
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "",
+  "text": "I've never seen one before!"
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "",
+  "text": "Here sits the maiden island of Amazon Lily"
+ },
+ {
+  "i": 199,
+  "style": "Note",
+  "name": "",
+  "text": "\"Kuja\""
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "",
+  "text": "inhabited by the tribe of\\Nfemale warriors known as the Kuja."
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "",
+  "text": "May you never dream of it or step foot on it"
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "",
+  "text": "should you still value your life."
+ },
+ {
+  "i": 203,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,0)}Maiden Island – Amazon Lily"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}This is the all-female land of Amazon Lily."
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "",
+  "text": "On occasion women will leave\\Nthe island and return with child"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "",
+  "text": "but oddly enough\\Nthey only give birth to girls."
+ },
+ {
+  "i": 207,
+  "style": "Note",
+  "name": "",
+  "text": "\"Kuja\""
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "",
+  "text": "Inside a tall mountain surrounded\\Nby thick jungle is a large hole"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "",
+  "text": "and inside it a fortress-like village\\Nwas built and a country created."
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "",
+  "text": "I found it!"
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "",
+  "text": "Step right up! We have\\NSea King meat on hand today!"
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "",
+  "text": "It looks good!"
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "",
+  "text": "It'll make your skin nice and smooth too!"
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "",
+  "text": "How about some fresh-picked\\Nfruit from the jungle?!"
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "",
+  "text": "All the wage-earning and manual labor\\Nis done by women too of course."
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "",
+  "text": "I brought it!"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks! Just set it right there!"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "",
+  "text": "Sure thing!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "",
+  "text": "Raised from birth as warriors"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "",
+  "text": "they truly are burly and large-hearted"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "",
+  "text": "but they also have an air of\\Nelegance about them as well."
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "",
+  "text": "There is no place here\\Nfor greedy foolish men at all."
+ },
+ {
+  "i": 223,
+  "style": "Note",
+  "name": "",
+  "text": "\"Fighting\""
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "",
+  "text": "And more than anything the\\Nwomen of this island are strong."
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "",
+  "text": "Here are today's odds!"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "",
+  "text": "1000 Gol on Poppy!"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "",
+  "text": "1500 on Pansy!"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "",
+  "text": "In this land the strong are beautiful."
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "",
+  "text": "Should a man ever approach this country"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "",
+  "text": "eradication is all that awaits him."
+ },
+ {
+  "i": 231,
+  "style": "Note",
+  "name": "",
+  "text": "\"Prison\""
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "",
+  "text": "The man's awake!"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "",
+  "text": "Let me see! Let me see!"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "",
+  "text": "I want to see too!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "",
+  "text": "He's moving around!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "",
+  "text": "Look! He has no breasts at all!"
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "",
+  "text": "What a weird rugged creature!"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "",
+  "text": "He looks so weak with his\\Nshaggy hair and scrawny body!"
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "",
+  "text": "He slept for quite a long time..."
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "",
+  "text": "But I heard he ate meals while asleep!"
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "",
+  "text": "Did you know that?"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "",
+  "text": "What do men usually eat anyway? Raw meat?"
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "",
+  "text": "I get the feeling he'll eat anything..."
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "",
+  "text": "What's going on?"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "",
+  "text": "--What's all the noise?\\N--Oh! He can talk!"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "",
+  "text": "Where am I?"
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "",
+  "text": "What was I doing again?"
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "",
+  "text": "Oh yeah!"
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "",
+  "text": "Everyone was separated\\Nat Sabaody Archipelago!"
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "",
+  "text": "Everyone! Shh! He's saying something!"
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "",
+  "text": "I remember eating mushrooms\\Nbut everything after--"
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "",
+  "text": "My hat's gone!"
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "",
+  "text": "There it is!"
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "",
+  "text": "Give it back you jerk!"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "",
+  "text": "His arm stretched!"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "",
+  "text": "What kind of body does he have?!"
+ },
+ {
+  "i": 257,
+  "style": "Main",
+  "name": "",
+  "text": "That's a relief!"
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "",
+  "text": "M-M-Men can stretch their arms!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "",
+  "text": "How shocking! Notes! Notes!"
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "",
+  "text": "This is most intriguing!"
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "",
+  "text": "Say! What's your name?"
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "",
+  "text": "I'm Luffy."
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "",
+  "text": "I'm naked!"
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "",
+  "text": "You're slow!"
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "",
+  "text": "I feel breezy!"
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "",
+  "text": "Do you know where my clothes are?"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "",
+  "text": "Men are slow and want to conceal\\Ntheir heads before their bodies!"
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "",
+  "text": "Umm before you get dressed umm...!"
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "",
+  "text": "What's inside that bag\\Nsewn between your legs?"
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "",
+  "text": "Bag?"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "",
+  "text": "Wait you don't know what these are?"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "",
+  "text": "What a weirdo! These are balls!"
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "",
+  "text": "Balls?"
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "",
+  "text": "What are balls?"
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "",
+  "text": "They're the family jewels of course!"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "",
+  "text": "Gorgeous!"
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "",
+  "text": "Family jewels!"
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "",
+  "text": "Could you take your jewels out\\Nand let us see them?"
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "",
+  "text": "Hell no!"
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "",
+  "text": "Are you trying to kill me?! You idiot!"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "",
+  "text": "Here are your clothes then!"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "",
+  "text": "Yours were all torn up"
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "",
+  "text": "so I made new ones with the same design!"
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "",
+  "text": "Oh?! That's great!"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks! I don't even know who you are!"
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "",
+  "text": "What did you...?"
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "",
+  "text": "I added sexy flower frills too!"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "",
+  "text": "Outdoor outfits are all about the frills!"
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "",
+  "text": "Great job Marguerite!"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "",
+  "text": "He seems so happy he's shaking!"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "",
+  "text": "Don't be stupid!"
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "",
+  "text": "I'm a man you know!"
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "",
+  "text": "Prepare to attack!"
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "",
+  "text": "What?!"
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "",
+  "text": "What a vicious temper!\\NIs that your true nature?!"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "",
+  "text": "Shamelessly yelling without any care\\Nfor the fact that we saved his life..."
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "",
+  "text": "What a savage temperament!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "",
+  "text": "His words and actions haven't shown\\Na shred of elegance whatsoever!"
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "",
+  "text": "His kind really is incompatible\\Nwith us after all!"
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "",
+  "text": "Even so Kikyo!"
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "",
+  "text": "He hasn't done much!\\NI'd feel sorry for killing him!"
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "",
+  "text": "Wait! Hold on!"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "",
+  "text": "You saved my life?!"
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "",
+  "text": "What happened?! Tell me!"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "",
+  "text": "These girls saved you after you ate\\Na lethal mushroom and collapsed."
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "",
+  "text": "Oh really?! Thank you!"
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "",
+  "text": "Sorry for complaining about the clothes!"
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "",
+  "text": "Just don't shoot me!"
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "",
+  "text": "Your apologies and excuses mean nothing!"
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "",
+  "text": "This is the woman empire of Amazon Lily!"
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "",
+  "text": "Men are forbidden!"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "",
+  "text": "That has been the absolute\\Nrule here for centuries!"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "",
+  "text": "Never in history has it been broken!"
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "",
+  "text": "Woman empire?!"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "",
+  "text": "Now that you've regained consciousness"
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "",
+  "text": "we have no sympathy for you!"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah! Now that I look closer\\Nit's nothing but women!"
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "",
+  "text": "What a weird country!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "",
+  "text": "We'll put an end to that\\Ndisdainful way of talking as well!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "",
+  "text": "Hey!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "",
+  "text": "Aphelandra!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "",
+  "text": "When the Snake Princess returns"
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "",
+  "text": "she will absolutely disapprove\\Nof this situation!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "",
+  "text": "You'll also be charged with the crime\\Nof bringing a man into the village!"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "",
+  "text": "Marguerite."
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "",
+  "text": "Sweetpea."
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "",
+  "text": "Aphelandra."
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "",
+  "text": "This is for your sake!"
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "",
+  "text": "It is best that we cover up this incident!"
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "",
+  "text": "Wait! Let me go!"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "",
+  "text": "I have to get to the place\\Nmy friends and I agreed on!"
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "",
+  "text": "Shoot!"
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "",
+  "text": "He broke through the roof!"
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "",
+  "text": "Don't let him escape!"
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "",
+  "text": "He's nimbler than he looks!"
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "",
+  "text": "Aphelandra!"
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "",
+  "text": "Right!"
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "",
+  "text": "Sorry for saving you and then doing this!"
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "",
+  "text": "He fell!"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "",
+  "text": "Now he's bouncing!"
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "",
+  "text": "Hmm now what do I do?"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "",
+  "text": "Oh right! My Vivre Card!"
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "",
+  "text": "I left the old guy's piece\\Nof paper in my other pants!"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "",
+  "text": "There she is! That's her!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "",
+  "text": "I can't talk here!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "",
+  "text": "Sorry! There's something I wanna ask you!"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "",
+  "text": "Let go! Help!"
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "",
+  "text": "Oh no! Marguerite's been abducted!"
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Rubber Balloon!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "",
+  "text": "Hey. You alright?"
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "",
+  "text": "Stay away!"
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "",
+  "text": "You... turned fat just now didn't you?!"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "",
+  "text": "You must be crazy to jump from way up there!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "",
+  "text": "I was ready to die!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "",
+  "text": "It's a miracle we're still alive!"
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "",
+  "text": "Really?"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "",
+  "text": "Stay away!"
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "",
+  "text": "I've heard that you men have a virus!"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "",
+  "text": "Do all men suddenly grow fat?!"
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "",
+  "text": "I don't have any kind of virus"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "",
+  "text": "and it'll be a pain to explain, so let's just say all men suddenly grow fat."
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "",
+  "text": "Anyway was there something\\Nin my torn-up pants pockets?"
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "",
+  "text": "Is this it?"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "",
+  "text": "This is it! This is it! What a relief!"
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "",
+  "text": "I wouldn't know what to do without this!"
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks for holding onto it!"
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "",
+  "text": "L-Let go!"
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "",
+  "text": "Oh what a relief!"
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "",
+  "text": "There was something written\\Non it so I figured..."
+ },
+ {
+  "i": 370,
+  "style": "Main",
+  "name": "",
+  "text": "Here look!"
+ },
+ {
+  "i": 371,
+  "style": "Main",
+  "name": "",
+  "text": "How odd! It looks like it's moving!"
+ },
+ {
+  "i": 372,
+  "style": "Main",
+  "name": "",
+  "text": "A bunch of stuff happened"
+ },
+ {
+  "i": 373,
+  "style": "Main",
+  "name": "",
+  "text": "and all my friends went flying\\Nthrough the sky in different directions."
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "",
+  "text": "But thanks to these pieces of paper"
+ },
+ {
+  "i": 375,
+  "style": "Main",
+  "name": "",
+  "text": "we can all get together again!"
+ },
+ {
+  "i": 376,
+  "style": "Main",
+  "name": "",
+  "text": "They're all tough you see!"
+ },
+ {
+  "i": 377,
+  "style": "Main",
+  "name": "",
+  "text": "Oh I've been thanking you non-stop!"
+ },
+ {
+  "i": 378,
+  "style": "Main",
+  "name": "",
+  "text": "Is there anything I can do for you?"
+ },
+ {
+  "i": 379,
+  "style": "Main",
+  "name": "",
+  "text": "Could you take out your family\\Njewels so I can see them then?!"
+ },
+ {
+  "i": 380,
+  "style": "Main",
+  "name": "",
+  "text": "I told you they don't come off!"
+ },
+ {
+  "i": 381,
+  "style": "Main",
+  "name": "",
+  "text": "Put the sword away!"
+ },
+ {
+  "i": 382,
+  "style": "Main",
+  "name": "",
+  "text": "Who are these \"friends\" of yours?!"
+ },
+ {
+  "i": 383,
+  "style": "Main",
+  "name": "",
+  "text": "Oh I'm a pirate!"
+ },
+ {
+  "i": 384,
+  "style": "Main",
+  "name": "",
+  "text": "Do you know what a pirate is?"
+ },
+ {
+  "i": 385,
+  "style": "Main",
+  "name": "",
+  "text": "You're a pirate?"
+ },
+ {
+  "i": 386,
+  "style": "Main",
+  "name": "",
+  "text": "This land's empress is a pirate too."
+ },
+ {
+  "i": 387,
+  "style": "Main",
+  "name": "",
+  "text": "Really?"
+ },
+ {
+  "i": 388,
+  "style": "Main",
+  "name": "",
+  "text": "Then she has a women-only pirate group?"
+ },
+ {
+  "i": 389,
+  "style": "Main",
+  "name": "",
+  "text": "Are they strong?"
+ },
+ {
+  "i": 390,
+  "style": "Main",
+  "name": "",
+  "text": "That's a foolish question!"
+ },
+ {
+  "i": 391,
+  "style": "Main",
+  "name": "",
+  "text": "The most elite warriors of this land\\Nride aboard her pirate ship!"
+ },
+ {
+  "i": 392,
+  "style": "Main",
+  "name": "",
+  "text": "They're very strong!"
+ },
+ {
+  "i": 393,
+  "style": "Main",
+  "name": "",
+  "text": "Everyone here looks up to the Snake Princess!"
+ },
+ {
+  "i": 394,
+  "style": "Main",
+  "name": "",
+  "text": "She's strong noble and the most\\Nbeautiful woman in the world!"
+ },
+ {
+  "i": 395,
+  "style": "Main",
+  "name": "",
+  "text": "The Pirate Empress Boa Hancock!"
+ },
+ {
+  "i": 396,
+  "style": "Main",
+  "name": "",
+  "text": "This land is closely protected\\Nby her and her two sisters!"
+ },
+ {
+  "i": 397,
+  "style": "Main",
+  "name": "",
+  "text": "Oh no! The Snake Princess's ship is nearby!"
+ },
+ {
+  "i": 398,
+  "style": "Main",
+  "name": "",
+  "text": "This is bad!"
+ },
+ {
+  "i": 399,
+  "style": "Main",
+  "name": "",
+  "text": "We need to end the\\Nincident with the man quickly!"
+ },
+ {
+  "i": 400,
+  "style": "Main",
+  "name": "",
+  "text": "Kikyo..."
+ },
+ {
+  "i": 401,
+  "style": "Main",
+  "name": "",
+  "text": "It looks like the man jumped\\Ninto the jungle after all!"
+ },
+ {
+  "i": 402,
+  "style": "Main",
+  "name": "",
+  "text": "Warriors! To the jungle!"
+ },
+ {
+  "i": 403,
+  "style": "Main",
+  "name": "",
+  "text": "Kill the man and rescue Marguerite!"
+ },
+ {
+  "i": 404,
+  "style": "Main",
+  "name": "",
+  "text": "The Snake Princess has returned!"
+ }
+]

@@ -95,6 +95,36 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/04/alabasta%2004%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/12%20Alabasta/04/alabasta%2004%20he.ass"
   },
+  "AM_1": {
+    "arc": "fedew/21 Amazon Lily",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/01/amazonlily%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/01/amazonlily%2001%20he.ass"
+  },
+  "AM_2": {
+    "arc": "fedew/21 Amazon Lily",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/02/amazonlily%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/02/amazonlily%2002%20he.ass"
+  },
+  "AM_3": {
+    "arc": "fedew/21 Amazon Lily",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/03/amazonlily%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/03/amazonlily%2003%20he.ass"
+  },
+  "AM_4": {
+    "arc": "fedew/21 Amazon Lily",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/04/amazonlily%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/04/amazonlily%2004%20he.ass"
+  },
+  "AM_5": {
+    "arc": "fedew/21 Amazon Lily",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/05/amazonlily%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/21%20Amazon%20Lily/05/amazonlily%2005%20he.ass"
+  },
   "AR_1": {
     "arc": "06 Arlong Park",
     "ep": 1,
@@ -532,6 +562,18 @@
     "ep": 1,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/04%20Gaimon/01/gaimon%2001%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/04%20Gaimon/01/gaimon%2001%20He.ass"
+  },
+  "IM_1": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/01/impeldown%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/01/impeldown%2001%20he.ass"
+  },
+  "IM_2": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/02/impeldown%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/02/impeldown%2002%20he.ass"
   },
   "JA_1": {
     "arc": "13 Jaya",
