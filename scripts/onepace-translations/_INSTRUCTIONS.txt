@@ -1,0 +1,114 @@
+ONE PACE HEBREW — Amazon Lily / Impel Down batch
+Output: scripts/onepace-translations/<ID>.he.json
+Format: JSON array [{"i":0,"he":"..."}, ...] — one object per cue in <ID>.cues.json, SAME length, i = 0..N-1 in order.
+"he" = visible Hebrew only. Use \\N for line breaks. NO U+202B, NO ASS tags {..}, NO italics. Build script adds RLE + source tags.
+
+WRAP: max 2 lines, ≤44 Hebrew chars/line, break at WORD boundaries only. Prefer even lines.
+
+THREE GATES — apply on the FIRST write, not a later rewrite. Every dialogue cue.
+Captions/notes: keep house signs; only touch if calque or wrong.
+
+1) UN-CALQUE — spoken Israeli, not English word order.
+   אני אהיה זה שייקח את הראש שלו → אני אקטע לו את הראש
+   ממשלת העולם קוראת לי פיראט ששונא פיראטים → בממשלה אומרים שאני פיראט ששונא פיראטים
+   הם כדלקמן → drop; just list them
+   עכבר לכוד הוא דבר מפחיד → גם עכבר בפינה יכול לנשוך
+   זה רע. מסוכן פה יותר מידי → רע פה. יותר מידי מסוכן
+   Short punches (מה?! / לעזאזל! / אין מצב!) stay.
+
+2) VOICE — 3–5 words per recurring speaker BEFORE cue 0; same mouth all episode.
+   Jinbe: short, heavy, formal (no יאללה). Ace: calm, tired. Luffy: blunt.
+   Buggy: loud coward. Magellan: dry warden. Bon Clay: theatrical, male verbs, כובע-צ'אן.
+   Iva: first person ווי (not אני); Vyou=אתה; Vwe=אנחנו; camp.
+   Sadi/Inazuma (these eps): feminine. Crocodile: cold. Blackbeard: lazy then threat.
+   Guards/PA: clipped military.
+
+3) YOU + SPLIT ATTACKS
+   one male אתה / one female את / mixed group אתם / all-female אתן.
+   Named single addressee (Straw Hat, Bon-chan) = singular even if a neighbor is plural.
+   Default 1:1 singular. Commander→troops plural. Carry ±4 cues until scene break.
+   Split technique = one piece per card, English order.
+   Gear Second / Rubber / Jet / Bazooka → גיר שני / גומי-גומי / סילון / בזוקה
+   Never swap; never restack גומי-גומי onto the last card if prior cards already have it.
+
+HOUSE STYLE (docs/translation-learnings.md):
+- Spoken Israeli Hebrew. Translate the SCENE not the English calque.
+- זאת→זו ; האלה→האלו ; הכול→הכל ; יותר מדי→יותר מידי ; די→דיי ; עליי→עלי
+- nif'al WITH yod: להילחם להישאר להיכנס ליהנות להיזהר להיפגש להיראות
+- Huh?! → הא?!   Huh?/Hm? → הממ?   Man!/Jeez! → בחיי!   Whoa → בנאדם!
+- -san male → אדון NAME ; female → גברת NAME
+- -sama male → אדון NAME ; female Kuja superiors → אדונתי NAME (מריגולד-sama → אדונתי מריגולד)
+- Marines/Navy = הצי ; HQ = מפקדת הצי ; World Government = ממשלת העולם
+- Warlord of the Sea = לוחם הים (m) / לוחמת הים (f, Hancock). The Seven = שבעת לוחמי הים
+- Calm Belt = הרצועה השקטה
+- Haki = האקי ; Conqueror's Haki / Haki of the chosen ones = האקי של המלכים
+- Belly (currency) = ברי
+- Grove #N = חורשה N ; Sabaody Archipelago = ארכיפלג סבאודי
+- Amazon Lily = אמזון לילי ; Kuja = קוג'ה ; Gorgon = גורגון
+- Impel Down = אימפל דאון ; Mariejois/Mariejoa = מארייז'ואה
+- Snake Princess = נסיכת הנחשים
+- Pirate Empress = קיסרית הפיראטים
+- Straw Hat = כובע הקש
+- Devil Fruit: Snake-Snake Fruit Model King Cobra = פרי הנחש-נחש, דגם מלך הקוברות
+  Model Anaconda = דגם אנקונדה
+- Attacks in Hebrew: Gum-Gum = גומי-גומי ; Pistol=אקדח ; Gatling=גאטלינג ; Bazooka=בזוקה
+  Pistol Kiss / Slave Arrow / Perfume Femur / Salamander / Eight-Headed Serpent — translate naturally
+- Rank letters A/B/C stay Latin. CP9 stays Latin.
+- No niqqud, no maqaf U+05BE, no leftover English in dialogue (names in registry Hebrew).
+- Period outside quotes: "אתם מפוטרים".
+
+GENDER/NUMBER — Amazon Lily is almost ALL-FEMALE:
+- Kuja warriors (Marguerite, Sweetpea, Aphelandra, Kikyo, Belladonna, Ran, Daisy, crowd): female.
+  Addressing a Kuja group → אתן + feminine plural verbs (לכו, תפסיקו, תהרגו).
+  Addressing one Kuja woman → את + feminine (לכי, את יודעת).
+- Hancock, Sandersonia, Marigold, Granny Nyon: female. Self: אני בטוחה / מוכנה / יודעת.
+- Luffy, Momonga, Duval, Rayleigh: male. Addressing Luffy → אתה.
+- "the man" on the island = Luffy, male (אותו, תהרגו אותו).
+- Impel Down: mostly male. Alvida female. Hancock still female when she appears.
+
+NAMES (exact):
+לופי, זורו, נאמי, אוסופ, סאנג'י, צ'ופר, רובין, פרנקי, ברוק,
+הנקוק / בואה הנקוק, סנדרסוניה / סוניה, מריגולד, ניון / סבתא ניון,
+מרגריט, סוויטפי, אפלנדרה, בלאדונה, קיקו, ראן, דייזי, מומונגה, סלומה, באקורה,
+דובאל, ריילי, שאקי, קומא, קיזארו, אייס, זקן לבן, גארפ,
+אלבידה, באגי, ג'ינביי, קרוקודייל, מגלן, הניאבאל, איבנקוב, בון קליי / מר 2
+
+OP11 lyrics (copy exactly when English matches):
+Until I can reach the sky, → עד שאגיע לשמיים,
+I believe, until the next tomorrow, hey → אני מאמין, עד המחר הבא, היי
+Chasing and being chased on top of Mobius' ring. → רודף ונרדף על טבעת המוביוס.
+Getting closer and facing forward, hey I want to share your style. → מתקרב ומביט קדימה, היי,\\Nרוצה לחלוק את הסגנון שלך.
+It begins, it expands, this flavor that exceeds imagination → זה מתחיל, זה מתרחב, הטעם הזה שמעבר לדמיון
+I feel so good throughout my body, I will become free, oh yeah → מרגיש כל כך טוב בכל הגוף,\\Nאני אהיה חופשי, הו כן
+Share the music, even if it's far. → חולקים את המוזיקה, גם אם היא רחוקה.
+Share the one dream, by telling each other. → חולקים את אותו חלום, ומספרים זה לזה.
+Share the good times and laugh. → חולקים את הרגעים הטובים וצוחקים.
+I'll keep going until I can reach the sky. → אני אמשיך עד שאגיע לשמיים.
+Let's overcome it now, I believe in the next tomorrow yeah yeah... → בואו נתגבר על זה עכשיו,\\Nאני מאמין במחר הבא כן כן...
+You were waiting there on the other side of the invisible wall. → חיכית שם בצד השני של הקיר הבלתי-נראה.
+I'll be there soon, I believe in one world yeah yeah... → אגיע לשם בקרוב, אני מאמין בעולם אחד כן כן...
+
+OP11 credits roles: Translation=תרגום ; Soundtracking=פסקול ; Quality-checking=בקרת איכות ;
+Editing=עריכה ; Infoboxes=תיבות מידע ; Formatting=עיצוב ; Edit-checking=בקרת עריכה
+Keep Latin person names. Join with \\N as in the English.
+
+Title/Captions: Hebrew only (no tags). Preserve \\N structure of the English (empty extra \\N in source can be collapsed to a single \\N between the two real lines).
+
+Signs examples:
+Sabaody Archipelago / Grove #41 → ארכיפלג סבאודי\\Nחורשה 41
+Maiden Island – Amazon Lily → אי הבתולות — אמזון לילי
+Adventure on the Island of Women → הרפתקה באי הנשים
+Pirate Empress / Boa Hancock → קיסרית הפיראטים\\Nבואה הנקוק
+Calm Belt / The seas around the Island of Women → הרצועה השקטה\\Nהימים סביב אי הנשים
+Navy Headquarters → מפקדת הצי
+Great Prison / Impel Down → הכלא הגדול\\Nאימפל דאון
+
+SELF-CHECK before writing:
+1. len(he.json)==len(cues.json) and i runs 0..N-1
+2. No Latin in dialogue except A/B/C, CP9, and credit names
+3. No word split across \\N
+4. Female Kuja groups = אתן
+5. Valid JSON (ensure_ascii=False)
+6. Three gates ran (un-calque, voice, you/split-attacks) — not a literal first draft
+
+Write the file with json.dump(..., ensure_ascii=False, indent=None) as a compact array, or indent=0 one object per line. Compact single-line array like SAB_1.he.json is fine.

@@ -575,6 +575,42 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/02/impeldown%2002%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/02/impeldown%2002%20he.ass"
   },
+  "IM_3": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/03/impeldown%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/03/impeldown%2003%20he.ass"
+  },
+  "IM_4": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/04/impeldown%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/04/impeldown%2004%20he.ass"
+  },
+  "IM_5": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/05/impeldown%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/05/impeldown%2005%20he.ass"
+  },
+  "IM_6": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/06/impeldown%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/06/impeldown%2006%20he.ass"
+  },
+  "IM_7": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/07/impeldown%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/07/impeldown%2007%20he.ass"
+  },
+  "IM_8": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/08/impeldown%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/08/impeldown%2008%20he.ass"
+  },
   "JA_1": {
     "arc": "13 Jaya",
     "ep": 1,

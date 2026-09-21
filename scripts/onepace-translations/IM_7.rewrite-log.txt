@@ -1,0 +1,18 @@
+changed: 56
+unchanged: 421
+calque: 38
+voice: 16
+you_or_attack: 2
+12 example lines: i | EN | OLD | NEW | tag
+22 | It's this Mister Two Bon-boy vyou should be thanking. | למר 2 בון אתה צריך להודות. | תודה מגיעה לבון, מר 2. | calque
+29 | Vi'm pretty sure he made at least some difference in vyour struggle to survive. | ווי דיי בטוח שהוא כן שינה משהו\Nבמאבק שלך לשרוד. | ווי דיי בטוח שהוא כן עזר לך לשרוד. | calque
+74 | Vi shall once again return to the surface and throw vmyself into the flow of the world. | ווי אחזור שוב אל פני השטח\Nואשליך את ווי לזרם העולם. | ווי אחזור שוב אל פני השטח\Nואזרוק את ווי לזרם העולם. | calque
+90 | To be honest, I don't even know what he looks like. | אם להיות כנה, אני אפילו\Nלא יודע איך הוא נראה. | בכנות, אני אפילו לא יודע איך הוא נראה. | you_or_attack
+108 | Stop enquiring about my personal history, Iva. | תפסיק לחקור את ההיסטוריה\Nהאישית שלי, איווה. | תפסיק לחטט בעבר שלי, איווה. | voice
+140 | Vwe will hereby attempt to save Ace-boy and break out of Impel Down! | אנחנו ננסה להציל את אייס\Nולפרוץ מאימפל דאון! | אנחנו הולכים להציל את אייס\Nולפרוץ מאימפל דאון! | voice
+231 | You will now be taken to the city where your execution is to take place, Marineford! | עכשיו לוקחים אותך לעיר שבה\Nתתקיים ההוצאה להורג, מרינפורד! | עכשיו לוקחים אותך למרינפורד,\Nשם תתקיים ההוצאה להורג! | calque
+249 | Are vyou sure this is the right cage? | אתה בטוח שזה הכלוב הנכון? | את בטוחה שזה הכלוב הנכון? | you_or_attack
+414 | I never thought I'd get the chance to take that old man's head. | מעולם לא חשבתי שתהיה לי הזדמנות\Nלקחת את הראש של הזקן ההוא. | מעולם לא חשבתי שתהיה לי הזדמנות\Nלכרות לזקן ההוא את הראש. | calque
+436 | Vi've got a firm grasp on this guy's weakness. | לווי אחיזה חזקה בנקודת התורפה של הבחור הזה. | ווי יודע בדיוק איפה ללחוץ לבחור הזה. | voice
+451 | Please! Let me choose the place of my death! | בבקשה! תנו לי לבחור את מקום המוות שלי! | בבקשה! תנו לי לבחור היכן אמות! | voice
+476 | Vwe're gonna force our way out of this prison! | אנחנו נפרוץ בכוח מחוץ לכלא הזה! | אנחנו נפרוץ מהכלא הזה! | voice

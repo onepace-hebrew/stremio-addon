@@ -83,6 +83,12 @@ const EPISODES = {
   AM_5: { arc: '21 Amazon Lily', nn: '05', stem: 'amazonlily 05 he', epLabel: 'Amazon Lily 05' },
   IM_1: { arc: '22 Impel Down', nn: '01', stem: 'impeldown 01 he', epLabel: 'Impel Down 01' },
   IM_2: { arc: '22 Impel Down', nn: '02', stem: 'impeldown 02 he', epLabel: 'Impel Down 02' },
+  IM_3: { arc: '22 Impel Down', nn: '03', stem: 'impeldown 03 he', epLabel: 'Impel Down 03' },
+  IM_4: { arc: '22 Impel Down', nn: '04', stem: 'impeldown 04 he', epLabel: 'Impel Down 04' },
+  IM_5: { arc: '22 Impel Down', nn: '05', stem: 'impeldown 05 he', epLabel: 'Impel Down 05' },
+  IM_6: { arc: '22 Impel Down', nn: '06', stem: 'impeldown 06 he', epLabel: 'Impel Down 06' },
+  IM_7: { arc: '22 Impel Down', nn: '07', stem: 'impeldown 07 he', epLabel: 'Impel Down 07' },
+  IM_8: { arc: '22 Impel Down', nn: '08', stem: 'impeldown 08 he', epLabel: 'Impel Down 08' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +

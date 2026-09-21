@@ -1,0 +1,18 @@
+changed: 89
+unchanged: 490
+calque: 47
+voice: 36
+you_or_attack: 6
+12 example lines: i | EN | OLD | NEW | tag
+0 | The Government calls me a pirate who hates pirates... | ממשלת העולם קוראת לי פיראט ששונא פיראטים... | בממשלה אומרים שאני פיראט ששונא פיראטים... | calque
+3 | I suppose you would be surprised... | אני מניח שזה מפתיע אותך... | בטח זה מפתיע אותך... | calque
+24 | He's the pirate boss, so we can't let him fall! | הוא הבוס של הפיראטים, אסור שהוא ייפול! | הוא מנהיג הפיראטים. אסור שייפול! | voice
+38 | Why, you! | מה אתה?! | איך אתה מעז?! | calque
+45 | I'll be the one to take his head! | אני אהיה זה שייקח את הראש שלו! | אני אקטע לו את הראש! | calque
+67 | Pistol! / Cannon! / Lock! | גומי-גומי אקדח!\Nבארה-בארה תותח!\Nמנעול נר! | אקדח!\Nתותח!\Nמנעול! | you_or_attack
+177 | You're in on it too, huh? | גם אתה בפנים, הא? | גם אתה בזה, הא? | calque
+237 | All of this has been unprecedented! | כל זה היה חסר תקדים! | כזה דבר עוד לא היה! | calque
+278 | Now you know why this floor is covered with sand. | עכשיו אתה מבין למה הקומה הזו מכוסה בחול. | עכשיו אתם מבינים למה הקומה הזו מכוסה בחול. | you_or_attack
+413 | What're you saying?! Let me out! | מה אתה אומר?! תוציא אותי! | מה אתם אומרים?! תוציאו אותי! | you_or_attack
+509 | who is boss in this prison! | מי הבוס בכלא הזה! | מי השולט בכלא הזה! | voice
+532 | But I guess If I keep going, it's gonna go downwards at some point! | אבל אני מניח שאם אמשיך, זה בסוף ירד! | אבל אם אמשיך, בסוף זה ירד! | voice

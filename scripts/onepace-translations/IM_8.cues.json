@@ -1,0 +1,3092 @@
+[
+ {
+  "i": 0,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat, Ivankov and Inazuma all have Devil Fruit powers!"
+ },
+ {
+  "i": 1,
+  "style": "Main",
+  "name": "",
+  "text": "Don't forget to bring your prison bullets!"
+ },
+ {
+  "i": 2,
+  "style": "Main",
+  "name": "",
+  "text": "We've arrived at Level Six!"
+ },
+ {
+  "i": 3,
+  "style": "Main",
+  "name": "",
+  "text": "Charge!"
+ },
+ {
+  "i": 4,
+  "style": "Main",
+  "name": "",
+  "text": "What's this stone structure?"
+ },
+ {
+  "i": 5,
+  "style": "Main",
+  "name": "",
+  "text": "N-No way!"
+ },
+ {
+  "i": 6,
+  "style": "Main",
+  "name": "",
+  "text": "Are they still here?! Find them!"
+ },
+ {
+  "i": 7,
+  "style": "Main",
+  "name": "",
+  "text": "You seriously think anyone would open a hole like that and {\\i1}not{\\i0} run? Idiot."
+ },
+ {
+  "i": 8,
+  "style": "Main",
+  "name": "",
+  "text": "H-Head Jailer Shiryuu!"
+ },
+ {
+  "i": 9,
+  "style": "Main",
+  "name": "",
+  "text": "See that, you worms? When I'm not around, you can't do anything.{TLC}"
+ },
+ {
+  "i": 10,
+  "style": "Main",
+  "name": "",
+  "text": "You've been doing a pretty damn lousy job here.{TLC}"
+ },
+ {
+  "i": 11,
+  "style": "Main",
+  "name": "",
+  "text": "This is a horrible incident."
+ },
+ {
+  "i": 12,
+  "style": "Main",
+  "name": "",
+  "text": "A shame to Impel Down."
+ },
+ {
+  "i": 13,
+  "style": "Main",
+  "name": "",
+  "text": "Those three guys you're looking for freed Crocodile and Jinbei..."
+ },
+ {
+  "i": 14,
+  "style": "Main",
+  "name": "",
+  "text": "before going up to Level Five through that hole."
+ },
+ {
+  "i": 15,
+  "style": "Main",
+  "name": "",
+  "text": "Relay this message to Magellan at once: I'll lend him a hand."
+ },
+ {
+  "i": 16,
+  "style": "Main",
+  "name": "",
+  "text": "Well..."
+ },
+ {
+  "i": 17,
+  "style": "Main",
+  "name": "",
+  "text": "W-What?!"
+ },
+ {
+  "i": 18,
+  "style": "Main",
+  "name": "",
+  "text": "Crocodile and Jinbei?!"
+ },
+ {
+  "i": 19,
+  "style": "Main",
+  "name": "",
+  "text": "Yes! They're not in their cells!"
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "",
+  "text": "S-So that means, even though I had them sealed up inside Level Six, they've managed to escape?!"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "",
+  "text": "There are five of them now, and they're all on Level Five?!"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "",
+  "text": "That's how it is!"
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "",
+  "text": "Do you think I'm responsible for this?"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "",
+  "text": "Warden Magellan is handing over Portgas D. Ace right now, so you'll probably have to take full responsibility."
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}Full Responsibility{\\i0}?!"
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "",
+  "text": "Right! I shall fight them as well!"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "",
+  "text": "Send all troops to Level Four!"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "",
+  "text": "Sadi-chan! Saldeath!"
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "",
+  "text": "Take all your men with you and head for Level Four!"
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "",
+  "text": "This will be an attempt to become Warden with your lives on the line!"
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "",
+  "text": "Ah, I got it wrong! This will be a battle with your lives on the line!"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "",
+  "text": "Are vyou ready?"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "",
+  "text": "Even if vwe DO make it to the entrance on the first floor,"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "",
+  "text": "the problem is what comes after vwe've made it outside."
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "",
+  "text": "Vwe're surrounded by the impassable Calm Belt."
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "",
+  "text": "If vwe're to cross it and reach Navy HQ, vwe have no choice but hijack one of the Navy's warships."
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "",
+  "text": "Numbers are absolutely essential!"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "",
+  "text": "Vwe have to get more allies."
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "",
+  "text": "The truth is, right now only a handful of vyou will make it to the first floor without getting caught!"
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "",
+  "text": "If vwe are caught, gruesome torture awaits vus."
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "",
+  "text": "So listen up, in order to increase vour survival rate just a little bit,"
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "",
+  "text": "vwe'll have to free as many prisoners as vwe can between Level Five and Level One!"
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "",
+  "text": "The more trouble the prisoners cause, the more enemy troops will be distracted by them!"
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "",
+  "text": "Vwe will steal as many keys and free as many prisoners as we can while making our way up there!"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "",
+  "text": "Vwe are going to cause a riot here in Impel Down the likes of which has never been seen!"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "",
+  "text": "So let's go, Straw-Hat-boy!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "",
+  "text": "Huh?"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "",
+  "text": "He's gone ahead already."
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "",
+  "text": "He freed himself?!"
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "",
+  "text": "Vwe'll follow him immediately, Candies!"
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "",
+  "text": "Wait! Will someone please stop me?!"
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "",
+  "text": "So fast! So fast! I'm spinning even faster than ever!"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "",
+  "text": "The Tension Hormones were too effective!"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah. But that's actually pretty convenient, isn't it?"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "",
+  "text": "No, it isn't!"
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "",
+  "text": "It's almost ten in the morning right now!"
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "",
+  "text": "The execution will take place at three this afternoon!"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "",
+  "text": "They're certain to carry out the execution at that exact moment!"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "",
+  "text": "If Whitebeard intends to stop them, he should attack several hours before the execution!"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "",
+  "text": "Ace-san is already being taken across the sea."
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "",
+  "text": "The battle could break out any minute now!"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "",
+  "text": "They won't kill him before three o'clock, right?!"
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "",
+  "text": "Then we still have a chance!"
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "",
+  "text": "These doors are completely pointless."
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "",
+  "text": "I'll dry it up with my right hand."
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "",
+  "text": "Explanation of Crocodile's Suna Suna Fruit powers.{for those just joining us...}"
+ },
+ {
+  "i": 67,
+  "style": "Note",
+  "name": "",
+  "text": "{\\fad(100,100)}Suna: Sand"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "",
+  "text": "He is a sand man who can turn into and manipulate sand."
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "",
+  "text": "The palm of his right hand can absorb the moisture from anything."
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "",
+  "text": "When touched by his hand, people and plants will dehydrate, while earth and stone will crumble to sand."
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "",
+  "text": "Here they are!"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "",
+  "text": "T-This is Level Four!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "",
+  "text": "The prisoners that escaped from Level Six, the Warlord Jinbei..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "",
+  "text": "Inferno Hell, huh?"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "",
+  "text": "The intruder, Monkey D. Luffy..."
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "",
+  "text": "Hot!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "",
+  "text": "The former Warlord, Crocodile..."
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "",
+  "text": "They're all here!"
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "",
+  "text": "Start counterattack!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "",
+  "text": "Fire!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "",
+  "text": "Morons! Use the prison bullets!"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Crescent Sand Dune!"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "",
+  "text": "Shoot him! Use the prison-bullets!"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gomu Gomu no..."
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Rain!"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Fishman Karate!"
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "",
+  "text": "What?{Three... Years... Later...}"
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Arabesque Tile Fist!"
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "",
+  "text": "T-There's no way we can win!"
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "",
+  "text": "He's a rookie with a 300 million beli bounty, and he's got {\\i1}two{\\i0} Warlords with him!"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "",
+  "text": "D-Don't falter!"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "",
+  "text": "We'll just have to hold them back with our sheer numbers until the reinforcements arrive!{does it pay really well to be a prison guard?}"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "",
+  "text": "Move it. I'm in a hurry."
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "",
+  "text": "Let's go."
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "",
+  "text": "Damn them... Shoot!"
+ },
+ {
+  "i": 96,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(450,0)}Beast Hell"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "",
+  "text": "Hurry!"
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "",
+  "text": "What is all that noise?"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "",
+  "text": "Camisole..."
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "",
+  "text": "Long-johns..."
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "",
+  "text": "All troops, proceed to Level Four."
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "",
+  "text": "All troops, proceed to Level Four."
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "",
+  "text": "I think I just heard something from the speakers..."
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "",
+  "text": "Has something happened in the prison?"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, Buggy! Look!"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "",
+  "text": "The guards and the Blugori are leaving!"
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "",
+  "text": "All troops, urgently proceed to Level Four."
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "",
+  "text": "Seems like there's some trouble on another floor, partner."
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "",
+  "text": "This is a great opportunity for us!"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "",
+  "text": "Yes, that's right..."
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "",
+  "text": "When I think back on it..."
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "",
+  "text": "We were chased by the Army-Wolves in Level Five..."
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "",
+  "text": "And just moments ago, we were pressed against the floor trying to deceive those Accursed Beasts..."
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "",
+  "text": "It might have seemed like comic relief, but we've FINALLY made it back here to Level Two...!"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "",
+  "text": "We're a breath closer to that long-awaited outside world..."
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "",
+  "text": "Ya ready, guys?"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "",
+  "text": "Of course we are!"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "",
+  "text": "Fake keys that Three-guy made out of wax..."
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "",
+  "text": "This is totally awesome!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "",
+  "text": "All troops, proceed to Level Four."
+ },
+ {
+  "i": 121,
+  "style": "Secondary",
+  "name": "",
+  "text": "Sector A! What's happening?!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "",
+  "text": "Sector B, wait!"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "",
+  "text": "Assistant Warden! This is the monitoring room!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "",
+  "text": "What is it?"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "",
+  "text": "This is strange..."
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, no no... This cool hat, you see,"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "",
+  "text": "it is a specially-made headdress that I was going to wear to commemorate my promotion to Warden..."
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "",
+  "text": "I'm not talking about the thing on your head!"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "",
+  "text": "I can see someone sneaking around on Level Two!"
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "",
+  "text": "It looks like a couple of prisoners!"
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}What{\\i0}?!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, the keys! We're getting out of here!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks a lot, you there!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "",
+  "text": "C-Crocodile?!"
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "",
+  "text": "I'm thinking of escaping this place, but I'll need some soldiers.{croc forever alone FeelsBadMan}"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "",
+  "text": "How 'bout it?{pls im desperate i know no one else}"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "",
+  "text": "Wanna join me..."
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "",
+  "text": "Mister One?"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "",
+  "text": "I suppose I'll tag along, if it's with you."
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "",
+  "text": "I was starting to get bored."
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks a ton."
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "",
+  "text": "It's Captain Buggy you should be thanking."
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "",
+  "text": "Level Two guards, are you there?!"
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "",
+  "text": "If you are, then respond!"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "",
+  "text": "Yes!"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "",
+  "text": "What are you guys doing?"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "",
+  "text": "Uh, we're heading to Level Four, like we were ordered..."
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "",
+  "text": "No! Stay and keep watch on that floor!"
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "",
+  "text": "This floor?"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "",
+  "text": "Things have turned to our favor, partner!"
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "",
+  "text": "If these guys start rioting again, we can use that chance to smuggle ourselves onto a warship!"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "",
+  "text": "Indeed, and then our escape will be complete!"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "",
+  "text": "I suppose Straw-Hat and Mister Two are already dead..."
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "",
+  "text": "Even if they survived, they'll be stuck in prison for the rest of their lives!"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "",
+  "text": "Our own lives are the most important thing!"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "",
+  "text": "So long, suckers!"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "",
+  "text": "That's Buggy the Clown!"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "",
+  "text": "Up there! Look above you!"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "",
+  "text": "Above us...?"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "",
+  "text": "Well then, men!"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "",
+  "text": "This is the best chance we'll ever get!"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "",
+  "text": "If ya wanna taste the fresh air again, raise hell like your lives depend on it!"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "",
+  "text": "That's the kick-off!"
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "",
+  "text": "Our savior!"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "",
+  "text": "That's Captain Buggy!"
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "",
+  "text": "T-This is Level Two..."
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "",
+  "text": "The prisoners have escaped from their cages and are running wild again!"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "",
+  "text": "Please send the Blugori back here!"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "",
+  "text": "We can't restrain them!"
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "",
+  "text": "This is Level Four!"
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "",
+  "text": "What is it now?!"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "",
+  "text": "The Okama-queen Ivankov, Inazuma,"
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "",
+  "text": "and the guy you ran into earlier, Mister Two...!"
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "",
+  "text": "Quit messing around!"
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "",
+  "text": "They've arrived, followed by a huge crowd of people!"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "",
+  "text": "A... A crowd?!"
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "",
+  "text": "All troops, urgently proceed to Level Four."
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "",
+  "text": "All troops, urgently proceed to Level Four."
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "",
+  "text": "And the people they've brought with them are... You won't believe this!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "",
+  "text": "They're prisoners who have vanished over the years,\\Nwho we thought had been taken by the Demon's Tug!"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "",
+  "text": "What did you say?!"
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "",
+  "text": "What's going on here?!"
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "",
+  "text": "Vwe've finally made it!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "",
+  "text": "Straw-chan!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "",
+  "text": "Bon-chan!"
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "",
+  "text": "You got a tension boost, huh?"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "",
+  "text": "I'm unstoppable now!"
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "",
+  "text": "Why are you here, Mister One?!"
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "",
+  "text": "Who's this guy?"
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "",
+  "text": "He's the guy who was beaten by\\NWaistband-chan back in Alabasta!"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "",
+  "text": "Oh? Someone I don't know, then."
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "",
+  "text": "Assistant Warden! Hurry and send reinforcements to Level Four!"
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "",
+  "text": "Level Two, as well!"
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "",
+  "text": "What do I do...?"
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Emporio Face-Growth Hormone!"
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "",
+  "text": "It's too hot!"
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Hell Wink!"
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "",
+  "text": "It's no use!"
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "",
+  "text": "We can't stop them!"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "",
+  "text": "All these prisoners, who were really ferocious before they disappeared,{now they're ferocious and fabulous!}"
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "",
+  "text": "are all wearing some kinda weird, fanatical getups!"
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "",
+  "text": "They're unstoppable in more ways than one!"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "",
+  "text": "Let's go to Navy HQ!"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "",
+  "text": "It seems like an unprecedented riot is taking place in Impel Down."
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "",
+  "text": "Their leader is Monkey D. Luffy."
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "",
+  "text": "Take a good look at the sky. It's the last time you'll see it.{this dude looks pickled}"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "",
+  "text": "Once you've been secured on to the execution platform,"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "",
+  "text": "you'll never..."
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "",
+  "text": "see the sky again."
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "",
+  "text": "This is Onigumo."
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "",
+  "text": "Prepare to open the gates to Marineford."
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "",
+  "text": "Fleet Admiral Sengoku!"
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "",
+  "text": "How did it go?"
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "",
+  "text": "He's nowhere to be found!"
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "",
+  "text": "There's just over 5 hours left till Ace's execution."
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "",
+  "text": "We have no idea when Whitebeard might show up,"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "",
+  "text": "and now, even though we've entered the most critical time,"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "",
+  "text": "we can't find the Warlord Blackbeard anywhere on the island, no matter how hard we look!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "",
+  "text": "And one more thing..."
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "",
+  "text": "A warship that didn't get clearance to leave..."
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "",
+  "text": "just arrived at Impel Down!"
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "",
+  "text": "What?!"
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "",
+  "text": "You don't suppose..."
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "",
+  "text": "Please, wait here!"
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "",
+  "text": "We didn't call for any outside reinforcements,"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "",
+  "text": "and we're in a state of emergency and cannot take on this responsibility!"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "",
+  "text": "We were just checking with HQ..."
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "",
+  "text": "Who cares about that? We're on the same side, ain't we?"
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "",
+  "text": "S-Still! Pirates aren't allowed inside the prison, regardless of the circumstances!"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "",
+  "text": "No need to hold back."
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "",
+  "text": "I'm with the Government!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "",
+  "text": "What a depressing place this is!"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "",
+  "text": "Reporting in!"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "",
+  "text": "The crew of the ship that Blackbeard arrived on..."
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "",
+  "text": "has been eliminated!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "",
+  "text": "What?!"
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "",
+  "text": "Hey!"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "",
+  "text": "Sir!"
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "",
+  "text": "Wait, you lot!"
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Liberation!"
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "",
+  "text": "We've got an intruder!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "",
+  "text": "He's one of the Seven Warlords, Marshall D. Teach!"
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! Hang in there!"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "",
+  "text": "These guys are the guards that were just wiped out!"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "",
+  "text": "Darkness...!"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "",
+  "text": "Blackbeard and his crew have broken in with hostile intent, no doubt about it!"
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "",
+  "text": "I was... pulled into the darkness...!"
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "",
+  "text": "We don't know what they're here for!"
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "",
+  "text": "It's over! My life is over!"
+ },
+ {
+  "i": 250,
+  "style": "Thoughts",
+  "name": "",
+  "text": "No, that's not true."
+ },
+ {
+  "i": 251,
+  "style": "Thoughts",
+  "name": "",
+  "text": "This is the beginning."
+ },
+ {
+  "i": 252,
+  "style": "Thoughts",
+  "name": "",
+  "text": "This is the beginning of my dark, depressing life where I'm unable to become Warden."
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "",
+  "text": "Assistant Warden!"
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "",
+  "text": "Pull yourself together!"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat Luffy is on Level Four,{kae: great gods, guys, make sure this says straw-hat, not monky d}"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "",
+  "text": "Buggy the Clown is on Level Two,"
+ },
+ {
+  "i": 257,
+  "style": "Main",
+  "name": "",
+  "text": "and the Warlord, Blackbeard, is at the main entrance!"
+ },
+ {
+  "i": 258,
+  "style": "Main",
+  "name": "",
+  "text": "What can I do about this?!"
+ },
+ {
+  "i": 259,
+  "style": "Main",
+  "name": "",
+  "text": "How about going back to the monitoring room and eating some crackers?"
+ },
+ {
+  "i": 260,
+  "style": "Main",
+  "name": "",
+  "text": "Pull yourself together! We must protect Impel Down!"
+ },
+ {
+  "i": 261,
+  "style": "Main",
+  "name": "",
+  "text": "Sure, you're not the one taking responsibility here, so {\\i1}of course{\\i0} you can say that..."
+ },
+ {
+  "i": 262,
+  "style": "Main",
+  "name": "",
+  "text": "Don't tell me you're trying to take my job as Assistant Warden?!"
+ },
+ {
+  "i": 263,
+  "style": "Main",
+  "name": "",
+  "text": "Hannyabal!"
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "",
+  "text": "Can you hear me?"
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "",
+  "text": "W-Warden Magellan, is that you?"
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "",
+  "text": "Where... Where are you now?"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "",
+  "text": "I'm in Level Two."
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "",
+  "text": "I've taken care of the imbeciles who were causing an uproar here."
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "",
+  "text": "What?"
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "",
+  "text": "Help...!"
+ },
+ {
+  "i": 271,
+  "style": "Main",
+  "name": "",
+  "text": "I've sealed all the exits to this floor."
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "",
+  "text": "They'll be completely immobilized before long."
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "",
+  "text": "We're trapped here!"
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "",
+  "text": "Captain Buggy! There's a clog of poison blocking the way!"
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "",
+  "text": "Damn you, Magellan! You sneaky bastard!"
+ },
+ {
+  "i": 276,
+  "style": "Main",
+  "name": "",
+  "text": "We'll be in big trouble at this rate!"
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "",
+  "text": "I have no idea why Blackbeard has invaded this place,"
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "",
+  "text": "but I have a plan to deal with him."
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "",
+  "text": "It's a risky move, but as things stand now, we have no choice."
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "",
+  "text": "A risky move, is it?"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "",
+  "text": "I hoped it wouldn't come to this, but I've decided that we must release Shiryuu!"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}Seriously{\\i0} ?!"
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "",
+  "text": "In any case, we can't rely on\\Nreinforcements from Navy HQ."
+ },
+ {
+  "i": 284,
+  "style": "Main",
+  "name": "",
+  "text": "We must pull through on our own, one way or another."
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "",
+  "text": "Send all available troops to deal with the situation on Level Four."
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "",
+  "text": "I will be on Level Four shortly."
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "",
+  "text": "Hold tight until I get there!"
+ },
+ {
+  "i": 288,
+  "style": "Main",
+  "name": "",
+  "text": "Warden!"
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "",
+  "text": "Warden!"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "",
+  "text": "Yay! Warden!"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "",
+  "text": "Let's just hurry up and get moving."
+ },
+ {
+  "i": 292,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(600,500)}Impel Down Head Jailer"
+ },
+ {
+  "i": 293,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(600,500)}Shiryuu of the Rain"
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "",
+  "text": "Shiryuu. Does it feel good being out of that cell?"
+ },
+ {
+  "i": 295,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah, I've learned my lesson."
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "",
+  "text": "I was about to die from eternal boredom..."
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "",
+  "text": "You're not just gonna use me then lock me up again, are you Magellan?"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "",
+  "text": "You've been sentenced to death."
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "",
+  "text": "This is an opportunity to postpone your sentence."
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "",
+  "text": "There is no second chance."
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah, I see."
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "",
+  "text": "I'll keep that in mind."
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "",
+  "text": "Your sword, Head Jailer Shiryuu."
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "",
+  "text": "I'll leave Blackbeard to you."
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "",
+  "text": "Very well."
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "",
+  "text": "My sword, eh?"
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "",
+  "text": "Long time, no see..."
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "",
+  "text": "So sorry..."
+ },
+ {
+  "i": 309,
+  "style": "Main",
+  "name": "",
+  "text": "For cutting you guys down."
+ },
+ {
+  "i": 310,
+  "style": "Main",
+  "name": "",
+  "text": "All the guards have been defeated!"
+ },
+ {
+  "i": 311,
+  "style": "Main",
+  "name": "",
+  "text": "They've stolen the keys!"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "",
+  "text": "Now, keep building vour numbers, and let vus throw the prison into chaos!"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "",
+  "text": "This way, the enemy can't hold vus back, and vwe'll increase vour chance of survival!"
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "",
+  "text": "If you wanna escape, get out of those cells!"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "",
+  "text": "This is your chance to escape!"
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "",
+  "text": "Let's go together!"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "",
+  "text": "You're letting us out of here?"
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "",
+  "text": "Go, Blugori!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "",
+  "text": "Go wild!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "",
+  "text": "Damn, it's the Blugori!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "",
+  "text": "Head Guard Saldeath, we're counting on you!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "",
+  "text": "Blugori! Get that Okama with the humongous face!"
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "",
+  "text": "It's not a huge face! It's vmy Face-Growth Hormones!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "",
+  "text": "Get him, Blugori!"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Hell..."
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Wink!"
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "",
+  "text": "He took out the Blugori army with one hit!"
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "",
+  "text": "I-Impossible!"
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "",
+  "text": "I don't get it! What is that?!"
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "",
+  "text": "Straw-Hat-boy!"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "",
+  "text": "Vyou don't have time to be standing around!"
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "",
+  "text": "Leave vyour back to vus, and just keep running forward and climbing upward!"
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "",
+  "text": "Get going!"
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "",
+  "text": "Right, gotcha."
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks!"
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "",
+  "text": "It's the Demon Guards!"
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "",
+  "text": "There's three of them!"
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "",
+  "text": "Alright, it's reinforcements!"
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "",
+  "text": "Sadi-chan and her team are here!"
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "",
+  "text": "These kids won't..."
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "",
+  "text": "let you take a single step past this spot!"
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy-kun, let us go! I will help you!"
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "",
+  "text": "Though I am not so good at fighting on land..."
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "",
+  "text": "Really? You're pretty tough..."
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "",
+  "text": "Get them, Demon Guards!"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "",
+  "text": "Take this!"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "",
+  "text": "Without its eyesight, even a Demon Guard\\Nis useless as a tree stump."
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "",
+  "text": "Get them!"
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "",
+  "text": "We'll crush them!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "",
+  "text": "Everyone attack at once!"
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "",
+  "text": "Pathetic weaklings..."
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "",
+  "text": "No use! They're too strong!"
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "",
+  "text": "Neither guns nor cannons affect them!"
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "",
+  "text": "Help!"
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "",
+  "text": "It's hopeless! Don't fight 'em! Pull back!"
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "",
+  "text": "We're all gonna die!"
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "",
+  "text": "These guys are worse than the Blugori! Run!"
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, I just {\\i1}love{\\i0} the sound of your screams!"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "",
+  "text": "Those Demon Guards are quite frightening, indeed!"
+ },
+ {
+  "i": 360,
+  "style": "Secondary",
+  "name": "",
+  "text": "Help us!"
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gear Third!"
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Fishman Karate!"
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "",
+  "text": "Get them, Demon Guards!"
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gomu Gomu no..."
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gigant..."
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Five Thousand Tiles..."
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Sables!"
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Fist!"
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Pistol!"
+ },
+ {
+  "i": 370,
+  "style": "Main",
+  "name": "",
+  "text": "Raise the drawbridge!"
+ },
+ {
+  "i": 371,
+  "style": "Main",
+  "name": "",
+  "text": "Don't let them through!"
+ },
+ {
+  "i": 372,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(950,950)}Underwater Prison Impel Down"
+ },
+ {
+  "i": 373,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(950,950)}Crimson Hell"
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}Hurry!"
+ },
+ {
+  "i": 375,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}There's only five of 'em! Stop Blackbeard's crew!"
+ },
+ {
+  "i": 376,
+  "style": "Main",
+  "name": "",
+  "text": "Fire! Fire!"
+ },
+ {
+  "i": 377,
+  "style": "Main",
+  "name": "",
+  "text": "He might be a member of the Warlords, but he's intentionally betraying us!"
+ },
+ {
+  "i": 378,
+  "style": "Main",
+  "name": "",
+  "text": "Blackbeard is no longer our ally!"
+ },
+ {
+  "i": 379,
+  "style": "Main",
+  "name": "",
+  "text": "So what if he betrayed us? He was a pirate to begin with."
+ },
+ {
+  "i": 380,
+  "style": "Main",
+  "name": "",
+  "text": "H-Head Jailer Shiryuu!"
+ },
+ {
+  "i": 381,
+  "style": "Main",
+  "name": "",
+  "text": "When did you get out of the cell?"
+ },
+ {
+  "i": 382,
+  "style": "Main",
+  "name": "",
+  "text": "Five enemies, eh?"
+ },
+ {
+  "i": 383,
+  "style": "Main",
+  "name": "",
+  "text": "Who's that?"
+ },
+ {
+  "i": 384,
+  "style": "Main",
+  "name": "",
+  "text": "This guy looks dangerous..."
+ },
+ {
+  "i": 385,
+  "style": "Main",
+  "name": "",
+  "text": "Is that Magellan?"
+ },
+ {
+  "i": 386,
+  "style": "Main",
+  "name": "",
+  "text": "You're Marshall D. Teach... \"Blackbeard\", are you not?"
+ },
+ {
+  "i": 387,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah, that's right! And who're you?"
+ },
+ {
+  "i": 388,
+  "style": "Main",
+  "name": "",
+  "text": "It's no use!"
+ },
+ {
+  "i": 389,
+  "style": "Main",
+  "name": "",
+  "text": "They beat the Demon Guards! We can't stop them!"
+ },
+ {
+  "i": 390,
+  "style": "Main",
+  "name": "",
+  "text": "Charge forward!"
+ },
+ {
+  "i": 391,
+  "style": "Main",
+  "name": "",
+  "text": "There's nothing to be afraid of!"
+ },
+ {
+  "i": 392,
+  "style": "Main",
+  "name": "",
+  "text": "Damn! Their numbers keep growing!"
+ },
+ {
+  "i": 393,
+  "style": "Main",
+  "name": "",
+  "text": "Damn{\\fscx250}-{\\r}!"
+ },
+ {
+  "i": 394,
+  "style": "Main",
+  "name": "",
+  "text": "That's the leader of the Demon Guards, Sadi!"
+ },
+ {
+  "i": 395,
+  "style": "Main",
+  "name": "",
+  "text": "Who cares?! Get her!"
+ },
+ {
+  "i": 396,
+  "style": "Main",
+  "name": "",
+  "text": "Silence! You will refer to me as Sadi-chan!"
+ },
+ {
+  "i": 397,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Violence of Arousal..."
+ },
+ {
+  "i": 398,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Red Demon Whip!"
+ },
+ {
+  "i": 399,
+  "style": "Main",
+  "name": "",
+  "text": "How dare you..."
+ },
+ {
+  "i": 400,
+  "style": "Main",
+  "name": "",
+  "text": "do such a thing to my adorable..."
+ },
+ {
+  "i": 401,
+  "style": "Main",
+  "name": "",
+  "text": "minions?!"
+ },
+ {
+  "i": 402,
+  "style": "Main",
+  "name": "",
+  "text": "Damn her!"
+ },
+ {
+  "i": 403,
+  "style": "Main",
+  "name": "",
+  "text": "Wait."
+ },
+ {
+  "i": 404,
+  "style": "Main",
+  "name": "",
+  "text": "Didn't Vi tell vyou to keep moving forward?!"
+ },
+ {
+  "i": 405,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Emporio Female Hormone!"
+ },
+ {
+  "i": 406,
+  "style": "Main",
+  "name": "",
+  "text": "Make way, eccentric girl!"
+ },
+ {
+  "i": 407,
+  "style": "Main",
+  "name": "",
+  "text": "Silence! You're a female Ivankov, huh?"
+ },
+ {
+  "i": 408,
+  "style": "Main",
+  "name": "",
+  "text": "You ambiguous anarchist!"
+ },
+ {
+  "i": 409,
+  "style": "Main",
+  "name": "",
+  "text": "Right now..."
+ },
+ {
+  "i": 410,
+  "style": "Main",
+  "name": "",
+  "text": "Vi feel like a woman."
+ },
+ {
+  "i": 411,
+  "style": "Main",
+  "name": "",
+  "text": "Hurry! The staircase to Level Three is close!"
+ },
+ {
+  "i": 412,
+  "style": "Main",
+  "name": "",
+  "text": "I will open the door!"
+ },
+ {
+  "i": 413,
+  "style": "Main",
+  "name": "",
+  "text": "Right, let's go!"
+ },
+ {
+  "i": 414,
+  "style": "Main",
+  "name": "",
+  "text": "What? The door is opening itself!"
+ },
+ {
+  "i": 415,
+  "style": "Main",
+  "name": "",
+  "text": "Who cares? We're in luck!"
+ },
+ {
+  "i": 416,
+  "style": "Main",
+  "name": "",
+  "text": "Now let's go to Level Three!"
+ },
+ {
+  "i": 417,
+  "style": "Main",
+  "name": "",
+  "text": "This is the fortress of Hell!"
+ },
+ {
+  "i": 418,
+  "style": "Main",
+  "name": "",
+  "text": "You shall not pass!"
+ },
+ {
+  "i": 419,
+  "style": "Main",
+  "name": "",
+  "text": "Who is this guy... Barging in here like he's so big?"
+ },
+ {
+  "i": 420,
+  "style": "Main",
+  "name": "",
+  "text": "Hannyabal! He's the Assistant Warden of this prison!"
+ },
+ {
+  "i": 421,
+  "style": "Main",
+  "name": "",
+  "text": "Fire!"
+ },
+ {
+  "i": 422,
+  "style": "Main",
+  "name": "",
+  "text": "Behold!"
+ },
+ {
+  "i": 423,
+  "style": "Main",
+  "name": "",
+  "text": "I've got a thousand men guarding the stairs to Level Three,"
+ },
+ {
+  "i": 424,
+  "style": "Main",
+  "name": "",
+  "text": "all wielding bazookas loaded with special prison ammunition!"
+ },
+ {
+  "i": 425,
+  "style": "Main",
+  "name": "",
+  "text": "There's no escape for you!"
+ },
+ {
+  "i": 426,
+  "style": "Main",
+  "name": "",
+  "text": "To defend the bright future of the defenseless civilians..."
+ },
+ {
+  "i": 427,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat, infamous, world-renowned pirate..."
+ },
+ {
+  "i": 428,
+  "style": "Main",
+  "name": "",
+  "text": "I will carry out your sentence on the Warden's behalf!"
+ },
+ {
+  "i": 429,
+  "style": "Main",
+  "name": "",
+  "text": "His attitude is different from what we're used to..."
+ },
+ {
+  "i": 430,
+  "style": "Main",
+  "name": "",
+  "text": "Move it!"
+ },
+ {
+  "i": 431,
+  "style": "Main",
+  "name": "",
+  "text": "No way!"
+ },
+ {
+  "i": 432,
+  "style": "Main",
+  "name": "",
+  "text": "He's serious!"
+ },
+ {
+  "i": 433,
+  "style": "Main",
+  "name": "",
+  "text": "Then we can count on him! He's really strong!"
+ },
+ {
+  "i": 434,
+  "style": "Main",
+  "name": "",
+  "text": "Hannya! Hannya!"
+ },
+ {
+  "i": 435,
+  "style": "Main",
+  "name": "",
+  "text": "W-What?"
+ },
+ {
+  "i": 436,
+  "style": "Main",
+  "name": "",
+  "text": "You know it!"
+ },
+ {
+  "i": 437,
+  "style": "Main",
+  "name": "",
+  "text": "The Hannya Carnival!"
+ },
+ {
+  "i": 438,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Inferno Hell Carriage!"
+ },
+ {
+  "i": 439,
+  "style": "Main",
+  "name": "",
+  "text": "If you're not gonna move, then I'll send you flying!"
+ },
+ {
+  "i": 440,
+  "style": "Main",
+  "name": "",
+  "text": "I {\\i1}will{\\i0} save Ace!"
+ },
+ {
+  "i": 441,
+  "style": "Main",
+  "name": "",
+  "text": "Don't make me laugh!"
+ },
+ {
+  "i": 442,
+  "style": "Main",
+  "name": "",
+  "text": "If you could send me flying so easily, I wouldn't be worthy of being Assistant Warden!"
+ },
+ {
+  "i": 443,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gear Second!"
+ },
+ {
+  "i": 444,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gomu Gomu no..."
+ },
+ {
+  "i": 445,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Jet..."
+ },
+ {
+  "i": 446,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gatling!"
+ },
+ {
+  "i": 447,
+  "style": "Main",
+  "name": "",
+  "text": "We've been waiting for you..."
+ },
+ {
+  "i": 448,
+  "style": "Main",
+  "name": "",
+  "text": "Warden Magellan! Please hurry!"
+ },
+ {
+  "i": 449,
+  "style": "Main",
+  "name": "",
+  "text": "Where are the ones leading the riot?"
+ },
+ {
+  "i": 450,
+  "style": "Main",
+  "name": "",
+  "text": "They're right in front of the stairs to Level Three."
+ },
+ {
+  "i": 451,
+  "style": "Main",
+  "name": "",
+  "text": "The stairs leading from floor to floor are pretty far apart. Let's hurry!"
+ },
+ {
+  "i": 452,
+  "style": "Main",
+  "name": "",
+  "text": "We're just barely managing to hold them back with the help of Assistant Warden Hannyabal!"
+ },
+ {
+  "i": 453,
+  "style": "Main",
+  "name": "",
+  "text": "Assistant Warden!"
+ },
+ {
+  "i": 454,
+  "style": "Main",
+  "name": "",
+  "text": "Let go of me!"
+ },
+ {
+  "i": 455,
+  "style": "Main",
+  "name": "",
+  "text": "I will not..."
+ },
+ {
+  "i": 456,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}LET YOU PASS{\\i0} !"
+ },
+ {
+  "i": 457,
+  "style": "Main",
+  "name": "",
+  "text": "Follow the Assistant Warden's lead! Keep fighting!"
+ },
+ {
+  "i": 458,
+  "style": "Main",
+  "name": "",
+  "text": "FINE BY US!"
+ },
+ {
+  "i": 459,
+  "style": "Main",
+  "name": "",
+  "text": "That was nothing! I can still fight!"
+ },
+ {
+  "i": 460,
+  "style": "Main",
+  "name": "",
+  "text": "GET OUT OF MY WAY!"
+ },
+ {
+  "i": 461,
+  "style": "Main",
+  "name": "",
+  "text": "I-I will not let you pass!"
+ },
+ {
+  "i": 462,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gomu Gomu no..."
+ },
+ {
+  "i": 463,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Jet Stamp!"
+ },
+ {
+  "i": 464,
+  "style": "Main",
+  "name": "",
+  "text": "Wait!"
+ },
+ {
+  "i": 465,
+  "style": "Main",
+  "name": "",
+  "text": "Don't get in my way!"
+ },
+ {
+  "i": 466,
+  "style": "Main",
+  "name": "",
+  "text": "Damn! I have to hurry, or Ace will...!"
+ },
+ {
+  "i": 467,
+  "style": "Main",
+  "name": "",
+  "text": "What do you mean, you're gonna save your brother?!"
+ },
+ {
+  "i": 468,
+  "style": "Main",
+  "name": "",
+  "text": "Don't try to glorify the trash of society!"
+ },
+ {
+  "i": 469,
+  "style": "Main",
+  "name": "",
+  "text": "You pirates and rebels gained your reputations outside by committing crimes!"
+ },
+ {
+  "i": 470,
+  "style": "Main",
+  "name": "",
+  "text": "Assistant Warden Hannyabal!"
+ },
+ {
+  "i": 471,
+  "style": "Main",
+  "name": "",
+  "text": "Just stay down! You'll die!"
+ },
+ {
+  "i": 472,
+  "style": "Main",
+  "name": "",
+  "text": "Civilians can't sleep at night..."
+ },
+ {
+  "i": 473,
+  "style": "Main",
+  "name": "",
+  "text": "fearing that their loved ones will lose their lives, and it's all because you scum dare to sail the seas!"
+ },
+ {
+  "i": 474,
+  "style": "Main",
+  "name": "",
+  "text": "And that is why we imprison the most dangerous criminals around the world..."
+ },
+ {
+  "i": 475,
+  "style": "Main",
+  "name": "",
+  "text": "To make sure that the defenseless civilians can rest easy!"
+ },
+ {
+  "i": 476,
+  "style": "Main",
+  "name": "",
+  "text": "This is the fortress of Hell!"
+ },
+ {
+  "i": 477,
+  "style": "Main",
+  "name": "",
+  "text": "If it were to fall, the whole world would descend into the depths of fear!"
+ },
+ {
+  "i": 478,
+  "style": "Main",
+  "name": "",
+  "text": "I said I wouldn't let you pass, so\\Nyou're not taking a single step past me!"
+ },
+ {
+  "i": 479,
+  "style": "Main",
+  "name": "",
+  "text": "Assistant Warden...!"
+ },
+ {
+  "i": 480,
+  "style": "Main",
+  "name": "",
+  "text": "Ace is important to me! So move it!"
+ },
+ {
+  "i": 481,
+  "style": "Main",
+  "name": "",
+  "text": "I can't reason with such a fool..."
+ },
+ {
+  "i": 482,
+  "style": "Main",
+  "name": "",
+  "text": "A-Assistant Warden! Help us!"
+ },
+ {
+  "i": 483,
+  "style": "Main",
+  "name": "",
+  "text": "H-Hey! What happened to you?!"
+ },
+ {
+  "i": 484,
+  "style": "Main",
+  "name": "",
+  "text": "Just give it up!"
+ },
+ {
+  "i": 485,
+  "style": "Main",
+  "name": "",
+  "text": "Don't go around spouting that crap about \"Justice\" or \"Evil\"!"
+ },
+ {
+  "i": 486,
+  "style": "Main",
+  "name": "",
+  "text": "You can look all over the world,"
+ },
+ {
+  "i": 487,
+  "style": "Main",
+  "name": "",
+  "text": "but you'll {\\i1}never{\\i0} find an answer!"
+ },
+ {
+  "i": 488,
+  "style": "Main",
+  "name": "",
+  "text": "Ridiculous!"
+ },
+ {
+  "i": 489,
+  "style": "Main",
+  "name": "",
+  "text": "He's that guy I met in Jaya!"
+ },
+ {
+  "i": 490,
+  "style": "Main",
+  "name": "",
+  "text": "Well, this sure is quite an impressive group."
+ },
+ {
+  "i": 491,
+  "style": "Main",
+  "name": "",
+  "text": "We've walked in on a pretty major incident, huh?"
+ },
+ {
+  "i": 492,
+  "style": "Main",
+  "name": "",
+  "text": "Teach! What are you doing here?!"
+ },
+ {
+  "i": 493,
+  "style": "Main",
+  "name": "",
+  "text": "Or I suppose I should call you Blackbeard now?"
+ },
+ {
+  "i": 494,
+  "style": "Main",
+  "name": "",
+  "text": "Jinbei..."
+ },
+ {
+  "i": 495,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, hey, no need to be so violent. Mind loosening that fist of yours?"
+ },
+ {
+  "i": 496,
+  "style": "Main",
+  "name": "",
+  "text": "Oh yeah, I heard you and Ace were good friends, huh?"
+ },
+ {
+  "i": 497,
+  "style": "Main",
+  "name": "",
+  "text": "But I'm not the one you should be blaming here."
+ },
+ {
+  "i": 498,
+  "style": "Main",
+  "name": "",
+  "text": "Blackbeard?!"
+ },
+ {
+  "i": 499,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "I'm chasing after a certain man."
+ },
+ {
+  "i": 500,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "He calls himself Blackbeard."
+ },
+ {
+  "i": 501,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "People's dreams..."
+ },
+ {
+  "i": 502,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "will never end!!"
+ },
+ {
+  "i": 503,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "I heard that a pirate called Blackbeard..."
+ },
+ {
+  "i": 504,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "managed to join the Warlords by capturing Fire Fist Ace."
+ },
+ {
+  "i": 505,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Blackbeard..."
+ },
+ {
+  "i": 506,
+  "style": "Main",
+  "name": "",
+  "text": "So you're..."
+ },
+ {
+  "i": 507,
+  "style": "Main",
+  "name": "",
+  "text": "So you're..."
+ },
+ {
+  "i": 508,
+  "style": "Main",
+  "name": "",
+  "text": "Blackbeard?!"
+ },
+ {
+  "i": 509,
+  "style": "Main",
+  "name": "",
+  "text": "Huh? Oh, yeah, I never introduced myself, did I?"
+ },
+ {
+  "i": 510,
+  "style": "Main",
+  "name": "",
+  "text": "Long time no see, Straw Hat!"
+ },
+ {
+  "i": 511,
+  "style": "Main",
+  "name": "",
+  "text": "I sure was surprised when I heard that you were Commander Ace's little brother!"
+ },
+ {
+  "i": 512,
+  "style": "Main",
+  "name": "",
+  "text": "Shouldn't you be there?"
+ },
+ {
+  "i": 513,
+  "style": "Main",
+  "name": "",
+  "text": "They're gonna start soon, ya know?"
+ },
+ {
+  "i": 514,
+  "style": "Main",
+  "name": "",
+  "text": "Your brother's execution, that is!"
+ }
+]

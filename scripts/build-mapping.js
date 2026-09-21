@@ -248,6 +248,12 @@ function build() {
     // Impel Down (IM, fedew04 cut) — translated from the One Pace English.
     'IM_1': 'fedew/22 Impel Down/01/impeldown 01 he',
     'IM_2': 'fedew/22 Impel Down/02/impeldown 02 he',
+    'IM_3': 'fedew/22 Impel Down/03/impeldown 03 he',
+    'IM_4': 'fedew/22 Impel Down/04/impeldown 04 he',
+    'IM_5': 'fedew/22 Impel Down/05/impeldown 05 he',
+    'IM_6': 'fedew/22 Impel Down/06/impeldown 06 he',
+    'IM_7': 'fedew/22 Impel Down/07/impeldown 07 he',
+    'IM_8': 'fedew/22 Impel Down/08/impeldown 08 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');

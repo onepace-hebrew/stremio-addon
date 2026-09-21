@@ -20,10 +20,15 @@ The recurring failures this skill prevents (all observed in real bad episodes): 
 
 ## Process (per episode)
 1. **Context first.** For every line decide WHO speaks and WHO is addressed (one/many, male/female). Conjugate gender + number to the **scene**, not the English. Carry context across cue boundaries AND across the previous/next episode (a scene split between episodes keeps the same speakers, names, terms). See **Gender & number** below — it's the #1 recurring error.
-2. **Natural Hebrew.** Spoken Israeli register. Restructure inverted English rhetoric; localize idioms (see learnings §1.5). Never word-for-word.
-3. **Names** — use the registry spelling EXACTLY, identically in every episode. Keep `CP9` and rank letters A/B/C in Latin. `-san` → אדון.
-4. **Attacks/techniques** → Hebrew (גומי-גומי…, גילוח, גוף ברזל, בעיטת סופה). **Terms** → glossary. Remove ALL leftover English / foreign chars from dialogue.
-5. **Structure (when editing existing files):** keep ALL timings and every sign/Caption/Title/Credits event and override tag (`{...}`, `\pos`, `\fad`, `\t`, colors, `\N`, layered events) **byte-identical** — change only dialogue text + its wrapping. Re-wrap at **word boundaries**, ≤44 chars/line, max 2 lines — **never split a word**. Leading U+202B (‫) on each dialogue line and after each `\N`. UTF-8 BOM on `.ass`. No niqqud, no Hebrew maqaf (U+05BE), no italics. Exactly one translator credit.
+2. **Voice card (before cue 0).** For each recurring speaker in this arc, 3–5 words of register (Jinbe: short, heavy, formal. Buggy: loud coward. Magellan: dry warden. Bon Clay: theatrical, male verbs, כובע-צ'אן. Iva: ווי, camp). Put it in the episode prompt / `scripts/onepace-translations/_INSTRUCTIONS.txt`. Apply it on every line of that speaker. Same mouth across the whole arc.
+3. **Natural Hebrew.** Spoken Israeli register. Restructure inverted English rhetoric; localize idioms (see learnings §1.5). Never word-for-word.
+4. **Names** — use the registry spelling EXACTLY, identically in every episode. Keep `CP9` and rank letters A/B/C in Latin. `-san` → אדון.
+5. **Attacks/techniques** → Hebrew (גומי-גומי…, גילוח, גוף ברזל, בעיטת סופה). **Terms** → glossary. Remove ALL leftover English / foreign chars from dialogue. **Split across cues:** each card is one piece in English order. `Gear Second / Rubber / Jet / Bazooka` → `גיר שני / גומי-גומי / סילון / בזוקה` — never swap, never restack the fruit name onto the last card if the previous cards already have it.
+6. **Structure (when editing existing files):** keep ALL timings and every sign/Caption/Title/Credits event and override tag (`{...}`, `\pos`, `\fad`, `\t`, colors, `\N`, layered events) **byte-identical** — change only dialogue text + its wrapping. Re-wrap at **word boundaries**, ≤44 chars/line, max 2 lines — **never split a word**. Leading U+202B (‫) on each dialogue line and after each `\N`. UTF-8 BOM on `.ass`. No niqqud, no Hebrew maqaf (U+05BE), no italics. Exactly one translator credit.
+7. **Three gates before build (required on the first write, not a later rewrite).** Walk every **dialogue** cue (skip captions/notes that already match house signs). Change the line or confirm it already passes. Do not ship a "literal draft" to fix later.
+   1. **Un-calque.** If you can still hear the English word order, rewrite. `אני אהיה זה שייקח את הראש שלו` → `אני אקטע לו את הראש`. `הם כדלקמן` → drop it. `עכבר לכוד הוא דבר מפחיד` → `גם עכבר בפינה יכול לנשוך`. Short punches (`מה?!` / `אין מצב!`) stay.
+   2. **Voice.** Does this line sound like that speaker's card, not a generic narrator? Jinbe does not say יאללה. Iva first-person is ווי, not אני. Crocodile is cold, not street.
+   3. **You + split attacks.** Bare English `you` from the scene (±4 cues): one male `אתה`, one female `את`, mixed/male group `אתם`, all-female `אתן`. Named single addressee (`Straw Hat`, `Bon-chan`) stays singular even if a nearby line is plural. Split attack cards match English order (gate 5).
 
 ## Character registry (spelling + gender) — keep identical across ALL episodes
 **Canonical = `docs/characters.json`** (this table mirrors it). Add a new character THERE (he spelling + gender + every English/Hebrew alias), not just here. Gender drives every verb/adjective/pronoun/numeral.
@@ -78,6 +83,7 @@ Hebrew inflects **verbs, adjectives, pronouns, AND numerals** for the gender (m/
 4. **Name consistency:** the lint flags off-registry spellings (e.g. סול, ספנדם). Zero allowed.
 5. **Gender/number QA pass (the real gate):** re-read EACH cue against the **English source line** + the registry, using a ±~4-cue context window for number/addressee. For every verb/adjective/pronoun/numeral, confirm it agrees with the scene's speaker/addressee/referent. This catches the internally-consistent-but-wrong gender/number that no lint can. Fix in `.ass` AND `.srt` identically.
 6. **.srt ↔ .ass** dialogue text consistent.
+7. **Three gates ran on this file** (un-calque, voice, you/attacks) before `build`. If the episode was translated by a subagent, the parent still spot-checks 8 calque-looking lines + every split attack sequence.
 
 ## Common mistakes → fix
 | Symptom | Fix |
@@ -86,6 +92,8 @@ Hebrew inflects **verbs, adjectives, pronouns, AND numerals** for the gender (m/
 | Male character gets feminine verb (Saul) | Track speaker; use registry gender. |
 | Plural where scene is one person (or vice-versa) | Use the on-screen scene, not English "you". |
 | "good time"=זמן טוב, "you look bad"=אתה נראה רע | Natural Hebrew, not calque. |
+| Everyone sounds like the same narrator | Voice card (process step 2); rewrite that speaker. |
+| Jet/Bazooka swapped across two cards | One piece per cue, English order. |
 | Word broken across two lines | Wrap at word boundaries only. |
 | Buster Call / attack names in English | Glossary / Hebrew. |
 | Scene continues into next episode but names/terms change | Re-load registry + glossary every episode. |

@@ -1,0 +1,18 @@
+changed: 50
+unchanged: 351
+calque: 34
+voice: 14
+you_or_attack: 2
+12 example lines: i | EN | OLD | NEW | tag
+0 | The prisoners we suspect are aiding Straw Hat Luffy are as follows... | האסירים החשודים בסיוע | לכובע הקש לופי הם כדלקמן... | החשודים בסיוע לכובע הקש לופי: | calque
+12 | However, we've yet to locate the pirate, Buggy the Clown and Galdino, Mr. 3. | אבל עדיין לא איתרנו את הפיראט | באגי הליצן ואת גלדינו, מר 3. | אבל באגי הליצן וגלדינו, מר 3, | עדיין לא אותרו. | calque
+39 | They've underestimated this Great Prison, Impel Down! | הם המעיטו בערכו של הכלא הגדול, אימפל דאון! | הם זלזלו בכלא הגדול, אימפל דאון! | calque
+40 | W-What's with this thing? It sure is fast! | מ-מה עם הדבר הזה? הוא ממש מהיר! | מ-מה זה?! הוא ממש מהיר! | calque
+57 | Jet... | בזוקת... | סילון... | you_or_attack
+58 | Bazooka! | סילון! | בזוקה! | you_or_attack
+71 | There's no cause for concern, Straw-chan! | אין ממה לדאוג, כובע-צ'אן! | אין מה לדאוג, כובע-צ'אן! | calque
+105 | Locked away for a crime he didn't commit, he is known as Iva-san! | נכלא על פשע שלא ביצע, והוא ידוע כאדון איווה! | נכלא על פשע שלא ביצע. | קוראים לו אדון איווה! | calque
+152 | Flying, I'm flying! My flying Okama Kenpo! | עף, אני עף! קנפו האוקאמה המעופף שלי! | עף, אני עף! קנפו דרך האוקאמה המעופף! | voice
+210 | What the hell?! How could you possibly mistake what I said for THAT?! | מה לעזאזל?! איך אפשר בכלל לשמוע מזה את זה?! | מה לעזאזל?! איך שמעת מזה "אף גדול"?! | calque
+312 | There's no meaning to my life if I can't attack them, Warden! | אין משמעות לחיים שלי אם אני לא יכולה | לתקוף אותם, אדון סוהר! | אין טעם לחיים שלי אם אני לא יכולה | לתקוף אותם, אדון סוהר! | voice
+400 | This is the end for you, persistent vermin! | זה הסוף שלכם, מזיקים עקשנים! | כאן זה נגמר, מזיקים עקשנים! | voice

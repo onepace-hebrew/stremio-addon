@@ -100,7 +100,8 @@ Three look-alikes are NOT nif'al and keep their spelling:
 4. **Render -san as אדון** before the name (אדון צ'ופר, אדון אוסופ).
 5. **Keep Latin letters Latin**: rank letters A/B/C, CP9, crew names in credits. Never convert A/B/C to א'/ב'/ג'.
 6. Write **הא?!** for surprised "Huh?!", **הממ?** for pondering, **בחיי!** for "Man!", **הו/או** for "Oh".
-7. Prefer **natural spoken Israeli Hebrew** to literal translation; localize idioms (כף המאזניים, אין מצב, בול פגיעה, תאכלו אבק); restructure inverted English rhetoric into straightforward Hebrew.
+7. Prefer **natural spoken Israeli Hebrew** to literal translation; localize idioms (כף המאזניים, אין מצב, בול פגיעה, תאכלו אבק); restructure inverted English rhetoric into straightforward Hebrew. Each recurring speaker has a register (formal / street / theatrical / dry) — do not flatten everyone to one narrator.
+7b. When an attack is split across consecutive cues, translate **one piece per cue in English order**. Never swap (`Jet`/`Bazooka` → `סילון`/`בזוקה`) and never restack the fruit name onto the last card if the previous cards already carry it.
 8. Follow house spelling: **זו, האלו, הכל, יותר מידי, דיי, להנות/להלחם/להזהר, עלי**.
 9. **Start every dialogue line and every post-`\N` line with U+202B (RLE).** No PDF terminator, no RLM/LRM.
 10. End an interrupted word with a plain ASCII hyphen **-** (הפתע-), not an en dash. Reserve «– » (en dash + space) for simultaneous-speaker lines, on both lines.

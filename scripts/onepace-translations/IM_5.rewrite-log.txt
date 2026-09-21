@@ -1,0 +1,18 @@
+changed: 48
+unchanged: 418
+calque: 33
+voice: 14
+you_or_attack: 1
+12 example lines: i | EN | OLD | NEW | tag
+0 | This is bad. It's too dangerous here! | זה רע. מסוכן פה יותר מידי! | רע פה. יותר מידי מסוכן! | calque
+7 | And I'd almost gotten to where that nice smell was coming from, too! | וכמעט שהגעתי למקום שהריח הטוב בא ממנו! | וכמעט שהגעתי לריח הטוב הזה! | calque
+19 | As the Warden, this is very disgraceful for me. | כסוהר, זה מאוד משפיל בשבילי. | כסוהר, זו חרפה. | voice
+22 | After capturing you, I'll take my time with you to learn just how you managed to break in here. | אחרי שאתפוס אותך, אקח את הזמן\Nללמוד איך בדיוק הצלחת לפרוץ לכאן. | אחרי שאתפוס אותך, נברר בנחת\Nאיך בדיוק הצלחת לפרוץ לכאן. | voice
+126 | give up my arms to beat you! | לוותר על הידיים כדי לנצח אותך! | לאבד את הידיים, רק לנצח אותך! | calque
+151 | To think you could bring me to my knees... | לחשוב שהצלחת להוריד אותי על הברכיים... | לא האמנתי שתצליח להכריע אותי... | calque
+152 | A cornered mouse is a frightful thing. | עכבר לכוד הוא דבר מפחיד. | גם עכבר בפינה יכול לנשוך. | calque
+154 | You're suffering, aren't you? How shameful. | אתה סובל, נכון? איזו בושה. | כואב לך, נכון? בושה. | voice
+177 | back! | בחזרה! | תחזיר! | you_or_attack
+196 | He's either dead, or he's preserved for the future. | הוא או מת, או ששימרו אותו לעתיד. | הוא או מת, או ששמרו אותו בקירור. | calque
+296 | The legendary, ultimate Okama star, Iva-san! | כוכב האוקאמה האגדי והאולטימטיבי,\Nאדון איווה! | כוכב האוקאמה האגדי הגדול מכולם,\Nאדון איווה! | voice
+376 | It is as futile as a single ant jumping into a storm. | זה חסר תוחלת כמו נמלה אחת שקופצת לתוך סופה. | כמו נמלה שקופצת לתוך סופה. אין סיכוי. | calque

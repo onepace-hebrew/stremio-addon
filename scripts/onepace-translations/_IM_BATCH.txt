@@ -1,0 +1,196 @@
+ONE PACE HEBREW — Impel Down IM_3–IM_8
+Output: scripts/onepace-translations/<ID>.he.json
+Format: JSON array [{"i":0,"he":"..."}, ...] — SAME length as <ID>.cues.json, i = 0..N-1 in order.
+"he" = visible Hebrew only. Use \\N for line breaks. NO U+202B, NO ASS tags {..}, NO italics.
+Strip English TLC/recheck comments in trailing {..} — translate the spoken line only, drop the comment.
+
+WRAP (dialogue/thoughts/flashbacks): max 2 lines, ≤44 Hebrew chars/line, WORD boundaries only. Prefer even lines.
+CAPTIONS/Title: preserve the English \\N structure (same number of lines if English has \\N). Notes can be one line.
+
+THREE GATES — first write, every dialogue cue (not a later rewrite).
+1) Un-calque: if you can still hear the English skeleton, rewrite.
+   אני אהיה זה שייקח את הראש שלו → אני אקטע לו את הראש
+   הם כדלקמן → drop. עכבר לכוד הוא דבר מפחיד → גם עכבר בפינה יכול לנשוך
+2) Voice from the cards below. Jinbe ≠ Luffy ≠ Iva ≠ Magellan.
+3) You from the scene (אתה/את/אתם/אתן). Split attacks = English card order
+   (Jet... / Bazooka! = סילון... / בזוקה! — never swap).
+
+HOUSE STYLE:
+- Spoken Israeli Hebrew. Translate the SCENE not the English calque.
+- זאת→זו ; האלה→האלו ; הכול→הכל ; יותר מדי→יותר מידי ; די→דיי ; עליי→עלי
+- nif'al WITH yod: להילחם להישאר להיכנס ליהנות להיזהר להיפגש להיראות להימלט
+- Huh?! → הא?!   Huh?/Hm? → הממ?   Man!/Jeez! → בחיי!   Whoa → בנאדם!
+- -san male → אדון NAME ; female → גברת NAME
+- -sama male → אדון NAME (Iva-sama from subordinates → אדוני איווה)
+- -chan keep: Straw-chan→כובע-צ'אן ; Bon-chan→בון-צ'אן ; Sadi-chan→סאדי-צ'אן
+- Marines/Navy = הצי ; HQ / Navy HQ = מפקדת הצי ; World Government = ממשלת העולם
+- Warlord of the Sea = לוחם הים (m) / לוחמת הים (f). The Seven / Shichibukai = שבעת לוחמי הים
+- Former Royal Shichibukai = לוחם ים לשעבר
+- Calm Belt = הרצועה השקטה
+- Haki = האקי
+- Belly = ברי
+- Impel Down = אימפל דאון ; Marineford = מרינפורד
+- Straw Hat = כובע הקש
+- Devil Fruit = פרי שד
+- Sea Prism Stone = אבן ים (cuffs = אזיקי אבן ים ; nets = רשתות אבן ים)
+- Transponder Snail = שבלול תקשורת
+- Vivre Card = כרטיס ויוורה
+- underling = כפוף
+- Warden = סוהר ; Assistant/Vice Warden = סגן הסוהר
+- Warden-dono / Warden Magellan = אדון סוהר / הסוהר מגלן
+- Chief Guard = ראש השומרים ; Security Chief = ראש האבטחה
+- Head Jailer = סוהר ראשי
+- Jailer Beast = חיית סוהר ; Demon Guards = חיות הסוהר
+- Blugori = בלוגורי
+- Okama = אוקאמה ; Newkama = ניוקאמה ; Newkama Land = ניוקאמה לנד
+- Okama Queen = מלכת האוקאמה ; Okama Way Kenpo = קנפו דרך האוקאמה
+- Baroque Works = ברוק וורקס
+- Grand Line = הקו הגדול
+- Fishman Island = אי אנשי-הדג ; Fishman Karate = קראטה אנשי-הדג
+- Whitebeard Pirates = פיראטי זקן לבן
+- Rank letters A/B/C stay Latin. CP9 stays Latin. Prisoner numbers stay Latin+digits (E 8200).
+- No niqqud, no maqaf U+05BE, no leftover English in dialogue (names in registry Hebrew).
+- Period outside quotes: "אתם מפוטרים".
+- D. in names stays Latin: מונקי D. לופי, פורטגס D. אייס
+
+LEVELS (keep "קומה N", not "דרגה"):
+- Level 1 / Crimson Hell = קומה 1 / גיהנום הארגמן
+- Level 2 / Demonic Beast Floor / Beast Hell = קומה 2 / קומת חיות השד / גיהנום החיות
+- Level 3 / Starvation Hell = קומה 3 / גיהנום הרעב
+- Level 4 / Inferno / Inferno Hell / Inferno Floor = קומה 4 / התופת / גיהנום התופת
+- Level 5 / Freezing Hell = קומה 5 / גיהנום הקרח
+- Level 5.5 = קומה 5.5
+- Level 6 / Eternal Hell = קומה 6 / גיהנום הנצח
+
+ATTACKS / FRUITS:
+- Gum-Gum / Gomu Gomu / Rubber = גומי-גומי
+- Pistol=אקדח ; Gatling=גאטלינג ; Bazooka=בזוקה ; Stamp=חותמת ; Cannon=תותח
+- Gear Second = גיר שני ; Gear Third = גיר שלישי
+- Jet X = <X> סילון  (Jet Bazooka = בזוקת סילון ; Twin Jet Pistol = אקדח סילון כפול)
+- Bara Bara = בארה-בארה
+- Candle / Candle Lock = נר / מנעול נר
+- Hydra = הידרה
+- Venom Road = דרך הארס
+- Poison Pufferfish = נפוחית רעל
+- Poison Cloud = ענן רעל
+- Death Wink = קריצת מוות
+- Doku Doku Fruit = פרי הדוקו-דוקו (Doku = רעל) ; poison man = אדם-רעל
+- Hormone Fruit = פרי ההורמונים
+- Choki Choki Fruit = פרי הצ'וקי-צ'וקי (scissor-man = אדם-מספריים)
+- Suna Suna Fruit = פרי הסונה-סונה (Suna = חול)
+- Buggy-ball = כדור באגי
+
+NAMES (exact):
+לופי, זורו, נאמי, אוסופ, סאנג'י, צ'ופר, רובין, פרנקי, ברוק,
+באגי, אייס / אגרוף האש אייס / אדון אייס (Ace-san),
+זקן לבן, זקן שחור, גארפ, סנגוקו, דראגון,
+הנקוק / בואה הנקוק, מומונגה,
+אלבידה, ג'ינביי, קרוקודייל / אדון קרוקודייל (Sir Crocodile),
+מגלן, הניאבאל, איבנקוב / אמפוריו איבנקוב / איווה,
+בון קליי / מר 2 / בון-צ'אן,
+גלדינו / מר 3, דאז בונס / מר 1,
+סאלדת, סאדי / סאדי-צ'אן, אינאזומה, שיריו / שיריו של הגשם, דומינו,
+מינוטאורוס, מינוקואלה, מינוריינוס, מינוזברה, ספינקס, בסיליסק
+
+NICKNAMES:
+- Straw-chan (Bon Clay → Luffy) = כובע-צ'אן
+- Straw-Hat-boy (Iva → Luffy) = כובע-הקש
+- Ace-boy (Iva → Ace) = אייס
+- Bon-boy (Iva → Bon Clay) = בון
+- Croco-boy (Iva → Crocodile) = קרוקו
+- Iva-san = אדון איווה
+- Iva-sama (from Newkama fans) = אדוני איווה
+- Iva-chan = איווה-צ'אן
+- Diarrhea Man (they call Magellan) = איש השלשול
+
+IVANKOV SPEECH (critical):
+English "Vi/Vi'm/Vi'll/Vi've/Vme/Vmy/Vmyself" is Iva's first-person tic.
+Hebrew first-person pronoun for Iva = ווי (instead of אני). Conjugate the verb as if the subject is אני.
+  Vi'm impressed → ווי מתרשם
+  Vi'll die → ווי אמות
+  Vi welcome you → ווי מקבל את פניכם
+  Vmy Newkama Land → ניוקאמה לנד של ווי
+"Vyou/Vyour/Vyou're" = normal אתה/שלך (do NOT keep a V). "Vwe/Vwe're/Vour" = אנחנו/שלנו.
+Do not leave Latin V in the Hebrew.
+
+GENDER:
+- Impel Down is mostly male. Guards/prisoners default male unless named female.
+- Alvida female. Hancock female. Sadi female. Domino female.
+- Inazuma in IM_6–8 is female-presenting: self אני בטוחה/מוכנה ; others היא/אותה unless English uses he.
+- Ivankov: registry male. Self-forms masculine (ווי בטוח / מוכן) even with okama flair. Newkama crowd: mixed → אתם if any male, else follow the scene.
+- Bon Clay (okama) is male in registry; self-forms masculine. He uses feminine theatrical flourishes in jokes — don't flip his verbs to feminine.
+- Addressing a mixed/male prisoner group → אתם. One man → אתה. Sadi/Domino → את.
+
+NOTES (style Note): keep "X = Y" like IM_2 "דוקו = רעל".
+  Ikemen: Handsome man → איקמן = גבר יפה
+  Saru-desu: I'm a monkey. → סארו-דסו = אני קוף.
+  Goumon: Torture → גומון = עינויים
+  Koumon: Anus → קומון = פי הטבעת
+  Choki: Sound of snipping → צ'וקי = צליל גזירה
+  Suna: Sand → סונה = חול
+  Doku: Poison → דוקו = רעל
+
+SIGNS (Captions) — use these exact Hebrew when the English matches:
+The Demonic Beast Floor → קומת חיות השד
+Guard → שומר
+(Man-faced feathered lion) → (אריה מנוצה עם פני אדם)
+Navy → הצי
+Chief Guard / Saldeath → ראש השומרים\\Nסאלדת
+(Blugori Commander) → (מפקד הבלוגורי)
+Impel Down / Security Chief → אימפל דאון\\Nראש האבטחה
+Sadie-chan → סאדי-צ'אן
+Jailer Beast → חיית סוהר
+Minotaurus → מינוטאורוס
+Impel Down / Inside the well-hole tower → אימפל דאון\\Nבתוך מגדל הבאר
+“Pool of Blood“ / Pool of Blood → בריכת הדם
+Former Baroque Works / Assassin, Daz Bones → ברוק וורקס לשעבר\\Nהמתנקש דאז בונס
+Code name → שם קוד
+Passage connecting level 3 and level 4 → מעבר בין קומה 3 לקומה 4
+Minokoala (Feasty) → מינוקואלה (גרגרן)
+Minorhinoceros (Quiet) → מינוריינוס (שקט)
+Minozebra (Shy) → מינוזברה (ביישן)
+Near the "Pool of Blood" → ליד "בריכת הדם"
+Current location → מיקום נוכחי
+Lift → מעלית
+Inferno hell → גיהנום התופת
+Staircase → מדרגות
+Staff only → סגל בלבד
+Bon-chan's Basics of Level 4 → יסודות קומה 4 של בון-צ'אן
+Food and Supplies Storage → מחסן מזון ואספקה
+Kitchen → מטבח
+Warden Magellan's Office → משרד הסוהר מגלן
+Prisoner's Area → אזור האסירים
+Staff Stairway → מדרגות הסגל
+Inside the elevator to level 6 → בתוך המעלית לקומה 6
+Impel Down Main Entrance → הכניסה הראשית לאימפל דאון
+Former Royal Shichibukai → לוחם ים לשעבר
+Former Baroque Works President (Mr. 0) → נשיא ברוק וורקס לשעבר (מר 0)
+Pirate → פיראט
+Sir Crocodile → אדון קרוקודייל
+Beast Hell → גיהנום החיות
+Impel Down Head Jailer → סוהר ראשי של אימפל דאון
+Shiryuu of the Rain → שיריו של הגשם
+Underwater Prison Impel Down → הכלא התת-ימי אימפל דאון
+Crimson Hell → גיהנום הארגמן
+
+CONTINUITY:
+IM_2 ended with Jinbe in Level 6 telling Ace he would give his life to stop the war.
+IM_3 opens on that Jinbe↔Ace conversation, then Luffy/Buggy/Mr.3 on Level 2 (Sphinx, Saldeath, Sadi), heading toward Level 5.
+IM_4 Magellan names the escaped prisoners; Minotaurus; Bon Clay joins; Level 3→4; map of Level 4; Magellan appears.
+IM_5 Magellan fight on Inferno Floor; Luffy poisoned; Bon Clay carries him to Level 5; Iva mentioned; Ace execution in 26 hours.
+IM_6 Newkama Land; Inazuma; Iva heals Luffy with hormones (cuts 10 years of lifespan); Shiryuu mentioned; Luffy wakes "I'M ALL BETTER!!!".
+IM_7 Luffy recovered; Iva/Dragon talk; Level 6; Crocodile; Jinbe; they force a breakout.
+IM_8 Level 6 hole; Blackbeard; Crocodile sand; Shiryuu released; back to Crimson Hell; Ace's execution is about to start.
+
+SELF-CHECK before writing:
+1. len(he.json)==len(cues.json) and i runs 0..N-1
+2. No Latin in dialogue except A/B/C, CP9, D., prisoner codes, and credit names
+3. No word split across \\N
+4. Valid JSON, ensure_ascii=False
+5. No U+202B, no {tags} in "he"
+6. Ivankov first person is ווי, never Vi
+7. Drop English {TLC}/recheck comments
+8. Three gates ran (un-calque, voice, you/split-attacks) — not a literal first draft
+
+Write with: json.dump(arr, f, ensure_ascii=False, separators=(',', ':'))
+or compact one-object-per-line like IM_1.he.json.

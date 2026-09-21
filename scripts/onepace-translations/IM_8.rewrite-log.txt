@@ -1,0 +1,18 @@
+changed: 56
+unchanged: 459
+calque: 37
+voice: 14
+you_or_attack: 5
+12 example lines: i | EN | OLD | NEW | tag
+115 | We're a breath closer to that long-awaited outside world... | אנחנו נשימה אחת קרוב יותר\Nלעולם שבחוץ שחיכינו לו... | עוד צעד קטן לעולם שבחוץ שחיכינו לו... | calque
+204 | It seems like an unprecedented riot is taking place in Impel Down. | נראה שמתרחשת באימפל דאון מהומה חסרת תקדים. | באימפל דאון פורצת מהומה\Nשכמותה עוד לא הייתה. | calque
+94 | Let's go. | יאללה. | קדימה. | voice
+52 | So fast! So fast! I'm spinning even faster than ever! | כל כך מהר! כל כך מהר!\Nאני מסתובב יותר מהר מתמיד! | כל כך מהר! כל כך מהר!\Nאני מסתובבת יותר מהר מתמיד! | you_or_attack
+367 | Sables! | סופה! | סאבלס! | you_or_attack
+15 | Relay this message to Magellan at once: I'll lend him a hand. | תעבירו למגלן מיד: אני אתן לו יד. | תעבירו למגלן מיד: אני אעזור לו. | calque
+343 | Though I am not so good at fighting on land... | למרות שאני לא כל כך טוב בלחימה ביבשה... | למרות שלחימה ביבשה אינה הצד החזק שלי... | voice
+312 | Now, keep building vour numbers, and let vus throw the prison into chaos! | עכשיו, תמשיכו להגדיל את המספרים,\Nותנו לנו להפוך את הכלא לבלגן! | עכשיו, תמשיכו להגדיל את המספרים,\Nונהפוך את הכלא לבלגן! | calque
+408 | You ambiguous anarchist! | אנרכיסט מטושטש שכמותך! | אנרכיסט בלי מין ברור שכמותך! | calque
+486 | You can look all over the world, | אפשר לחפש בכל העולם, | תחפש בכל העולם, | you_or_attack
+511 | I sure was surprised when I heard that you were Commander Ace's little brother! | הופתעתי לשמוע שאתה\Nהאח הקטן של המפקד אייס! | לא האמנתי כששמעתי שאתה\Nהאח הקטן של המפקד אייס! | voice
+514 | Your brother's execution, that is! | ההוצאה להורג של האח שלך, כלומר! | ההוצאה להורג של האח שלך! | calque

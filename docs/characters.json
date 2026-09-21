@@ -1264,10 +1264,16 @@
       "en": [
         "Ivankov",
         "Emporio Ivankov",
-        "Iva"
+        "Iva",
+        "Iva-san",
+        "Iva-sama",
+        "Iva-chan"
       ],
       "he_aliases": [
-        "אמפוריו איבנקוב"
+        "אמפוריו איבנקוב",
+        "איווה",
+        "אדון איווה",
+        "אדוני איווה"
       ]
     },
     {
@@ -1276,12 +1282,89 @@
       "en": [
         "Bon Clay",
         "Bonclay",
+        "Bon Kurei",
         "Mr. 2",
-        "Bentham"
+        "Bentham",
+        "Bon-chan",
+        "Bon-boy"
       ],
       "he_aliases": [
-        "מר 2"
+        "מר 2",
+        "בון-צ'אן"
       ]
+    },
+    {
+      "he": "גלדינו",
+      "gender": "m",
+      "en": [
+        "Galdino",
+        "Mr. 3",
+        "Mister Three"
+      ],
+      "he_aliases": [
+        "מר 3"
+      ]
+    },
+    {
+      "he": "דאז בונס",
+      "gender": "m",
+      "en": [
+        "Daz Bones",
+        "Mr. 1",
+        "Mister One"
+      ],
+      "he_aliases": [
+        "מר 1"
+      ]
+    },
+    {
+      "he": "סאלדת",
+      "gender": "m",
+      "en": [
+        "Saldeath"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "סאדי",
+      "gender": "f",
+      "en": [
+        "Sadi",
+        "Sadie",
+        "Sadi-chan",
+        "Sadie-chan"
+      ],
+      "he_aliases": [
+        "סאדי-צ'אן"
+      ]
+    },
+    {
+      "he": "אינאזומה",
+      "gender": "f",
+      "en": [
+        "Inazuma"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "שיריו",
+      "gender": "m",
+      "en": [
+        "Shiryuu",
+        "Shiryu",
+        "Shiryuu of the Rain"
+      ],
+      "he_aliases": [
+        "שיריו של הגשם"
+      ]
+    },
+    {
+      "he": "דומינו",
+      "gender": "f",
+      "en": [
+        "Domino"
+      ],
+      "he_aliases": []
     }
   ]
 }

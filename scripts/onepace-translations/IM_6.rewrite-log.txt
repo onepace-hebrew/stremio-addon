@@ -1,0 +1,18 @@
+changed: 93
+unchanged: 342
+calque: 55
+voice: 36
+you_or_attack: 2
+12 example lines: i | EN | OLD | NEW | tag
+123 | Ah, so vyou know who Vi am? | אה, אז אתה יודע מי זה ווי? | אה, אז אתה יודע מי ווי? | voice
+130 | People can talk to me however they want. They can even call me "Poo"! | אפשר לדבר איתי איך שרוצים.\Nאפשר אפילו לקרוא לי "קקי"! | אפשר לדבר עם ווי איך שרוצים.\Nאפשר אפילו לקרוא לווי "קקי"! | voice
+165 | Vi hope vyou'll get along. | ווי מקווה שתסתדרו. | ווי מקווה שתסתדרי. | you_or_attack
+72 | I was the one who carried the two of you here when you were on the verge of freezing to death. | אני זו שנשאתי את שניכם לכאן\Nכשהייתם על סף קיפאון. | אני זו שנשאתי את שניכם לכאן\Nכשכמעט קפאתם. | voice
+26 | I used too much poison... | השתמשתי ביותר מידי רעל... | הגזמתי עם הרעל... | voice
+183 | It's an honor to meet you! | כבוד הוא לי לפגוש אותך! | איזה כבוד לפגוש אותך! | voice
+187 | My friend was poisoned by Magellan, and I want you to save his life! | חבר שלי הורעל על ידי מגלן,\Nואני רוצה שתציל את חייו! | חבר שלי הורעל ממגלן,\Nואני רוצה שתציל את חייו! | calque
+282 | After all, who'd think such a paradise could be hidden in Hell? | בסוף, מי יחשוב שגן עדן כזה\Nיכול להיות מוסתר בגיהנום? | בכלל, מי יחשוב שגן עדן כזה\Nמוסתר בגיהנום? | calque
+217 | Vi will be cutting ten years off vyour lifespan, Straw Hat-boy. | ווי אגזור עשר שנים\Nמתוחלת החיים שלך, כובע-הקש. | ווי אגזור לך עשר שנים\Nמהחיים, כובע-הקש. | voice
+341 | And there's also Jinbei, Knight of the Sea and one of the Seven Warlords. | ויש גם את ג'ינביי, בכור הים\Nואחד משבעת לוחמי הים. | ויש גם את ג'ינביי, אביר הים\Nואחד משבעת לוחמי הים. | calque
+338 | Quite a curious relationship you have. | יחסים דיי מוזרים יש לכם. | יחסים דיי מוזרים יש לך. | you_or_attack
+317 | Whaddaya mean "What"? | למה אתה מתכוון "מה"? | מה זאת אומרת "מה"? | voice
