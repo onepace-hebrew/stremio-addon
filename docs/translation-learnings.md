@@ -66,19 +66,15 @@ The AI kept attack lines untranslated; the human translates them, keeps the `{\f
 - **עליי → עלי** (but ידיי keeps double yod).
 - No niqqud anywhere; no Hebrew maqaf (U+05BE).
 
-#### Nif'al infinitives — WITH the yod (this rule was reversed 2026-08-29)
+#### Nif'al infinitives — WITH the yod
 Write **להילחם, להישאר, להיכנס, ליהנות, להיזהר** — the yod stays.
 
-The human files spell these *without* the yod (53 of 56 occurrences), and this
-section used to prescribe that. It was wrong as a rule: the Academy of the
-Hebrew Language writes the i-vowel with a yod here, and names these exact
-forms (להיכנס / ייכנס / תיכנס) in its own examples, plus ליהנות explicitly.
-The no-yod spelling is common in informal Israeli writing but is not normative.
-
-So the human habit is *described* here, not followed. His files stay untouched
-as ground truth; our generated output uses the standard spelling. Swept across
-the corpus by `scripts/adopt-nifal-yod.js` (933 replacements, 416 files) and
-guarded by `NIFAL_NO_YOD` in `scripts/lint-subs.js`.
+Here generated output deliberately differs from the human files, which spell
+these without the yod (53 of 56 occurrences). The Academy of the Hebrew Language
+writes the i-vowel with a yod (its own examples include להיכנס / ייכנס / תיכנס
+and ליהנות); the no-yod form is informal, not normative. Leave the human files
+untouched as ground truth, and do not copy their spelling. Guarded by
+`NIFAL_NO_YOD` in `scripts/lint-subs.js`.
 
 Three look-alikes are NOT nif'al and keep their spelling:
 **להראות** (hif'il "to show" — a different verb from להיראות "to appear"),
@@ -102,7 +98,7 @@ Three look-alikes are NOT nif'al and keep their spelling:
 6. Write **הא?!** for surprised "Huh?!", **הממ?** for pondering, **בחיי!** for "Man!", **הו/או** for "Oh".
 7. Prefer **natural spoken Israeli Hebrew** to literal translation; localize idioms (כף המאזניים, אין מצב, בול פגיעה, תאכלו אבק); restructure inverted English rhetoric into straightforward Hebrew. Each recurring speaker has a register (formal / street / theatrical / dry) — do not flatten everyone to one narrator.
 7b. When an attack is split across consecutive cues, translate **one piece per cue in English order**. Never swap (`Jet`/`Bazooka` → `סילון`/`בזוקה`) and never restack the fruit name onto the last card if the previous cards already carry it.
-8. Follow house spelling: **זו, האלו, הכל, יותר מידי, דיי, להנות/להלחם/להזהר, עלי**.
+8. Follow house spelling: **זו, האלו, הכל, יותר מידי, דיי, ליהנות/להילחם/להיזהר, עלי**.
 9. **Start every dialogue line and every post-`\N` line with U+202B (RLE).** No PDF terminator, no RLM/LRM.
 10. End an interrupted word with a plain ASCII hyphen **-** (הפתע-), not an en dash. Reserve «– » (en dash + space) for simultaneous-speaker lines, on both lines.
 11. Put the closing period **outside** quotes: «"אתם מפוטרים".»
