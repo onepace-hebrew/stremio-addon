@@ -93,7 +93,7 @@ Three look-alikes are NOT nif'al and keep their spelling:
 1. **Check who speaks and who is addressed in every line; conjugate gender and number to the scene, not to the English.** When the plot implies singular (one infiltrator), use singular even if English is vague.
 2. **Use the glossary terms exactly** (see §3 and glossary.json): כפוף, הצי, מפקדת הצי, ווטר 7, אניאס לובי, קינג בול, קאליפה, תום, אוהרה, שרביט האקלים, מודעת מבוקש, בשר תותחים, חדל אש, הנשק הקדום.
 3. **Translate attack names into Hebrew** (טמפו ברק, גומי-גומי... רומח!, צלילת חצי-קשר, דלת אוויר); keep the `{\fad(150,150)}` tag and add ‫ (U+202B) right after the tag block.
-4. **Render -san as אדון** before the name (אדון צ'ופר, אדון אוסופ).
+4. **Render -san as אדון (m) / גברת (f)** before the name (אדון צ'ופר, אדון אוסופ, גברת נאמי).
 5. **Keep Latin letters Latin**: rank letters A/B/C, CP9, crew names in credits. Never convert A/B/C to א'/ב'/ג'.
 6. Write **הא?!** for surprised "Huh?!", **הממ?** for pondering, **בחיי!** for "Man!", **הו/או** for "Oh".
 7. Prefer **natural spoken Israeli Hebrew** to literal translation; localize idioms (כף המאזניים, אין מצב, בול פגיעה, תאכלו אבק); restructure inverted English rhetoric into straightforward Hebrew. Each recurring speaker has a register (formal / street / theatrical / dry) — do not flatten everyone to one narrator.
