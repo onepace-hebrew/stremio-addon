@@ -136,7 +136,9 @@ const SIGN_FALLBACK = 'Guttman Kav';
 // ---- helpers ----------------------------------------------------------------
 
 async function ghJson(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': 'onepace-hebrew/1.0', Accept: 'application/vnd.github+json' } });
+  // Anonymous API is 60 req/h; GITHUB_TOKEN=$(gh auth token) lifts it.
+  const auth = process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {};
+  const res = await fetch(url, { headers: { 'User-Agent': 'onepace-hebrew/1.0', Accept: 'application/vnd.github+json', ...auth } });
   if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
   return res.json();
 }
