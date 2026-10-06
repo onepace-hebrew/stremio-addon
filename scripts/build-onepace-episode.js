@@ -89,6 +89,16 @@ const EPISODES = {
   IM_6: { arc: '22 Impel Down', nn: '06', stem: 'impeldown 06 he', epLabel: 'Impel Down 06' },
   IM_7: { arc: '22 Impel Down', nn: '07', stem: 'impeldown 07 he', epLabel: 'Impel Down 07' },
   IM_8: { arc: '22 Impel Down', nn: '08', stem: 'impeldown 08 he', epLabel: 'Impel Down 08' },
+  IM_9: { arc: '22 Impel Down', nn: '09', stem: 'impeldown 09 he', epLabel: 'Impel Down 09' },
+  IM_10: { arc: '22 Impel Down', nn: '10', stem: 'impeldown 10 he', epLabel: 'Impel Down 10' },
+  MA_1: { arc: '23 Marineford', nn: '01', stem: 'marineford 01 he', epLabel: 'Marineford 01' },
+  MA_2: { arc: '23 Marineford', nn: '02', stem: 'marineford 02 he', epLabel: 'Marineford 02' },
+  MA_3: { arc: '23 Marineford', nn: '03', stem: 'marineford 03 he', epLabel: 'Marineford 03' },
+  MA_4: { arc: '23 Marineford', nn: '04', stem: 'marineford 04 he', epLabel: 'Marineford 04' },
+  MA_5: { arc: '23 Marineford', nn: '05', stem: 'marineford 05 he', epLabel: 'Marineford 05' },
+  MA_6: { arc: '23 Marineford', nn: '06', stem: 'marineford 06 he', epLabel: 'Marineford 06' },
+  MA_7: { arc: '23 Marineford', nn: '07', stem: 'marineford 07 he', epLabel: 'Marineford 07' },
+  MA_8: { arc: '23 Marineford', nn: '08', stem: 'marineford 08 he', epLabel: 'Marineford 08' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +
@@ -96,7 +106,18 @@ const EPISODES = {
 const DROP_STYLES = new Set(['Credits', 'Rainbow Star lyrics']);
 // Impel Down's OP is exploded into karaoke/kanji/translation layers — drop them
 // at extract so cue indices stay dialogue-only (never in cues/he.json).
+// Anchored on purpose: older "OP11 Lyrics" / "Jungle P lyrics" stay indexed
+// (SKIP_STYLE hides them) so existing he.json indices do not shift.
 const DROP_STYLE_RE = /^(Karaoke|Kanji|Translation)(\s|$|-)/i;
+// Marineford's OP is "OP13-Karaoke" / "OP13-Kanji" / "OP13-Credits" (hyphen,
+// not the anchored form above). Drop the whole OP13-* family. "OP11 Lyrics"
+// uses a space, so it does not match.
+const DROP_OP_LAYER = /^OP\d+-/i;
+// Real spoken/sign styles. Anything else with mostly per-letter or vector
+// events is an animated attack-name typeset (style "Ace", "Moria", "Luffy
+// Gear Third"...). Hebrew cannot sit in a Latin per-glyph layout, and the
+// flood breaks Stremio's VTT path — drop the whole style.
+const DIALOGUE_STYLE = /^(Main|Thoughts|Flashbacks|Narrator|Secondary|Title|Note|Gold|Default|Italics)(-|$)|caption/i;
 // Styles that WERE extracted (so indices are stable) but are skip-emitted at
 // build — never shown. Opening-theme karaoke (TB "Jungle P lyrics"/"Lyrics",
 // SAB "OP11 Lyrics") + fansub staff credits that aren't the exact "Credits"
@@ -137,18 +158,56 @@ async function officialEnglish(ep) {
   return txt;
 }
 
-// the kept Dialogue events, in order, with a stable cue index
-function keptCues(enText) {
+function parseDialogues(enText) {
   const out = [];
-  let inEvents = false, i = 0;
+  let inEvents = false;
   for (const line of enText.replace(/^﻿/, '').split(/\r?\n/)) {
     if (/^\[Events\]/.test(line)) { inEvents = true; continue; }
     if (/^\[/.test(line)) inEvents = false;
     if (!inEvents || !line.startsWith('Dialogue:')) continue;
     const p = line.slice('Dialogue:'.length).split(',');
-    const style = p[3].trim();
-    if (DROP_STYLES.has(style) || DROP_STYLE_RE.test(style)) continue;
-    out.push({ i: i++, style, name: p[4].trim(), start: p[1].trim(), end: p[2].trim(), prefix: p.slice(0, 9), text: p.slice(9).join(',') });
+    out.push({ style: p[3].trim(), name: p[4].trim(), start: p[1].trim(), end: p[2].trim(), prefix: p.slice(0, 9), text: p.slice(9).join(',') });
+  }
+  return out;
+}
+
+function isTypesetNoise(text) {
+  if (/\\p[1-9]/.test(text)) return true;
+  const v = text.replace(/\{[^}]*\}/g, '').replace(/\\N|\\h/g, '').trim();
+  return v.length <= 3;
+}
+
+// Styles whose events are per-letter attack titles or vector drawings.
+function typesetStyles(events) {
+  const buckets = new Map();
+  for (const e of events) {
+    if (DROP_STYLES.has(e.style) || DROP_STYLE_RE.test(e.style) || DROP_OP_LAYER.test(e.style)) continue;
+    if (DIALOGUE_STYLE.test(e.style) || SKIP_STYLE.test(e.style)) continue;
+    if (!buckets.has(e.style)) buckets.set(e.style, []);
+    buckets.get(e.style).push(e.text);
+  }
+  const drop = new Set();
+  for (const [style, texts] of buckets) {
+    if (texts.length < 8) continue;
+    const noisy = texts.filter(isTypesetNoise).length;
+    if (noisy / texts.length >= 0.6) drop.add(style);
+  }
+  return drop;
+}
+
+function isDroppedStyle(style, typeset) {
+  return DROP_STYLES.has(style) || DROP_STYLE_RE.test(style) || DROP_OP_LAYER.test(style) || typeset.has(style);
+}
+
+// the kept Dialogue events, in order, with a stable cue index
+function keptCues(enText) {
+  const events = parseDialogues(enText);
+  const typeset = typesetStyles(events);
+  const out = [];
+  let i = 0;
+  for (const e of events) {
+    if (isDroppedStyle(e.style, typeset)) continue;
+    out.push({ i: i++, style: e.style, name: e.name, start: e.start, end: e.end, prefix: e.prefix, text: e.text });
   }
   return out;
 }
@@ -187,6 +246,7 @@ async function build(id) {
 
   const enText = await officialEnglish(ep);
   const cues = keptCues(enText);
+  const typeset = typesetStyles(parseDialogues(enText));
   const enLines = enText.replace(/^﻿/, '').split(/\r?\n/);
 
   const out = [], srt = [];
@@ -211,7 +271,7 @@ async function build(id) {
     if (inEvents && line.startsWith('Dialogue:')) {
       const p = line.slice('Dialogue:'.length).split(',');
       const style = p[3].trim();
-      if (DROP_STYLES.has(style) || DROP_STYLE_RE.test(style)) continue; // not indexed → no ci++
+      if (isDroppedStyle(style, typeset)) continue; // not indexed → no ci++
       if (SKIP_STYLE.test(style)) { ci++; continue; } // OP lyrics / fansub credits: indexed but not shown
       const enField = p.slice(9).join(',');
       const he = tr.get(ci);

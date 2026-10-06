@@ -1365,6 +1365,218 @@
         "Domino"
       ],
       "he_aliases": []
+    },
+    {
+      "he": "מיהוק",
+      "gender": "m",
+      "en": [
+        "Mihawk",
+        "Dracule Mihawk",
+        "Hawk Eye",
+        "Hawk Eyes",
+        "Hawkeye"
+      ],
+      "he_aliases": [
+        "דראקול מיהוק",
+        "עין הנץ"
+      ]
+    },
+    {
+      "he": "אקאינו",
+      "gender": "m",
+      "en": [
+        "Akainu",
+        "Sakazuki",
+        "Admiral Akainu",
+        "Admiral Sakazuki"
+      ],
+      "he_aliases": [
+        "סאקאזוקי"
+      ]
+    },
+    {
+      "he": "צורו",
+      "gender": "f",
+      "en": [
+        "Tsuru",
+        "Tsuru-san",
+        "Tsuru-chan"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "סקווארד",
+      "gender": "m",
+      "en": [
+        "Squard",
+        "Squardo"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "ויסטה",
+      "gender": "m",
+      "en": [
+        "Vista",
+        "Flower Blade Vista",
+        "Flower Blade"
+      ],
+      "he_aliases": [
+        "להב הפרח"
+      ]
+    },
+    {
+      "he": "אורס ג'וניור",
+      "gender": "m",
+      "en": [
+        "Little Oars Jr.",
+        "Little Oars",
+        "Oars Jr.",
+        "Oars Jr"
+      ],
+      "he_aliases": [
+        "אורס הקטן"
+      ]
+    },
+    {
+      "he": "לקרואה",
+      "gender": "m",
+      "en": [
+        "Lacroix",
+        "Vice Admiral Lacroix"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "רונס",
+      "gender": "m",
+      "en": [
+        "Ronse",
+        "Vice Admiral Ronse"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "וויטי ביי",
+      "gender": "f",
+      "en": [
+        "Whitey Bay",
+        "Ice Witch"
+      ],
+      "he_aliases": [
+        "מכשפת הקרח"
+      ]
+    },
+    {
+      "he": "תאץ'",
+      "gender": "m",
+      "en": [
+        "Thatch"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "הינה",
+      "gender": "f",
+      "en": [
+        "Hina",
+        "Madame Hina"
+      ],
+      "he_aliases": [
+        "גברת הינה"
+      ]
+    },
+    {
+      "he": "ג'נגו",
+      "gender": "m",
+      "en": [
+        "Jango",
+        "Django"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "פולבודי",
+      "gender": "m",
+      "en": [
+        "Fullbody"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "ג'ון הענק",
+      "gender": "m",
+      "en": [
+        "John Giant"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "קוריאל",
+      "gender": "m",
+      "en": [
+        "Curiel"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "מקגיי",
+      "gender": "m",
+      "en": [
+        "McGuy"
+      ],
+      "he_aliases": [
+        "אדון הרעם"
+      ]
+    },
+    {
+      "he": "אטמוס",
+      "gender": "m",
+      "en": [
+        "Atmos"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "דומא",
+      "gender": "m",
+      "en": [
+        "Doma"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "רוז'",
+      "gender": "f",
+      "en": [
+        "Rouge",
+        "Portgas D. Rouge"
+      ],
+      "he_aliases": [
+        "פורטגס D. רוז'"
+      ]
+    },
+    {
+      "he": "ג'ירו",
+      "gender": "m",
+      "en": [
+        "Jiru",
+        "Jil",
+        "Speed Jiru",
+        "Commander Jil"
+      ],
+      "he_aliases": []
+    },
+    {
+      "he": "דקאלבן",
+      "gender": "m",
+      "en": [
+        "DeCalvan",
+        "DeCalvan Brothers"
+      ],
+      "he_aliases": [
+        "האחים דקאלבן"
+      ]
     }
   ]
 }

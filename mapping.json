@@ -569,6 +569,12 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/01/impeldown%2001%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/01/impeldown%2001%20he.ass"
   },
+  "IM_10": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 10,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/10/impeldown%2010%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/10/impeldown%2010%20he.ass"
+  },
   "IM_2": {
     "arc": "fedew/22 Impel Down",
     "ep": 2,
@@ -610,6 +616,12 @@
     "ep": 8,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/08/impeldown%2008%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/08/impeldown%2008%20he.ass"
+  },
+  "IM_9": {
+    "arc": "fedew/22 Impel Down",
+    "ep": 9,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/09/impeldown%2009%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/22%20Impel%20Down/09/impeldown%2009%20he.ass"
   },
   "JA_1": {
     "arc": "13 Jaya",
@@ -706,6 +718,54 @@
     "ep": 3,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/03/loguetown%2003%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/07%20Loguetown/03/loguetown%2003%20he.ass"
+  },
+  "MA_1": {
+    "arc": "fedew/23 Marineford",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/01/marineford%2001%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/01/marineford%2001%20he.ass"
+  },
+  "MA_2": {
+    "arc": "fedew/23 Marineford",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/02/marineford%2002%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/02/marineford%2002%20he.ass"
+  },
+  "MA_3": {
+    "arc": "fedew/23 Marineford",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/03/marineford%2003%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/03/marineford%2003%20he.ass"
+  },
+  "MA_4": {
+    "arc": "fedew/23 Marineford",
+    "ep": 4,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/04/marineford%2004%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/04/marineford%2004%20he.ass"
+  },
+  "MA_5": {
+    "arc": "fedew/23 Marineford",
+    "ep": 5,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/05/marineford%2005%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/05/marineford%2005%20he.ass"
+  },
+  "MA_6": {
+    "arc": "fedew/23 Marineford",
+    "ep": 6,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/06/marineford%2006%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/06/marineford%2006%20he.ass"
+  },
+  "MA_7": {
+    "arc": "fedew/23 Marineford",
+    "ep": 7,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/07/marineford%2007%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/07/marineford%2007%20he.ass"
+  },
+  "MA_8": {
+    "arc": "fedew/23 Marineford",
+    "ep": 8,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/08/marineford%2008%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/23%20Marineford/08/marineford%2008%20he.ass"
   },
   "OR_1": {
     "arc": "02 Orange Town",

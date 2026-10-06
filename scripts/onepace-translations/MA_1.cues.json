@@ -1,0 +1,2252 @@
+[
+ {
+  "i": 0,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(1800,1700)}Navy Headquarters"
+ },
+ {
+  "i": 1,
+  "style": "Main",
+  "name": "",
+  "text": "It looks like you barely managed to hold on to your lives."
+ },
+ {
+  "i": 2,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1000)\\pos(885,540)\\fs65}Impel Down"
+ },
+ {
+  "i": 3,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}If I hadn't shown up with the antidote..."
+ },
+ {
+  "i": 4,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}you'd all be dead by now."
+ },
+ {
+  "i": 5,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}You underestimated Magellan."
+ },
+ {
+  "i": 6,
+  "style": "Main",
+  "name": "",
+  "text": "We're still alive!"
+ },
+ {
+  "i": 7,
+  "style": "Main",
+  "name": "",
+  "text": "You were... destined to come here."
+ },
+ {
+  "i": 8,
+  "style": "Main",
+  "name": "",
+  "text": "Well, I really thought we were going to die. {.}"
+ },
+ {
+  "i": 9,
+  "style": "Main",
+  "name": "",
+  "text": "Seems like we..."
+ },
+ {
+  "i": 10,
+  "style": "Main",
+  "name": "",
+  "text": "got lucky this time."
+ },
+ {
+  "i": 11,
+  "style": "Main",
+  "name": "",
+  "text": "Heaven chooses who survives, {.}"
+ },
+ {
+  "i": 12,
+  "style": "Main",
+  "name": "",
+  "text": "but if you give up, you've already lost!"
+ },
+ {
+  "i": 13,
+  "style": "Main",
+  "name": "",
+  "text": "Might as well live in the moment. {.}"
+ },
+ {
+  "i": 14,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, Shiryu!"
+ },
+ {
+  "i": 15,
+  "style": "Main",
+  "name": "",
+  "text": "It was nice of you to save us. Thanks a lot."
+ },
+ {
+  "i": 16,
+  "style": "Main",
+  "name": "",
+  "text": "I welcome you once again."
+ },
+ {
+  "i": 17,
+  "style": "Main",
+  "name": "",
+  "text": "You'll make a fine addition to our crew!"
+ },
+ {
+  "i": 18,
+  "style": "Main",
+  "name": "",
+  "text": "I have no future here."
+ },
+ {
+  "i": 19,
+  "style": "Main",
+  "name": "",
+  "text": "I was hoping to meet a man like you."
+ },
+ {
+  "i": 20,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,700)\\fs45\\pos(460,555)}The World Government's Private Route:"
+ },
+ {
+  "i": 21,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,700)\\pos(950,555)\\fs45}The Tarai Current"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}Let vus rest Inazuma here."
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "",
+  "text": "Huh? You mean the poison has affected him that badly?"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "",
+  "text": "Vi was able to treat the poison he hit vme with,"
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "",
+  "text": "using vmy Healing and Tension Hormones..."
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "",
+  "text": "But that technique has some nasty side effects.\\N It can even shorten your lifespan."
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "",
+  "text": "It'd be better for him to recuperate naturally."
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "",
+  "text": "Once vyour lifespan has been shortened, vyou'll never be able to reclaim the years vyou've lost."
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "",
+  "text": "Inazuma is an important newkama to the Revolutionary Army."
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "",
+  "text": "He shouldn't overexert himself now."
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "",
+  "text": "You know, he wasn't such a bad guy, after all."
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "",
+  "text": "We just reunited, {.}"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "",
+  "text": "and he's gone and saved me again!"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "",
+  "text": "Bon-{\\i1}chan!{\\i0}"
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "",
+  "text": "Brother Bon!"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "",
+  "text": "Bon-{\\i1}chan!{\\i0}"
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "",
+  "text": "Bon-{\\i1}chan!{\\i0}"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, how long're you guys\\N gonna stand 'round sobbin' for?"
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "",
+  "text": "He was a good guy but he's dead now."
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "",
+  "text": "Let's just celebrate!"
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "",
+  "text": "Celebrate our freedom!"
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "",
+  "text": "Or, if you'd like, we could make it a wake for Mr. 2."
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "",
+  "text": "What a bloody nice service!"
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "",
+  "text": " Bon-{\\i1}chan{\\i0} could still be alive, big-nose!"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "",
+  "text": "Who're you callin' big-nose?!"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "",
+  "text": "You, you red-nosed, round-nosed, stupid-nosed idiot!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "",
+  "text": "Well, you've got a rubbery, stretchy, stupid face!"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "",
+  "text": "What'd you say?!"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, just do whatever the hell you want."
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "",
+  "text": "I thought only Merfolk were able to talk to fish. {.}"
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "",
+  "text": "I'm surprised you were able to summon whale sharks. {.}"
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "",
+  "text": "What's odd about a fishman being on\\Ngood terms with sea creatures?"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "",
+  "text": "It's just odd. {.}"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "",
+  "text": "I mean, for such a savage race... {.}"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "",
+  "text": "I suppose you're an exception."
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "",
+  "text": "Well, I'll take that as a compliment."
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "",
+  "text": "I can't deny that Fishmen are savage. {.}"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "",
+  "text": "Bon-{\\i1}chan{\\i0} isn't dead!"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "",
+  "text": "Captain Buggy got a second red nose!"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy-{\\i1}kun.{\\i0}"
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks to you, I have a chance to help with rescuing Ace-{\\i1}san.{\\i0}"
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "",
+  "text": "I'm indebted to you."
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, don't mention it."
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "",
+  "text": "Besides, I'm glad you're with us. You're really strong!"
+ },
+ {
+  "i": 65,
+  "style": "Thoughts",
+  "name": "",
+  "text": "This isn't the first time I've been indebted to you."
+ },
+ {
+  "i": 66,
+  "style": "Thoughts",
+  "name": "",
+  "text": "I should express my gratitude and apologies but..."
+ },
+ {
+  "i": 67,
+  "style": "Thoughts",
+  "name": "",
+  "text": "we must focus on our current objective."
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "",
+  "text": "You can call me Jinbe!"
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "",
+  "text": "I used to be one of the Seven Warlords, but I've abandoned that title!"
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "",
+  "text": "Let's unleash hell at Navy HQ!"
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "",
+  "text": "We must save Ace-{\\i1}san,{\\i0}\\N so that Okama-{\\i1}kun's{\\i0} efforts won't go to waste!"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "",
+  "text": "A warlord?"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "",
+  "text": "Navy HQ?"
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "",
+  "text": "Huh?!"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, hey, hey! You were one of the Seven Warlords?!"
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "",
+  "text": "No wonder you're so strong!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "",
+  "text": "Forgive me. I should have introduced myself sooner."
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "",
+  "text": "It's surprising you didn't know..."
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! What do you mean, “Navy HQ”?!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "",
+  "text": "You better not be saying that this ship is heading for Navy HQ!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "",
+  "text": "You know about the war between\\N the Navy and the Whitebeard Pirates, right?!"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "",
+  "text": "Uh, what?"
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "",
+  "text": "Navy HQ?"
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "",
+  "text": "What are you saying?\\N  It's not our fault that you're so dim-witted."
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "",
+  "text": "What?!"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "",
+  "text": "Now that we're through the Gates of Justice, the only possible destinations are Enies Lobby and Navy HQ."
+ },
+ {
+  "i": 87,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1000)\\pos(205,585)\\fs25}Navy Headquarters\\N(Marineford)"
+ },
+ {
+  "i": 88,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1000)\\fs25\\pos(1145,565)}Enies Lobby"
+ },
+ {
+  "i": 89,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1000)\\fs25\\pos(830,90)}The Great Prison\\NImpel Down"
+ },
+ {
+  "i": 90,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(1000,1000)\\fs25\\pos(350,385)}Mary Geoise"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "",
+  "text": "We're currently traveling the government's exclusive route, the Tarai Current."
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "",
+  "text": "This is an enormous vortex that connects the government's three main facilities."
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "",
+  "text": "The only reason we escaped in the first place was because we wanted to join the battle."
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah, the real fight starts now!"
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "",
+  "text": "“The real fight starts now?!”"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "",
+  "text": "N-Nobody told us about this!"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "",
+  "text": "Stop the ship right now, damn you!"
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "",
+  "text": "Stop it!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "",
+  "text": "We're already riding the current.\\NThere's no way for me to stop it! {.}"
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "",
+  "text": "Why don't you two just get off?"
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fscx300}-{\\r}Ok, goodbye!\\N{\\fscx300}-{\\r}Bye!"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "",
+  "text": "You really think we'll get off?!\\N We're both devil fruit users! We'd drown!"
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "",
+  "text": "The Navy high command and the Warlords versus the Whitebeard Pirates... this war is scary as hell! {.}"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "",
+  "text": "If that's where we're going, I'd rather go back to prison!"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "",
+  "text": "All of us from 'Kama Land knew about this."
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, can you hear something?"
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "",
+  "text": "M-Maybe we should pretend we're not here?"
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "",
+  "text": "Uh, hello?"
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "",
+  "text": "He answered!"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}This is Navy HQ.{\\i0}"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah, this is Luffy."
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "",
+  "text": "Don't tell him your name! You're a pirate!"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}We received word from Impel Down security\\N that a group of escapees commandeered a ship.{\\i0}"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}Judging from the information we received before we lost contact with Impel Down,{\\i0}"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}we've determined that there are two ringleaders behind this breakout.{\\i0}"
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "",
+  "text": "Two?"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}The pirate Straw Hat Luffy,{\\i0}"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}and his fellow pirate...{\\i0}"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}Buggy the Clown.{\\i0}"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fscx300}-{\\r}Huh?!\\N{\\fscx300}-{\\r}W-What?!"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "",
+  "text": "Seriously?!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "",
+  "text": "They're treating Captain Buggy as a bigger threat than the warlords?!"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "",
+  "text": "Who are you?!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "",
+  "text": "Why me?"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "",
+  "text": "Hand me the papers."
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "",
+  "text": "Yes, sir. Here they are."
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "",
+  "text": "We've underestimated you in the past. \\NWe assumed you were just some upstart pirate."
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "",
+  "text": "Buggy the Clown, we never would have guessed {.}"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "",
+  "text": "that you were a former crewmate of the pirate king, Gold Roger."
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "",
+  "text": "How'd they find out?!"
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "",
+  "text": "You were on the Oro Jackson?!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "",
+  "text": "This is huge!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "",
+  "text": "A-A star! He's a pirate star!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}We've also received word that you are like a brother to Red-Haired Shanks of the Four Emperors.{\\i0}"
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "",
+  "text": "What did you say?!"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}I'm impressed that a man of your caliber was able to lie low until now.{\\i0}"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}We won't underestimate you,\\N now that you've come this far.{\\i0}"
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "",
+  "text": "Uh, no..."
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}We've yet to find any connection between you and Fire Fist Ace...{\\i0}"
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}but I'm sure your objective is the same as Straw Hat Luffy's: to save Ace.{\\i0}"
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}We've also confirmed that Jinbe, Crocodile, Ivankov,{\\i0}"
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}as well as over 200 other escapees, are on board the ship.{\\i0}"
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "",
+  "text": "I'm warning you all now..."
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}Unless we open the Gates of Justice,\\N you will not be able to reach Marineford,{\\i0}"
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}nor will you be able to escape from the Tarai Current.{\\i0}"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}None of you have any chance of escape.{\\i0} {.}"
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}You'd better resign yourselves to that.{\\i0}"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "",
+  "text": "{\\i1}That is all.{\\i0}"
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, wait, Navy!"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "",
+  "text": "I'm definitely going to save Ace!"
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "",
+  "text": "I'll put your potatoes on a platter! {.}"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "",
+  "text": "Potatoes...?"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "",
+  "text": "“Heads!” It's “heads on a platter,” Straw Hat-{\\i1}san!{\\i0} {.}"
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "",
+  "text": "Like this is any time to be preparing potatoes! {.}"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, why is this guy picking a fight with Navy HQ anyway?"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "",
+  "text": "No, wait! More importantly, Captain Buggy, {.}"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "",
+  "text": "you were a member of the pirate king's crew?!"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "",
+  "text": "And you're also like a brother to Red Hair?!"
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "",
+  "text": "Our savior is truly one amazing pirate!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "",
+  "text": "No, wait!"
+ },
+ {
+  "i": 161,
+  "style": "Thoughts",
+  "name": "",
+  "text": "Oh, crap! Now that they know,\\N the government will start hunting me!"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "",
+  "text": "Well, I never expected him to have that kind of past."
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "",
+  "text": "And despite that, he's so weak."
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "",
+  "text": "But then, how can he be such a coward?"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "",
+  "text": "There's at least one black sheep on every ship."
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "",
+  "text": "Shut up!"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "",
+  "text": "Now that you mention it..."
+ },
+ {
+  "i": 168,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "If you're from the East Blue, then maybe you know a pirate named Buggy as well?"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "",
+  "text": "That old first mate guy mentioned something about this, too."
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "",
+  "text": "Huh? The first mate?"
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "",
+  "text": "An old guy named Rayleigh. You know him, right?"
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "",
+  "text": "What?! You met Rayleigh-{\\i1}san?!{\\i0}"
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, that takes me back!  The first mate, huh?"
+ },
+ {
+  "i": 174,
+  "style": "Main",
+  "name": "",
+  "text": "Where'd you meet him?"
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "",
+  "text": "Dark King Rayleigh's name came up!"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "",
+  "text": "What an incredible conversation!"
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "",
+  "text": "Captain Buggy! You truly are a dangerous man! {.}"
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "",
+  "text": "No, no!"
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "",
+  "text": "Wait a second!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "",
+  "text": "I mean, that's true and all,"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "",
+  "text": "but compared to those big shots,"
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "",
+  "text": "the life I've led up till now is just..."
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "",
+  "text": "You're amazing! You were a member of that legendary pirate crew!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "",
+  "text": "Buggy! Buggy!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "",
+  "text": "You idiots!"
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "",
+  "text": "Quit cheering! I was technically just an apprentice!"
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "",
+  "text": "You may be grateful to me for freeing you, but..."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "",
+  "text": "No, I'm telling you, you've got it wrong!"
+ },
+ {
+  "i": 189,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}Well, not all of it is wrong.{\\i0}"
+ },
+ {
+  "i": 190,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}Right! Wait a second...{\\i0}"
+ },
+ {
+  "i": 191,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}It's true that the Navy has \\Noverestimated me, but this could be a good thing!{\\i0}"
+ },
+ {
+  "i": 192,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}That's right! Nothing they said was a lie!{\\i0}"
+ },
+ {
+  "i": 193,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}There's no doubt that my reputation has grown!{\\i0} {.}"
+ },
+ {
+  "i": 194,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}If, by chance, someone...{\\i0}"
+ },
+ {
+  "i": 195,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}like me...{\\i0}"
+ },
+ {
+  "i": 196,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}manages to kill Whitebeard today, then I could become one of...{\\i0}"
+ },
+ {
+  "i": 197,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}the Four Emperors?!{\\i0}"
+ },
+ {
+  "i": 198,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}No, no, no, more than that...{\\i0}"
+ },
+ {
+  "i": 199,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}I could become king of the pirates!{\\i0}"
+ },
+ {
+  "i": 200,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}That's right! These escapees all have higher bounties than me!{\\i0}"
+ },
+ {
+  "i": 201,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}I could put them to good use!{\\i0}"
+ },
+ {
+  "i": 202,
+  "style": "Thoughts",
+  "name": "",
+  "text": "{\\i0}I can do it!{\\i0}"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "",
+  "text": "Captain Buggy! We will follow you wherever you go!"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "",
+  "text": "Just give the order! We'll steal the ship from the guys who wanna go to Navy HQ!"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "",
+  "text": "And then we'll be free!"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "",
+  "text": "Now, Straw Hat..."
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "",
+  "text": "how about handing this ship over to us?!"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "",
+  "text": "We finally escaped! You think we'll go to Navy HQ?!"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "",
+  "text": "We've got Captain Buggy on our side!"
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "",
+  "text": "We're counting on ya, Captain Buggy!"
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "",
+  "text": "Buggy! Buggy!"
+ },
+ {
+  "i": 212,
+  "style": "Secondary",
+  "name": "",
+  "text": "{\\an8}Buggy! Buggy!"
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "",
+  "text": "Such a nuisance..."
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "",
+  "text": "We'll just have to kill them all."
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah, I'm starting to feel like I can do this!"
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "",
+  "text": "Buggy! Buggy!"
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "",
+  "text": "Be silent, you brazen idiots! {.}"
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "",
+  "text": "You're letting your emotions run away with you."
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "",
+  "text": "This ship won't stop!"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "",
+  "text": "It's headed straight for the battlefield!"
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "",
+  "text": "And we're all on board. {.}"
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "",
+  "text": "Just think about it!"
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "",
+  "text": "We're within arm's reach of the summit,\\Nwhere the best of the best are!"
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "",
+  "text": "We won't get another chance like this again in our lifetimes."
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "",
+  "text": "If you're real men, won't you come with me and fulfill your dreams?"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "",
+  "text": "Today, I will take Whitebeard's head, and with it, the whole world! {.}"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah! Captain Buggy!"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "",
+  "text": "Captain Buggy!"
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "",
+  "text": "We were plunged into the darkest depths of hell. {.}"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "",
+  "text": "At some point, we lost something important! {.}"
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "",
+  "text": "We used to have it! That inner gem known as dreams!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "",
+  "text": "We'll follow you to the ends of the world!"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "",
+  "text": "Who needs a peaceful life anyway?!"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "",
+  "text": "That's right! Let's go, men!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "",
+  "text": "To Navy HQ! {.}"
+ },
+ {
+  "i": 236,
+  "style": "Secondary",
+  "name": "",
+  "text": "{\\an8}Buggy! Buggy!"
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "",
+  "text": "Looks like they've come to an agreement."
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "",
+  "text": "He seems to have a talent for convincing people, at least."
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "",
+  "text": "Captain Buggy, you're one of the world's real trailblazers!"
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "",
+  "text": "We'll follow you anywhere!"
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "",
+  "text": "Go ahead and follow me!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "",
+  "text": "Just do whatever vyou want. {.}"
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}On the same island as Navy HQ, Marineford,{\\i0} {.}"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}there is a large town where mainly the marines' families reside.{\\i0} {.}"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}All those citizens have been ordered to evacuate.{\\i0}"
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}From their new haven in Sabaody Archipelago,\\Nthe people eagerly watch the execution via monitors.{\\i0} {.}"
+ },
+ {
+  "i": 247,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}Reporters and cameramen have\\N gathered from all over the world{\\i0}"
+ },
+ {
+  "i": 248,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}to watch and keep the rest of the world informed.{\\i0}"
+ },
+ {
+  "i": 249,
+  "style": "Main",
+  "name": "",
+  "text": "Navy HQ has put all their forces into this. {.}"
+ },
+ {
+  "i": 250,
+  "style": "Main",
+  "name": "",
+  "text": "Of course. And I'm sure Whitebeard knows."
+ },
+ {
+  "i": 251,
+  "style": "Main",
+  "name": "",
+  "text": "So, will he really show?"
+ },
+ {
+  "i": 252,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}All scouting ships dispatched by the Navy have been sunk.{\\i0} {.}"
+ },
+ {
+  "i": 253,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}Nobody has seen any trace of Whitebeard,{\\i0} {.}"
+ },
+ {
+  "i": 254,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}and the tension at Marineford keeps building.{\\i0}"
+ },
+ {
+  "i": 255,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}Less than three hours remain before the execution.{\\i0}"
+ },
+ {
+  "i": 256,
+  "style": "Main",
+  "name": "",
+  "text": "Go up the stairs. {.}"
+ },
+ {
+  "i": 257,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Listen, Luffy!"
+ },
+ {
+  "i": 258,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "We have to live our lives without regrets!"
+ },
+ {
+  "i": 259,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Yeah!"
+ },
+ {
+  "i": 260,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Someday, we'll head out to sea, {.}"
+ },
+ {
+  "i": 261,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "and then we'll be able to do whatever we want!"
+ },
+ {
+  "i": 262,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "No one will have more freedom than us!"
+ },
+ {
+  "i": 263,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,545)}The South Blue"
+ },
+ {
+  "i": 264,
+  "style": "Main",
+  "name": "",
+  "text": "Three hours to go. I wonder if\\N Whitebeard's already shown himself? {.}"
+ },
+ {
+  "i": 265,
+  "style": "Main",
+  "name": "",
+  "text": "Who knows. Are you sure he'll show? {.}"
+ },
+ {
+  "i": 266,
+  "style": "Main",
+  "name": "",
+  "text": "Even if this is Whitebeard,\\N he's gotten pretty old by now, right?"
+ },
+ {
+  "i": 267,
+  "style": "Main",
+  "name": "",
+  "text": "You think?"
+ },
+ {
+  "i": 268,
+  "style": "Main",
+  "name": "",
+  "text": "He's a relic from before the Great Pirate Era."
+ },
+ {
+  "i": 269,
+  "style": "Main",
+  "name": "",
+  "text": "He's probably gone senile by now."
+ },
+ {
+  "i": 270,
+  "style": "Main",
+  "name": "",
+  "text": "He's been quiet these last few years. {.}"
+ },
+ {
+  "i": 271,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,545)}The East Blue"
+ },
+ {
+  "i": 272,
+  "style": "Main",
+  "name": "",
+  "text": "He's been around for ages."
+ },
+ {
+  "i": 273,
+  "style": "Main",
+  "name": "",
+  "text": "Can the Navy high command be defeated? {.}"
+ },
+ {
+  "i": 274,
+  "style": "Main",
+  "name": "",
+  "text": "Regardless of who wins,\\N there's going to be heavy casualties."
+ },
+ {
+  "i": 275,
+  "style": "Main",
+  "name": "",
+  "text": "It'd be best if he didn't show,\\Nand the execution went ahead without incident. {.}"
+ },
+ {
+  "i": 276,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,545)}The North Blue"
+ },
+ {
+  "i": 277,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! Hey! I want some booze, old man!"
+ },
+ {
+  "i": 278,
+  "style": "Main",
+  "name": "",
+  "text": "You think I'm gonna open the pub on a day like this?!"
+ },
+ {
+  "i": 279,
+  "style": "Main",
+  "name": "",
+  "text": "War might break out, you know!"
+ },
+ {
+  "i": 280,
+  "style": "Main",
+  "name": "",
+  "text": "Go home! If the world's still here tomorrow, I'll open the pub then!"
+ },
+ {
+  "i": 281,
+  "style": "Main",
+  "name": "",
+  "text": "Then please, just sell me some booze!"
+ },
+ {
+  "i": 282,
+  "style": "Main",
+  "name": "",
+  "text": "It feels like we're the ones facing execution here!"
+ },
+ {
+  "i": 283,
+  "style": "Main",
+  "name": "",
+  "text": "We gotta have a drink to endure this!"
+ },
+ {
+  "i": 284,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,545)}The West Blue"
+ },
+ {
+  "i": 285,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}Don't think of him as just some old guy; he's as strong as ever."
+ },
+ {
+  "i": 286,
+  "style": "Main",
+  "name": "",
+  "text": "We saw him a year ago, and he was just sitting there. {.}"
+ },
+ {
+  "i": 287,
+  "style": "Main",
+  "name": "",
+  "text": "We lost all hope that we would survive. {.}"
+ },
+ {
+  "i": 288,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,545)}The Grand Line"
+ },
+ {
+  "i": 289,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}Is Whitebeard really such a terrifying pirate?"
+ },
+ {
+  "i": 290,
+  "style": "Main",
+  "name": "",
+  "text": "Even the kids know. {.}"
+ },
+ {
+  "i": 291,
+  "style": "Main",
+  "name": "",
+  "text": "They're singing about him while jumping rope."
+ },
+ {
+  "i": 292,
+  "style": "Main",
+  "name": "",
+  "text": "♪ The pirate, Whitebeard, scarier than the devil! ♪"
+ },
+ {
+  "i": 293,
+  "style": "Main",
+  "name": "",
+  "text": "Dear Lord, {.}"
+ },
+ {
+  "i": 294,
+  "style": "Main",
+  "name": "",
+  "text": "where is this world headed?"
+ },
+ {
+  "i": 295,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs45\\pos(640,535)}Navy Headquarters\\NMarineford, The Grand Line"
+ },
+ {
+  "i": 296,
+  "style": "Main",
+  "name": "",
+  "text": "Hurry and get ready!"
+ },
+ {
+  "i": 297,
+  "style": "Main",
+  "name": "",
+  "text": "You! Move it!"
+ },
+ {
+  "i": 298,
+  "style": "Main",
+  "name": "",
+  "text": "Show no fear!"
+ },
+ {
+  "i": 299,
+  "style": "Main",
+  "name": "",
+  "text": "Whatever happens, only three hours remain. {.}"
+ },
+ {
+  "i": 300,
+  "style": "Main",
+  "name": "",
+  "text": "Then all of this will be over! {.}"
+ },
+ {
+  "i": 301,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}In all, more than 100,000 marines\\N have gathered from all over the world.{\\i0}"
+ },
+ {
+  "i": 302,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}Fifty battleships encircle the crescent-shaped bay.{\\i0}"
+ },
+ {
+  "i": 303,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}And within the bay, countless cannons are ready.{\\i0}"
+ },
+ {
+  "i": 304,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}The front row of the troops\\N can be seen from the port.{\\i0}"
+ },
+ {
+  "i": 305,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}Among them are the five rogues that could decide the outcome of this war,{\\i0} {.}"
+ },
+ {
+  "i": 306,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}the members of the Seven Warlords of the Sea.{\\i0}"
+ },
+ {
+  "i": 307,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}Below the execution platform, Navy HQ's most powerful combat force stands guard:{\\i0} {.}"
+ },
+ {
+  "i": 308,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}the three Navy admirals!{\\i0} {.}"
+ },
+ {
+  "i": 309,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,480)}Navy Admiral\\N“Aokiji” Kuzan {.}"
+ },
+ {
+  "i": 310,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,480)}Navy Admiral\\N“Akainu” Sakazuki {.}"
+ },
+ {
+  "i": 311,
+  "style": "Captions",
+  "name": "",
+  "text": "{\\fad(900,0)\\fs50\\pos(640,480)}Navy Admiral\\N“Kizaru” Borsalino {.}"
+ },
+ {
+  "i": 312,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}Now,{\\i0} {.}"
+ },
+ {
+  "i": 313,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}all the world's forces of justice...{\\i0} {.}"
+ },
+ {
+  "i": 314,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}await the Whitebeard Pirates...{\\i0} {.}"
+ },
+ {
+  "i": 315,
+  "style": "Main",
+  "name": "",
+  "text": "{\\an8}{\\i1}to prevent them from rescuing Ace.{\\i0} {.}"
+ },
+ {
+  "i": 316,
+  "style": "Main",
+  "name": "",
+  "text": "I see it!"
+ },
+ {
+  "i": 317,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! Jinbe!"
+ },
+ {
+  "i": 318,
+  "style": "Main",
+  "name": "",
+  "text": "I can see the Gate of Justice!"
+ },
+ {
+  "i": 319,
+  "style": "Main",
+  "name": "",
+  "text": "That was fast!"
+ },
+ {
+  "i": 320,
+  "style": "Main",
+  "name": "",
+  "text": "No, we're actually pretty late!"
+ },
+ {
+  "i": 321,
+  "style": "Main",
+  "name": "",
+  "text": "If the wind had been more favorable, we would have arrived sooner!"
+ },
+ {
+  "i": 322,
+  "style": "Main",
+  "name": "",
+  "text": "So, how are we going to get through that gate?"
+ },
+ {
+  "i": 323,
+  "style": "Main",
+  "name": "",
+  "text": "My men! It's almost time!"
+ },
+ {
+  "i": 324,
+  "style": "Main",
+  "name": "",
+  "text": "Time for what?"
+ },
+ {
+  "i": 325,
+  "style": "Main",
+  "name": "",
+  "text": "Time for Captain Buggy to take over the world!"
+ },
+ {
+  "i": 326,
+  "style": "Main",
+  "name": "",
+  "text": "That's right, my comrades!"
+ },
+ {
+  "i": 327,
+  "style": "Main",
+  "name": "",
+  "text": "Who cares about Navy HQ?!"
+ },
+ {
+  "i": 328,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, look! There's Fire Fist Ace!"
+ },
+ {
+  "i": 329,
+  "style": "Main",
+  "name": "",
+  "text": "That's the man that could trigger this world-changing war! {.}"
+ },
+ {
+  "i": 330,
+  "style": "Main",
+  "name": "",
+  "text": "The fate of the world depends on him!"
+ },
+ {
+  "i": 331,
+  "style": "Main",
+  "name": "",
+  "text": "I'm gonna tell them everything, Garp."
+ },
+ {
+  "i": 332,
+  "style": "Main",
+  "name": "",
+  "text": "Do whatever you want. I'll be down there."
+ },
+ {
+  "i": 333,
+  "style": "Main",
+  "name": "",
+  "text": "Stand down."
+ },
+ {
+  "i": 334,
+  "style": "Main",
+  "name": "",
+  "text": "Yes, sir!"
+ },
+ {
+  "i": 335,
+  "style": "Main",
+  "name": "",
+  "text": "Fleet Admiral Sengoku!"
+ },
+ {
+  "i": 336,
+  "style": "Main",
+  "name": "",
+  "text": "What's happening?"
+ },
+ {
+  "i": 337,
+  "style": "Main",
+  "name": "",
+  "text": "Give me the transponder snail."
+ },
+ {
+  "i": 338,
+  "style": "Main",
+  "name": "",
+  "text": "Yes, sir."
+ },
+ {
+  "i": 339,
+  "style": "Main",
+  "name": "",
+  "text": "I have an announcement for you all."
+ },
+ {
+  "i": 340,
+  "style": "Main",
+  "name": "",
+  "text": "Portgas D. Ace..."
+ },
+ {
+  "i": 341,
+  "style": "Main",
+  "name": "",
+  "text": "The execution of this man is of paramount importance."
+ },
+ {
+  "i": 342,
+  "style": "Main",
+  "name": "",
+  "text": "You've done nothing wrong."
+ },
+ {
+  "i": 343,
+  "style": "Main",
+  "name": "",
+  "text": "Women always get sympathetic at times like this, Tsuru-{\\i1}chan.{\\i0}"
+ },
+ {
+  "i": 344,
+  "style": "Main",
+  "name": "",
+  "text": "Ace. What is your father's name?!"
+ },
+ {
+  "i": 345,
+  "style": "Main",
+  "name": "",
+  "text": "His father?"
+ },
+ {
+  "i": 346,
+  "style": "Main",
+  "name": "",
+  "text": "What's this all about?"
+ },
+ {
+  "i": 347,
+  "style": "Main",
+  "name": "",
+  "text": "My father is Whitebeard."
+ },
+ {
+  "i": 348,
+  "style": "Main",
+  "name": "",
+  "text": "Not true!"
+ },
+ {
+  "i": 349,
+  "style": "Main",
+  "name": "",
+  "text": "It is! Whitebeard is the only father I have!"
+ },
+ {
+  "i": 350,
+  "style": "Main",
+  "name": "",
+  "text": "Years ago, we dedicated a lot of manpower to following his movements."
+ },
+ {
+  "i": 351,
+  "style": "Main",
+  "name": "",
+  "text": "We suspected that man might have conceived a child on a certain island."
+ },
+ {
+  "i": 352,
+  "style": "Main",
+  "name": "",
+  "text": "We relied entirely on Cipher Pol's vague information about this possibility."
+ },
+ {
+  "i": 353,
+  "style": "Main",
+  "name": "",
+  "text": "Newborns..."
+ },
+ {
+  "i": 354,
+  "style": "Main",
+  "name": "",
+  "text": "The unborn..."
+ },
+ {
+  "i": 355,
+  "style": "Main",
+  "name": "",
+  "text": "We investigated every possible infant and their mothers but we found nothing."
+ },
+ {
+  "i": 356,
+  "style": "Main",
+  "name": "",
+  "text": "But I suppose that was to be expected."
+ },
+ {
+  "i": 357,
+  "style": "Main",
+  "name": "",
+  "text": "Your mother risked her life to deliver you safely."
+ },
+ {
+  "i": 358,
+  "style": "Main",
+  "name": "",
+  "text": "She performed a special trick. {.}"
+ },
+ {
+  "i": 359,
+  "style": "Main",
+  "name": "",
+  "text": "She deceived us... \\NNo, she deceived the whole world!"
+ },
+ {
+  "i": 360,
+  "style": "Main",
+  "name": "",
+  "text": "She lived on an island called Baterilla, in the South Blue."
+ },
+ {
+  "i": 361,
+  "style": "Main",
+  "name": "",
+  "text": "Her name was Portgas D. Rouge."
+ },
+ {
+  "i": 362,
+  "style": "Main",
+  "name": "",
+  "text": "Your mother used her sheer willpower to pull off something unimaginable."
+ },
+ {
+  "i": 363,
+  "style": "Main",
+  "name": "",
+  "text": "She carried her child in her womb for 20 whole months."
+ },
+ {
+  "i": 364,
+  "style": "Main",
+  "name": "",
+  "text": "What is he saying?"
+ },
+ {
+  "i": 365,
+  "style": "Main",
+  "name": "",
+  "text": "She used all of her strength\\N and died as soon as she gave birth to you. {.}"
+ },
+ {
+  "i": 366,
+  "style": "Main",
+  "name": "",
+  "text": "And so a year and three months after the father's death, {.}"
+ },
+ {
+  "i": 367,
+  "style": "Main",
+  "name": "",
+  "text": "a child was born, carrying the blood of the most evil man in the world."
+ },
+ {
+  "i": 368,
+  "style": "Main",
+  "name": "",
+  "text": "That child was you!"
+ },
+ {
+  "i": 369,
+  "style": "Main",
+  "name": "",
+  "text": "I'm sure you already know..."
+ },
+ {
+  "i": 370,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "A newborn bears no sin."
+ },
+ {
+  "i": 371,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Garp."
+ },
+ {
+  "i": 372,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Take care of my child."
+ },
+ {
+  "i": 373,
+  "style": "Main",
+  "name": "",
+  "text": "Your father is..."
+ },
+ {
+  "i": 374,
+  "style": "Main",
+  "name": "",
+  "text": "the pirate king, Gold Roger!"
+ }
+]

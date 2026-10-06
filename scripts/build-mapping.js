@@ -254,6 +254,17 @@ function build() {
     'IM_6': 'fedew/22 Impel Down/06/impeldown 06 he',
     'IM_7': 'fedew/22 Impel Down/07/impeldown 07 he',
     'IM_8': 'fedew/22 Impel Down/08/impeldown 08 he',
+    'IM_9': 'fedew/22 Impel Down/09/impeldown 09 he',
+    'IM_10': 'fedew/22 Impel Down/10/impeldown 10 he',
+    // Marineford (MA, fedew04 cut) — translated from the One Pace English.
+    'MA_1': 'fedew/23 Marineford/01/marineford 01 he',
+    'MA_2': 'fedew/23 Marineford/02/marineford 02 he',
+    'MA_3': 'fedew/23 Marineford/03/marineford 03 he',
+    'MA_4': 'fedew/23 Marineford/04/marineford 04 he',
+    'MA_5': 'fedew/23 Marineford/05/marineford 05 he',
+    'MA_6': 'fedew/23 Marineford/06/marineford 06 he',
+    'MA_7': 'fedew/23 Marineford/07/marineford 07 he',
+    'MA_8': 'fedew/23 Marineford/08/marineford 08 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');
