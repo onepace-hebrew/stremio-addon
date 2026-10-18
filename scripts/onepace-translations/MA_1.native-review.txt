@@ -1,0 +1,49 @@
+sha256 87c094352e1c0fd77ae9362f011d7da1bde2ecb029c6a50867293689228f9a79
+# 2026-10-18. Reviewer prompt: _NATIVE_REVIEW.txt. Flags triaged with the English open.
+# Round 1: two readers, full episode (375 lines). R1 27 flags, R2 26, 21 shared, union 32. All fixed.
+8 | fixed | נגמר לנו → הלך עלינו
+9 | fixed | split-sentence partner of 10
+10 | fixed | יצא לנו מזל → שיחק לנו המזל
+16 | fixed | "once again" opener → ברוך הבא
+26 | fixed | תופעות לוואי מכוערות → קשות
+44 | fixed | "could still be alive" structure
+54 | fixed | ל → בשביל
+68 | fixed | "call me Jinbe" → שמי ג'ינביי
+69 | fixed | זנחתי את התואר → ויתרתי על
+70 | fixed | נפתח גיהנום → נהפוך לגיהנום
+103 | fixed | הצי הבכיר → צמרת הצי
+115 | fixed | מובילים לבריחה
+156 | fixed | "more importantly" opener
+173 | fixed | מחזיר ימים → איזה זיכרונות
+176 | fixed | איזו שיחה, בחיי
+193 | fixed | השם שלי עלה → המוניטין שלי זינק
+218 | fixed | הרגש סוחב אתכם → אתם נסחפים
+226 | fixed | "and with it, the whole world"
+231 | fixed | היהלום שבפנים
+249 | fixed | HQ "came here"
+266 | fixed | "even if this is Whitebeard"
+287 | fixed | איבדנו תקווה ש
+299 | fixed | מה שיהיה → בכל מקרה
+303 | fixed | word order, בכוננות
+315 | fixed | dangling ש clause → כדי למנוע
+323 | fixed | אנשים שלי → אנשיי
+324 | fixed | partner of 325, זמן למה
+325 | fixed | "time for X to"
+350 | fixed | "put people on his trail"
+355 | fixed | עברנו על → בדקנו
+357 | fixed | את החיים → את חייה; ללדת אותך בשלום
+362 | fixed | ברצון בלבד → בכוח הרצון
+365 | fixed | הכוח נגמר → נגמרו לה הכוחות
+370 | fixed, refixed in round 2 | אין חטא על
+# Round 2: changed lines ±3 cues (177 lines), fresh reader. 10 flags, 1 on a changed line.
+24 | fixed | שפך רעל; also Iva in 1st person (ווי הצלחתי)
+25 | fixed | stacked ב with 24
+28 | fixed | אם כבר
+51 | fixed | dropped subject
+113 | fixed | מאבטחים → סוהרים
+114 | fixed | נפסק הקשר → נותק
+153 | kept | ראש על מגש pun works in Hebrew
+154 | kept | same pun
+304 | fixed | שורה ראשונה → קו ראשון
+358 | fixed | עשתה תרגיל
+370 | fixed | drop שנולד
