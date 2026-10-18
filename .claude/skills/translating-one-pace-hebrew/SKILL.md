@@ -8,6 +8,8 @@ description: Use when translating, re-translating, or fixing the Hebrew One Pace
 ## Core principle
 Translate the **scene**, not the English line. Natural spoken Israeli Hebrew; names and gender **consistent across the whole arc**; never a literal English calque. Gold standard = the human translation (That One Gerbil), distilled in `docs/translation-learnings.md`.
 
+**Never edit a human-translated episode.** Any folder holding a ` He.ass` (capital H; find with `git ls-files`, the filesystem is case-insensitive) is read-only, including the `.srt` beside it. That holds even when a lint or a reviewer flags its lines. Read them for reference only.
+
 The recurring failures this skill prevents (all observed in real bad episodes): name drift across episodes (סאול→סול), gender flip mid-scene, plural↔singular guessed from ambiguous English "you", literal calque when context is dropped, words split across line breaks, untranslated English/attack names, lost context across an episode boundary.
 
 ## Load before translating (required reading)
@@ -26,7 +28,7 @@ The recurring failures this skill prevents (all observed in real bad episodes): 
 5. **Attacks/techniques** → Hebrew (גומי-גומי…, גילוח, גוף ברזל, בעיטת סופה). **Terms** → glossary. Remove ALL leftover English / foreign chars from dialogue. **Split across cues:** each card is one piece in English order. `Gear Second / Rubber / Jet / Bazooka` → `גיר שני / גומי-גומי / סילון / בזוקה` — never swap, never restack the fruit name onto the last card if the previous cards already have it.
 6. **Structure (when editing existing files):** keep ALL timings and every sign/Caption/Title/Credits event and override tag (`{...}`, `\pos`, `\fad`, `\t`, colors, `\N`, layered events) **byte-identical** — change only dialogue text + its wrapping. Re-wrap at **word boundaries**, ≤44 chars/line, max 2 lines — **never split a word**. Leading U+202B (‫) on each dialogue line and after each `\N`. UTF-8 BOM on `.ass`. No niqqud, no Hebrew maqaf (U+05BE), no italics. Exactly one translator credit.
 7. **Three gates before build (required on the first write, not a later rewrite).** Walk every **dialogue** cue (skip captions/notes that already match house signs). Change the line or confirm it already passes. Do not ship a "literal draft" to fix later.
-   1. **Un-calque.** If you can still hear the English word order, rewrite. `אני אהיה זה שייקח את הראש שלו` → `אני אקטע לו את הראש`. `הם כדלקמן` → drop it. `עכבר לכוד הוא דבר מפחיד` → `גם עכבר בפינה יכול לנשוך`. Short punches (`מה?!` / `אין מצב!`) stay.
+   1. **Un-calque.** Your own pass still leaks: with the English in view the ear is anchored. The independent check is the **native review** (self-check step 8), which `build` enforces. Examples: learnings §1.5 "English tells". If you can still hear the English word order, rewrite. `אני אהיה זה שייקח את הראש שלו` → `אני אקטע לו את הראש`. `הם כדלקמן` → drop it. `עכבר לכוד הוא דבר מפחיד` → `גם עכבר בפינה יכול לנשוך`. Short punches (`מה?!` / `אין מצב!`) stay.
    2. **Voice.** Does this line sound like that speaker's card, not a generic narrator? Jinbe does not say יאללה. Iva first-person is ווי, not אני. Crocodile is cold, not street.
    3. **You + split attacks.** Bare English `you` from the scene (±4 cues): one male `אתה`, one female `את`, mixed/male group `אתם`, all-female `אתן`. Named single addressee (`Straw Hat`, `Bon-chan`) stays singular even if a nearby line is plural. Split attack cards match English order (gate 5).
 
@@ -82,6 +84,7 @@ Hebrew inflects **verbs, adjectives, pronouns, AND numerals** for the gender (m/
 5. **Gender/number QA pass (the real gate):** re-read EACH cue against the **English source line** + the registry, using a ±~4-cue context window for number/addressee. For every verb/adjective/pronoun/numeral, confirm it agrees with the scene's speaker/addressee/referent. This catches the internally-consistent-but-wrong gender/number that no lint can. Where the episode has a `scripts/onepace-translations/<ID>.he.json`, fix it there and rebuild (`node scripts/build-onepace-episode.js build <ID>`); a fix made only in the `.ass`/`.srt` is reverted by the next rebuild. Files with no he.json source: fix `.ass` AND `.srt` identically.
 6. **.srt ↔ .ass** dialogue text consistent.
 7. **Three gates ran on this file** (un-calque, voice, you/attacks) before `build`. If the episode was translated by a subagent, the parent still spot-checks 8 calque-looking lines + every split attack sequence.
+8. **Native review (enforced: `build` refuses without it).** A fresh agent that sees ONLY the Hebrew (`build-onepace-episode.js review-input <ID>`) flags lines no native speaker would say; you triage each with the English open and record it in `<ID>.native-review.txt` with the he.json sha256. Any later he.json edit makes `build` refuse until the changed lines are re-read. Procedure + the exact reviewer prompt: `scripts/onepace-translations/_NATIVE_REVIEW.txt`. Never paste a fresh sha without doing the read: the record is what the user audits.
 
 ## Common mistakes → fix
 | Symptom | Fix |

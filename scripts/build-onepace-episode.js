@@ -18,14 +18,21 @@
  *                      (scripts/onepace-translations/<ID>.cues.json) for translators.
  *   2) (translate)   — an agent / human produces scripts/onepace-translations/<ID>.he.json
  *                      = [{ "i": <cueIndex>, "he": "<visible Hebrew, \\N breaks, no tags/RLE>" }].
+ *   2b) native review — a SEPARATE reader gets only the Hebrew (`review-input <ID>`)
+ *                      and flags lines no native speaker would say; the fixes and
+ *                      the he.json sha256 go in <ID>.native-review.txt. `build`
+ *                      refuses without it. Procedure: onepace-translations/_NATIVE_REVIEW.txt.
  *   3) build <ID>    — assemble subtitles/<arc>/<nn>/<stem>.{ass,srt} from the two.
  *
  * Usage:
  *   node scripts/build-onepace-episode.js extract PEN_2
+ *   node scripts/build-onepace-episode.js review-input PEN_2 > /tmp/PEN_2.he.txt
  *   node scripts/build-onepace-episode.js build   PEN_2
  *   node scripts/build-onepace-episode.js build-all
  */
 
+const crypto = require('crypto');
+const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
@@ -245,6 +252,7 @@ async function build(id) {
   const trPath = path.join(TR_DIR, `${id}.he.json`);
   if (!fs.existsSync(trPath)) throw new Error(`missing translation ${trPath} (run extract + translate first)`);
   const tr = new Map(JSON.parse(fs.readFileSync(trPath, 'utf8')).map((e) => [e.i, e.he]));
+  const reviewWarning = checkNativeReview(id, trPath);
 
   const enText = await officialEnglish(ep);
   const cues = keptCues(enText);
@@ -301,6 +309,42 @@ async function build(id) {
   fs.writeFileSync(path.join(dir, ep.stem + '.srt'), srt.join('\n'), 'utf8');
   console.log(`${id}: wrote ${srtN} cues -> subtitles/fedew/${ep.arc}/${ep.nn}/${ep.stem}.{ass,srt}`);
   [...new Set(warnings)].forEach((w) => console.log(`  ! ${w}`));
+  if (reviewWarning) console.log(`  ! ${reviewWarning}`);
+}
+
+// Native-review gate. The writer's own un-calque check runs with the English
+// open, and the anchored ear kept passing translated-sounding Hebrew: IM_7
+// shipped 4 after a 38-calque rewrite pass, and a Hebrew-only read then found
+// 28 more. So a separate reader sees ONLY the Hebrew, and its record must match
+// the current he.json byte-for-byte. Line 1 of <ID>.native-review.txt is
+// "sha256 <hex>"; the rest is the flag list with what was done about each.
+function checkNativeReview(id, trPath) {
+  const revPath = path.join(TR_DIR, `${id}.native-review.txt`);
+  const sha = crypto.createHash('sha256').update(fs.readFileSync(trPath)).digest('hex');
+  if (!fs.existsSync(revPath)) {
+    // ponytail: episodes whose he.json was committed before this gate only warn,
+    // so old fixes still build; a sweep gives each its review file.
+    try {
+      execFileSync('git', ['ls-files', '--error-unmatch', trPath], { cwd: REPO, stdio: 'ignore' });
+      return `no native review yet (pre-gate episode): ${id}.native-review.txt`;
+    } catch {
+      throw new Error(`${id}: no native review. Follow scripts/onepace-translations/_NATIVE_REVIEW.txt, then write ${id}.native-review.txt starting with: sha256 ${sha}`);
+    }
+  }
+  const reviewed = (fs.readFileSync(revPath, 'utf8').match(/^sha256 ([0-9a-f]{64})/) || [])[1];
+  if (reviewed !== sha) {
+    throw new Error(`${id}: he.json changed since its native review. Blind-read the changed lines (git diff), add them to ${id}.native-review.txt, and set line 1 to: sha256 ${sha}`);
+  }
+  return null;
+}
+
+// Hebrew only, "<i>\t<line>", for the native reviewer. No English on purpose.
+function reviewInput(id) {
+  const trPath = path.join(TR_DIR, `${id}.he.json`);
+  for (const { i, he } of JSON.parse(fs.readFileSync(trPath, 'utf8'))) {
+    const line = he.replace(/\\N/g, ' ').trim();
+    if (/[א-ת]/.test(line)) console.log(`${i}\t${line}`);
+  }
 }
 
 // Structural guard: the bug that caused the "holes". Every Dialogue line MUST
@@ -328,9 +372,10 @@ function validateAss(assBody, problems) {
   try {
     if (mode === 'extract' && id) await extract(id);
     else if (mode === 'build' && id) await build(id);
+    else if (mode === 'review-input' && id) reviewInput(id);
     else if (mode === 'extract-all') { for (const k of Object.keys(EPISODES)) await extract(k); }
     else if (mode === 'build-all') { for (const k of Object.keys(EPISODES)) await build(k); }
-    else { console.error('usage: build-onepace-episode.js <extract|build|extract-all|build-all> [ID]'); process.exit(2); }
+    else { console.error('usage: build-onepace-episode.js <extract|review-input|build|extract-all|build-all> [ID]'); process.exit(2); }
   } catch (e) { console.error(String(e.message || e)); process.exit(1); }
 })();
 

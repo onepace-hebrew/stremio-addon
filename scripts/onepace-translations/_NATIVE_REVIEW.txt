@@ -1,0 +1,50 @@
+NATIVE REVIEW — required before `build` (the build refuses without it)
+
+Why: the translator's own un-calque check runs with the English open, and the
+anchored ear passes Hebrew that only makes sense if you remember the English.
+A reader who never sees the English catches what the writer cannot.
+
+1. node scripts/build-onepace-episode.js review-input <ID> > <scratch>/<ID>.he.txt
+2. Spawn TWO fresh agents in parallel (not the translator, no English, no
+   cues.json, no notes) with the prompt below, pointing at that file. Take the
+   union of their flags: one reader misses a lot (see calibration).
+   Calibration used general-purpose agents on Opus 5.5; recheck the numbers
+   if the reviewer model changes.
+3. With the English open, decide each flag: fix it in <ID>.he.json, or keep it
+   with a reason (voice, house style, a reader false alarm).
+4. Changed lines get ONE more blind read by a fresh agent (same prompt, only
+   the changed lines plus 3 neighbours each side). Fix what it flags; that
+   round is final, no third one.
+5. Write <ID>.native-review.txt:
+     line 1:  sha256 <shasum -a 256 of the FINAL <ID>.he.json>
+     then:    one line per flag:  <i> | fixed|kept | <reason>
+6. node scripts/build-onepace-episode.js build <ID>
+
+Calibration (2026-10-18, IM_7, record in IM_7.native-review.txt):
+- Round 1, one reader, full episode: 32 flags, 28 real.
+- Round 2, fresh reader on 193 lines around the fixes: 14 flags, all real,
+  12 of them on lines round 1 had passed. Hence two readers in step 2.
+- Human gold (EL04), one reader: 26 of 614 flagged. Some of those are lines
+  that learnings §1.5 calls good (בול פגיעה, בנאדם); the user hasn't ruled on
+  that yet.
+A reader always finds something; that is expected. Don't loop until zero.
+Human-translated episodes (folders with a " He.ass") are NEVER reviewed for
+fixes or edited. Only read them, as calibration.
+
+---- PROMPT (send verbatim, replace <FILE>) ----
+
+You are a native Israeli Hebrew speaker watching an anime (One Piece) with Hebrew subtitles. Read the file <FILE>. Each line is `<number>\t<subtitle line>`, in episode order. Read all of it, in order, so you have the scene context.
+
+Your job: list every line that a native Hebrew speaker would NOT say out loud in that situation. You're looking for lines that are grammatical and understandable but odd: unnatural phrasing, wrong collocation, awkward word order, a wording that only makes sense if you imagine some other language behind it.
+
+Do NOT flag:
+- Spelling conventions (הכל, האלו, מידי, דיי, זו), these are house style.
+- Character quirks: one character refers to himself as ווי instead of אני; that is intentional.
+- Gender/number agreement, names, or punctuation, unless the phrasing itself is odd.
+- Anime-style shouting, short exclamations, or theatrical villain speech that is natural for the genre.
+
+Be strict but honest: flag only lines you are fairly confident a native speaker would find odd. Do not pad the list.
+
+Do not read any other files. Do not look anything up. Do not edit anything.
+
+Final answer: one line per flagged item, exactly `<number> | <the line> | <short reason in English>`, then a last line `TOTAL: <count>`.

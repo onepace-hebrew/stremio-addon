@@ -61,6 +61,15 @@ The AI kept attack lines untranslated; the human translates them, keeps the `{\f
 - Inverted-literal English untangled: «עד כדי כך עמוק החטא של קיומך!» → «זה כמה הקיום שלך הוא חטא!»; «אתה מדבר גבוה בשביל מת!» → «אתה בהחלט תופס מעצמך יחסית לאיש מת!».
 - "Guys": «הבחורים האלה» → «החבר'ה האלו / ההם».
 
+#### English tells — grammatical Hebrew that still sounds translated
+Found in shipped AI episodes (2026-10-18). Every one is legal Hebrew that only makes sense if you remember the English. No phrase is banned: the human gold uses «אני מניח», «אחרי הכל», «זה הכל.» and «אני הולך להיות מלך הפיראטים!» at the same rate the AI does. The test is the whole line read with the English closed (skill gate 7.1).
+- Passive "going to be + participle" → active voice: «אייס הולך להיות מוצא להורג» → «הולכים להוציא את אייס להורג».
+- English word order kept: «כמה גדול הקרב הזה הולך להיות» → «כמה גדול יהיה הקרב הזה».
+- "that's all" tacked on where Hebrew means something else: «שרדת, אבל זה הכל» → «שרדת, אבל רק בקושי»; «זה הכל בעבר» → «זה כבר מאחוריי».
+- "grateful to you" / "thank you for": «אני אסיר תודה לך» → «אני מודה לך»; «תודה לך שדאגת לי» → «תודה שדאגת לי».
+- Body calque: «אל תאמץ את הגוף ככה» → «אם תמשיך להתאמץ ככה».
+- "X is all about Y": «בגדי חוץ זה הכל המלמלה» → «בבגדי חוץ, המלמלות זה העיקר».
+
 ### 1.6 House orthography (consistent, sometimes non-Academy — follow it anyway)
 - **זאת → זו**; **האלה/כאלה → האלו/כאלו**; **הכול → הכל**; **יותר מדי → יותר מידי**; **די → דיי**.
 - **עליי → עלי** (but ידיי keeps double yod).
