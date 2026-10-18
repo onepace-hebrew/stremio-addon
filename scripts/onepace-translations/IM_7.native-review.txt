@@ -1,0 +1,53 @@
+sha256 387f87721507ef044b8219b8d21c11d3123b56c1f172d40da5f6ff698793c086
+# 2026-10-18. Reviewer prompt: _NATIVE_REVIEW.txt. Flags triaged with the English open.
+# Round 1: full episode, pre-fix HEAD version. 32 flagged.
+23 | fixed | "lent you strength" calque
+26 | fixed | פלט דם בשיעול → השתעל דם
+38 | fixed | "but that's all" (found by the parent, not the reader)
+66 | fixed | "X and Y both" word order
+74 | kept | Iva's theatrical register
+93 | fixed | "will to live that defies common sense"
+100 | fixed | tag "you know" → שמת לב?
+104 | fixed | מוצאת הביתה → מוצאת את הדרך הביתה
+123 | fixed | הייתי רשלן → פספסתי את זה
+127 | fixed | wrong verb לכעוס את → להכעיס
+128 | fixed | על מה חושבת → מה חושבת לעצמה
+139 | fixed | תמסרו ל without an object
+153 | fixed | בתמורה misused for a cost
+169 | fixed | בלתי סבירה about a person
+177 | kept → fixed in round 2 | להוריד את המשמר (flagged by both readers)
+180 | fixed | בלי שום פרצה → תקלה
+185 | fixed | missing article
+212 | fixed | בסוף for "after all"
+253 | fixed, refixed in round 2 | one step behind
+271 | fixed, refixed in round 2 | imported "one or two lives" idiom
+284 | fixed | "not like they'd let us"
+307 | fixed | אין בריחה
+312 | fixed | ועם זה reads as "and yet"
+321 | fixed | compound גז השינה לחירום
+334 | fixed | "I wanted it to be a lie"
+343 | fixed | "what's with" → מה הקטע של
+363 | fixed | passive "going to be executed" (parent)
+378 | fixed | malformed הכל שביכולתי
+399 | fixed | מקבל תחושה
+400 | fixed | "before all that"
+421 | fixed | "that's all in the past"
+426 | fixed | נעצר reads as "arrested"
+436 | kept | איפה ללחוץ לו is an idiom
+467 | fixed | אסיר תודה לך (parent)
+471 | fixed | "take his head" → אערוף
+# Round 2: changed lines ±3 cues of context, fresh reader. 14 flagged (12 on unchanged lines).
+22 | fixed | "thanks go to Bon" word order
+106 | fixed | "in East Blue" attached to the wrong verb
+142 | fixed | אפשר להגיד את זה
+177 | fixed | להתרשל
+181 | fixed | לא אקבל → לא אסבול
+187 | fixed | תמשיך needs a verb
+214 | fixed | ראש בראש means neck and neck, not a collision
+253 | fixed | הקדימו אותנו
+271 | fixed | גם מי שמסכן את חייו
+310 | fixed | bare הרגע reads as "one moment"
+318 | fixed | "not long after"
+365 | fixed | נפלנו בפח
+381 | fixed | doubled אחרי זה זה
+470 | fixed | missing object כלום
