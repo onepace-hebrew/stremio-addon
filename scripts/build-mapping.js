@@ -72,6 +72,13 @@ const ARC_CODES = {
   //   re-split/re-time to the 25 addon boundaries, not a lookup.
 };
 
+// Cover stories have one folder each and ids that don't follow <ARC>_<n>.
+// Keys are what the Worker extracts from fedew04's ids (last <WORD>_<n> token:
+// BUGGYS_CREW_1 -> CREW_1, COVER_SHSS_1 -> SHSS_1). Folder 04 (Fan Letter)
+// is not in fedew04's catalog.
+const COVER_ARC = '00 Cover Stories and Specials';
+const COVER_IDS = { '01': 'CREW_1', '02': 'KOBYMEPPO_1', '03': 'SHSS_1' };
+
 const SUBTITLES_ROOT = path.join(__dirname, '..', 'subtitles');
 const MAIN_ROOT = path.join(SUBTITLES_ROOT, 'main');
 const MAPPING_PATH = path.join(__dirname, '..', 'mapping.json');
@@ -122,7 +129,7 @@ function build() {
 
   for (const arc of listDirs(MAIN_ROOT).sort()) {
     const arcCode = ARC_CODES[arc];
-    if (!arcCode) {
+    if (!arcCode && arc !== COVER_ARC) {
       warnings.push(`Skipping arc "${arc}" - no ARC_CODES entry.`);
       continue;
     }
@@ -156,7 +163,11 @@ function build() {
       // Optional Hebrew ASS: "<stem> he.ass"
       const assFile = pickHe(/\she\.ass$/i);
 
-      const id = `${arcCode}_${epNum}`;
+      const id = arc === COVER_ARC ? COVER_IDS[epFolder] : `${arcCode}_${epNum}`;
+      if (!id) {
+        warnings.push(`Skipping "${arc}/${epFolder}" - no COVER_IDS entry.`);
+        continue;
+      }
       mapping[id] = {
         arc,
         ep: epNum,

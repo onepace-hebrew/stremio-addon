@@ -239,6 +239,12 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/09/baratie%2009%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/05%20Baratie/09/baratie%2009%20he.ass"
   },
+  "CREW_1": {
+    "arc": "00 Cover Stories and Specials",
+    "ep": 1,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/00%20Cover%20Stories%20and%20Specials/01/The%20Adventures%20of%20Buggy's%20Crew%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/00%20Cover%20Stories%20and%20Specials/01/The%20Adventures%20of%20Buggy's%20Crew%20He.ass"
+  },
   "DI_1": {
     "arc": "11 Drum Island",
     "ep": 1,
@@ -671,6 +677,12 @@
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/08/jaya%2008%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/13%20Jaya/08/jaya%2008%20he.ass"
   },
+  "KOBYMEPPO_1": {
+    "arc": "00 Cover Stories and Specials",
+    "ep": 2,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/00%20Cover%20Stories%20and%20Specials/02/The%20Trials%20of%20KobyMeppo%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/00%20Cover%20Stories%20and%20Specials/02/The%20Trials%20of%20KobyMeppo%20he.ass"
+  },
   "LI_1": {
     "arc": "10 Little Garden",
     "ep": 1,
@@ -1000,6 +1012,12 @@
     "ep": 9,
     "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/09/sabaody%2009%20he.srt",
     "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/fedew/20%20Sabaody%20Archipelago/09/sabaody%2009%20he.ass"
+  },
+  "SHSS_1": {
+    "arc": "00 Cover Stories and Specials",
+    "ep": 3,
+    "srt": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/00%20Cover%20Stories%20and%20Specials/03/If%20You%20Could%20Go%20Anywhere...%20The%20Adventures%20of%20the%20Straw%20Hats%20he.srt",
+    "ass": "https://raw.githubusercontent.com/onepace-hebrew/stremio-addon/main/subtitles/main/00%20Cover%20Stories%20and%20Specials/03/If%20You%20Could%20Go%20Anywhere...%20The%20Adventures%20of%20the%20Straw%20Hats%20he.ass"
   },
   "SK_1": {
     "arc": "14 Skypiea",
