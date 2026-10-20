@@ -22,6 +22,9 @@
  *                      and flags lines no native speaker would say; the fixes and
  *                      the he.json sha256 go in <ID>.native-review.txt. `build`
  *                      refuses without it. Procedure: onepace-translations/_NATIVE_REVIEW.txt.
+ *   2c) signs <ID>   — attack names drawn as per-letter typesets (dropped from
+ *                      cues) go to <ID>.signs.json; fill each "he". `build`
+ *                      refuses while one is null ("" = show nothing).
  *   3) build <ID>    — assemble subtitles/<arc>/<nn>/<stem>.{ass,srt} from the two.
  *
  * Usage:
@@ -262,7 +265,7 @@ async function build(id) {
   const out = [], srt = [];
   const problems = [];
   const warnings = [];
-  let inEvents = false, ci = 0, srtN = 0;
+  let inEvents = false, ci = 0, srtN = 0, lastDialogue = -1, mainStyle = null;
   for (const line of enLines) {
     if (/^\[Events\]/.test(line)) { inEvents = true; out.push(line); continue; }
     if (/^\[/.test(line)) inEvents = false;
@@ -270,6 +273,7 @@ async function build(id) {
     if (line.startsWith('Style:')) {
       const p = line.split(',');
       const name = p[0].slice('Style:'.length).trim();
+      if (!mainStyle && /^Main/.test(name)) mainStyle = name;
       p[1] = ROLE_FONT[name] || SIGN_FALLBACK;
       // Unknown style -> Guttman Kav (sign default). Non-fatal: new arcs keep
       // adding sign/caption styles (Map/Bounty/Supernova/Hentai…). Just a warning.
@@ -290,13 +294,34 @@ async function build(id) {
       // CRITICAL: comma separates the 9 head fields (..,Effect) from Text.
       out.push(`Dialogue:${p.slice(0, 9).join(',')},${leadTags(enField)}${addRle(he)}`);
       srtN++;
-      srt.push(`${srtN}\n${srtTime(p[1])} --> ${srtTime(p[2])}\n${he.split('\\N').map((x) => RLE + x).join('\n')}\n`);
+      srt.push({ start: p[1], end: p[2], he });
+      lastDialogue = out.length - 1;
       ci++;
       continue;
     }
     out.push(line);
   }
   if (ci !== cues.length) problems.push(`built ${ci} cues != ${cues.length} expected`);
+
+  // Attack names: one Main line per typeset cluster, faded like the human
+  // files do it. Missing Hebrew fails the build so new episodes can't skip it.
+  const clusters = typesetClusters(enText);
+  if (clusters.length) {
+    const sp = path.join(TR_DIR, `${id}.signs.json`);
+    const he = new Map(fs.existsSync(sp) ? JSON.parse(fs.readFileSync(sp, 'utf8')).map((s) => [s.key, s.he]) : []);
+    const add = [];
+    for (const c of clusters) {
+      const h = he.get(c.key);
+      if (h == null) { problems.push(`MISSING attack name ${c.key} "${c.en}" (run: signs ${id}, then fill ${id}.signs.json)`); continue; }
+      if (!h.trim()) continue; // intentionally blank
+      add.push(`Dialogue: 0,${c.start},${c.end},${mainStyle},,0,0,0,,{\\fad(150,150)}${addRle(h)}`);
+      srtN++;
+      const at = srt.findIndex((x) => secs(x.start) > secs(c.start));
+      srt.splice(at < 0 ? srt.length : at, 0, { start: c.start, end: c.end, he: h });
+    }
+    if (!mainStyle) problems.push('no Main style for attack names');
+    out.splice(lastDialogue + 1, 0, ...add);
+  }
   if (tr.size !== cues.length) problems.push(`translation has ${tr.size} entries != ${cues.length} expected`);
 
   const assBody = '﻿' + out.join('\n').replace(/\n*$/, '\n');
@@ -306,7 +331,8 @@ async function build(id) {
   const dir = path.join(REPO, 'subtitles', 'fedew', ep.arc, ep.nn);
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, ep.stem + '.ass'), assBody, 'utf8');
-  fs.writeFileSync(path.join(dir, ep.stem + '.srt'), srt.join('\n'), 'utf8');
+  const srtText = srt.map((x, n) => `${n + 1}\n${srtTime(x.start)} --> ${srtTime(x.end)}\n${x.he.split('\\N').map((l) => RLE + l).join('\n')}\n`);
+  fs.writeFileSync(path.join(dir, ep.stem + '.srt'), srtText.join('\n'), 'utf8');
   console.log(`${id}: wrote ${srtN} cues -> subtitles/fedew/${ep.arc}/${ep.nn}/${ep.stem}.{ass,srt}`);
   [...new Set(warnings)].forEach((w) => console.log(`  ! ${w}`));
   if (reviewWarning) console.log(`  ! ${reviewWarning}`);
@@ -336,6 +362,66 @@ function checkNativeReview(id, trPath) {
     throw new Error(`${id}: he.json changed since its native review. Blind-read the changed lines (git diff), add them to ${id}.native-review.txt, and set line 1 to: sha256 ${sha}`);
   }
   return null;
+}
+
+// ---- attack names -----------------------------------------------------------
+// Dropped typeset styles carry the attack names ("Ice Age", "Yasakani Sacred
+// Jewel"), drawn one letter or syllable per event. They never reached the
+// Hebrew, so viewers saw nothing when a character named his attack (MA_3
+// 7:51). Each on-screen name becomes one cluster; its Hebrew lives in
+// <ID>.signs.json keyed by "<style>@<start>", NOT in he.json (cue indices and
+// the native-review sha stay untouched). `en` is only a hint for the
+// translator; the layered letters make exact reconstruction unreliable.
+
+const secs = (t) => { const [h, m, s] = t.split(':'); return +h * 3600 + +m * 60 + +s; };
+
+// Visible text of one typeset event: no override blocks, no \p drawing runs.
+function typesetText(text) {
+  let draw = false, out = '';
+  for (const tok of text.split(/(\{[^}]*\})/)) {
+    if (tok.startsWith('{')) { const p = tok.match(/\\p\d/g); if (p) draw = p[p.length - 1] !== '\\p0'; continue; }
+    if (!draw) out += tok;
+  }
+  return out.replace(/\\[Nnh]/g, ' ').trim();
+}
+
+// ponytail: a cluster = same style, next event starts within 0.5s of the
+// running end. Two attacks fired back to back merge into one entry; split by
+// hand in signs.json if that ever matters.
+function typesetClusters(enText) {
+  const events = parseDialogues(enText);
+  const typeset = typesetStyles(events);
+  const out = [];
+  for (const style of typeset) {
+    let cur = null;
+    for (const e of events.filter((x) => x.style === style).sort((a, b) => secs(a.start) - secs(b.start))) {
+      if (!cur || secs(e.start) > secs(cur.end) + 0.5) out.push(cur = { style, start: e.start, end: e.end, glyphs: new Map() });
+      if (secs(e.end) > secs(cur.end)) cur.end = e.end;
+      const t = typesetText(e.text);
+      const x = +((e.text.match(/\\(?:pos|move)\(([-\d.]+)/) || [])[1] || 0);
+      const k = `${t}@${Math.round(x)}`;
+      if (t && !cur.glyphs.has(k)) cur.glyphs.set(k, { t, x, s: secs(e.start) });
+    }
+  }
+  return out.filter((c) => c.glyphs.size).map(({ glyphs, ...c }) => {
+    const all = [...glyphs.values()];
+    const multi = all.filter((g) => g.t.length > 1);
+    const en = (multi.length ? multi : all).sort((a, b) => a.s - b.s || a.x - b.x).map((g) => g.t).join('');
+    return { key: `${c.style}@${c.start}`, ...c, en };
+  }).sort((a, b) => secs(a.start) - secs(b.start));
+}
+
+// Write/refresh <ID>.signs.json, keeping any Hebrew already there.
+async function signs(id) {
+  const ep = EPISODES[id];
+  if (!ep) throw new Error(`unknown id ${id}`);
+  const clusters = typesetClusters(await officialEnglish(ep));
+  const p = path.join(TR_DIR, `${id}.signs.json`);
+  const old = new Map(fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf8')).map((s) => [s.key, s.he]) : []);
+  if (!clusters.length) { console.log(`${id}: no attack-name typesets`); return; }
+  const rows = clusters.map(({ key, start, end, en }) => ({ key, start, end, en, he: old.has(key) ? old.get(key) : null }));
+  fs.writeFileSync(p, '[\n' + rows.map((r) => ' ' + JSON.stringify(r)).join(',\n') + '\n]\n');
+  console.log(`${id}: ${rows.length} attack names, ${rows.filter((r) => r.he == null).length} untranslated -> ${id}.signs.json`);
 }
 
 // Hebrew only, "<i>\t<line>", for the native reviewer. No English on purpose.
@@ -373,6 +459,8 @@ function validateAss(assBody, problems) {
     if (mode === 'extract' && id) await extract(id);
     else if (mode === 'build' && id) await build(id);
     else if (mode === 'review-input' && id) reviewInput(id);
+    else if (mode === 'signs' && id) await signs(id);
+    else if (mode === 'signs-all') { for (const k of Object.keys(EPISODES)) await signs(k); }
     else if (mode === 'extract-all') { for (const k of Object.keys(EPISODES)) await extract(k); }
     else if (mode === 'build-all') { for (const k of Object.keys(EPISODES)) await build(k); }
     else { console.error('usage: build-onepace-episode.js <extract|review-input|build|extract-all|build-all> [ID]'); process.exit(2); }
