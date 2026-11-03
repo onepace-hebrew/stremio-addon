@@ -1,0 +1,38 @@
+corpus	arc	episodes	dialogue_lines	TierA_hits	TierA_per1k
+AI_main	Other	1	9	1	111.11
+AI_main	31 Reverie	3	1493	52	34.83
+AI_main	07 Loguetown	3	1415	44	31.10
+AI_main	09 Whisky Peak	2	1093	33	30.19
+AI_main	08 Reverse Mountain	2	812	23	28.33
+AI_main	14 Skypiea	26	9177	254	27.68
+AI_main	32 Wano	60	21109	478	22.64
+AI_main	00 Cover Stories and Specials	3	867	19	21.91
+AI_main	10 Little Garden	5	1936	41	21.18
+AI_main	24 Post War	8	4263	84	19.70
+AI_main	25 Return to Sabaody	3	1564	30	19.18
+AI_main	11 Drum Island	8	3633	68	18.72
+AI_main	16 Water Seven	20	8029	149	18.56
+AI_main	12 Alabasta	16	5967	109	18.27
+AI_main	17 Enies Lobby	9	3186	54	16.95
+AI_main	05 Baratie	1	242	4	16.53
+AI_main	30 Whole Cake Island	39	13846	224	16.18
+AI_main	13 Jaya	8	2575	32	12.43
+AI_main	06 Arlong Park	9	3358	37	11.02
+AI_fedew	20 Sabaody Archipelago	11	4435	39	8.79
+AI_main	33 Egghead	24	9489	80	8.43
+AI_fedew	19 Thriller Bark	22	7951	65	8.18
+AI_fedew	17 Enies Lobby	24	7707	58	7.53
+AI_fedew	18 Post-Enies Lobby	5	2247	16	7.12
+AI_fedew	21 Amazon Lily	5	2021	7	3.46
+HUMAN	04 Gaimon	1	308	1	3.25
+HUMAN	17 Enies Lobby	1	320	1	3.12
+AI_main	03 Syrup Village	1	464	1	2.16
+AI_fedew	22 Impel Down	10	4449	8	1.80
+AI_main	01 Romance Dawn	4	1267	2	1.58
+AI_fedew	23 Marineford	8	2253	3	1.33
+HUMAN	05 Baratie	8	2992	3	1.00
+HUMAN	03 Syrup Village	6	1885	1	0.53
+HUMAN	06 Arlong Park	2	698	0	0.00
+AI_main	02 Orange Town	2	792	0	0.00
+HUMAN	02 Orange Town	1	513	0	0.00
+HUMAN	00 Cover Stories and Specials	1	258	0	0.00

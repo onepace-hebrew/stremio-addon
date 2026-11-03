@@ -1,0 +1,604 @@
+episode	file	line	he_line	category	category2	rewrite	confidence	note
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	7	בסדר. ילדים כבר ילדים.	C		נו, ילדים זה ילדים.	high	"kids will be kids" → nonexistent «ילדים כבר ילדים»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	9	הם אמרו מה?!	B		מה הם אמרו?!	high	"They said WHAT?!" word order kept
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	13	לא אכפת מה אנשים חושבים!	B		שלא יזיז לך מה אנשים חושבים!	medium	imperative calque; «לא אכפת» with no dative
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	14	אל תתרעמי על העולם / שנולדת אליו...	A	B	אל תכעסי על העולם שנולדת בו...	high	תתרעמי is bookish; "born into" calque
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	27	אוהו?	H		הממ? / מה יש לנו פה?	high	«אוהו?» = EN "Oho?"; Hebrew אוהו expresses admiration, not curiosity
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	37	ולא אפגע. אני רק / שואל אותה לזמן קצר.	F		ולא אפגע בה. אני רק לוקח אותה בהשאלה.	high	"borrowing her" → «שואל אותה» reads "asking her"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	38	מר ג'ן, עזרו לי!	I		מר ג'ן, תעזור לי!	high	plural imperative to one man (EN "Mr. Gen, help me!")
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	39	ידיים מהם!	C		תורידו מהן את הידיים!	medium	EN "Keep your hands off them!" clipped to «ידיים מהם!»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	51	הם טבעו כל / אחת מהאוניות שלנו...	I	B	הם הטביעו את כל הספינות שלנו...	high	טבעו is intransitive (they sank); "every one of" calque
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	54	כמו שחששתי, / הצי לא יעזרו לנו.	B		כמו שחששתי, הצי לא יעזור לנו.	high	"the Marines" → plural verb with singular הצי (also 219, 269, 311)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	57	היא ידעה איך פיראטים פועלים / מזמן שהייתה בצי!	B		היא ידעה איך פיראטים עובדים, עוד מהימים שלה בצי!	medium	"from her time in the Marines"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	58	והיא ידעה שאף אחד / לא הולך להתחמק...	F		והיא ידעה שאף אחד לא ייצא מזה...	medium	"get away" → להתחמק (= dodge)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	63	גילינו היכן / נמצאים פיראטי ארלונג!	A		גילינו איפה פיראטי ארלונג!	high	היכן in an urgent spoken report
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	66	האם נילחם עכשיו, עד הנשימה האחרונה?!	A		נילחם עכשיו, עד הנשימה האחרונה?!	high	question particle האם in speech
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	68	תוך שאנחנו חיים תחת / גרזן התליין?!	A	C	ובינתיים נחיה עם חרב על הצוואר?!	high	תוך ש + literal "under the executioner's axe"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	71	אבל יש להם עבודה / עד מעל ראשם בקו הגדול.	A		אבל יש להם עבודה עד מעל הראש בקו הגדול.	medium	idiom is עד מעל הראש, not ראשם
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	72	הסיכוי שיגיעו / עד הנה הוא אפסי!	A	E	אין סיכוי שהם יגיעו עד לפה!	medium	עד הנה + copula הוא
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	75	אני גם אלחם!	B		גם אני נלחם!	medium	"I'll fight too" word order (אני גם)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	76	אני לא יכולה להמשיך / בידיעה שנטשתי ילדה!	A		אני לא אוכל לחיות עם זה שהפקרתי ילדה!	medium	בידיעה ש
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	77	כולם כאן הם משפחה!	B		כולנו פה משפחה!	medium	copula הם calque
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	78	גם אם אמות בלחימה נגדם, / אציל את נאמי!	E		גם אם אמות, אני אציל את נאמי!	medium	«בלחימה נגדם» padding
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	80	הפעם, ניתן להם לטעום מהתופת!	A	C	הפעם נראה להם מה זה גיהנום!	high	תופת + "give them a taste of"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	93	לצייר מפות ים / בתור מפתחרת שלהם!	I		לשרטט להם מפות, בתור הקרטוגרפית שלהם!	high	«מפתחרת» is not a Hebrew word (6× in main AI, 0× elsewhere)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	95	את בראש שלך?	C		השתגעת?!	high	"out of your mind" → «את בראש שלך?»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	100	ספרי לנו!	A		תגידי לנו!	medium	formal fem. imperative ספרי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	109	הם נתנו לי כל הכסף הזה...	I		הם נתנו לי את כל הכסף הזה...	medium	missing את
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	112	בלתי נסלח! נבזי!	D	A	איך יכולת?! זה שפל!	medium	"Unforgivable!" stock exclamation + נבזי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	113	להצטרף לאנשים האלו זה / בלתי נסלח לחלוטין!	A	D	להצטרף דווקא לאנשים האלה?! זה הכי שפל שיש!	medium	בלתי נסלח לחלוטין
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	114	לא הם! בשום פנים!	A		רק לא הם! אין מצב!	medium	truncated idiom בשום פנים
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	115	את לא יודעת / מאיזה סוג אנשים הם?!	B		את לא יודעת איזה מין אנשים הם?!	high	"what kind of people they are"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	116	מה אכפת?!	B		למי אכפת?!	medium	"Who cares?!" as «מה אכפת?!»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	117	אם לציית לחוקים / אומר שאמות כמו בל-מר,	B		אם לשמור על החוקים זה אומר למות כמו בל-מר,	high	"means" calque without זה
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	125	אל תראי את פנייך / בכפר הזה יותר לעולם!	A	B	שלא תעזי להראות את הפרצוף שלך בכפר הזה יותר!	high	«אל תראי את פנייך» reads "don't see your face"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	127	איך יכלה להיות כל כך עיוורת?	A		איך היא יכולה להיות כל כך עיוורת?	medium	dropped 3rd-person subject (literary)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	128	האם לא ראתה... / שבל-מר היא האמא שלה?!	A		היא לא רואה... שבל-מר היא אמא שלה?!	high	האם + dropped subject
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	132	האם בל-מר לא אמרה...	A		בל-מר לא אמרה...	high	האם
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	141	אז אני צריכה / לקחת את העניינים לידיים שלי.	B		אז אני צריכה לקחת את העניינים לידיים.	medium	possessive overuse (idiom has no שלי)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	152	לא משנה מה יידרש!	C		לא משנה מה!	medium	"No matter what it takes"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	153	מכיוון שכולם עובדים קשה כל כך / לאסוף מס, אני לבד.	A		כולם ממילא קורעים את עצמם בשביל המס, אז אני לבד בזה.	medium	מכיוון ש
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	154	אם אבקש מאף אחד עזרה, / עוד אנשים ייפגעו.	B		אם אבקש עזרה ממישהו,	high	"anyone" → «מאף אחד» in a positive clause
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	155	זה לא יהיה קל, יודעת...	B		זה לא יהיה קל, את יודעת...	medium	tag "you know" with no subject
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	157	להישאר עם האנשים שהרגו / את בל-מר יכאב.	B		זה יכאב, לחיות עם האנשים שהרגו את בל-מר.	medium	long infinitive subject + sentence-final verb
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	161	מכאן ואילך, / אלחם לבד!	A		מעכשיו אני נלחמת לבד!	high	מכאן ואילך
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	162	נאמי הייתה בת עשר בלבד.	A		נאמי הייתה רק בת עשר.	medium	בלבד (narration)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	167	אגרום לנבלים האלו / לשלם על הפגיעה–	E		אני אדאג שהמנוולים האלה ישלמו על מה ש–	medium	«לשלם על הפגיעה» nominalization
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	168	למה... אחות גדולה...?	D		למה... אחותי...?	medium	"Big Sister" vocative (onee-san)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	171	אם תמשיך לצ'פר / על כך שאתה חבר שלה,	F		אם תמשיך להשוויץ שאתה חבר שלה,	high	לצ'פר = to give a treat
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	173	שמונה שנות המאבק שלה / ירדו לטמיון!	A		שמונה שנים של מאבק ילכו לפח!	medium	construct + של
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	177	Get back here! Damn brat!	I		תחזרי לפה, ילדה מעצבנת!	high	untranslated English line
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	178	How dare you steal our treasure?!	I		איך את מעזה לגנוב לנו את האוצר?!	high	untranslated English line
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	181	בימים אלה, הים מלא / בהם! אז אני מרוויחה!	A		היום הים מלא בהם! אז אני מרוויחה!	high	בימים אלה (news register)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	184	כן, קצת טעיתי. / אבל תראי! מליון ברי!	F		כן, פישלתי קצת. אבל תראי! מליון ברי!	medium	"messed up" → טעיתי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	185	מה אכפת?! צריך / למהר ולטפל בפצעים האלו!	B		מה זה משנה?! צריך לטפל בפצעים האלה, מהר!	medium	"Who cares?!"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	193	בימים אלה, אני יכולה / להשיג כל כך הרבה בסיבוב אחד!	A		היום אני כבר מביאה המון בסיבוב אחד!	high	בימים אלה
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	199	אוכל סוף סוף לחייך / מעומק הלב...	C		אוכל סוף סוף לחייך באמת...	medium	מעומק הלב collocates with thanks, not smiling
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	201	מה ענייניהם / של הצי עם נאמי?	A		מה הצי רוצה מנאמי?	high	מה ענייניהם של
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	202	אין צורך בשאלות. / פשוט הובילו את הדרך.	B		בלי שאלות. רק תראו לנו את הדרך.	medium	"lead the way"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	203	למה לאיש הזה יש / גלגל צבעוני על הראש?	F		למה יש לאיש הזה שבשבת על הראש?	medium	pinwheel = שבשבת
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	208	את היא הגנבת שנקראת נאמי?	B		את הגנבת שקוראים לה נאמי?	high	«את היא» copula + שנקראת
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	211	אתן לך אזהרה.	B		אני מזהירה אותך.	high	"I'll give you a warning"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	213	תתעסקי איתי, וארלונג / לא ישתוק!	I	C	תתעסק איתי, וארלונג לא יעבור על זה בשתיקה!	medium	fem. verb to a male officer; "won't keep quiet"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	215	את חושבת שאת / מתמודדת איתי על בסיס שווה?	C		את חושבת שאת בליגה שלי?	high	"on equal footing" → על בסיס שווה
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	219	האם זה באמת מה שהצי / צריכים לעשות עכשיו?!	A	B	זה באמת מה שהצי צריך לעשות עכשיו?!	high	האם + plural verb with הצי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	222	הוא שולט באי הזה ביד ברזל, / ורומס חיים לעפר!	A		הוא שולט באי ביד ברזל והורס לאנשים את החיים!	high	רומס חיים לעפר
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	223	כך הממשלה עובדת?!	A		ככה הממשלה עובדת?!	medium	כך (AI uses כך more than ככה; gold the reverse)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	224	תופסים גנבים קטנים בזמן / שעוצמים עיניים לכל זה?!	C		תופסים גנבים קטנים ומעלימים עין מכל זה?!	medium	"turn a blind eye" → עוצמים עיניים ל
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	225	תשמור על הטון שלך.	C		תיזהר איך אתה מדבר.	high	"Watch your tone"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	227	שנים רבות, אנשי האי הזה / חיכו שתגיעו לעזור להם!	A		כבר שנים שאנשי האי הזה מחכים שתבואו לעזור להם!	medium	שנים רבות
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	231	ידיים מלוכלכות מחוץ / לפרדס המנדרינות של בל-מר!	C	B	תורידו את הידיים המלוכלכות שלכם מהפרדס של בל-מר!	high	"dirty hands off" → «ידיים מלוכלכות מחוץ ל»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	232	לא אניח לכם לקחת את הכסף הזה!	A		אני לא אתן לכם לקחת את הכסף הזה!	high	לא אניח
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	235	מה מקנה לך את הזכות / לקחת אותו, חייל מארין?!	A		מי נתן לך את הזכות לקחת אותו?!	high	מה מקנה לך את הזכות
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	236	אוהו?	H		הממ?	high	«אוהו?»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	241	אז, לא יכולתי / להאמין לאופן שהתנהגת,	B		באותו יום לא האמנתי למה שראיתי, איך שהתנהגת,	high	לאופן ש
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	242	אז עימתתי את נוג'יקו אחרי כן.	F	A	אז אחר כך לחצתי על נוג'יקו.	high	לעמת = to confront A with B; אחרי כן
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	245	עשינו עצמנו שלא ידענו.	C		עשינו את עצמנו שאנחנו לא יודעים.	high	broken idiom «עשינו עצמנו שלא ידענו»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	246	חשבנו שהתקוות שלנו / יעצרו אותך	B		חשבנו שהתקוות שלנו רק יקשו עלייך	high	EN "our hopes would keep you from running away"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	247	מלברוח מארלונג, / אם תחליטי פעם.	B		לברוח מארלונג, אם תרצי לברוח.	high	"if you ever decided to"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	248	אתה מתכוון ברצינות...	B		אתה לא רציני...	medium	EN "You can't be serious" → «אתה מתכוון ברצינות»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	251	ועלינו לעצור אותם?	A		ושאנחנו צריכים לעצור אותם?	medium	עלינו ל
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	254	אם אתם לא כאן לעזור לנו, / אז לכו לעזאזל מכאן!	C		אם לא באתם לעזור, אז תעופו מפה!	medium	mixes לכו לעזאזל + מכאן
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	256	ארלונג, אתם אומרים?	B		ארלונג, אה?	high	"Arlong, you say?"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	263	ובכן, נגיד שזה אינסטינקט.	A		נו, בוא נגיד שזה אינסטינקט.	medium	ובכן (gold tolerates ובכן only as hesitation)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	268	נבלי ממשלה ארורים!	H	A	מנוולים של הממשלה!	high	construct + ארורים
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	269	איך הצי יורדים לרמה / של עושי דבר פיראטים?!	A	B	איך הצי מתדרדר לרמה של משרתים של פיראטים?!	high	עושי דבר + plural verb with הצי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	273	לחשוב שנערה כמוך / אספה את כל זה!	B		מי היה מאמין שילדה כמוך אספה את כל זה!	medium	"To think that" (gold also has לחשוב ש 4×)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	288	על ידי מי?!	B		מי ירה בה?!	high	"By whom?!" passive agent
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	295	זה לא עניינך! / פשוט עזוב את האי הארור הזה כבר!	H		פשוט תעזוב כבר את האי המחורבן הזה!	medium	ארור as "damn"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	297	אתה באמת רוצה שאשחרר / את הכפר שלך כל כך?	I	B	את כל כך רוצה שאשחרר את הכפר שלך?	high	masc. to young Nami; "that badly" word order
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	299	אסוף 100 מליון ברי / והביאי לי אותם.	I	A	תאספי 100 מליון ברי ותביאי לי אותם.	high	mixed masc./fem. formal imperatives
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	304	אני דגה-אדם שעומד בדיברו.	A		אני איש-דג שעומד במילה שלו.	medium	בדיברו
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	308	אוהו?	H		הממ?	high	«אוהו?»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	309	למה הפרצוף הכבד, / המפתחרת המוכשרת שלי?	C	I	למה הפרצוף החמוץ, הנווטת המוכשרת שלי?	high	"long face" literal + «מפתחרת»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	310	מה עם הפנים הזעומות?	A		מה הפרצוף הזה?	high	הפנים הזעומות
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	311	הצי שאתה משלם להם / גנבו את כל הכסף שלי!	B		הצי שאתה משחד גנב לי את כל הכסף!	medium	plural verb with הצי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	312	חשבתי שכשמדובר בכסף, / מעדיפה למות מאשר לשבור הבטחה!	I		חשבתי שכשזה נוגע לכסף, אתה מעדיף למות מאשר להפר הבטחה!	high	fem. verb for Arlong
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	317	נשמע!	F		נו, בואי נשמע!	medium	EN "Let's hear it!"; bare «נשמע!» reads "sounds"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	318	ארור...	H		לעזאזל...	high	«ארור» as an expletive (gold never)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	319	ארור! ארור!	H		לעזאזל! לעזאזל!	high	«ארור! ארור!»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	322	זה ממש לא מזל.	C		איזה חוסר מזל.	high	"real bad luck" → «זה ממש לא מזל»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	323	אבל, היי. עסקה היא עסקה.	H		אבל מה לעשות, עסקה זה עסקה.	medium	"But, hey."
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	326	נבל!	H		מנוול!	medium	«נבל!» as vocative insult (gold uses נבל only as a noun)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	332	עשינו עצמנו שלא ידענו.	C		עשינו את עצמנו שאנחנו לא יודעים.	high	repeat of 245
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	333	חשבנו שהתקוות שלנו / יעצרו אותך	B		(as 246)	high	repeat of 246
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	334	מלברוח מארלונג, / אם תחליטי פעם.	B		(as 247)	high	repeat of 247
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	335	אוהו?	H		הממ?	high	«אוהו?»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	336	בסוף בורחת, הה?	H	B	אז בכל זאת היא בורחת, אה?	medium	«הה?» + dropped subject
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	341	אתה בטח יודע / לשחק מלוכלך...	F		אתה ממש יודע לשחק מלוכלך...	medium	בטח = probably
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	344	אשחרר אותה, בסדר... אחרי שתמפה כל ים בעולם!	B		אני אשחרר אותה, אין בעיה... אחרי שהיא תמפה את כל הימים בעולם!	medium	emphatic "alright" → בסדר
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	354	לא משנה כמה / משפיל היה שלטונם,	A		לא משנה כמה השלטון שלהם היה משפיל,	medium	שלטונם + inversion
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	355	נשבענו לסבול בסבלנות / כל עוד נאמי ממשיכה לחייך!	E		נשבענו לשתוק ולסבול	high	«לסבול בסבלנות» redundant
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	357	עכשיו שהסיכוי היחיד של הכפר שלנו לחופש נעלם, / אין תקווה!	B		עכשיו, כשהסיכוי היחיד שלנו לחופש נעלם, אין יותר תקווה!	medium	"now that" → עכשיו ש
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	358	מעל לכל,	A		ויותר מכל,	medium	מעל לכל
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	359	אנחנו חייבים לגרום לדגה-אדמים / לשלם על ששיחקו עם לב הנערה!	A		אנחנו חייבים לגרום לאנשי-הדג לשלם על מה שעשו לילדה הזאת!	high	על ש + לב הנערה
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	360	זה נשמע טוב?!	B		מסכימים?!	high	"Sound good?!"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	363	לא אבלה עוד יום / תחת שלטונם!	F	A	אני לא אחיה עוד יום אחד תחת השלטון שלהם!	medium	לבלות = spend leisure time
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	368	אשקוד שוב!	A		אני אתחיל לחסוך מחדש!	high	אשקוד
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	372	זה כלום / בהשוואה לפעם!	C		זה כלום לעומת מה שהיה!	medium	בהשוואה לפעם
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	375	אני בסדר, ממש! יהיה בסדר!	F		אני בסדר, באמת!	medium	ממש ≠ "really (truly)"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	377	גם את חייבת לדעת שזה נגמר.	B		גם את בטח יודעת שזה נגמר.	high	epistemic "must know" → חייבת לדעת
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	378	היית כל כך אמיצה, נשאת בנטל / כל הכפר כל השנים האלו...	A		סחבת את כל הכפר על הגב כל השנים האלה...	high	נשאת בנטל
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	380	מלהידקר בלב.	A		מסכין בלב.	medium	מלהידקר
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	381	עשית נפלא.	B		היית נפלאה.	high	"You did wonderfully" → עשית נפלא
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	383	עזבי את הכפר עכשיו.	A		תעזבי את הכפר עכשיו.	medium	formal fem. imperative עזבי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	385	עשי את זה, נאמי.	A		תעשי את זה, נאמי.	medium	formal fem. imperative עשי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	387	נאמי, יקירתי...	A		נאמי, מתוקה...	medium	יקירתי
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	391	לא אשחרר אותך!	F		אני לא עוזבת אותך!	medium	"let go" → שחרר (= release)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	392	הפסיקו, כולם!	A		תפסיקו, כולם!	medium	הפסיקו
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	396	זה חסר תועלת! קיבלנו החלטה!	A	B	אין טעם! החלטנו!	high	חסר תועלת
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	397	תתרחקי מהדרך, נאמי!	C		זוזי מהדרך, נאמי!	high	תתרחקי מהדרך
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	399	גם אם לא ננצח, / ניתן להם לטעום מהתופת!	A	C	גם אם לא ננצח, נראה להם מה זה גיהנום!	high	repeat of 80
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	415	תסתלק! לך! עזוב!	F		תסתלק! לך! עוף!	medium	עזוב = let go / forget it
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	417	תתעלם! תסתלק מכאן! לך!	F		תיעלם!	high	«תתעלם» = ignore; meant תיעלם = disappear
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	418	עזוב...!	F		לך...!	medium	עזוב
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	422	ידיים מהאוצר שלי!	C		אל תיגעו באוצר שלי!	medium	"Hands off" → «ידיים מ»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	432	יש לנו עסק עם הדגה-אדמים.	C		יש לנו חשבון לסגור עם אנשי-הדג.	medium	"we have business with"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	433	כשגילינו / את האמת על האחות הגדולה נאמי,	D		את האמת על נאמי,	medium	"Big Sis Nami" (aneki)
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	434	הרגשנו שכל מה שאנחנו יכולים לעשות / הוא לנסות להפיל את ארלונג.	B		הרגשנו שהדבר היחיד שנשאר לנו זה לנסות להפיל את ארלונג.	medium	"all we could do was"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	435	אז אתגרנו אותו...	F		אז הלכנו עליו...	medium	לאתגר ≠ challenge to a fight
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	436	...אבל הפסדנו בקושי.	C		...אבל הפסדנו, ממש בקטנה.	medium	EN "lost by a hair" → «הפסדנו בקושי»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	439	אנחנו מחכים לצוות מסוים / שיגיע, תראו!	B		אנחנו מחכים שצוות מסוים יגיע!	medium	tag "you see!" → תראו!
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	441	אני מוכן לשים את חיי על זה.	C		אני מוכן להתערב על החיים שלי.	high	"bet my life on it"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	444	מהדרך!	C		זוזו!	medium	"Out of the way!" clipped to «מהדרך!»
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	447	הם אפילו לא שווים את המאמץ של ההריגה.	B		חבל אפילו להתאמץ להרוג אותם.	high	"not worth the effort of killing"
+AP05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	448	נכון מאוד!	G		בדיוק!	medium	"Very true!" from a fishman thug
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	1	קדימה! קדימה! זורו! מה אתה מחכה?! / תתקדם ותרסק אותם!	B		יאללה, זורו, תרסק אותם!	medium	"go ahead and" → תתקדם ו
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	4	קדימה, זורו! זה / הכוח היחיד שיש לך, נכון?!	B		זה הדבר היחיד שאתה טוב בו, לא?!	medium	"the only power you have"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	6	מה אתה חושב / שאתה עושה? א?!	H		מה אתה חושב שאתה עושה, אה?!	medium	«א?!» is not a Hebrew interjection
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	8	תן לנו להראות לך איך פרו עובד.	B		בוא נראה לך איך מקצוענים עובדים.	high	"Let us show you"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	11	אני יכול להכות כל אחד במראה ובסטייל, / אבל חסרה לי היכולת להילחם.	F	A	אני מנצח כל אחד במראה ובסטייל, אבל להילחם אני לא יודע.	high	להכות = hit; חסרה לי היכולת
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	13	לא הבהרנו את עצמנו?	B		לא היינו ברורים?	high	"make ourselves clear"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	14	לחסל אותך קודם יהיה / הדרך המהירה ביותר לסיים את העבודה.	B		הכי מהר לגמור את העבודה זה לחסל אותך קודם.	high	infinitive subject + יהיה
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	19	לו לא היה מעורב בהפרעות שלך, / היה יכול לחיות חיים ארוכים.	F	A	אם הוא לא היה מתערב בעניינים שלך, הוא היה חי עוד הרבה שנים.	medium	"meddling" → הפרעות; לו
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	20	לופי לעולם לא היה יכול להיהרג / בידי מישהו כמוך!	B		אין מצב שמישהו כמוך הרג את לופי!	high	passive "at the hands of"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	21	ובכן, את חיה ויכולה לבכות / הודות להקרבה של החברים שלך.	A		את חיה ויכולה לבכות רק בזכות החברים שלך שהקריבו את עצמם.	medium	ובכן + הודות ל (Crocodile: formal is OK, this is past it)
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	22	הם ראויים לתודה העמוקה ביותר שלך, / אז לפחות המתים יכולים...	B		את חייבת להם תודה ענקית, אז לפחות שהמתים...	high	"deserve your deepest gratitude"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	36	זה היה בבירור / מעשה ידיו של חרבן.	A	F	זאת ללא ספק עבודה של סייף.	high	מעשה ידיו + «חרבן» (37× in main AI)
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	40	אכן כן. אכלתי את פרי הקוביות, / אז כל חלק ממני יכול להפוך להב.	A	I	נכון. אכלתי את פרי החיתוך, אז כל חלק בגוף שלי יכול להפוך ללהב.	medium	אכן כן; missing ל; "Dice" = chop, not dice cubes
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	41	אתה הוא, נכון?	B		זה אתה, נכון?	high	"You're him" → «אתה הוא»
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	42	החרבן שלפי השמועה הפיל מאה אנשים / בווויסקי פיק?	F		הסייף שלפי השמועה הפיל מאה אנשים...	medium	«חרבן»
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	46	הא! יש סיפור / שמחזיר אותי אחורה.	C		הא! זה מחזיר אותי אחורה.	high	"there's a story that takes me back"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	47	זאת הייתה האשמה שלך / שלא קיבלת את התנאים שלי.	B		אתם אשמים, לא קיבלתם את התנאים שלי.	high	"It was your fault"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	50	איזה אדם מצחיק.	A		איזה בנאדם מצחיק.	medium	אדם in casual speech
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	52	פשוט שמתי אותו במקומו.	C		פשוט העמדתי אותו במקומו.	high	idiom is להעמיד במקומו
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	53	תרצה לנסות / להזמין אותי גם?	B		גם אתה רוצה לנסות להזמין אותי?	high	line-final גם
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	54	אבל אתם כאלו בדיחה עכשיו, / שלא הייתי מסכים אפילו להיות הבוס שלכם.	B		אבל אתם כזאת בדיחה היום, שאפילו בוס שלכם לא הייתי מסכים להיות.	high	"such a joke"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	55	אתה די / לועג לי, א?	B	H	יש לך אומץ ללעוג לי, אה?	high	"you're pretty mocking me, huh"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	58	בובות, ללא רצון משלכם,	A		בובות, בלי רצון משלכם,	medium	ללא outside a fixed phrase
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	59	שפותיתם ליצור / אוטופיה שבשם בלבד?	A		שנפלתם בפח של אוטופיה שקיימת רק על הנייר?	high	שפותיתם + שבשם בלבד
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	61	ללא שום תוכן?	A		בלי שום דבר בפנים?	medium	ללא שום תוכן
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	64	עשי כרצונך. / אני אטפל בילדה.	A	I	תעשה מה שאתה רוצה. אני אטפל בילדה.	high	עשי כרצונך + fem. form addressed to Mr. 1
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	67	גם כאן, אני עדיין שומעת / את צלילי הקרב.	A		אפילו פה אני עדיין שומעת את הקרב.	high	צלילי הקרב
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	69	אני תוהה אם ויוי / והאחרים בסדר.	B		מעניין אם ויוי והאחרים בסדר.	high	"I wonder if" → אני תוהה
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	72	כמו שאמרתי... אני רוצה / נשק חזק יותר גם!	B		גם אני רוצה נשק חזק יותר!	high	line-final גם
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	74	נכון שאני לא לוחמת, / אבל יש לי דמות יפה. ואני חמודה.	F		אבל יש לי גוף יפה. ואני חמודה.	high	"figure" → דמות (= character)
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	77	רוצה להיות לפחות חזקה מספיק / שלא לגרום לאחרים צרות.	A		...לפחות חזקה מספיק כדי לא לעשות לאחרים צרות.	medium	שלא לגרום
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	82	הם יכולים להילחם בכל אויב / רק בכוחם שלהם.	A	B	הם יכולים להתמודד עם כל אויב רק עם הכוח שלהם.	medium	בכוחם שלהם
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	83	אבל אתה ואני / בני אדם רגילים ללא כוח.	A		אבל אתה ואני סתם אנשים רגילים, בלי כוחות.	medium	ללא
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	84	ברגע שהקרב מתחיל, / אנחנו רק נלחצים בבושה.	C		ברגע שהקרב מתחיל, אנחנו רק מתקפלים ומתביישים.	high	נלחצים בבושה
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	85	נהיה רק נטל לאחרים, / ולא נוכל לגן אפילו על עצמנו.	I		...ולא נוכל להגן אפילו על עצמנו.	high	typo «לגן»
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	88	הסיבה שאתה עובד בטירוף / על המצאת נשקים	B	A	אתה ממציא נשקים כמו משוגע כי אתה רוצה להיות גאה שגם אתה נלחם כמו כולם, נכון?	high	הסיבה ש... היא כי + לא כן
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	93	כן... גם כן, אין שום דרך / שאתחזק כך פתאום.	C	F	וגם, אין מצב שאתחזק ככה פתאום.	high	גם כן ≠ "besides"; אין שום דרך ש
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	94	אני מצטערת שאני אבסורדית.	F		סליחה שאני מבקשת משהו מטורף.	high	"absurd" applied to a person
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	96	אתה מציע שיש משהו / שאוסופ הבלתי יאמן לא יכול לעשות?	B	I	את רומזת שיש משהו שאוסופ המדהים לא יכול לעשות?	high	"are you suggesting" + masc. to Nami
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	100	עכשיו, ישירות, עלות החומרים–	B		אז ככה, לגבי עלות החומרים–	high	"getting straight to it" → ישירות
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	102	הי, הי, הי... נשקים לא / נוצרים בחינם.	A		נשק לא בונים בחינם.	medium	passive נוצרים
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	103	ובכן, אני סומכת עליך!	A		טוב, אני סומכת עליך!	medium	ובכן
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	104	הי, תקשיב לי!	I		הי, תקשיבי לי!	medium	masc. to Nami
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	107	מה אני עושה... / שהרעש הזה מפחיד אותי?	B		מה נסגר איתי... רעש קטן וכבר אני מפחדת?	high	"What am I doing, getting scared"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	108	ואחרי שהתפארתי / בפני אוסופ.	A		ועוד אחרי שהשווצתי מול אוסופ.	medium	התפארתי בפני
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	111	נכון... אוסופ קיים את הבטחתו.	A		נכון... אוסופ עמד בהבטחה שלו.	high	קיים את הבטחתו
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	115	גברת דאבלפינגר! מה הנשק הזה / שנראה כמו חנית שהיא השתמשה בו?	B		מה זה היה? היא השתמשה במשהו שנראה כמו חנית?	medium	relative-clause calque
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	118	אני אדם קוצים / עם כוחות פרי הקוצים.	D		אכלתי את פרי הקוצים.	medium	"I'm a Spike Human" (toge-ningen)
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	121	אם אתקע פעם אחת, הקוצים שלה / יחדרו לי בכל מקום, ואני אהיה גמורה.	F		אם היא תדקור אותי פעם אחת...	medium	אתקע = get stuck
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	122	אוהו? הדבר המסכן / קמה להילחם בי.	C	H	מה? המסכנה קמה להילחם בי?	high	"the poor thing" + «אוהו?» + masc./fem. clash
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	124	לפעמים, הוא קורא לעננים. / פעמים אחרות, הוא מוריד גשם.	C		לפעמים הוא מביא עננים, לפעמים גשם.	medium	קורא לעננים
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	127	נגמרת! הנשק החדש שלי / —המקל האקלים!	H		את גמורה!	medium	«נגמרת!» for "You're finished!"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	128	מ-מה... בעולם...?	C		מ-מה לעזאזל...?	high	"what in the world"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	135	מתחילים בהורדת / שמירת האויב, נכון?	E	C	קודם גורמים לאויב להוריד את הגארד, נכון?	high	«בהורדת שמירת האויב»
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	137	הפעם, נגמרת!	H		הפעם את גמורה!	medium	«נגמרת!»
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	140	אין שום דרך שאנצח ככה!	C		אין מצב שאני מנצחת ככה!	high	"There's no way" → אין שום דרך ש
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	141	אני לא יודעת את מצבה... / אבל איזה ילדה מסכנה.	A		אני לא יודעת מה הסיפור שלה... אבל מסכנה.	medium	את מצבה
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	147	אני מקווה שנוכל לקבל / קצת שקט ושלווה עכשיו.	B		מקווה שעכשיו יהיה קצת שקט.	medium	"get some peace"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	149	למה לשים כל כך הרבה מאמץ / כדי להתחמק מהתקפות שלי?	C		למה להתאמץ כל כך רק כדי להתחמק ממני?	high	לשים מאמץ
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	154	אז אוכל להרוג אותך / בלגרום לך יותר מידי כאב.	I		...בלי לגרום לך יותר מידי כאב.	high	«בלגרום» is not a word
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	155	אז, את עדיין עושה / את מופע הקסמים הקטן שלך?	B		את עוד ממשיכה עם הקרקס הקטן שלך?	medium	"your little magic show"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	162	אהה... אני תוהה אם / אני הולכת למות ככה.	B		אוי... אני הולכת למות פה?	high	"I wonder if"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	164	אם אמות, אני אקלל אותו. / האף הארוך הזה...! אף ארוך!	C		אם אני מתה, אני אבוא לו בחלומות!	medium	"curse him" (= haunt)
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	165	לא יכול היה לעשות / נשק אמיתי ...	A		מה, הוא לא יכול היה להכין נשק אמיתי?!	medium	inverted literary order, no subject
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	167	ובכן, אז... אני אהרוג אותך עכשיו, בסדר?	A		טוב, אז... אני אהרוג אותך עכשיו, בסדר?	medium	ובכן, אז
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	171	ה-ה-הי, רגע! עצרי!	A		רגע! תעצרי!	medium	formal fem. imperative עצרי
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	178	נראה שכשזה מגיע / לקרבות... היא לא אמטרה לחלוטין.	B	I	נראה שבקרבות... היא לא לגמרי חובבנית.	high	"when it comes to" + «אמטרה»
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	180	משהו כאן / תפס את עיני מוקדם יותר.	C		משהו פה קפץ לי לעין קודם.	high	"caught my eye"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	181	יש לי תחושת חשד...	C		יש לי הרגשה רעה...	high	"suspicious feeling"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	188	עכשיו אז... אני תוהה / איפה את מסתתרת הפעם...	B		נו, איפה את מתחבאת הפעם, חתלתולה?	high	"Now then... I wonder"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	191	אולי לא נראה כך, אבל בשמונה שנות גניבה, / שרדתי משברי חיים ומוות...	C	A	אולי זה לא נראה ככה, אבל בשמונה שנים של גניבות שרדתי מצבים של חיים ומוות...	high	משברי חיים ומוות
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	194	באמת... אני מצטערת, אז.	B		אוי, סליחה אז.	high	"Really... I'm sorry, then."
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	195	מה גרם לך / לביטחון כזה פתאום?	C		מאיפה הביטחון הזה פתאום?	high	"What gave you such confidence"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	197	ההגדרות הקרב של המקל...	I		הגרסה של המקל לקרב...	medium	«ההגדרות הקרב» ungrammatical
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	198	קודם, הביני את המאפיינים / של שלושת הקטעים.	A		קודם כל, תביני מה כל אחד משלושת החלקים עושה.	medium	הביני (manual, but in Usopp's voice)
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	199	כל אחד מהם יכול לירות בועות אוויר / על ידי ניעור או נפיחה.	F		...כשמנערים אותו או נושפים בו.	high	נפיחה = swelling
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	202	מה זה? זה מרגיש חמים.	B		מה זה? חמים פה.	medium	"it feels warm"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	205	אה, זה מרגיש קריר.	B		אה, קריר פה.	medium	"it feels cool"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	223	הוא לא נראה / שהוא מבין את זה בעצמו...	B		נראה שגם הוא לא באמת מבין את זה...	high	"He doesn't look like he understands"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	227	להראות את הגב / לאויב שלך במהלך הקרב...	C		להפנות את הגב לאויב באמצע קרב...	medium	"show your back"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	228	לא רואה שזאת / קרב על חיים ומוות?	I		את לא רואה שזה קרב על חיים ומוות?	medium	«זאת קרב» gender
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	233	אי אפשר לנצח בכוח— / אז שורדים על ידי שימוש בשכל!	E		...אז שורדים עם הראש!	high	על ידי שימוש בשכל
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	235	אם אשתמש בזה ביעילות, / אפילו נס יכול לקרות!	A		אם אשתמש בזה נכון, אולי יקרה נס!	medium	ביעילות
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	238	תוותרי בזמן שאפשר!	B		תוותרי כל עוד את יכולה!	medium	"while you can"
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	244	אהה! המשקפי שלי!	I		המשקפיים שלי!	high	broken form «המשקפי»
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	247	נבל! זה / הדגם החדש ביותר של נורת' בלו!	H		מנוול! זה הדגם הכי חדש מנורת' בלו!	medium	«נבל!» vocative
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	252	זה חייב להיות תגבורות / לצבא המורדים.	B		זאת בטח תגבורת של צבא המורדים.	high	epistemic "must be" → חייב להיות
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	254	נראה כך. כנראה ויוי / לא הצליחה לעצור את צבא המורדים.	A		כנראה שכן. ויוי בטח לא הצליחה לעצור את צבא המורדים.	medium	נראה כך
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	267	אני מצטערת, ויוי...	I		אני מצטער, ויוי...	high	fem. form for a male speaker
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	268	כשלתי בניצול המודיעין / שסיכנת את חייך כדי להשיג.	A		לא הצלחתי לנצל את המידע שסיכנת את חייך כדי להשיג.	medium	כשלתי בניצול
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	271	כשממלכה נגוזת, זה טבעי / שהמשפחה המלוכנית שלה תלך בעקבותיה.	A	F	כשממלכה נופלת, טבעי שגם משפחת המלוכה שלה תיפול איתה.	high	נגוזת; מלוכנית = monarchist
+AL13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	274	למעשה, זוהי בדיוק / המטרה הקריטית ביותר שלי...	A	B	למעשה, זאת בדיוק המטרה העיקרית שלי...	high	זוהי + "my most critical objective"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	12	התנשאתי יותר מידי!	F		עפתי על עצמי יותר מידי!	high	התנשאתי = was condescending (meant "got cocky")
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	19	בטח הכית את גדאטסו.	F		בטח ניצחת את גדאטסו.	high	הכית = hit (meant "beat")
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	31	זה אפילו מפחיד יותר! מי אתה?!	B		זה עוד יותר מפחיד!	high	"even scarier" → אפילו
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	33	שמי הוא אוהם.	B		קוראים לי אוהם.	medium	שמי הוא (gold uses it too)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	49	אולם, יש / דרך אחת לישועה!	A	G	אבל יש דרך אחת לגאולה!	medium	אולם (preacher, still bookish)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	51	למה הוא אומר דברים כאלו מפחידים?!	B		למה הוא אומר דברים כל כך מפחידים?!	high	"such scary things" → כאלו מפחידים
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	57	תן לי להציל אותך.	B		הרשה לי להושיע אותך.	medium	"Let me" (Ohm)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	69	עצרי את וויפר...	A		תעצרי את וויפר...	medium	formal fem. imperative עצרי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	70	בסדר! הבנתי, אז חסוך בנשימה!	C		בסדר! הבנתי, אל תתאמץ לדבר!	high	"save your breath"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	76	המתיני כאן.	A	I	חכה כאן.	high	המתיני: bookish + fem. form to Kamakiri
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	77	אני משאיר איתך את התיק של אייסה!	I		אני משאירה איתך את התיק של אייסה!	high	masc. form for Raki
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	80	קמאקירי כל כך חזק... / ובכל זאת רוחו נשברה!	A		...ובכל זאת הוא נשבר!	medium	רוחו נשברה
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	82	לחשוב שאנל אכל פרי שטן מסוג לוג'יה, / הסוג החזק ביותר מכולם...!	B		אז אנל אכל פרי שטן מסוג לוגיה, הסוג הכי חזק שיש...!	medium	"To think that"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	83	אני חייבת לעצור את וויפר במהרה!	A		אני חייבת לעצור את וויפר, מהר!	high	במהרה
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	95	תרפה! הי!	A		עזוב! הי!	medium	תרפה
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	101	אולי זו דלת חריגה?	F		אולי זאת דלת מוזרה?	high	חריגה = exceptional/irregular
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	106	אפילו לא נע...	A		אפילו לא זז...	medium	נע
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	111	אני רק צריך לברוח ולהתחבר מחדש / עם לופי והאחרים!	C		...ולמצוא את לופי והאחרים!	high	"regroup" → להתחבר מחדש
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	112	הוא נראה כחרבן,	A	F	הוא נראה כמו סייף,	high	«כחרבן»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	113	אז אם אישאר מוסתר ואשמור / מרחק, אוכל להימלט!	A		...אני אצליח לברוח!	medium	להימלט
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	114	הוא רץ רחק למדי.	I	A	הוא ברח די רחוק.	high	typo «רחק» + למדי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	117	אולם...!	A	G	אבל...!	medium	«אולם...!» as an exclamation
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	118	אין דרכי הישרדות / בנתיב העצוב להשגת שלום...	B	A	אין דרך לשרוד בדרך העצובה אל השלום...	medium	EN itself stilted
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	119	זוהי ניסיית הברזל, / עם אחוז הישרדות של 0%!	I		זה מבחן הברזל, עם סיכוי הישרדות של 0%!	medium	«ניסיית» is not a word
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	122	עצרי!	A		חכי!	medium	formal fem. imperative עצרי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	123	עצרי! אל תעשי את זה!	A		רגע! אל תעשי את זה!	medium	עצרי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	124	איזו כאב ראש...!	I		איזה כאב ראש...!	medium	«איזו» + masc. noun
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	125	אמרתי עצרי!	A		אמרתי לך לעצור!	medium	עצרי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	126	מה הבעיה שלך?! / תרפה! תרפה ממני! תרפה!	A	I	תעזבי! תעזבי אותי!	high	«תרפה» (masc., bookish) from a girl to Nami
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	128	אולי לא, אבל אני לא יכולה / לתת לילדה לרוץ למות!	B		...לתת לילדה ללכת למות!	medium	"run off to die"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	134	בואי, תפסיקי להיאבק! יאללה!	F		תפסיקי להשתולל!	medium	להיאבק = to struggle/fight
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	135	לא! תרפי! אני הולכת / להציל את כולם! תרפי ממני!	A		לא! תעזבי! אני הולכת להציל את כולם! תעזבי אותי!	high	תרפי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	136	תפסיקי או שאגייס אגרוף!	C	F	תפסיקי או שאת חוטפת אגרוף!	high	«אגייס» = mobilize/recruit
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	138	אפילו שניים מ / הצוות שלנו הובסו!	A		אפילו שניים מהצוות שלנו נפלו!	medium	הובסו
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	140	עכשיו, מהרי ועלי.	A		יאללה, תעלי מהר.	high	מהרי ועלי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	141	בשום פנים!	A		בחיים לא!	high	בשום פנים
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	146	דבר מטופש!	H		דלת מטומטמת!	medium	"Stupid thing!" → דבר מטופש
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	167	הי! תניחי אותי!	F	A	תורידי אותי!	high	תניחי = lay down
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	173	מהרי! הי!	A		מהר! הי!	medium	מהרי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	174	הוא עדיין רודף אחרינו! / הנחש הזה עצבני!	F		הנחש הזה לא מוותר!	medium	עצבני = irritable
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	187	לא, אבל עדיין לא סיימתי / לקחת אחריות.	B		לא, אבל עדיין יש לי אחריות.	medium	"not done taking responsibility"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	188	זה עתה הגעתי / ממקדש האלוהים למעלה.	A	G	הרגע חזרתי ממקדש האלוהים למעלה.	medium	זה עתה (old knight; plausible but bookish)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	189	היה עצוב. המקדש / נהרס לחלוטין...	B		מראה עצוב. המקדש נהרס לגמרי...	medium	"It was sad."
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	190	כמובן, אנל לא היה / שם בשום מקום.	B		וכמובן שאנל לא היה שם.	high	"nowhere to be found"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	191	אולי זה אומר שכבר / אין לו שימוש עבורו...	B		אולי זה אומר שהוא כבר לא צריך אותו...	high	"has no use for it"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	192	נראה שש שנות השירות הנאמן שלהם / מגיעות לסיומן.	A		נראה ששש שנות השירות הנאמן שלהם נגמרות.	medium	construct chain + מגיעות לסיומן
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	202	נראה שנתקלנו בכמה / עזי נפש כאן...	A		נראה שנתקלנו פה בכמה אמיצים...	medium	עזי נפש
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	204	אוי לי. איזה עצוב.	A	H	אוי ואבוי. כמה עצוב.	medium	אוי לי + איזה עצוב
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	205	אף אחד לא יכול לברוח / מניסיית הברזל שלי.	I		אף אחד לא יכול לברוח ממבחן הברזל שלי.	medium	«ניסיית»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	206	אם תתערבו בדרכי, / אמחק אתכם כולכם!	C		אם תעמדו בדרכי, אמחק את כולכם!	high	תתערבו בדרכי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	207	תגיד לי איפה אנל / ומארח הקודש נמצאים!	F		...ואת צבא הקודש!	medium	"Holy Host" → מארח (= party host)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	209	ובכן, אני בטוח שלכם הגבירים / יש כל מיני דברים להגיד,	A	F	טוב, בטח יש לכם, רבותיי, הרבה מה להגיד,	high	ובכן + גבירים (= magnates)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	219	המערה הזאת מקולקלת!	F		המערה הזאת דפוקה!	medium	מקולקלת
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	224	בשמיים אין מקום / לחיצוניים כמוכם!	F		בשמיים אין מקום לזרים כמוכם!	high	חיצוניים is an adjective
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	225	אני לא עומד לבזבז זמן / על ניסיון להבין את הבעיות שלכם.	E		אין לי זמן לנסות להבין את הבעיות שלכם.	medium	על ניסיון להבין
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	226	כל עסק השמיים הזה / לא קשור אלינו בכלל!	C		כל הסיפור הזה של השמיים לא קשור אלינו בכלל!	medium	עסק השמיים
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	229	מות!	A		תמות!	high	archaic imperative «מות!»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	239	החיות שלי מקבלות אימון / הרחק מעבר לשיטות רגילות.	E		אני מאמן את החיות שלי הרבה מעבר לשיטות הרגילות.	medium	nominal
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	240	אימנתי אותו ללכת על שתי רגליים / ואפילו בלחימה פנים-אל-פנים.	B		אימנתי אותו ללכת על שתיים ואפילו להילחם פנים אל פנים.	high	broken coordination
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	242	זה לא קצת רחוק מדי?	C		זה לא קצת מוגזם?	high	"going too far" → רחוק מדי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	250	גם אם ידעת, מישהו / כמוך לא יוכל...	B		גם אם היית יודע, מישהו כמוך לא היה מבין...	medium	tense («גם אם ידעת»)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	254	מה לעזאזל? מה היה זה?!	B		מה זה היה?!	high	«מה היה זה» word order
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	257	הם נזירים לוחמים! / אם ייתפסו אותנו, ייהרגו אותנו!	I		אם יתפסו אותנו, יהרגו אותנו!	high	«ייתפסו/ייהרגו» are passive (we'll be caught/killed)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	258	מה פירוש "נזירים לוחמים"?!	A		מה זאת אומרת "נזירים לוחמים"?!	high	מה פירוש
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	260	מהרו ותצאו מכאן!	A		צאו מפה, מהר!	medium	מהרו ותצאו
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	261	ר-רגע רק!	B		ר-רק רגע!	high	«רגע רק»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	263	הנחש הארור הזה! / כל הזמן מפריע לי!	H		הנחש המחורבן הזה!	medium	הארור
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	269	מה היה זה?!	B		מה זה היה?!	high	«מה היה זה»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	270	תיל עם קוצים?!	F		תיל דוקרני?!	high	«תיל עם קוצים»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	282	אם תדרוך על אחד, הוא יפרוק.	F		אם תדרוך על אחד, הוא יופעל.	medium	«יפרוק» ("discharge")
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	283	בשדה קרב זה, אי אפשר לדעת / מתי ואיפה הם יפגעו.	A		בשדה הקרב הזה...	medium	«בשדה קרב זה»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	284	התרומה שלי להביס / את החיה הייתה מינימלית...	E	B	כמעט לא הייתי צריך לעשות כלום כדי להביס את החיה...	high	"my contribution to defeating"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	285	כיוון שהוא נפל קורבן / לניסיון מעצמו.	B		...כי הוא נפל בניסיון בעצמו.	medium	word order
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	286	אני מניח שתחפש / נקמה עכשיו?	C		אני מניח שעכשיו תרצה לנקום?	high	"seek revenge"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	288	ללחום למען נקמה / זה לא ממש הסגנון שלי.	I	A	להילחם בשביל נקמה זה לא ממש הסגנון שלי.	high	«ללחום» + למען
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	289	אוה?	H		אה?	medium	«אוה?»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	292	אוכל לעשות יוצא מן הכלל.	C		אבל בשבילך אני מוכן לעשות חריג.	high	"make an exception" → לעשות יוצא מן הכלל
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	293	סליחה. האם זה / המקום הנכון, קוניס?	A		סליחה, זה המקום הנכון, קוניס?	medium	האם (polite old man)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	300	האם נשמיע קרנות / כדי להבריח את האויב?	A		אולי נתקע בקרנות כדי להבריח את האויב?	high	האם
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	304	האם תעמוד שם על המשמר, / סו?	A		תעמוד שם על המשמר, סו?	high	האם
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	305	בסדר! אעשה כמיטב יכולתי / לדאוג לכם!	A		אני אעשה כל מה שאני יכולה כדי לשמור עליכם!	medium	כמיטב יכולתי
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	307	בבקשה, כולם... היו בטוחים...	C		בבקשה, כולם... תשמרו על עצמכם...	high	"be safe" → היו בטוחים
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	316	אל תאתגר את אנל, וויפר!	F		אל תתעמת עם אנל, וויפר!	medium	לאתגר
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	325	מה אתה?!	B		מה, אתה...?!	medium	"What are you—"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	326	הולך לומר שאינך / האויב שלי?!	A	B	...עכשיו תגיד לי שאתה לא האויב שלי?!	high	שאינך
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	328	אז אתה מסרב להקשיב, כך?!	B	H	אז אתה לא מוכן להקשיב, אה?!	high	tag «כך?!»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	333	זו הסיבה שאנשי הים הכחול / מוציאים אותי מדעתי.	B		בגלל זה אנשי הים הכחול מוציאים אותי מהדעת.	medium	"This is why"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	334	החרב הזאת גם / עשויה מענן ברזל.	B		גם החרב הזאת עשויה מענן ברזל.	high	גם placement
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	336	ענן ברזל מתווסף ללהב / על ידי פח בנד מובנה בידית,	I	E	מנגנון בידית מוסיף ענן ברזל ללהב,	medium	garbled («פח בנד»)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	337	כך שלא יתן לאף אחד לברוח!	B		כך שאף אחד לא יכול לברוח!	medium	missing subject
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	342	ניהלו קרב כל אחד בנפרד.	B		כל אחד נלחם בקרב משלו.	medium	garbled
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	345	נסייע לך, מאסטר אוהם!	A		אנחנו נעזור לך, אדון אוהם!	medium	נסייע
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	350	הבנתי! פשוט אחפור את דרכי החוצה!	C		פשוט אחפור מנהרה החוצה!	high	"dig my way out"
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	357	גברת צעירה!	D		ילדה!	medium	"Young lady!" (ojou-san)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	364	אייסה! הרחיקי מהאישה ההיא!	I	A	אייסה! תתרחקי מהאישה הזאת!	high	«הרחיקי» = remove (transitive)
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	365	בקושי!	C		היה קרוב!	high	EN "That was close!" → «בקושי!»
+SK13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	374	אתם טיפשים לא מסוגלים / אפילו להגן על עצמכם.	B		טיפשים, אתם לא מסוגלים אפילו להגן על עצמכם.	medium	"You fools can't"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	8	אתה לא מסוגל לעקוב אחרינו כשאנחנו מובילים? /  אתה פלא של טבע!	C		אתה לא מסוגל פשוט ללכת אחרינו?! אתה תופעה!	medium	"freak of nature"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	10	כל הכבוד! עכשיו הוצא גם את שלי!	A		כל הכבוד! עכשיו תוציא גם אותי!	medium	הוצא
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	13	היינו במחתרת חמש שנים.	F		היינו סוכנים סמויים חמש שנים.	high	מחתרת = underground resistance (EN "undercover")
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	14	אל תדאגו. / לקחנו את תפקידי הכיסוי שלנו ברצינות.	B		אל תדאג. שיחקנו את התפקיד עד הסוף.	medium	"took our cover roles seriously"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	15	אני מבין את ייאושך.	A	G	אני מבין את הייאוש שלך.	medium	ייאושך (Lucci is formal, this is past it)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	16	אבל מכיוון שאין לנו זמן / להמשיך לעסוק בעניין הזה,	A	E	אבל אין לנו יותר זמן להתעסק בזה,	medium	מכיוון ש + לעסוק בעניין
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	18	כל התנגדות תהיה חסרת תועלת; / אל תחשוב על זה אפילו.	B		אין טעם להתנגד. אפילו אל תחשוב על זה.	high	"resistance will be futile"; semicolon in a subtitle
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	20	אנשים מכירים אותם כ-CP1 עד CP8.	B		הם ידועים בשמות CP1 עד CP8.	medium	"known as"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	26	אבל אנחנו CP9, ציפר פול התשיעי, / יחידה שלכאורה אינה קיימת.	A		יחידה שרשמית בכלל לא קיימת.	medium	אינה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	30	בשם הצדק עד הסוף,	C		בשם הצדק המוחלט,	high	«עד הסוף» for "absolute"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	33	איזה שירות עצמי! רצח / בשם הצדק הוא עדיין רצח!	C		כמה נוח לכם! רצח בשם הצדק הוא עדיין רצח!	high	"self-serving" → שירות עצמי
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	34	הממשלה העולמית / שקלה מחדש את הנושא בחלקו.	E	A	הממשלה העולמית שינתה חלקית את עמדתה.	medium	שקלה מחדש את הנושא בחלקו
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	35	במקום לחשוש מהחזרת הנשק לפעולה,	E		במקום לפחד להחזיר את הנשק לפעולה,	medium	nominalization
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	38	כרגע ממש, פיראטים מנצלים אנשים / ברחבי העולם,	B		ממש עכשיו, פיראטים מנצלים אנשים בכל העולם,	medium	«כרגע ממש»
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	40	שטויות... החזר את הנשק, / והעולם רק יתקוטט על כוחו.	B		שטויות... תחזירו את הנשק, והעולם רק יריב על הכוח שלו.	medium	bare formal imperative as a condition
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	42	אני חש שאתה לא סומך על / הממשלה, מר אייסברג.	A		נראה לי שאתה לא סומך על הממשלה, אדון אייסברג.	high	אני חש
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	43	אני פשוט מכיר את הטבע האנושי, בחור.	C		...ילד.	medium	"boy" → בחור
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	44	שמור על הלשון שלך. / אני לא עובד בשבילך יותר.	C	B	תיזהר איך אתה מדבר. אני כבר לא עובד אצלך.	high	"Watch your tongue"; work for = לעבוד אצל
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	47	מר אייסברג, לאמיתו של דבר, / גיבשנו השערה לא מזמן.	A		אדון אייסברג, האמת היא שלא מזמן העלינו השערה.	high	לאמיתו של דבר + גיבשנו
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	48	כל שעליך לעשות זה להקשיב / בשקט בזמן שאני מסביר לך.	A		כל מה שאתה צריך לעשות זה להקשיב בשקט.	high	כל שעליך
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	50	אם כך, תן לי לפרט / כיצד הגענו להשערה שלנו.	A	B	אז בוא אסביר לך איך הגענו להשערה.	high	אם כך + תן לי + כיצד
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	51	ראשית, יש לנו ספקות לגבי התרגיל שלך / של מסירת המזויף.	A	E	קודם כל, אנחנו מפקפקים בתרגיל שעשית עם התוכניות המזויפות.	high	ראשית + nominal
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	52	ניחשת שפקידי ממשלה / מגיעים אחרי התוכניות,	B		ניחשת שאנשי ממשלה באים לקחת את התוכניות,	medium	"coming after"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	53	אז נתת רמז היכן נמצא המזויף.	A		אז רמזת איפה המזויפות.	high	היכן
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	56	התוכניות האמיתיות היו נשארות ללא יורש, / ולא היו עוברות לתלמיד.	A		התוכניות האמיתיות היו נשארות בלי יורש,	medium	ללא
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	57	אתה לא מספיק טיפש / להתעלם מהאפשרות הזו.	B		אתה לא כזה טיפש שתתעלם מאפשרות כזאת.	high	"not stupid enough to"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	59	לא עשית כל מאמץ להעביר / את התוכניות האמיתיות לאף אחד הלילה.	B		...לא ניסית להעביר את התוכניות האמיתיות לאף אחד הלילה.	medium	"made no effort"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	63	די עם זה. אל תתנהג.	F		די כבר. בלי שטויות.	high	EN "No misbehaving" → «אל תתנהג»
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	67	לא מצאו הוכחה במעשיך גם כן.	B	E	...גם אנחנו לא מצאנו נגדך שום הוכחה.	high	line-final גם כן + nominal subject
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	68	בנוסף, מי שקיבל את התוכניות / צריך להיות בנאי ספינות מיומן.	B		...הוא בטח בונה ספינות מיומן.	medium	epistemic "must" → צריך להיות
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	69	עם זה, אספר לך / את שאר ההשערה שלנו.	B		ועכשיו, אספר לך את ההמשך.	high	"With that" → עם זה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	75	אולי חשבת שהצלחת להערים על אויבך / עם המזויפים האלו.	A		אולי חשבת שעבדת על האויב שלך עם הזיופים האלה.	medium	להערים על אויבך
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	78	לגנב בחשכת הלילה / שבא אחרי התוכניות,	A		לגנב שבא בלילה לקחת את התוכניות,	medium	בחשכת הלילה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	84	הייתה חברת בנייה / עטופה במסתורין.	A		...הייתה חברה מסתורית.	medium	עטופה במסתורין
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	86	רק העובדה שהיית תלמידו של טום / הייתה קשה מאוד לחפור.	F	C	אפילו זה שהיית התלמיד של טום היה קשה מאוד לגלות.	high	"Even" → רק; "dig up" → לחפור
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	89	שמעתם? שוליית טום הסוערת, / קטי פלאם, מתה.	F	I	שמעתם? השוליה החמום של טום, קאטי פלאם, מת.	high	הסוערת (fem.) for a man
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	92	זה היה לפני כארבע שנים, / זמן קצר אחרי שנכנסנו למחתרת.	F		...זמן קצר אחרי שהשתלנו את עצמנו פה.	medium	נכנסנו למחתרת
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	94	הוא השתמש בשם הזה פעם אחת בלבד.	A		הוא השתמש בשם הזה רק פעם אחת.	medium	בלבד
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	98	לא. סלק אותו.	I	A	לא. תגידי לו ללכת.	medium	«סלק» masc. to Kalifa; formal
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	102	אחרי שינוי שמו לפרנקי!	A	E	...אחרי שהוא שינה את השם שלו לפרנקי!	high	אחרי שינוי שמו
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	104	האם אלה לא התוכניות שראינו / לאותו נשק עתיק?!	A	G	רגע, אלה לא התוכניות של הנשק העתיק ההוא?!	high	האם from Franky
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	114	אכן... מכיוון שכל השערתנו התבססה על עובדות ידועות,	A		נכון... כל ההשערה שלנו התבססה על עובדות ידועות,	medium	אכן + השערתנו
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	115	שימוש ב"אדם מת" / ניצל בדיוק את הנקודה העיוורת שלנו.	E		ו"אדם מת" נפל בדיוק בנקודה העיוורת שלנו.	medium	nominal subject
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	117	אז הייתה לך הזדמנות טובה / לארגן מסירת התוכניות אליו.	E		...להעביר לו את התוכניות.	medium	לארגן מסירת
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	119	אם התוכניות אינן אצלך,	A		אם התוכניות לא אצלך,	medium	אינן
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	122	מסתבר שלא נתת אותן / לאף אחד מראשי המחלקות של גלי-לה.	F	I	הגיוני שלא נתת אותן לאף אחד מראשי המחלקות.	high	מסתבר = it turns out; «שותף שוליית» garbled (121)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	124	יתרה מזאת...	A		וחוץ מזה...	high	יתרה מזאת
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	128	האם זה באמת הדרך הנכונה?	A		זאת באמת הדרך?	high	האם
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	130	הם פצועים ממש.	B		הם ממש פצועים.	medium	word order
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	134	נכון! לך קדימה, / שבור את הדלת ופרוץ פנימה!	B	A	יאללה, תשבור את הדלת ותתפרץ פנימה!	high	"go ahead" + שבור
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	136	מה לעזאזל?! אל תפקד עלי!	A		אל תגיד לי מה לעשות!	medium	אל תפקד עלי
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	141	הייתה לילה עמוס.	I		היה לילה עמוס.	medium	gender («הייתה לילה»)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	142	אתה בן אדם, הרי. טבעי / שלא יכולת להסתיר את הבהלה שלך.	B		אתה בסך הכל בן אדם. טבעי שלא הצלחת להסתיר את הלחץ.	medium	"after all" tacked on (הרי)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	143	אנחנו מעריכים מה עשית בשבילנו, / אבל נגמרנו.	F		...אבל פה זה נגמר.	medium	EN "we're through" → נגמרנו (= we're dead)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	145	בני כלבה...!	H		בני זונות...!	medium	«בני כלבה» (gold has כלבה only for women)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	150	מטרדות...	A		נודניקים...	medium	מטרדות
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	155	הנה הנה...	H		תראו תראו...	high	"Well, well" → הנה הנה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	167	הפסיקו לצחוק עלי, בני כלבה!	A	G	תפסיקו לצחוק עליי, בני זונות!	high	הפסיקו from Paulie
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	171	אז... הרצח / היה עבודה פנימית?!	C		אז... מישהו מבפנים עשה את זה?!	high	"inside job"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	172	מה? מה הכוונה?!	A		מה? מה זאת אומרת?!	medium	מה הכוונה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	174	טוב, תסלח לנו אם נתנצל, נכון?	B		טוב, אז סליחה, בסדר?	medium	EN itself odd
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	177	הפסק לשחק! מספיק...!	A	G	די לשחק! מספיק...!	high	הפסק from Paulie
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	178	הרי יש לך בדיוק את הקול / של האיש עם מסכת השור מקודם!	A		יש לך בדיוק את הקול של הבחור עם מסכת השור!	medium	הרי
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	179	ארור, בן כלבה! אתה יכול לדבר בסדר גמור!	H		לעזאזל, בן זונה! אתה יכול לדבר רגיל!	high	«ארור» as expletive
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	181	אל, פאולי!	B		פאולי, לא!	high	«אל, פאולי!»
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	184	עוד לא למדת את הלקח שלך, פאולי?	B		עוד לא למדת את הלקח, פאולי?	medium	possessive "your lesson"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	185	הי, בחור החבל!	C		הי, אתה עם החבלים!	medium	בחור החבל
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	188	להתנגד זה חסר טעם.	B		אין טעם להתנגד.	medium	infinitive subject + חסר טעם
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	191	שליטה בהן / נותנת לאחד את הכוח של מאה אנשים.	B		מי ששולט בהן חזק כמו מאה אנשים.	high	"gives one"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	193	שוטה, הייתי בר מזל היום! / לכן אני מכבד אתכם!	A	F	טמבל, היה לי מזל היום! אז הסיבוב עליי!	high	שוטה + לכן + מכבד (= honor) for "treat"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	194	בלואנו! עוד שתייה!	C		בלואנו! עוד סיבוב!	medium	עוד שתייה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	197	עצור, פאולי. פשוט הסב את המבט. בסדר?	A		די, פאולי. פשוט אל תסתכל. בסדר?	medium	הסב את המבט
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	207	מה? לא עשה כלום!	B		זה לא עשה כלום!	medium	missing subject
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	217	האם לא בניתם ספינות ביחד?!	A	G	לא בניתם ספינות ביחד?!	high	האם from Luffy
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	218	עד הלילה הזה, כן. / אבל זה כבר לא המצב.	B		עד הלילה, כן. אבל זה נגמר.	medium	"that's no longer the case"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	220	טוב, אז!	H		אז קדימה!	medium	"Well then!"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	224	כי יש לי גם עניין איתכם!	B		כי גם לי יש איתכם חשבון!	medium	"I've got business with you too"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	228	אתם לא מקשיבים טוב, נכון?	B		אתם באמת לא מקשיבים, אה?	medium	"You don't listen well"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	231	סיפרתי! אבל אני לא יכול לקבל את זה, / גם! למה, רובין?!	B		...אבל גם אני לא יכול לקבל את זה!	high	«גם!» dangling after the line break
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	234	כדי להשיגה, אני מוכנה לכל קורבן!	A		כדי להשיג אותה, אני מוכנה להקריב הכל!	medium	להשיגה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	235	אז... להאשים את חבריך ברצח / לא נתת לזה מחשבה שנייה?	C	A	אז... להפליל את החברים שלך ברצח, זה לא הפריע לך בכלל?	high	"didn't give it a second thought"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	236	מהי המשאלה שלך?!	A		מה המשאלה שלך?!	high	מהי
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	237	אין לי צורך לספר לך.	B		אני לא חייבת לספר לך.	medium	"I have no need to"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	242	אין לך יותר זכות / לטפוח לי מוסר בשום דבר!	C		אין לך שום זכות להטיף לי מוסר!	high	mangled idiom «לטפוח לי מוסר»
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	245	לא אאפשר לאף אחד לעמוד בדרכי!	A		אני לא אתן לאף אחד לעמוד בדרכי!	medium	לא אאפשר
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	256	סליחה על הפתאומיות, אבל הבניין הזה / יעלה בלהבות בעוד שתי דקות.	B		סליחה שזה בהפתעה, אבל...	medium	הפתאומיות
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	265	כמו כן, אני חושב שברור לאיזה צד / בחרה ניקו רובין.	A	G	וגם, נראה לי ברור באיזה צד ניקו רובין בחרה.	high	כמו כן from Zoro
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	266	לופי, אתה מקבל / שרובין עזבה את האונייה?	B		לופי, אתה משלים עם זה שרובין עזבה?	medium	"accept that"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	269	בקרוב, כמה חדרים בקומה הראשונה / יתפוצצו באש.	C		...יעלו באש.	medium	יתפוצצו באש
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	270	ובכן, בטח זה נגרם על ידי פיראטים.	B	A	וכמובן שיאשימו בזה פיראטים.	high	ובכן + נגרם על ידי
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	274	זה פשוט חסר טעם!	F		זה פשוט שפל!	medium	EN "bad taste" → חסר טעם (= pointless)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	275	אתם כבר פושעים. אין נזק.	C		אתם ממילא פושעים. מה זה כבר משנה.	high	"No harm done" → אין נזק
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	276	ובכן, אז...	A		טוב, אז...	medium	ובכן, אז
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	277	אני אלך קדימה.	C		אני ממשיכה.	high	"I'll go on ahead" → אלך קדימה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	286	תתפנה מהדרך, בן כלבה!	C	H	זוז מהדרך, בן זונה!	high	תתפנה מהדרך
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	290	אנחנו יכולים להעלות את הקושי שלו לרמה של ברזל.	F		...להעלות את הקשיות שלו לרמה של ברזל.	high	קושי = difficulty
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	292	אמרתי תתפנה!	C		אמרתי זוז!	high	תתפנה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	303	כשרגליים כה חזקות / עד שנדמה שנעלמים...	A		כשהרגליים כל כך חזקות שנדמה שאתה נעלם...	medium	כה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	304	בן כלבה!	H		בן זונה!	medium	בן כלבה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	311	אתם שניים...!	B		שניכם...!	high	«אתם שניים» (house rule: שניכם)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	312	כופף!	F		תתכופף!	high	«כופף» = bend something (transitive)
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	316	אפשרי על ידי בעיטה מהירה מספיק / כדי ליצור רוח חדה.	E		אם בועטים מספיק מהר, נוצרת רוח חדה כמו להב.	high	"possible by kicking"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	320	אז כשהעריך את האונייה שלנו, / זה היה...?	I		אז כשהערכת את האונייה שלנו, זה היה...?	medium	3rd person used for "you"
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	322	זה באמת מצער!	A		חבל מאוד!	medium	«זה באמת מצער» from Zoro
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	325	עוד צריך לדבר איתך!	B		אני עוד צריך לדבר איתך!	medium	missing subject
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	326	לא. נגמרנו. / לא תראה אותי שוב.	F		לא. זה נגמר. לא תראה אותי שוב.	medium	נגמרנו
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	329	רורונואה, אתה בטח בטוח מספיק / בעצמך להסיח את הדעת ממני.	B		רורונואה, אתה כנראה מאוד בטוח בעצמך אם אתה מוריד ממני את העיניים.	high	garbled calque
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	333	אתה... מניוול...! עזוב אותי!	I		...מנוול...!	medium	typo «מניוול»
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	343	כל עוד אנחנו, / חברי CP9, זוכרים את עצמנו,	F		מאז שאנחנו זוכרים את עצמנו,	high	"For as long as we can remember" → כל עוד
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	345	ואימנו כדי לעבור / את גבולות היכולות האנושיות.	I		והתאמנו כדי לעבור...	medium	«ואימנו» wrong binyan
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	346	כתוצאה, שלטנו בטכניקות העל-אנושיות / של שש הכוחות.	A		וככה שלטנו...	medium	כתוצאה
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	347	עכשיו, אני בטוח שאתם מבינים לחלוטין	E		עכשיו אתם בטח מבינים שאנחנו בליגה אחרת לגמרי...	medium	three-cue sentence
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	353	המצתות עומדות להידלק. / אנחנו חייבים למהר גם כן.	F	B	הפתילים עומדים להידלק. גם אנחנו צריכים למהר.	high	מצתות = lighters; line-final גם כן
+W710	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	356	אראה לכם משהו מגניב / לפני שנצא.	G		אראה לכם משהו מעניין לפני שנלך.	medium	«מגניב» from Lucci
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	12	מפלצות אינסופיות מתכנסות כאן...	C		כמה מפלצות במקום אחד...	medium	"endless monsters"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	13	היה מרגיע שהם בצד שלנו,	B		תמיד היה מרגיע שהם בצד שלנו,	medium	tense
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	16	אם יש לך זמן לדאוג, / לך לבדוק למטה!	D		במקום לדאוג, לך תבדוק למטה!	high	"If you have time to worry, then..." (Japanese stock frame)
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	23	אוה, תמיד נחמד לראות אותה מחייכת בהירה.	C	H	אה, תמיד כיף לראות אותה עם חיוך כזה זוהר.	high	«מחייכת בהירה» + «אוה»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	26	אף אחד לא יודע מי היא, אם כי...	A		אבל אף אחד לא יודע מי היא...	high	אם כי
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	33	הטבחים סיימו להכין לארוחת התה, / אז הם נהנים מסעודה.	B		הטבחים סיימו לבשל למסיבה, אז עכשיו הם אוכלים בעצמם.	medium	missing object; "enjoying a feast"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	35	טוב. עם זה נגמר, אף אחד לא יוכל / לעלות לכאן זמן מה.	B		טוב. ככה אף אחד לא יוכל לעלות לפה בזמן הקרוב.	high	"With that done" → עם זה נגמר
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	40	אוה, ארגז אוצרות!	C	H	או, תיבת אוצר!	medium	«אוה» + ארגז אוצרות
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	46	ובכן, שלי מקצות הצפון הרחוקים ביותר.	A		ושלי מקצה הצפון!	medium	ובכן
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	47	אני כל כך אסירת תודה! /  תמיד כיף לקבל כל כך הרבה מתנות!	A		תודה רבה לכם!	high	אסירת תודה (known fix pattern)
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	51	אוה?	H		או?	medium	«אוה?»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	54	יש בידי כעת ארגז שהיה עתיקה / של מלוכה תת-ימית לדורות!	A	F	יש לי עכשיו תיבה שעברה בירושה במשפחת המלוכה של מתחת לים!	high	יש בידי כעת + עתיקה (= antique)
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	55	נפטון ממש נתן לו להחליק מידיו.	C		נפטון פשוט נתן לה לחמוק מבין האצבעות.	medium	"let it slip from his hands"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	58	אוה! תראו כמה היא מפוארת!	H		וואו! תראו איזו מפוארת!	medium	«אוה!»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	64	אוה, סיימתם?	H		או, סיימתם?	medium	«אוה»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	72	תהנו בזמן שאפשר, פחי אדם!	F		תיהנו כל עוד אתם יכולים, חלאות!	high	EN "scumbags" → «פחי אדם»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	74	גם אתה פח אדם.	F		גם אתה חלאה.	high	«פח אדם»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	78	תביא את המראה ותעוף לתוך האולם. / פשוט תעשה את תפקידך.	B		פשוט תעשה את העבודה שלך.	medium	תעשה את תפקידך
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	82	זה רע! / בייג' וחבורה שלו מתכננים משהו!	B		זה לא טוב! בג' והחבורה שלו מתכננים משהו!	medium	«זה רע!» (house rule; older gold uses it) + missing article
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	83	גרדתי את זה.	I		(context needed)	medium	EN "I carved it off" → «גרדתי את זה» meaningless
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	84	דליפת מידע תגרור משברים בלתי צפויים.	A		אם המידע ידלוף, זה יכול להיגמר רע.	high	bureaucratic
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	110	שמור על קור רוח, שמור על קור רוח.	A		תירגע, תירגע.	medium	שמור על קור רוח
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	111	לא איפטל שוב.	I		לא אפול בזה שוב.	high	«איפטל» is not a word
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	112	האם זה...	A		זה... חלום טוב או חלום רע?	high	האם
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	116	באמת?! זה מרגיע!	B		באמת?! איזו הקלה!	medium	"That's a relief" → זה מרגיע
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	121	אלא אם כן, באמת רק חלמתי...	A		או שאולי באמת רק חלמתי...	medium	אלא אם כן
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	122	לא, לא, לא! אל תיפטל! / אתה יודע את האמת!	I		אל תיפול בזה!	high	«תיפטל» is not a word
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	126	בנוגע לנשיקת החתונה... אממ...	A		לגבי הנשיקה בחתונה... אממ...	medium	בנוגע ל
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	136	מה לא בסדר עם הנוכל המשוגע הזה?!	B		מה הקטע של הנוכל המשוגע הזה?!	medium	"What's wrong with"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	137	אני כבר לא יכול לחכות לשגר אותו!	F		אני כבר לא יכול לחכות לחסל אותו!	medium	לשגר = launch
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	141	אל תוריד את השמירה. לק.	C		אל תוריד את הגארד. לק. / תישאר דרוך.	high	"drop your guard" → השמירה (the native review also rejected להוריד את המשמר, IM_7 #177)
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	150	ללא דחיינות, / הנה הכלה והחתן!	C		בלי הקדמות מיותרות, הנה הכלה והחתן!	high	"without further ado" → ללא דחיינות
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	156	כשהשניים ייכרכו יחד, /  זה יהיה תחילתה של עידן חדש ומפחיד!	A	I	כשהשניים יתאחדו, יתחיל עידן חדש ומפחיד!	medium	ייכרכו + «תחילתה של עידן»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	157	תוקיעו להם!	I		תתקעו להם!	high	«תוקיעו» is not a word
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	160	תוקיעו!	I		תתקעו!	high	«תוקיעו»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	163	החתונה הדמית החלה!	I		חתונת הדמים התחילה!	high	«הדמית» is not a word
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	181	לא! לא! תישאר רציונלי!	B		תתעשת!	medium	"Stay rational"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	191	עשית עבודה נפלאה, סטרויסן! / חייב לתת לך שבח!	B		כל הכבוד לך!	high	"must give you praise"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	192	יותר מידי בשבילי!	C		אתם מחמיאים לי!	high	"Too much for me!"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	196	אוי, עצור! בוא, סאנג'י- !	F		אוי, די! בוא, סאנג'י!	medium	"Oh, stop!" → עצור
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	198	פודינג- נראית כל כך יפה... / זה מרגיש כאילו אני רואה את עצמי צעירה יותר.	B		כאילו אני רואה את עצמי כשהייתי צעירה.	medium	"it feels like"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	200	אתה חייב מוות.	F	A	נראה שאתה רוצה למות.	high	EN "death wish" → «אתה חייב מוות»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	211	סאנג'י בר מזל!	A		איזה מזל יש לסאנג'י!	medium	בר מזל
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	212	אם ידעתי שהיא כל כך יפה, / לא הייתי מתנגד לשאת אותה.	B	A	אם הייתי יודע שהיא כזאת יפה, לא הייתי מתנגד להתחתן איתה.	high	tense «אם ידעתי» + לשאת
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	213	להתחתן עם בתה של ביג מאם? אידיוט.	A		להתחתן עם הבת של ביג מאם? אידיוט.	medium	בתה של
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	216	אתה צודק. / זה לא היה שווה.	B		צודק. זה לא שווה את זה.	medium	tense
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	217	אני רואה... אנחנו מוקפים / באחים ואחיות שארלוט.	B		אני מבין... אנחנו מוקפים באחים של שארלוט.	high	"I see" → אני רואה
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	220	כך צריך להיות...	A		ככה זה צריך להיות...	medium	כך
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	229	לאהוב ולטפל,	C		לאהוב ולהוקיר,	medium	"cherish" → לטפל
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	232	לא אתה זה שאומר לנו את זה!	C		תראו מי מדבר!	high	"You're not the one to tell us"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	235	מה קרה, פודינג? / למה את הולכת להתמוטט?!	B		למה את נראית כאילו את עומדת להתעלף?!	medium	"Why are you going to collapse"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	237	משהו לא בסדר, אח?	H		משהו לא בסדר, אחי?	medium	«אח?»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	246	תישאר כך...	A		תישאר ככה...	medium	כך
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	251	אל תהססי, פודינג!	A		יאללה, פודינג, עכשיו!	medium	אל תהססי
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	257	והוא יסתנוור לרגע!	F		והוא יהיה בהלם לרגע!	medium	יסתנוור
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	258	יאללה תחרא!	I		שיילך לעזאזל!	high	EN "Screw him!" → «יאללה תחרא!»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	262	מה קרה לך, פודינג?! / פשוט ירי בו!	A		פשוט תירי בו!	medium	ירי
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	265	תגדלי את גדילי השיער שלך, פודינג.	F		תגדלי פוני, פודינג.	high	"bangs" → גדילי השיער
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	269	מה לא בסדר עם הילדה הזו?!	B		מה הקטע של הילדה הזאת?!	medium	"What's wrong with"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	271	אל תעשי זאת!	A		אל תעשי את זה!	medium	זאת
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	272	איך ככה, מוזרה?!	B		נו, איך זה, מוזרה?!	high	EN "How's that, freak?!"
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	276	אמחה את כולכם!	A		אני אמחק את כולכם!	medium	אמחה
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	295	האם זה...?!	A		רגע, זה...?!	high	האם
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	297	יש לנו בעיה גדולה יותר! / זו מצב בלתי צפוי, מאמא!	I		זה מצב בלתי צפוי, מאמא!	medium	«זו מצב»
+WCI20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	300	התוכנית עדיין בתוקף?	A		עדיין הולכים על התוכנית?	medium	בתוקף
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	8	למרות הכל, / אני כל כך שמח שאתה בטוח, קוואמאטסו.	C	I	...אני כל כך שמחה שאתה בסדר, קוואמאטסו.	high	"safe" → בטוח (= sure) + masc. form for Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	9	אני לא יכול להיות אסיר תודה יותר על דאגתך–	A	B	אין לי מילים להודות לך על הדאגה–	high	אסיר תודה + "couldn't be more grateful"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	10	תתרחק, הוד מעלתך!	I		תתרחקי, הוד מעלתך!	high	masc. imperative to Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	11	הממזר קאידו... הוא לא נח / בציד שרידים כמונו!	B		הממזר קאידו... הוא לא מפסיק לצוד ניצולים כמונו!	high	"never rests in hunting"; שרידים
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	14	מלאו אותו עופרת!	C		תמלאו אותו בכדורים!	medium	"Fill him with lead"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	21	אל תדאג בשבילי.	B	I	אל תדאגי לי.	high	"worry about me" → בשבילי + masc. to Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	24	עלה! הדרך קדימה מסוכנת.	I		עלי! הדרך קדימה מסוכנת.	medium	masc. imperative to Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	25	רגע! אני כבר לא / ילד, קוואמאטסו!	I		רגע! אני כבר לא ילדה, קוואמאטסו!	high	Hiyori refers to herself in masc.
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	26	כך?	A		באמת?	high	«כך?» for "Is that so?"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	28	תפסיק, אתה מתגרה בי.	F		די, אתה צוחק עליי.	medium	מתגרה = provoke (not tease)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	31	יש לי כל כך הרבה שאני רוצה לדבר / איתך, אבל קודם, למה אתה כאן?	B		יש לי כל כך הרבה מה לספר לך, אבל קודם, מה אתה עושה פה?	medium	"so much I want to talk with you" (missing על מה)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	33	הארץ הצפונית הזו של רינגו, / בדיוק כמו שכנתה האקומאי,	A	B	רינגו, הארץ הצפונית, בדיוק כמו השכנה שלה האקומאי,	medium	שכנתה + passive נשלטה על ידי + בעמידותו (33-34)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	38	אולם, רינגו הייתה עוד אזור / שנפל קורבן להרס של קאידו.	A		אבל רינגו הייתה עוד מקום שנפל קורבן לקאידו.	high	אולם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	39	הוד מעלתך, האם אתה מכיר / את מסורת רינגו של קברי הנצח?	A	I	הוד מעלתך, את מכירה את המנהג של רינגו, קברי הנצח?	high	האם + masc. to Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	42	נכון. יתרה מזאת, הקברים / מסומנים תמיד בחרבות.	A		נכון. וחוץ מזה, תמיד מסמנים את הקברים בחרבות.	high	יתרה מזאת
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	43	עם הלידה, תושבי רינגו / מקבלים חרבות.	A		כשנולדים, תושבי רינגו מקבלים חרבות.	medium	עם הלידה
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	44	הלהבים האלו נמצאים לצדם / מנעורים ועד זקנה.	A		...מגיל צעיר ועד הזקנה.	medium	מנעורים ועד זקנה
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	45	במוות, החרבות שנשאו / מסמנות את קבריהם.	A		וכשהם מתים, החרבות שלהם מסמנות את הקברים.	high	במוות + קבריהם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	46	הם עם להביהם לנצח.	A		והם נשארים עם החרבות שלהם לנצח.	high	להביהם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	47	לכן מקום מנוחתם / נקרא קברי הנצח.	A		ולכן קוראים למקום הזה קברי הנצח.	medium	מקום מנוחתם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	48	אולם, חלק מהלהבים כאן הם בעלי שם, / ולכן שוד קברים הוא בעיה מתמדת.	A		אבל חלק מהחרבות פה מפורסמות, אז שוד קברים הוא בעיה קבועה.	high	אולם + בעלי שם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	49	זה חלק בלתי נפרד / מהאזור הידוע בשם רינגו...	A		ככה זה ברינגו...	medium	«חלק בלתי נפרד מהאזור הידוע בשם»
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	50	הרשה לי לספר לך מה קרה / כשבאתי לכאן לפני שלוש עשרה שנים...	I		הרשי לי לספר לך...	medium	masc. to Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	51	אם הייתי עושה הארקירי, / החלטתי שזה יהיה באזור הזה...	B		החלטתי שאם אעשה הארקירי, זה יהיה פה...	medium	calque
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	57	כן. פגשתי אותך פעם אחת לפני!	B		כן. כבר נפגשנו פעם!	high	"once before" word order
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	58	אתה חייב להיות אונימארו!	B		אתה בטח אונימארו!	high	"You must be" → חייב להיות
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	59	שמו של שועל הארי ההוא היה אונימארו.	C		השם של השועל-אריה ההוא היה אונימארו.	medium	«שועל הארי» = "the lion's fox"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	62	ביותר מחמש שנים מאז נפילת רינגו,	B	A	כבר יותר מחמש שנים, מאז שרינגו נפלה, אונימארו נלחם לבד בכל מי שבא לגנוב...	high	"For over five years" → ביותר מ; עמד לבד במאבק נגד אלה ש
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	65	אני בן ברית.	A		אני בצד שלך.	medium	בן ברית
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	73	פשוט תנשוך נשיכה. בוא, תנסה.	C		רק ביס אחד. יאללה, תטעם.	high	תנשוך נשיכה
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	75	זה לא משנה, אבל!	B		אבל זה לא משנה!	high	sentence-final אבל
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	80	תרפה!	A		עזוב!	medium	תרפה
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	87	היום יגיע שבו סמוראים מכל / הארץ יתאחדו ויעמדו גאים!	B		יגיע יום שבו סמוראים מכל הארץ יתאחדו ויעמדו גאים!	medium	"The day will come" word order
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	88	בזמן ההוא, נצטרך / שפע של חרבות!	A		ואז נצטרך המון חרבות!	medium	בזמן ההוא + שפע של
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	89	בשדה הקרב, לוחמים מתקדמים / עם נשק של חבריהם שנפלו!	A		בשדה הקרב, לוחמים ממשיכים קדימה עם הנשק של החברים שנפלו!	medium	חבריהם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	90	הנשמות השוכנות בלהבים אלה / יעצימו סמוראים להמית טוב יותר את אויביהם!	A	B	הנשמות שבחרבות האלה יתנו לסמוראים כוח להכות באויבים!	high	השוכנות / יעצימו / להמית טוב יותר
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	95	עד שיום ההוא יגיע, אנחנו לא יכולים / לאפשר לשוד לשים ידיים על הנשק הזה!	F	C	עד שהיום הזה יגיע, אסור לנו לתת לשודדים לשים יד על הנשק הזה!	high	שוד = robbery (not robbers); «שיום ההוא»
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	96	במקום זאת, אאסוף את כולם...	A		אז במקום זה, אני אאסוף את כולן...	medium	במקום זאת
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	104	אני חייב לעסוק במשימה / פן אמות מייסורי גרגרנות...	A		אני חייב להתעסק במשהו, אחרת אמות מרעב...	high	פן + ייסורי גרגרנות
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	106	פשוט תנגוס את זרועי ותיתן לי לנוח!	A	I	...פשוט תנגוס לי ביד ותן לי לנוח!	medium	תנגוס את זרועי
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	112	כך אונימארו ואני / התחלנו לעבוד ביחד	A		וככה אונימארו ואני התחלנו לעבוד ביחד	medium	כך
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	119	פשוט למכור אחת או שתיים / מהחרבות האלו בבירה...	B	A	אם רק אמכור חרב או שתיים בבירה...	medium	bare infinitive "just sell"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	120	זה יכניס את הכסף הדרוש / לקנות מספיק אוכל לזמן מה...	A		...יהיה לי מספיק כסף לאוכל לכמה זמן...	medium	הכסף הדרוש
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	122	זה היה בדיחה! בדחתי!	I		סתם! צחקתי!	high	«בדחתי» is not a word; «זה היה בדיחה» gender
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	123	צבא צועד כשהבטנות מלאות...	F		צבא צועד על קיבתו...	high	«הבטנות» = linings
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	124	זה לטובת מטרה טובה! סלח לי!	C		זה למטרה טובה! סלח לי!	medium	לטובת מטרה טובה
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	131	החרבות שם לקיחה חופשית. / תראה כאן!	C		החרבות שם הפקר.	high	"free for the taking" → לקיחה חופשית
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	134	תסתלקו מפה, חזירי גנבים!	C		תסתלקו מפה, גנבים מטונפים!	medium	«חזירי גנבים» inverted construct
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	135	אנחנו לא ניתן לכאלה כמוכם / לקחת אפילו חרב אחת!	C		לא ניתן לחלאות כמוכם לקחת אפילו חרב אחת!	medium	"the likes of you"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	141	אנו...!	I		יאללה...!	high	EN "C'mon...!" → «אנו...!» (= "we", bookish)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	143	שמי הוא...	B		שמי...	medium	שמי הוא (gold uses it)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	150	אבל כך קרה שלא / יכולתי לחזור.	A		אבל יצא שלא יכולתי לחזור.	medium	כך קרה ש
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	156	זאת הסיבה שהיית / כלוא שלוש עשרה שנים?	B		בגלל זה ישבת בכלא שלוש עשרה שנה?	medium	"That's the reason that"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	157	איזו טעות הייתה...	B		איזו טעות...	medium	"What a mistake it was"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	159	לא, אונימארו בטח ויתר / עלי מכיוון שאף פעם לא חזרתי.	A		...כי אף פעם לא חזרתי.	medium	מכיוון ש
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	160	אני לא יכול להאמין שהוא עדיין / יהיה כאן אחרי שלוש עשרה שנים.	B		קשה לי להאמין שהוא עדיין פה אחרי שלוש עשרה שנה.	medium	tense
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	166	האם יכול להיות...?! המעבר הזה מוביל / לחלל התת-קרקעי שהוא ואני יצרנו...	A		רגע, יכול להיות ש...?! המעבר הזה מוביל למחסן שחפרנו...	high	האם יכול להיות
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	169	יש לי כל כך הרבה מה לספר לך, / אבל עניין דחוף הרבה יותר עומד לפנינו.	A		...אבל יש לנו עניין הרבה יותר דחוף.	medium	עומד לפנינו
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	172	ראיזו דיווח שמאמציו של לאופיטארו / הגדילו את כוחותינו כמה פעמים.	A	B	ראיזו סיפר שבזכות לאופי-טארו הכוחות שלנו גדלו פי כמה.	high	מאמציו של + כוחותינו + "several times"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	173	כן, אבל האם אין לכם מחסור בנשק?	A		כן, אבל אין לכם מחסור בנשק?	high	האם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	174	זה אכן מדויק! פתרון / הבעיה הזו עומד בראש מעיינינו.	A		בדיוק! זאת הבעיה הכי דחופה שלנו.	high	זה אכן מדויק + עומד בראש מעיינינו
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	175	האורוצ'י הארור מחרים / נשק בכל הארץ במשך עשרים שנה!	H	B	אורוצ'י המחורבן מחרים נשק בכל הארץ כבר עשרים שנה!	medium	ארור + tense
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	176	חשדתי כך...	A		ככה חשבתי...	high	חשדתי כך
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	181	שלחו כמה אנשים למקום / שאני עומד לשתף אתכם!	B		שלחו כמה אנשים למקום שאני אגיד לכם!	high	"share with you"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	184	האם זה היה אונימארו...? לא, רק ידיים אנושיות / יכלו לעשות את זה.	A		זה היה אונימארו...? לא, רק בן אדם יכול לעשות את זה.	high	האם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	187	אני מאחל לך בהצלחה!	C		בהצלחה לך!	high	«אני מאחל לך בהצלחה»
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	189	במה הקרב הסופי / על רקע חג האש—	C		זירת הקרב הסופי	medium	במה
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	193	אם חרבך היא השוסואי האמיתית,	I		...אני מבקשת ממך להחזיר אותה לוואנו.	high	masc. for Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	196	אני אתן לך אחרת תמורתה.	A		אני אתן לך חרב אחרת במקומה.	medium	תמורתה
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	200	זוהי חרב אגדית, / היחידה הידועה שחתכה את קאידו.	A		זאת חרב אגדית, היחידה שאי פעם פצעה את קאידו.	medium	זוהי
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	203	אי אפשר לוותר על עיזבון / מלורד אודן!	F		את לא יכולה לוותר על ירושה של הלורד אודן!	medium	עיזבון (legal estate)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	208	כל אחד קיבל בנאמנות אחת / משתי החרבות שאבינו השתמש בהן.	F		כל אחד מאיתנו קיבל לשמירה אחת משתי החרבות של אבא.	high	"entrusted" → בנאמנות
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	213	שתיהן נוצרו על ידי / קוזרי חרבות מפורסמים מואנו.	F	B	את שתיהן חישלו נפחי חרבות מפורסמים מוואנו.	high	«קוזרי» is not a word + passive
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	219	אני מבין איך אתה מרגיש,	I		אני מבינה איך אתה מרגיש,	high	masc. for Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	220	אבל תתייחס ביותר חביבות / לאיש שהציל את חיי.	B		אבל תהיה קצת יותר נחמד לאיש שהציל את חיי.	high	ביותר חביבות
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	221	אני לא יודע איך השגת את שוסואי, / חרב ריומה, אל הלהב.	I		אני לא יודעת איך השגת את שוסואי,	high	masc. for Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	222	ובכן...	A	G	טוב...	high	«ובכן» from Zoro
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	224	אולם, כשנגנבה...	A		אבל כשהיא נגנבה...	high	אולם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	225	כל ואנו נשבר לב / כי היא נחשבת אוצר לאומי.	C		כל ואנו הייתה שבורת לב,	medium	«נשבר לב» subject mismatch
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	226	בבקשה הגש את שוסואי לארץ הזאת.	A	F	בבקשה תחזיר את שוסואי לארץ הזאת.	high	הגש (= submit/serve)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	227	מכיוון שתחליף אותה...	A	I	אם את נותנת לי אחרת במקומה...	medium	מכיוון ש + masc. to Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	230	ובכן, אני קשור לריומה כי נלחמנו דו-קרב עליה, / גם אם זה היה עם גופתו...	A	G	טוב, יש לי קשר לריומה, נלחמנו עליה בדו-קרב, גם אם זה היה מול הגופה שלו...	high	«ובכן» from Zoro
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	232	בתמורה, לפחות / תן לי לבקר את קברו של ריומה.	I		בתמורה, לפחות תני לי לבקר בקבר של ריומה.	high	masc. imperative to Hiyori
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	236	זאת למרות שיאסואי הסתכן בחייו / להסיח את דעת האויב ולהציל את התוכנית.	A		ואת זה, אחרי שיאסואי סיכן את חייו כדי...	high	זאת למרות ש
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	241	האם גחמות של פחדן כל כך חזקות	A	B	מה, הפחדנות שלך כל כך גדולה שאתה כולא אנשים חפים מפשע ומציג אותם ככה?!	high	האם + garbled (241-242)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	247	מה בעולם קרה לברית שלך?	C		מה לעזאזל קרה לברית שלך?	high	"what in the world"
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	248	חשבתי שיצרת ברית / עם קיד ואפו...	C		חשבתי שכרתת ברית עם קיד ואפו...	medium	יצרת ברית
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	262	הוא יעדיף למצוא דרך / לשבור את רוחם ולהכניעם.	A		...לשבור להם את הרוח ולהכניע אותם.	medium	להכניעם
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	267	בסופו של דבר, אורוצ'י השתמש בהם כפיות.	F		בסוף אורוצ'י השתמש בהם כמו בבובות.	high	«כפיות» = spoons (meant pawns)
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	270	הברית שלך עם כובע הקש / נראית שהולכת טוב...	B		נראה שהברית שלך עם כובע הקש הולכת טוב...	high	«נראית שהולכת»
+WA29	subtitles/main/32 Wano/29/wano 29 he.ass	275	האם חלק מהתוכנית שלך שאני אצא חופשי?	A	B	התוכנית שלך כוללת שאני יוצא מפה?	high	האם + garbled

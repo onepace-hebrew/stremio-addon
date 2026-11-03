@@ -6,12 +6,17 @@ A reader who never sees the English catches what the writer cannot.
 
 1. node scripts/build-onepace-episode.js review-input <ID> > <scratch>/<ID>.he.txt
 2. Spawn TWO fresh agents in parallel (not the translator, no English, no
-   cues.json, no notes) with the prompt below, pointing at that file. Take the
-   union of their flags: one reader misses a lot (see calibration).
+   cues.json, no notes, no lint output) pointing at that file: reader A gets
+   the prompt below, reader B the same prompt plus the REGISTER FOCUS
+   paragraph. Take the union of their flags: one reader misses a lot (see
+   calibration), and two identical readers miss the same lines.
    Calibration used general-purpose agents on Opus 5.5; recheck the numbers
    if the reviewer model changes.
 3. With the English open, decide each flag: fix it in <ID>.he.json, or keep it
-   with a reason (voice, house style, a reader false alarm).
+   with a reason (voice, house style, a reader false alarm). Fix by RE-VOICING
+   the line in everyday words, never by swapping in one higher word: «אנשים
+   שלי!» → «חבר'ה!», not «אנשיי!». Check every fix against the register
+   question in the prompt (docs/translation-learnings.md §1.8).
 4. Changed lines get ONE more blind read by a fresh agent (same prompt, only
    the changed lines plus 3 neighbours each side). Fix what it flags; that
    round is final, no third one.
@@ -27,6 +32,12 @@ Calibration (2026-10-18, IM_7, record in IM_7.native-review.txt):
 - Human gold (EL04), one reader: 26 of 614 flagged. Some of those are lines
   that learnings §1.5 calls good (בול פגיעה, בנאדם); the user hasn't ruled on
   that yet.
+- Register gap (research 2026-11-03, reports/Natural Hebrew anime subtitles.md):
+  the old prompt never asked about register and exempted "theatrical villain
+  speech", so formal-but-grammatical lines passed. A fresh read of MA_1 after
+  both rounds still found 9 lines, 7 of them bookish lines in formal mouths
+  (Sengoku, narration), and the gate's own fix «אנשיי!» was one of them. Hence
+  the register question, the dub test and reader B's focus paragraph.
 A reader always finds something; that is expected. Don't loop until zero.
 Human-translated episodes (folders with a " He.ass") are NEVER reviewed for
 fixes or edited. Only read them, as calibration.
@@ -35,16 +46,24 @@ fixes or edited. Only read them, as calibration.
 
 You are a native Israeli Hebrew speaker watching an anime (One Piece) with Hebrew subtitles. Read the file <FILE>. Each line is `<number>\t<subtitle line>`, in episode order. Read all of it, in order, so you have the scene context.
 
-Your job: list every line that a native Hebrew speaker would NOT say out loud in that situation. You're looking for lines that are grammatical and understandable but odd: unnatural phrasing, wrong collocation, awkward word order, a wording that only makes sense if you imagine some other language behind it.
+Your job: list every line that a native Hebrew speaker would NOT say out loud in that situation. You're looking for lines that are grammatical and understandable but odd: unnatural phrasing, wrong collocation, a near-miss idiom (one word off the fixed expression), awkward word order, a wording that only makes sense if you imagine some other language behind it.
+
+Also flag any line that sounds written, literary, biblical, legal or newsreader-like rather than spoken, even when it is grammatical and even when the speaker is formal, old, royal or a villain. Formal characters speak in complete sentences without slang; they do not speak book Hebrew. Typical signs: היכן, כיצד, מדוע, אינו/אינני, אכן, כה, כעת, אנא, ייתכן, חרפה, ציווה, אסיר תודה, כצפוי מ…, a yes/no question that opens with האם, suffixed possessives on everyday nouns (אנשיי, חבריו, אביך), a suffix plus של (הוצאתו להורג של…).
+
+Test each line: read it aloud as that character. Would a Hebrew dub actor say it?
 
 Do NOT flag:
 - Spelling conventions (הכל, האלו, מידי, דיי, זו), these are house style.
 - Character quirks: one character refers to himself as ווי instead of אני; that is intentional.
 - Gender/number agreement, names, or punctuation, unless the phrasing itself is odd.
-- Anime-style shouting, short exclamations, or theatrical villain speech that is natural for the genre.
+- Short shouted exclamations and attack calls (מה?!, לעזאזל!, אין מצב!, הו!).
 
 Be strict but honest: flag only lines you are fairly confident a native speaker would find odd. Do not pad the list.
 
 Do not read any other files. Do not look anything up. Do not edit anything.
 
 Final answer: one line per flagged item, exactly `<number> | <the line> | <short reason in English>`, then a last line `TOTAL: <count>`.
+
+---- REGISTER FOCUS (reader B only: append to the prompt above) ----
+
+Read a second time with one question only: is this how people talk now, or how books, news and old translations write? Mark every line that a viewer would notice as "written": a formal word where an everyday one exists (למה/איך/איפה/עכשיו/בבקשה/אבל/תודה), an English or anime stock phrase rendered word for word ("As expected of…", "I see", "Well,", "Indeed", "Yes, sir"), or a long line built like an English sentence. Short, firm, polite lines are fine for formal characters; book words are not.

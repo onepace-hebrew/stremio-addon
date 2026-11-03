@@ -1,0 +1,246 @@
+episode	i	speaker	category	confidence	verdict	hebrew	english	english_trigger	natural_rewrite	note
+EL_15	2	Kumadori	A	medium	confirmed	אריה זועם, רחמים שאינם הולמים!	Showing mercy is unbecoming of a raging lion!	"X is unbecoming of Y" compressed into two noun phrases; שאינם	לאריה זועם לא הולם לרחם!	theatrical voice OK; meaning lost
+EL_15	14	Chopper (thought)	F	medium	confirmed	לא נכון!	Wrong one!	"Wrong!" → לא נכון (=untrue)	לא זאת!	
+EL_15	15	Chopper (thought)	F	medium	confirmed	לא נכון! למה היא לא יוצאת?!	Wrong one! Why doesn't it come out?!	same	לא זאת! למה היא לא יוצאת?!	
+EL_15	18	Chopper	H	medium	house-norm	בנאדם!	Whoa!	"Whoa!" → בנאדם!	וואו!	learnings §1.5 treats בנאדם as OK; here EN is Whoa; house rule Whoa→בנאדם!; human gold has "בנאדם! זו הייתה הפתעה!"
+EL_15	22	Chopper	B	medium	confirmed	במתקפה הזו! (prev line: אני אשקיע בזה כל מה שיש לי...)	I'll put everything I have... / into this attack!	split sentence: added בזה + במתקפה הזו doubles the object	אני שם את כל מה שיש לי... / במכה הזאת!	
+EL_15	40	Chopper (thought)	C	medium	confirmed	זהו זה. כבר אין לי כוח להחזיר מלחמה.	This is it. I no longer have the energy to fight back.	"fight back" → mixed idiom להחזיר מלחמה (idiom is השיב מלחמה)	זהו. אין לי כבר כוח להילחם.	
+EL_15	44	Kureha (flashback)	B	medium	confirmed	"אני לא זוכר" זה לא מספיק טוב.	"I don't remember" doesn't cut it.	"doesn't cut it"	"אני לא זוכר" זה לא תשובה.	
+EL_15	47	Kureha (flashback)	C	medium	confirmed	כל המדינה עשתה מהומה גדולה סביב אותו לילה.	the entire country was making a big fuss about that night.	"make a fuss about" → מהומה סביב	כל הממלכה רעשה בגלל הלילה ההוא.	
+EL_15	54	Kureha (flashback)	B	medium	confirmed	אוי ואבוי. אפילו מסתבך בצרות בדיוק כמוהו.	Good grief. You even stir up trouble like him.	subject dropped → fragment; Good grief → אוי ואבוי	אוף, באמת. אפילו בצרות אתה בדיוק כמוהו.	
+EL_15	58	Kureha (flashback)	B	medium	confirmed	איזה טיפש אתה. תזדרז ותבריא כבר.	You're such a fool. Hurry up and get better.	"hurry up and V" → תזדרז ו-	איזה טיפש. יאללה, תבריא כבר.	
+EL_15	63	Kumadori	E	medium	confirmed	אם תבכה, זו תהיה בושה לגבריות שלך.	If you do, it'll be a disgrace to your manhood.	"it'll be a disgrace to your manhood"	דמעות הן חרפה לגבר!	kabuki voice, keep theatrical
+EL_15	66	Kumadori	I	medium	confirmed	זו דרך אל כבשן הגיהינום שידעת שיום אחד יגיע.	This is a journey to hell's furnace that you knew could come.	relative clause attached to the wrong noun	זה מסע אל כבשן הגיהינום, וידעת שהיום הזה יגיע.	
+EL_15	68	Kumadori	I	medium	confirmed	בתקווה שיום אחד תשוב, צבועים בארגמן!	hoping for your return someday, are colored crimson!	3-line English sentence (subject=leaves) recast as imperative; predicate orphaned	(67) העלים שקטפתי לך מעץ הערבה כמתנת פרידה, / (68) בתקווה שתשוב יום אחד, נצבעו בארגמן!	
+EL_15	69	Kumadori	F	medium	confirmed	קבל את זה! עכשיו, עכשיו, עכשיו, עכשיו!	Take it! Now, now, now, now!	discourse "now" (kabuki sate-sate) → temporal עכשיו	קבל את זה! הנה, הנה, הנה, הנה!	
+EL_15	80	Kureha (flashback)	C	medium	confirmed	לעולם אל תלך שוב בדרך הזו, בסדר?	Don't ever go down that path again, okay?	"go down that path"	שלא תעשה את זה שוב אף פעם, שמעת?	
+EL_15	98	Kalifa	B	high	confirmed	שמעתי אותך לא נכון?	Did I hear you wrong?	"hear you wrong"	לא שמעתי טוב?	
+EL_15	99	Kalifa	C	medium	house-norm	איך את מעזה ללעוג לי?! לא אתן לך לחמוק מזה!	How dare you mock me?! I won't let you get away with it!	"won't let you get away with it"	את צוחקת עליי?! את עוד תשלמי על זה!	human gold uses "תחמוק מזה!"
+EL_15	101	Nami	B	medium	confirmed	אין לך מה לחכות. הקרב כבר התחיל, את יודעת.	You don't have to wait. The battle has already started, you know.	sentence-final "you know"	אין מה לחכות. הקרב כבר התחיל.	
+EL_15	102	Nami	B	high	confirmed	מפתיע אותי שמשתמשת ביכולת מתרחצת באמבטיה מול האויבת שלה.	I'm surprised that an ability user would take a bath in front of her enemy.	"ability user" + generic-noun subject	לא ציפיתי שמשתמשת פרי שטן תשב באמבטיה מול האויבת שלה.	
+EL_15	103	Nami	B	high	confirmed	אם הגוף שלך שקוע במחצית, לא אמור להיות לך שימוש מלא בכוחות.	If your body is halfway submerged, you shouldn't have full use of your powers.	"halfway submerged", "full use of your powers"	אם חצי מהגוף שלך במים, את לא אמורה להיות בשיא הכוח.	
+EL_15	109	Kalifa	A	high	confirmed	פתירת תעלומה כזו היא לא אחת מההנאות האמיתיות של קרב מול משתמשת ביכולת?	Isn't solving a mystery like that one of the true joys of fighting an ability user?	gerund subject → nominalization; "one of the true joys of"	זה כל הכיף בקרב נגד משתמשי פרי שטן, לא? לפצח את הסוד.	
+EL_15	110	Nami (thought)	B	high	confirmed	זו בהחלט הייתה האישה הזו ששמה את סאנג'י במצב הזה.	It was definitely this woman who put Sanji-kun in that state.	cleft "It was X who"	בטוח היא זאת שעשתה את זה לסאנג'י.	
+EL_15	115	Nami	F	medium	confirmed	אני יכולה גם להזיז את הרגליים!	I can move my legs, too!	literal EN (unclear source)	אני יודעת גם לזוז!	
+EL_15	124	Nami	B	medium	confirmed	זו אשמתך שהיית בטוחה בעצמך כל כך.	It's your own fault for acting so confident.	"It's your own fault for -ing"	זה מה שקורה כשבטוחים מדי בעצמך.	
+EL_15	125	Kalifa	B	medium	confirmed	זו הייתה הפתעה.	That was a surprise.	"That was a surprise" copula sentence	את זה לא ציפיתי.	
+EL_15	126	Kalifa	A	medium	confirmed	מעולם לא חשבתי שיכה בי ברק בתוך מבנה.	I never thought I'd be hit by lightning indoors.	"indoors" → בתוך מבנה	לא חשבתי שיכה בי ברק בתוך בניין.	
+EL_15	133	Nami	B	medium	confirmed	מעניין אם זה משהו כזה.	I wonder if it's something like that.	"I wonder if" as a hedge	משהו כזה, לא?	
+EL_15	134	Kalifa	B	medium	confirmed	א-אבל גם אם, נניח, היית מבינה איזה סוג כוחות אלו,	B-But even if, for example, you figured out what kind of powers they are,	"what kind of powers they are"	א-אבל גם אם, נגיד, הבנת מה הכוח שלי,	
+EL_15	136	Nami (thought)	C	medium	confirmed	אז קלעתי בול. עכשיו אני קצת מרגישה אשמה.	So that was right on the mark. Now I kinda feel guilty.	"feel guilty" (=feel bad)	קלעתי בול. עכשיו קצת לא נעים לי.	
+EL_15	139	Kalifa	A	high	confirmed	והפכתי לבת-סבון שכל גופה מקציף.	and became a soap human whose entire body lathers.	"whose entire body" → שכל גופה (גופה = corpse)	והפכתי לאישת סבון. כל הגוף שלי מקציף.	
+EL_15	141	Franky?/Sanji	H	medium	house-norm	בנאדם! איזו חתיכה! האמת, הייתי שמח שתהיה לי מזכירה כזו.	Whoa! How sexy! To be honest, I'd be happy to have a secretary like her.	"Whoa!" → בנאדם!	וואו! איזו חתיכה! האמת, הייתי שמח למזכירה כזאת.	decided blind, omitted from lock file by oversight; house rule Whoa→בנאדם!
+EL_15	144	Kalifa	B	medium	confirmed	אבל אני יכולה לתמרן בחופשיות את הבועות שיוצאות מהגוף שלי.	But I can freely manipulate the bubbles that come out of my body.	"freely manipulate"	אבל אני שולטת בבועות שיוצאות לי מהגוף.	
+EL_15	147	Kalifa	B	medium	confirmed	הבועות מהאמבטיה הן...!	The bubbles from the bathtub are...!	dangling copula "are...!"	הבועות מהאמבטיה...!	
+EL_15	151	Kalifa	B	medium	confirmed	איך זה? לא נפלא?	How's this? Isn't it wonderful?	"How's this?"	נו? לא נפלא?	
+EL_15	152	Kalifa	B	medium	confirmed	את אידיוטית, נכון?	You're an idiot, aren't you?	tag question "aren't you?" → נכון?	את אידיוטית או מה?	
+EL_15	153	Kalifa	A	high	confirmed	אסור לך להישבות בקסם המראה שלי.	You shouldn't be deceived by my appearance.	"be deceived by" → literary להישבות בקסם (also sense shift)	אל תתני למראה שלי לעבוד עלייך.	
+EL_15	164	Nami	A	medium	confirmed	הכוח שלי דועך.	My strength is fading away.	"fading away" → דועך	אני מאבדת את הכוח.	
+EL_15	166	Kalifa	A	high	confirmed	את תלמדי לאט לאט מה האימה שבכוח הזה.	You'll learn the horror of this power little by little.	"the horror of this power"	לאט לאט תגלי כמה הכוח הזה מפחיד.	
+EL_15	168	Kalifa	B	high	confirmed	הן מסירות באופן טבעי לכלוך וכתמים, אבל בין השאר הן גם שואבות את כוחך.	They naturally handle filth and spots, but they also sap your strength, among other things.	"naturally", "among other things", "your strength"	הן מורידות לכלוך וכתמים, ובין השאר גם שואבות לך את הכוח.	
+EL_15	170	Nami	B	medium	house-norm	אני יכולה להזיז את הגוף! הבעיטה שלה גרמה לבועות להיעלם!	I can move my body! Her kicking me made the bubbles go away!	causative "made X go away" → גרמה ל-	אני יכולה לזוז! הבעיטה שלה העיפה את הבועות!	causative גרם ל-X ל-V is 6.6/10k in human gold
+EL_15	173	Kalifa	B	medium	confirmed	את הכוח של הנשק הזה לבדו...	That weapon's power alone...	fronted object + לבדו for "alone"	רק את הנשק הזה... / אני עוד לא מכירה.	
+EL_15	180	Kalifa	B	medium	weak	כל מה שאני נוגעת בו מבריק בצורה יפהפייה.	Everything I touch gains a beautiful gloss.	adverb → בצורה + adj	כל מה שאני נוגעת בו מקבל ברק יפהפה.	בצורה+adj same rate in human gold
+EL_15	184	(fighter vs CP9)	E	medium	confirmed	לגבר יש קרבות שהוא חייב להתמודד איתם חזיתית!	A man has battles that he must face head-on!	"A man has battles that he must..."	יש קרבות שגבר לא בורח מהם!	
+EL_15	199	Franky	E	medium	confirmed	יש לי הרגשה שהאייל ההוא חבש כובע מאותו סוג.	I feel like that deer was wearing the same kind of hat.	"the same kind of hat"	נראה לי שגם לאייל ההוא היה כובע כזה.	
+EL_15	202	Franky	F	medium	confirmed	אין טעות.	There's no mistake.	"There's no mistake" → אין טעות	אין ספק.	
+EL_15	206	Franky	H	medium	confirmed	אוי ואבוי! מה לעזאזל הוא?!	Good grief! What the hell is he?!	"Good grief!" → אוי ואבוי; "what is he"	וואי! מה זה הדבר הזה?!	
+EL_15	217	Spandam	H	medium	house-norm	כמה טיפשי!	How stupid!	"How + adj!" → כמה + adj	איזה טמטום!	human gold uses כמה+adj (כמה מטופש/כמה פתטי)
+EL_15	218	Spandam	G	medium	confirmed	את ברצינות עדיין תולה את תקוותך בפיראטים חלשים כאלו?	Are you seriously still laying your hopes on such weak pirates?	possessive suffix תקוותך in slangy villain line	את באמת עוד תולה תקוות בפיראטים חלשים כאלה?	
+EL_15	222	Spandam	A	medium	confirmed	גשר ההיסוס מתנשא מול שערי הצדק.	The Bridge of Hesitation looms in front of the Gates of Justice.	"looms" → מתנשא	מול שערי הצדק נמצא גשר ההיסוס.	
+EL_15	223	Spandam	F	medium	confirmed	נחצה את החצי הראשון של הגשר, שמורם עכשיו.	We'll cross the first half of the bridge, which is now up.	"up" (=in place) → מורם (raised = closed drawbridge)	נחצה את החצי הראשון של הגשר, שכבר פרוס.	
+EL_15	229	Spandam	E	medium	confirmed	ההרגשה היחידה שתהיה לך היא תחושת אשמה.	The only feeling you'll have is a sense of guilt.	"a sense of guilt" → הרגשה...תחושת	כל מה שתרגישי זה אשמה.	
+EL_15	230	Spandam	A	medium	confirmed	תכפרי לנצח על החטא של עצם קיומך עד היום.	You'll endlessly atone for your sin of having lived until today.	"sin of having lived" nominalized → עצם קיומך עד היום	תכפרי לנצח על החטא שחיית עד היום.	
+EL_15	232	Spandam	F	medium	confirmed	עכשיו, בואו נזדרז.	Now, let's hurry.	discourse "Now," → עכשיו	טוב, בואו נזדרז.	
+EL_15	237	CP9 agent	B	medium	confirmed	בוס, בבקשה קח את ניקו רובין ותמהר קדימה.	Chief, please take Nico Robin and hurry on ahead.	"hurry on ahead"	בוס, קח את ניקו רובין ותתקדם, אני אטפל בזה.	
+TB_9	44	Luffy	H	medium	confirmed	היי, צרה גדולה!	Hey, big trouble!	"big trouble!" as exclamation	חבר'ה, יש בעיה רצינית!	
+TB_9	45	Luffy	C	medium	confirmed	מצב של חיים או מוות!	Life or death situation!	"life or death" (Heb idiom: חיים ומוות)	זה עניין של חיים ומוות!	
+TB_9	52	Zoro	C	medium	confirmed	הורדתי את ההגנה.	I let my guard down.	"let my guard down"	נתפסתי לא מוכן.	
+TB_9	53	Luffy	I	medium	confirmed	אפילו את ארוחת הפיראטים שלי איבדתי...	I even lost my pirate lunch...	"pirate lunch" (Sanji's bento) opaque + fronted object	אפילו את הארוחה שסאנג'י הכין לי לקחו...	
+TB_9	71	Usopp	E	medium	confirmed	זה לא הסדר שבו אמורים לדרג אותם.	That's not how you're supposed to rank them.	"how you're supposed to rank them"	זה לא סדר העדיפויות!	
+TB_9	75	Sanji	C	medium	confirmed	אל תשחק איתי!	Don't mess around!	"Don't mess around!"	אתה צוחק עליי?!	
+TB_9	76	Sanji	D	medium	confirmed	ממש בלתי נסלח!	So damn unforgivable!	anime "unforgivable" (yurusanai)	על זה הוא עוד ישלם!	
+TB_9	80	Zoro	A	high	confirmed	אז הזומבים של לופי ושל הטבח אומתו, אוסופ?	So, Luffy's and the cook's zombies have been confirmed, Usopp?	"have been confirmed" → passive אומתו	אז ראית את הזומבים של לופי והטבח, אוסופ?	
+TB_9	84	Luffy	B	medium	confirmed	אני מבין.	I see.	"I see." → אני מבין	אה, הבנתי.	
+TB_9	91	Zoro	A	medium	confirmed	אם נמצא את שלושת הזומבים האלה ונזרוק מלח לפיהם, ...	...throw salt in their mouths...	"their mouths" → suffix לפיהם	...ונדחוף להם מלח לפה, ...	
+TB_9	97	Franky	A	medium	confirmed	האמת, בפעם הראשונה שאמרת שהוא יצטרף אלינו כחבר, התנגדתי לחלוטין.	...I completely disagreed.	"completely" → לחלוטין	...הייתי לגמרי נגד.	
+TB_9	102	Franky	C	high	confirmed	כל עוד אנחנו בעניין, רק תענה לי על עוד שאלה אחת.	While we're still at it, just answer me one more question.	"while we're at it"	וכבר שאנחנו בזה, תענה לי על עוד שאלה אחת.	
+TB_9	103	Franky	A	high	confirmed	אם תצא לרשות הרבים עם המראה הזה שלך, אתה יודע איך אנשים יגיבו, נכון?	If you go out in public with that look of yours, you know how people will react, right?	"in public" → legal term רשות הרבים; "that look of yours"	אם תסתובב ככה ברחוב, אתה יודע איך אנשים יגיבו, נכון?	
+TB_9	104	Franky	B	medium	confirmed	אתה שלד מדבר, אתה יודע.	You're a talking skeleton, you know.	sentence-final "you know"	הלו, אתה שלד מדבר.	
+TB_9	105	Franky	B	medium	confirmed	אין סיכוי שמישהו יתיידד עם בחור עם מראה כל כך מרושע.	There's no way someone will befriend a guy with such evil looks.	"a guy with such evil looks"	אף אחד לא ירצה להתחבר למישהו שנראה כל כך מרושע.	
+TB_9	106	Franky	A	high	confirmed	דברים מכוערים תמיד זוכים לבוז.	Hideous things always get despised.	"get despised" → זוכים לבוז	מה שמכוער, כולם שונאים.	
+TB_9	109	Franky	B	medium	confirmed	אתה מודע לגורל שלך.	You're aware of your fate.	"be aware of"	אתה יודע מה מחכה לך.	
+TB_9	113	Franky	A	high	confirmed	להחזיק בקיום כל כך חסר משמעות ולהתנהג באבירות כל הזמן...	Having such insignificant existence and acting all chivalrous all the time...	gerund subject → infinitive nominal + "existence", "chivalrous"	לחיות חיים כאלה בלי שום טעם, ועוד לשחק אותה ג'נטלמן כל הזמן...	
+TB_9	115	Franky	B	medium	confirmed	ללכת עד כדי כך... מה אתה רוצה להשיג?	To go that far... what do you want to achieve?	"to go that far"	בשביל מה כל זה? מה אתה רוצה להשיג?	
+TB_9	116	Franky	B	high	confirmed	מהי ההבטחה הזו שנתת לחברים שלך, שאתה מדבר עליה?	What is that promise you made to your friends that you talk about?	stacked relatives + מהי	מה זאת ההבטחה לחברים שלך שאתה כל הזמן מדבר עליה?	
+TB_9	117	Brook	B	medium	confirmed	אתה אדם ממש סקרן.	You're a very nosy person.	"You're a very X person"; nosy→סקרן loses sense	אתה ממש חטטן, הא?	
+TB_9	122	Brook	A	medium	confirmed	ואז הושמדנו על הים הזה...	Then, we were annihilated on this sea...	"annihilated" → הושמדנו	ואז כל הצוות שלנו מת בים הזה...	
+TB_9	123	Brook	A	high	confirmed	כדי לא להשאיר את ההבטחה שלנו בלתי מקוימת...	In order to not leave our promise unfulfilled....	"unfulfilled" → בלתי מקוימת	וכדי שההבטחה שלנו לא תישאר באוויר...	
+TB_9	124	Brook	A	medium	confirmed	כחבר היחיד בצוות ששרד מספיק זמן, מוטל עלי לעדכן אותו על מה שקרה.	...I have the duty to inform him of these events.	"I have the duty to inform"	אני היחיד מהצוות שנשאר, אז עליי לספר לו מה קרה.	
+TB_9	128	Franky	B	medium	confirmed	היי! זה היה מזמן מדי! אני בכלל עוד לא נולדתי!	Hey! That was too long ago! I wasn't even born yet!	"too long ago"	היי! זה מלפני מלא זמן! עוד לא נולדתי אז!	
+TB_9	129	Franky	A	high	confirmed	צר לי לומר, אבל אין סיכוי שהבחור הזה חיכה זמן כל כך ארוך!	Sorry to say but, there's no way that guy could've waited such a long time!	"Sorry to say" → צר לי לומר	לא נעים לי להגיד, אבל אין מצב שהוא חיכה כל כך הרבה זמן!	
+TB_9	131	Brook	E	medium	confirmed	יש לו זכות לעזוב ולא להישאר ולחכות.	He has the right to leave and not be kept waiting.	"has the right to... and not be kept waiting"	מותר לו ללכת, הוא לא חייב לחכות לי.	
+TB_9	137	Brook	B	medium	confirmed	שם החבר שנשבענו לפגוש שוב על אותו כף הוא...	The name of the friend to whom we swore to meet again on that cape is...	"on that cape" → על אותו כף	החבר שנשבענו לפגוש שוב בכף ההוא... קוראים לו...	
+TB_9	142	Brook	E	medium	confirmed	אני משער שהוא בטח גדל הרבה עד עכשיו...	I suppose he must've grown a lot by now...	"I suppose" + "must've" double hedge	הוא בטח גדל המון מאז...	
+TB_9	146	Brook	B	high	confirmed	אני לא יכול שלא לחשוב שהוא האמין בנו מאז.	I can't help but think he has believed in us since then.	"I can't help but think"	אני בטוח שהוא מאמין בנו עד היום.	
+TB_9	147	Brook	A	medium	house-norm	אולי הוא חושב שננגן את המוזיקה העליזה שלנו כתמיד...	...as always...	"as always" → כתמיד	...כמו תמיד...	כתמיד same rate in human gold
+TB_9	148	Brook	C	medium	confirmed	ונחזור אליו בזרועות פתוחות.	And return for him with open arms.	"with open arms" (Heb idiom = to welcome)	ונחזור לאסוף אותו.	
+TB_9	149	Brook	A	medium	confirmed	אני לא יכול לבקש מחילה אחרי שמתנו בחוסר אחריות כזה.	I cannot ask for forgiveness after we died so irresponsibly.	"forgiveness" → מחילה	אני אפילו לא יכול לבקש סליחה, אחרי שמתנו ככה, בלי אחריות.	
+TB_9	151	Brook	B	medium	confirmed	מוות הוא לא תירוץ...!	Dying is not an excuse...!	"Dying is not" → bare noun + הוא	למות זה לא תירוץ...!	
+TB_9	152	Brook	A	medium	confirmed	כי איש פעם אמר שהם יחזרו ויהי מה!	Because a man once said that they would return no matter what!	"a man" → איש	כי גבר אמר פעם שהם יחזרו, לא משנה מה!	
+TB_9	162	Sanji	I	medium	confirmed	כפי התאומים שנמצאים בכניסה לקו הגדול.	The Twin Capes located at the entrance of the Grand Line.	term deviates from glossary (כיפות התאומים); reads as כְּפִי	כיפות התאומים, בכניסה לקו הגדול.	terminology side-finding
+TB_9	164	Sanji	A	medium	confirmed	הוא חבט שוב ושוב בראשו בקו האדום, החומה שמחלקת את העולם.	It kept bumping it's head against the Red Line...	"its head" → suffix בראשו in speech	הוא דפק את הראש שוב ושוב בקו האדום, החומה שחוצה את העולם.	
+TB_9	165	Sanji	A	medium	confirmed	במשך 50 שנה הוא חיכה לחבריו הפיראטים ש...	For 50 years, it waited for its pirate friends who...	"its friends" → לחבריו	50 שנה הוא חיכה לחברים הפיראטים שלו, ש...	
+TB_9	166	Sanji	E	medium	confirmed	איכשהו, לופי עצר את ההרגל ההרסני שלו לחבוט בעצמו בחומה.	Somehow, Luffy stopped its suicidal habit of hitting itself against that wall.	"its suicidal habit of -ing"	איכשהו לופי גרם לו להפסיק לדפוק את הראש בחומה.	
+TB_9	168	Sanji	A	medium	confirmed	וממשיך לחכות לחבריו באותם כפים.	And keeps waiting for its friends at those capes.	"its friends" → לחבריו	ועדיין מחכה לחברים שלו שם.	
+TB_9	175	Ryuma	B	medium	confirmed	כי המחשבות שלנו זהות!	That's because our thoughts are the same!	"our thoughts are the same"	כי אנחנו חושבים אותו דבר!	
+TB_9	176	Ryuma	A	medium	house-norm/voice-ok	כתמיד, אתה ממשיך לטפח את האפרו הזה.	As always, you keep treasuring that afro.	"As always" → כתמיד	כמו תמיד, אתה מטפח את האפרו הזה.	voice-ok (old samurai); low priority; כתמיד; old samurai Ryuma
+TB_9	184	Brook (thought)	G	high	confirmed	לא הצלחנו להתגבר על האתגרים של הקו הגדול.	We were unable to overcome the challenges of the Grand Line.	"overcome the challenges" → corporate register	הקו הגדול היה חזק מאיתנו.	
+TB_9	186	Brook (thought)	A	high	confirmed	ובאשר לי...	As for myself...	"As for myself" → ובאשר לי	ואני...	
+TB_9	187	Brook (thought)	A	medium	confirmed	לא רק שאיבדתי את חבריי...	Not only have I lost my friends...	"my friends" → חבריי	לא רק שאיבדתי את החברים שלי...	
+TB_9	190	Brook (thought)	B	medium	confirmed	לא תזהה אותי בצורת השלד שאני עכשיו...	You won't recognize me in the skeleton shape I am now...	"in the skeleton shape I am now"	לא תזהה אותי ככה, כשאני שלד...	
+TB_9	196	Brook (thought)	F	medium	confirmed	אגן עליו בחיי...!	I'll protect it with my life...!	"with my life" → בחיי (=I swear)	אשמור עליו בכל מחיר...!	
+TB_9	212	Robin	B	medium	confirmed	היית משנה את דעתך גם אם היו לנו?	Would you change your mind even if we had any?	"even if we had any"	ואם היו, זה היה משנה משהו?	
+TB_9	214	Franky	G	medium	confirmed	מסכים לחלוטין, לעזאזל!	Completely agreed, damn it!	"Completely agreed" → לחלוטין	אני לגמרי בעד, לעזאזל!	
+TB_9	217	Sanji	B	high	confirmed	עכשיו כשאנחנו מודעים לגמרי למצב...	Now that we're fully aware of the situation...	"fully aware of the situation"	טוב, עכשיו כשהכל ברור...	
+TB_9	218	Sanji	B	medium	confirmed	אני אישית אלך למנוע מנאמי להתחתן!	I'll personally go prevent Nami-san from getting married!	"personally" → אני אישית; "prevent X from -ing"	אני הולך לעצור את החתונה של נאמי!	
+TB_9	227	Sanji	B	medium	confirmed	אתה בא גם, אידיוט!	You're coming too, idiot!	"too" placed at end → גם after verb	גם אתה בא, אידיוט!	
+TB_9	234	Luffy	A	high	confirmed	אם כי, אני רוצה לראות את שלי.	Though, I wanna see mine.	"Though," → אם כי (Luffy)	אבל את שלי דווקא בא לי לראות.	
+TB_9	239	Old man (flashback)	F	medium	confirmed	ראיתי אותך עכשיו...	I just saw you...	"just" (=a moment ago) → עכשיו	ראיתי אותך קודם...	
+TB_9	245	Old man (flashback)	B	medium	confirmed	למרות מספר הקורבנות, אם תביס אותו, כולם ינצלו!	Despite the number of victims, if you beat him, everyone will be saved!	"Despite the number of victims"	לא משנה כמה קורבנות יש, אם תביס אותו כולם יינצלו!	
+TB_9	254	Luffy	A	medium	confirmed	מכיוון שזה יחזיר את הצללים של כולם...	Since that'll bring everyone's shadows back...	"Since" → מכיוון ש (Luffy)	ככה כולם יקבלו את הצללים בחזרה...	
+TB_9	256	Sanji	G	medium	house-norm	בוודאי!	But of course!	"But of course!" → בוודאי	בשמחה!	human gold uses בוודאי more than AI
+TB_9	258	Sanji	B	medium	confirmed	אבעט בו עד מוות ישר דרך הצד השני של הערפל הזה!	I'll kick the hell out of him right through the other side of this fog!	"kick the hell out of" → עד מוות; "right through"	אני אעיף אותו בבעיטה לצד השני של הערפל!	
+TB_9	259	Sanji	B	medium	confirmed	כאילו אתן לחתונה הזו להתקיים!	Like I'd let that wedding take place!	"Like I'd..." → כאילו + future	אין מצב שהחתונה הזאת יוצאת לפועל!	
+TB_9	264	Zoro	F	medium	confirmed	הוא עלול להפוך למשהו.	He might transform into something.	vague EN kept vague	הוא עוד יהפוך למפלצת.	
+TB_9	266	Usopp	B	medium	confirmed	אני אלך גם עם סאנג'י!	I'll go with Sanji too!	"too" → גם after verb (changes meaning)	גם אני הולך עם סאנג'י!	
+TB_9	275	Robin	C	medium	confirmed	לעת עתה הם בעדיפות שלנו.	For the time being they're our priority.	"they're our priority"	כרגע הם בראש סדר העדיפויות.	
+TB_9	280	Luffy	B	medium	confirmed	קרוקודייל היה גם.	Crocodile was too.	"X was too" → גם at end	גם קרוקודייל היה.	
+TB_9	284	Chopper	A	medium	confirmed	במיוחד מאחר ש... אני יודע שכבר אמרתי, אבל הזומבי שלך ענק נורא!	Especially since... I know I already said it, but your zombie is terribly huge!	"since" → מאחר ש (Chopper)	במיוחד ש... אני יודע שכבר אמרתי, אבל הזומבי שלך ענק!	
+TB_9	287	Usopp	A	medium	confirmed	תישא לפחות שק אחד.	Carry one bag at least.	"Carry" → תישא	קח לפחות שק אחד.	
+TB_9	289	Zoro	A	medium	confirmed	אה, אז זה מה שהכנת לפני זמן מה.	Ah, so this is what you were making a while ago.	"a while ago" → לפני זמן מה	אה, אז זה מה שהכנת קודם.	
+TB_9	294	Usopp	A	medium	confirmed	אין שום ערובה שאור השמש לא יחדור דרכו!	There's no guarantee sunlight won't get through it!	"guarantee" → ערובה	אין שום הבטחה שהשמש לא תחדור!	
+TB_9	296	Usopp	B	high	confirmed	במילים אחרות, כשהשמש תזרח עם עלות השחר, זה מגבלת הזמן הסופית שלנו!	In other words, when the sun arises at daybreak, that's our ultimate time limit!	"our ultimate time limit"	כלומר, בזריחה נגמר לנו הזמן!	
+TB_9	297	Luffy	G	medium	confirmed	זה מובן מאליו!	That goes without saying!	"That goes without saying" (Luffy)	ברור!	
+TB_9	298	Luffy	B	medium	confirmed	להגיע לשחר בלי לטעום אוכל זה הכי גרוע!	Reaching daybreak without tasting food is the worst!	"without tasting food"	לחכות עד הבוקר בלי לאכול זה הכי גרוע!	
+TB_9	304	Usopp	E	medium	confirmed	אני מתכוון למגבלה להחזיר את הצל-	I mean the limit to recover our shad-	"the limit to recover"	אני מדבר על הזמן שיש לנו להחזיר את הצ-	
+TB_9	310	Usopp	A	high	confirmed	אז תעשו כרצונכם!	Do as you wish then!	"as you wish" → כרצונכם	אז תעשו מה שבא לכם!	
+TB_9	324	Moria	A	medium	confirmed	מעכשיו, יגיעו לנו זומבים מיוחדים בזה אחר זה!	From now on, we'll have Special Zombies coming one after another!	"one after another" → בזה אחר זה	מעכשיו יהיו לנו זומבים מיוחדים אחד אחרי השני!	
+TB_9	331	Hildon	E	medium	confirmed	השלושה שהצללים שלהם נגנבו התעוררו בספינה ובדרך לכאן עם חבריהם!	...woke up at the ship and are heading this way with their friends!	long relative + חבריהם	השלושה שגנבנו להם את הצל התעוררו, והם בדרך לכאן עם החברים שלהם!	
+TB_9	337	Hildon	B	medium	confirmed	זה שכל הפיראטים יודעים איך לטהר את הזומבים זו הוכחה!	All of the pirates knowing how to purify the zombies is proof!	gerund subject → "זה ש... זו"	כל הפיראטים יודעים לטהר זומבים, זו ההוכחה!	
+TB_9	352	Hogback	A	high	confirmed	טקס חתונה הוא אירוע מכונן שקורה פעם בחיים.	A wedding ceremony is a once in a lifetime memorial event.	"memorial event" → אירוע מכונן	חתונה זה דבר שקורה פעם בחיים.	
+TB_9	354	Hogback	B	medium	confirmed	כאילו אעשה את זה עכשיו!	Like I'd do that now!	"Like I'd..." → כאילו + future	ממש לא הזמן לזה!	
+TB_9	356	Hildon	F	medium	confirmed	אני זומבי פשוט...	I'm a simple zombie...	"simple" (=lowly) → פשוט	אני סתם זומבי קטן...	
+TB_9	358	Perona	A	medium	confirmed	אין צורך להסתמך על החיה הזו.	No need to rely on that beast.	"rely on" → להסתמך	לא צריך את החיה הזאת.	
+TB_9	359	Perona	G	medium	confirmed	אם הרוחות שלי יחלישו אותם, זומבי החיילים יספיקו בהחלט כדי ללכוד אותם.	...the Soldier Zombies will be more than enough to capture them.	"more than enough to"	אם הרוחות שלי יחלישו אותם, זומבי החיילים יתפסו אותם בקלות.	
+TB_9	367	Hogback	H	medium	house-norm	כמה אמין.	How reliable.	"How + adj." → כמה + adj	על זאת אפשר לסמוך.	human gold uses כמה+adj
+TB_9	368	Hogback	D	high	confirmed	לא ציפיתי לפחות מנסיכת הרפאים.	I expect no less from the Ghost Princess.	"I expect no less from X" (=sasuga)	נסיכת הרפאים, מה אפשר לומר.	
+TB_9	370	Cindry	B	medium	confirmed	הכי טוב שתלמד...	It would be best if you learned...	"It would be best if you"	כדאי לך ללמוד...	
+TB_9	388	Sanji	F	high	confirmed	תראה את עצמך!	Show yourself!	"Show yourself!" → (=look at yourself!)	צא מהמחבוא!	
+TB_9	390	Usopp	A	medium	confirmed	הם משתוללים בזעם מוחלט.	They're rampaging with absolute fury.	"with absolute fury"	הם השתגעו לגמרי מעצבים.	
+TB_9	400	Franky	A	high	confirmed	אם אתה כל כך אסיר תודה ששחררתי אותך, ...	If you're so grateful that I freed you, ...	"grateful" → אסיר תודה	אם אתה כל כך מודה לי ששחררתי אותך, ...	
+TB_9	402	Robin	H	medium	house-norm	אוי לא! זה רע!	Oh no! This is bad!	"This is bad!" → זה רע	אוי לא! זה לא טוב!	human gold uses "זה רע!" at the same rate (learnings §1.5 lists it as a fix)
+TB_9	406	Sanji	A	medium	confirmed	יש לי גבות כל כך גדולות... מוטב לי למות...	I have such large eyebrows... I'm better off dead...	"better off dead" → מוטב לי	יש לי גבות כאלה גדולות... עדיף שאמות...	
+TB_9	410	Robin	C	medium	confirmed	זו עבודת הרוחות!	It's the ghosts doing!	"the ghosts' doing" → עבודת	אלה הרוחות!	
+TB_9	419	Oars	A	medium	confirmed	הפליגו! הפליגו!	Set sail! Set sail!	literary plural imperative	מפליגים! מפליגים!	
+TB_9	431	Zoro	A	medium	confirmed	נניח בצד את העובדה ששני אלה נפלו...	Leaving aside the fact that these two fell down...	"Leaving aside the fact that"	עזוב שהם נפלו...	
+TB_9	433	Franky	A	medium	confirmed	הדרך שלנו נחסמה לפתע.	Our path was suddenly blocked.	"suddenly" → לפתע	פתאום הדרך נחסמה.	
+TB_9	442	Zoro	A	medium	confirmed	קיר ענק הופיע לפתע.	A huge wall suddenly appeared.	"suddenly" → לפתע	פתאום הופיע קיר ענק.	
+SAB_7	27	(crew)	E	medium	confirmed	אז מן הסתם ברור עכשיו מה אנחנו צריכים לעשות.	Guess that makes it clear what we gotta do now.	"Guess that makes it clear" → מן הסתם + ברור	טוב, אז ברור מה עושים עכשיו.	
+SAB_7	61	Hachi	D	medium	confirmed	אל תדאגי! מי את חושבת שאני?!	Don't worry! Who do you take me for?!	"Who do you take me for?!" (ore wo dare da to)	אל תדאגי! מה, את לא מכירה אותי?!	
+SAB_7	79	Brook	H	medium	house-norm	ובכן! סליחה על הכניסה המאוחרת!	Now then! Pardon my late entrance!	"Now then!" → ובכן	טוב! סליחה שאיחרתי!	Brook polite, but ובכן! as exclamation is bookish; human gold uses ובכן
+SAB_7	92	guard	B	medium	confirmed	בדיוק חזרת על הפשע שלך, פיראט!	You just repeated your crime pirate!	"repeated your crime"	הנה עשית את זה שוב, פיראט!	
+SAB_7	101	(Kid crew?)	C	medium	confirmed	מה העניין עם הדוב הזה?	What's with that bear?	"What's with X?" → מה העניין עם	מה הקטע עם הדוב הזה?	
+SAB_7	105	Marine	B	medium	confirmed	איך זה נראה בפנים?!	How's it look inside?!	"How's it look"	מה המצב בפנים?!	
+SAB_7	112	Law	C	medium	confirmed	זה היה מופע מעניין שהעליתם, צוות כובע-הקש.	That was an interesting show you gave Straw Hat-ya crew.	"show you gave"	איזו הצגה עשיתם, צוות כובע הקש.	
+SAB_7	126	Rayleigh	B	medium	confirmed	יש כאן מהומה אמיתית. הייתי אומר שהמכירה נגמרה.	The place is in a real uproar. I'd say the auction's over.	"I'd say" → הייתי אומר ש	יש פה בלגן רציני. נראה לי שהמכירה נגמרה.	
+SAB_7	136	Rayleigh	H	medium	house-norm	הו? נראה שמשכנו קצת תשומת לב...	Oh? Looks like we've garnered some attention...	"Oh?" → הו?	אוהו? נראה שמשכנו קצת תשומת לב...	house rule 6 הו for Oh; human gold 62/10k
+SAB_7	146	Rayleigh	H	medium	house-norm	הו! זה אתה, האצ'י?! זה באמת אתה!	Oh! Is that you Hachi?! It is!	"Oh!" → הו!	אה! האצ'י?! זה באמת אתה!	house rule 6 הו for Oh
+SAB_7	150	Rayleigh	B	medium	confirmed	בקיצור... אני מבין. עכשיו ברור לי המצב.	In short... I see. I understand the situation now.	"I see" → אני מבין	טוב... הבנתי. עכשיו הכל ברור.	
+SAB_7	151	Rayleigh	C	high	confirmed	בהחלט הכנסת את עצמך לערמה של צרות, האצ'י.	You sure got yourself into a heap of trouble Hachi.	"a heap of trouble", "You sure" → בהחלט	הסתבכת לא רע, האצ'י.	
+SAB_7	153	Rayleigh?	H	medium	house-norm	ובכן...	Well then...	"Well then" → ובכן	טוב, אז...	human gold uses hesitation ובכן...
+SAB_7	154	(crew)	A	medium	confirmed	האם הוא...	Is he...	yes/no question → האם	הוא...?	
+SAB_7	158	Rayleigh	B	medium	confirmed	כובע הקש הזה מתאים מאוד לגברים חסרי פחד.	That straw hat suits dauntless men very well.	"suits X very well"; plural generic	כובע הקש הזה הולם גבר אמיץ.	
+SAB_7	171	Drake crew	A	medium	confirmed	זה הושלם אתמול!	It was completed yesterday!	passive "was completed" → הושלם	סיימו אתמול!	
+SAB_7	180	Drake	F	medium	confirmed	איזו חבורה מטרידה הם באמת...	What a truly troublesome lot they are...	"troublesome" → מטרידה (=worrying/harassing)	איזו חבורה של צרות...	
+SAB_7	184	Hawkins	C	medium	confirmed	בהתחשב במצב, אני בספק שזו תוכנית מעצר כוללת.	Given the situation I somehow doubt this is an all-out arrest plot.	"all-out arrest plot"	לפי המצב, אני בספק שזה מבצע מעצר רחב.	formal voice OK, collocation odd
+SAB_7	185	Hawkins	B	medium	weak	זה לופי כובע הקש שהם רוצים, נכון?	It's Straw Hat Luffy they're after right?	cleft "It's X they're after"	הם אחרי לופי כובע הקש, נכון?	cleft same rate in human gold
+SAB_7	192	Sengoku	C	medium	confirmed	שוב הפרחח הזה?! זה דבר אחרי דבר!	That brat again?! It's one thing after the other!	"one thing after the other"	שוב הפרחח הזה?! צרה אחרי צרה!	
+SAB_7	193	Sengoku	B	medium	confirmed	מה יש לשושלת של כל המשפחה הזו?!	What's with that entire family's bloodline?!	"What's with X's bloodline"	מה הבעיה של המשפחה הזאת?!	
+SAB_7	202	Marine officer	E	medium	confirmed	אני מאמין שייתכן שכולם הוכנעו...	I believe they may have all been subdued...	"I believe they may have" double hedge	כנראה שכולם הובסו...	
+SAB_7	207	Kizaru	A	high	confirmed	יהיה אשר יהיה, אדון סנגוקו, נצטרך לפעול	Whatever the case may be Sengoku-san we'll need to take action	"Whatever the case may be" → יהיה אשר יהיה (laid-back Kizaru)	בכל מקרה, אדון סנגוקו, צריך לפעול	
+SAB_7	210	Kizaru	F	medium	confirmed	תן לי ללכת. אל תדאג, זה לא ייקח הרבה זמן.	Allow me to go. Rest easy; I won't be long.	"Allow me to go" → תן לי ללכת (=let me go free)	אני אלך. אל תדאג, זה לא ייקח הרבה זמן.	
+SAB_7	213	Disco	C	medium	confirmed	זה לא עניין מצחיק!	This is no laughing matter!	"no laughing matter"	זה לא צחוק!	
+SAB_7	220	Doflamingo	C	medium	confirmed	עכשיו הכל סובב סביב חיוכים! חיוכים!	It's all about smiles now! Smiles!	"It's all about X"	עכשיו הכל זה חיוכים! חיוכים!	
+SAB_7	225	Doflamingo	B	medium	confirmed	בזמן שאתה יושב שם ומאשים אותי בחוסר המזל של עצמך,	While you sit there blaming me for your own misfortune	"your own misfortune" → של עצמך	בזמן שאתה יושב שם ומאשים אותי במזל הרע שלך,	
+SAB_7	249	(unknown)	B	medium	confirmed	מה כל זה עכשיו?! אל תפחיד אותי ככה!	What's all this now?! Don't scare me like that!	"What's all this now?!"	מה זה היה?! אל תפחיד אותי ככה!	
+SAB_7	255	Rayleigh	H	medium	house-norm	הו! מצאת אותם? כל הכבוד!	Oh! You found them? Well done!	"Oh!" → הו!	אה! מצאת אותם? כל הכבוד!	house rule 6 הו for Oh
+SAB_7	256	Rayleigh	A	medium	confirmed	אבל כבר לא צריך אותם. הנה, תישא את הילדה הזו.	But we no longer need them. Here you carry this girl.	"carry" → תישא	אבל כבר לא צריך אותם. הנה, תחזיק את הילדה.	
+SAB_7	263	Rayleigh	B	medium	confirmed	כל הקונים ברחו! גם אתם כדאי שתסתלקו כל עוד אפשר!	...You should scram while you can too!	"too" fronted with wrong scope	כל הקונים ברחו! כדאי שגם אתם תסתלקו כל עוד אפשר!	
+SAB_7	269	Rayleigh	B	medium	confirmed	כובע הקש הזה מתאים מאוד לגברים חסרי פחד.	That straw hat suits dauntless men very well.	(repeat of 158)	כובע הקש הזה הולם גבר אמיץ.	
+SAB_7	280	Kid	G	medium	confirmed	אין ספק בכך. מה איש אגדי עושה במקום כזה?	No doubt about it. What's a legendary man doing in a place like this?	"No doubt about it" → בכך; "legendary man"	אין ספק. מה אגדה כמוהו עושה במקום כזה?	
+SAB_7	283	Rayleigh	F	medium	confirmed	אני חייל זקן עכשיו. אני רק רוצה לחיות בשקט ובשלווה.	I'm an old soldier now. I just want to live in peace and quiet.	"old soldier" (=retired veteran) kept literal	אני כבר בפנסיה. אני רק רוצה לחיות בשקט.	
+SAB_7	289	Rayleigh	B	medium	confirmed	כן, בוא נשמור את זה לאחר כך. קודם צריך לצאת מכאן.	Yes let's save that for later. We first need to get out of here.	"save that for later"; לאחר כך	כן, נדבר על זה אחר כך. קודם צריך לצאת מפה.	
+SAB_7	295	Law	B	high	confirmed	קיבלתי הצצה טובה לטירוף שבגללו לופי כובע הקש ידוע לשמצה.	I got a good glimpse of the insanity that makes Straw Hat Luffy so notorious.	"got a good glimpse of", relative "that makes X notorious"	עכשיו ראיתי מקרוב את הטירוף שלופי כובע הקש מפורסם בו.	
+SAB_7	296	Law/Kid	B	medium	confirmed	אין לי תלונות, אבל אני מעדיף לא להיתקל באדמירל עכשיו אם אפשר!	I have no complaints but I'd rather not run into an admiral now if I can avoid it!	"I have no complaints"	לא שאני מתלונן, אבל אני מעדיף לא להיתקל עכשיו באדמירל!	
+SAB_7	297	Rayleigh	B	medium	confirmed	הו, אני מעדיף לא להשתמש יותר בכוח ההוא שלי, אז זה עליכם!	Oh I'd prefer not to use that power of mine anymore so I leave this to you!	"Oh"; "that power of mine"	אה, אני מעדיף לא להשתמש יותר בכוח שלי, אז זה עליכם!	
+SAB_7	300	(crew)	A	medium	confirmed	ככל שנישאר כאן יותר זמן, כך יגיעו עוד חיילים!	The longer we stay here the more troops there'll be!	"The longer... the more" → ככל ש... כך	כל דקה שאנחנו פה, מגיעים עוד חיילים!	
+SAB_7	319	Law	B	medium	confirmed	תגיד לי שוב מה לעשות ואתחיל בלחסל אותך, יוסטאס!	Tell me what to do again and I'll start by getting rid of you Eustass-ya!	"start by -ing" → בלחסל	עוד פעם תגיד לי מה לעשות, ואתה הראשון שאני מחסל, יוסטאס!	
+SAB_7	326	Hachi	B	high	confirmed	לא חשוב עלי! אני פשוט שמח שאת בסדר!	Never mind me! I'm just glad you're all right!	"Never mind me!" → לא חשוב עלי (ungrammatical)	עזבי אותי! העיקר שאת בסדר!	
+SAB_7	329	Rayleigh/Robin	A	medium	confirmed	ניפגש בחורשה 13 אם ניפרד זה מזה.	Let us meet up on Grove #13 should we find ourselves separated.	formal EN "should we find ourselves separated" → זה מזה	אם נתפצל, ניפגש בחורשה 13.	
+SAB_7	332	(crew)	B	medium	confirmed	מה אתה תעשה, אדון ענק?!	What will you do Mr. Giant?!	subject pronoun overuse	ומה איתך, אדון ענק?!	
+SAB_7	333	giant (freed slave)	B	high	confirmed	כולנו היינו על סף להפוך לעבדים.	We were all on the verge of becoming slaves.	"on the verge of -ing" → על סף + infinitive	כמעט נהיינו כולנו עבדים.	
+IM_4	17	Hannyabal/Sadi	C	medium	confirmed	בכל מקרה, ברגע שיתפסו אותם, נגמר להם.	It'll all be over for'em anyway, once they get caught.	"It's over for them" → נגמר להם (=they ran out)	ממילא, ברגע שיתפסו אותם, הם גמורים.	same pattern the user already fixed (נגמר לנו → הלך עלינו)
+IM_4	22	Hannyabal	A	medium	confirmed	היית כל כך שקוע באדונתי הנקוק שפספסת את הדיווחים, זוכר?	You were so focused on Hancock-dono that you ignored the reports, remember?	"-dono" → archaic אדונתי (house: גברת)	היית כל כך שקוע בגברת הנקוק שפספסת את הדיווחים, זוכר?	
+IM_4	23	Magellan	B	medium	house-norm	התעלמתי מהדיווחים, אתה אומר?!	I ignored the reports, you say?!	"X, you say?!"	מה, אני התעלמתי מהדיווחים?!	human gold has "משקל, אתה אומר?"
+IM_4	95	Bon Clay	A	medium	confirmed	אכן. כמו שאמרת,	Indeed.  As you said,	"Indeed" → אכן (flamboyant okama)	בדיוק. כמו שאמרת,	
+IM_4	99	Bon Clay	F	high	confirmed	אבל אם לא תיזהר בנחיתה, לא תסתפק בכוויה.	but if you don't take care in landing, you won't escape with just a burn.	"won't escape with just X" → לא תסתפק ב (=won't settle for)	אבל אם לא תנחת בזהירות, זה לא ייגמר בכוויה.	
+IM_4	126	Buggy	C	medium	confirmed	אין לי ברירה אלא לשלוף את קלף הניצחון!	I've got no choice but to reveal my trump card!	"trump card" → קלף הניצחון (idiom: הקלף המנצח)	אין ברירה, אני שולף את הקלף המנצח!	
+IM_4	129	Buggy	A	medium	confirmed	שהטיל עליך אימה, כדור הבאגי המיוחד?	that I used to strike fear into your heart, my Special Buggy-ball?	"strike fear into your heart" → הטיל אימה	שעשה לך פחד מוות, כדור הבאגי המיוחד?	
+IM_4	136	Mr. 3?	B	medium	confirmed	זה אומר שיש לך המון אמון בכדור הבאגי הזה, נכון?	that must mean that you have a lot of faith in this Buggy-ball of yours, right?	"have a lot of faith in" → המון אמון ב	כנראה שאתה ממש סומך על כדור הבאגי הזה, נכון?	
+IM_4	180	Marine	H	medium	house-norm	ובכן... הקיסר קאידו!	Well... the Yonkou Kaidou!	"Well..." → ובכן	אה... הקיסר קאידו!	hesitation ובכן...
+IM_4	185	Momonga	B	medium	confirmed	כמה הים הזה נהיה סוער.	My, how uneasy this sea has become.	"My, how X has become" exclamative	הים הזה נהיה ממש סוער.	
+IM_4	193	Buggy	H	medium	confirmed	כמה פעמים צריך להסביר לך את זה, אידיוט ארור?!	How many times do I have to explain it, you freaking dumbass?!	"freaking/damn" → ארור	כמה פעמים צריך להסביר לך, יא טמבל?!	
+IM_4	205	Luffy?	F	medium	confirmed	בחיי, איזו נזלת דם ענקית...	Man, what a huge blood booger...	"blood booger" → נזלת דם	וואו, איזה גוש נזלת עם דם...	low priority
+IM_4	208	Bon Clay	A	medium	confirmed	אין לנו צורך בפחדנים חסרי-השדרה האלו.	We don't need those spineless wimps.	"We don't need" → אין לנו צורך ב	לא צריך את הפחדנים חסרי עמוד השדרה האלה.	
+IM_4	211	Luffy	A	medium	confirmed	החלטתי! אני יורד סחור-סחור!	I've decided! I'm going 'round and 'round!	"'round and 'round" → biblical סחור-סחור	החלטתי! אני יורד בסיבובים!	
+IM_4	215	(Mr. 3?)	A	medium	confirmed	תהיתי מאיפה מגיע קול הסדק הזה...	I was just wondering what kind of trick they were using to cause that cracking-sound...	"wondering" → תהיתי; "cracking-sound" → קול הסדק	שאלתי את עצמי מה עושה את רעש הסדקים הזה...	
+IM_4	216	(Buggy?)	B	medium	confirmed	אנחנו אלה שנופלים למטה!	We're the ones falling down!	cleft "We're the ones -ing"	זה אנחנו שנופלים!	
+IM_4	259	Hannyabal	B	medium	confirmed	תזדרז ותצא.	Hurry up, and come out.	"Hurry up and V"	צא כבר.	
+IM_4	263	Hannyabal	I	medium	confirmed	כשאקח את התפקיד שלך, תעשה אותו פחות סגור.	When I take over your job, please change it to a less confined one.	referent of "it" (the chair) lost	כשאני אחליף אותך, תחליף אותו בכיסא פחות סגור.	
+IM_4	271	Sadi	A	high	confirmed	הם לא יכולים לרסן את צימאונם לדם...	They can't hold back their bloodthirstiness...	"their bloodthirstiness" → suffix צימאונם	הם כבר מתים לטעום דם...	
+IM_4	334	Bon Clay	F	medium	confirmed	אתם פשוט חסרי אונים!	You guys are just helpless!	"helpless" (=hopeless/pathetic) → חסרי אונים	אתם פשוט חסרי תקנה!	
+IM_4	336	Bon Clay	B	medium	confirmed	לא שאני לא מבין אתכם, בכל זאת.	Not that I don't understand how you feel, though.	sentence-final "though" → בכל זאת	אבל אני מבין אתכם, האמת.	
+IM_4	391	Mr. 3	C	high	confirmed	אבל אם גם הסוהר מגלן יופיע, נגמר לנו!	but if Warden Magellan also shows up, we're done for!	"we're done for" → נגמר לנו	אבל אם גם הסוהר מגלן יופיע, הלך עלינו!	user-confirmed pattern
+MA_6	11	Ace (inner)	B	high	confirmed	יד ששולחים להציל, אני תופס...	I'll take the outstretched hand that saves me...	fronted object + truncated relative ("the hand that saves me")	אם מושיטים לי יד להציל אותי, אני אתפוס אותה...	over-condensed; hard to parse
+MA_6	12	Ace (inner)	A	medium	confirmed	... או מרכין ראש לחרב.	... or bow to the blade that punishes me.	"bow to the blade" → מרכין ראש לחרב	...או שאשלים עם החרב שמענישה אותי.	poetic monologue; low priority
+MA_6	28	Buggy	I	medium	confirmed	את מי קראת אף אדום, בן זונה?!	Who're you callin' Red-Nose, you bastard?!	"Who're you calling" → את מי (קרא ל-)	למי קראת אף אדום, בן זונה?!	grammar slip; IM_4 209 has למי
+MA_6	33	Whitebeard	C	high	confirmed	ימים רחוקים... אתה עוד חי?	That sure takes me back... So you're still alive?	"takes me back" (user already fixed מחזיר ימים)	איזה זיכרונות... אתה עוד חי?	recurrence of a user-ruled pattern
+MA_6	35	Buggy crew	C	high	confirmed	נגמר לנו! בורחים!	We're done for!  We have no choice but to run!	"We're done for" → נגמר לנו	הלך עלינו! בורחים!	recurrence of a user-ruled pattern
+MA_6	41	Whitebeard	C	medium	confirmed	הבאת איתך ערימת אסירים...	Judging from all the prisoners you've brought along...	"all the prisoners" → ערימת אסירים	לפי כל האסירים שהבאת איתך...	
+MA_6	42	Whitebeard	C	medium	confirmed	באת על הראש שלי, מה?	I suppose you've come to take my head?	"come to take my head" → באת על	באת בשביל הראש שלי, אה?	
+MA_6	67	Whitebeard	F	medium	confirmed	החבר'ה האלו ריקים לגמרי.	I can't believe how simple-minded these guys are.	"simple-minded" → ריקים	אין להם טיפת שכל, לחבר'ה האלה.	
+MA_6	80	Whitebeard	G	medium	confirmed	תנהלו את כל הפיראטים, ותעבירו מה שאמרתי!	Take command of all the pirate crews, and pass my orders on to them!	"take command of" → תנהלו (managerial)	תפקדו על כל הצוותים, ותעבירו להם את הפקודות שלי!	
+MA_6	89	Marine	C	medium	confirmed	אדמירל הצי סנגוקו! פיראטי העולם החדש משנים התקפה!	...are changing their attack pattern!	"changing their attack pattern" → משנים התקפה	...פיראטי העולם החדש משנים טקטיקה!	
+MA_6	95	Sengoku	I	medium	confirmed	חוש חד לא עוצר גורל!	But sharp intuition won't be enough to stop fate!	over-condensed into a pseudo-proverb	אבל אינטואיציה חדה לא תעצור את הגורל!	
+MA_6	96	Marine	F	medium	confirmed	אין מצב! מוריה נגד בכור הים, ג'ינביי?!	...Moriah's up against "Knight of the Sea", Jinbe?!	"Knight" → בכור (firstborn); IM_2/6/9, MA_5 use אביר הים	אין מצב! מוריה נגד אביר הים, ג'ינביי?!	terminology drift
+MA_6	110	Jinbe	B	medium	confirmed	אין לך מספיק יכולת.	You don't have enough skill.	"don't have enough skill"	זה גדול עליך.	
+MA_6	138	Smoker	C	medium	confirmed	הנקוק! מה את משחקת פה?!	Hancock!  What are you playing at?!	"What are you playing at?!" literal	הנקוק! מה את עושה?!	
+MA_6	141	Hancock	C	medium	confirmed	אני רותחת. הפה שלך לא מעניין אותי!	I am so infuriated, I don't care what you say!	"I don't care what you say" → הפה שלך	אני רותחת. לא מעניין אותי מה יש לך להגיד!	
+MA_6	214	Ivankov	A	medium	confirmed	והחליפו לו את הגוף חתיכה חתיכה, שנים על גבי שנים.	...piece by piece, over a long period of time.	"over a long period of time" → שנים על גבי שנים	והחליפו לו את הגוף חתיכה אחרי חתיכה, במשך שנים.	
+MA_6	226	Kuma (flashback)	A	medium	voice-ok	לא ניפגש עוד.	We will never meet again.	"never again" → לא... עוד	לא ניפגש יותר.	voice-ok-ish (stoic farewell); low priority; stoic farewell (Kuma)
+MA_6	257	Buggy	B	medium	confirmed	זמן למבצע "קפטן באגי נהיה מפורסם"!	It's time to put Operation: "Make Captain Buggy Famous" into action!	"It's time to/for" → זמן ל	יוצאים לדרך: מבצע "קפטן באגי נהיה מפורסם"!	
+MA_6	285	Mihawk	H	medium	weak	ובכן, גורל.	Now then, fate.	"Now then" → ובכן	נו, גורל... בוא נראה.	ובכן is house-norm; fragment is cryptic but in-voice for Mihawk
+MA_6	286	Mihawk	I	medium	confirmed	הילד שהובטח לדור הבא... פה נגמרים לו החיים?	Will the life of a promised child from the next generation... end here?	"promised child" kept literal, meaning lost	הילד שהדור הבא תלוי בו... פה זה נגמר בשבילו?	
+MA_1	7	Blackbeard?	A	medium	confirmed	הגורל... הביא אותך הנה.	You were... destined to come here.	"destined to come here" → archaic directional הנה	הגורל... הביא אותך לכאן.	not touched by the gate
+MA_1	11	Ivankov/Jinbe	C	medium	confirmed	החיים והמוות בידי השמיים,	Heaven chooses who survives,	idiom is בידי שמיים (no article); literal "the sky"	מי חי ומי מת, זה בידי שמיים,	not touched by the gate
+MA_1	16	Blackbeard	B	medium	confirmed	שוב, ברוך הבא אלינו.	I welcome you once again.	"once again" opener (gate fix kept שוב,)	אז שוב: ברוך הבא לצוות.	gate fixed this line (16) but the calque opener survived
+MA_1	31	Luffy?	F	medium	confirmed	הוא לא היה כזה רע, בסוף.	You know, he wasn't such a bad guy, after all.	"after all" → בסוף (=in the end)	בסך הכל הוא לא היה בחור רע.	not touched by the gate
+MA_1	54	Crocodile	B	medium	contested	כלומר, בשביל גזע כל כך פראי...	I mean, for such a savage race...	"for (=considering)" → בשביל	כלומר, יחסית לגזע כל כך פראי...	CONTESTED: gate deliberately changed ל→בשביל; colloquial בשביל=considering exists; the gate chose בשביל; colloquial בשביל=considering exists
+MA_1	59	Buggy crew	I	medium	weak	יש לקפטן באגי אף אדום שני!	Captain Buggy got a second red nose!	"got" (event) → יש ל (state); visual gag	לקפטן באגי צמח עוד אף אדום!	weak: faithful to EN, the image explains it; faithful to EN; visual gag explains it
+MA_1	100	Crocodile?	B	medium	confirmed	למה ששניכם לא תרדו?	Why don't you two just get off?	"Why don't you" suggestion → למה ש (=why would)	אז שניכם פשוט תרדו.	not touched by the gate
+MA_1	266	villager (S. Blue)	B	medium	weak	זקן לבן או לא, הוא כבר דיי זקן, לא?	Even if this is Whitebeard, he's gotten pretty old by now, right?	"X or not"	גם אם זה זקן לבן, הוא כבר דיי זקן, לא?	weak: this IS the gate's fix; better than before; this is the gate's own fix and it is better than before
+MA_1	323	Buggy	A	medium	confirmed	אנשיי! הזמן כמעט הגיע!	My men! It's almost time!	"My men!" → suffix אנשיי	חבר'ה! עוד רגע זה קורה!	GATE-INTRODUCED: round 1 changed אנשים שלי → אנשיי
+MA_1	341	Sengoku	A	high	confirmed	הוצאתו להורג של האיש הזה קובעת הכל.	The execution of this man is of paramount importance.	"The execution of this man" → suffix + של double possessive	להוצאה להורג של האיש הזה יש חשיבות עליונה.	not touched by the gate
+MA_1	346	Garp?/officer	B	medium	confirmed	על מה כל זה?	What's this all about?	"What's this all about?"	מה זה אמור להביע?	not touched by the gate
+MA_1	351	Sengoku	A	medium	confirmed	חשדנו שהאיש הזה הוליד ילד באי מסוים.	We suspected that man might have conceived a child on a certain island.	"conceived a child" → biblical הוליד	חשדנו שלאיש הזה נולד ילד באי מסוים.	not touched by the gate

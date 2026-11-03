@@ -1,0 +1,363 @@
+corpus	arc	ep	file	dialogue_lines	TierA_hits	TierA_per1k	TierB_per1k	top_TierA_rules
+AI_main	Other	Opening	subtitles/main/Other/Opening/We Are/We are he.ass	9	1	111.11	0.00	A06:1
+AI_main	32 Wano	27	subtitles/main/32 Wano/27/wano 27 he.ass	308	17	55.19	19.48	A01:6; A06:3; A02:3
+AI_main	32 Wano	22	subtitles/main/32 Wano/22/wano 22 he.ass	281	14	49.82	28.47	A01:6; A08:3; A02:2
+AI_main	31 Reverie	02	subtitles/main/31 Reverie/02/reverie 02 he.ass	532	26	48.87	30.08	A01:14; A02:5; A17:3
+AI_main	14 Skypiea	09	subtitles/main/14 Skypiea/09/skypiea 09 he.ass	473	23	48.63	23.26	A01:9; A07:3; A13:3
+AI_main	09 Whisky Peak	01	subtitles/main/09 Whisky Peak/01/whiskypeak 01 he.ass	442	21	47.51	15.84	A01:13; A02:2; A08:1
+AI_main	14 Skypiea	23	subtitles/main/14 Skypiea/23/skypiea 23 he.ass	214	10	46.73	14.02	A01:5; A04:1; A07:1
+AI_main	12 Alabasta	14	subtitles/main/12 Alabasta/14/alabasta 14 he.ass	301	14	46.51	16.61	A01:8; A18:2; A04:1
+AI_main	32 Wano	10	subtitles/main/32 Wano/10/wano 10 he.ass	375	17	45.33	18.67	A01:4; A06:3; A05:2
+AI_main	12 Alabasta	15	subtitles/main/12 Alabasta/15/alabasta 15 he.ass	334	15	44.91	17.96	A01:4; A05:4; A07:2
+AI_main	14 Skypiea	19	subtitles/main/14 Skypiea/19/skypiea 19 he.ass	336	15	44.64	20.83	A01:8; A02:4; A09:1
+AI_main	32 Wano	33	subtitles/main/32 Wano/33/wano 33 he.ass	338	15	44.38	14.79	A13:4; A02:3; A15:3
+AI_main	32 Wano	31	subtitles/main/32 Wano/31/wano 31 he.ass	296	13	43.92	27.03	A17:4; A13:4; A04:2
+AI_main	14 Skypiea	15	subtitles/main/14 Skypiea/15/skypiea 15 he.ass	416	18	43.27	26.44	A01:9; A17:2; A06:2
+AI_main	14 Skypiea	10	subtitles/main/14 Skypiea/10/skypiea 10 he.ass	185	8	43.24	21.62	A01:5; A09:1; A02:1
+AI_main	32 Wano	20	subtitles/main/32 Wano/20/wano 20 he.ass	463	20	43.20	21.60	A01:7; A02:4; A05:2
+AI_main	14 Skypiea	12	subtitles/main/14 Skypiea/12/skypiea 12 he.ass	301	13	43.19	19.93	A04:4; A01:4; A12:2
+AI_main	32 Wano	35	subtitles/main/32 Wano/35/wano 35 he.ass	396	17	42.93	20.20	A01:10; A17:3; A11:1
+AI_main	07 Loguetown	03	subtitles/main/07 Loguetown/03/loguetown 03 he.ass	522	22	42.15	9.58	A01:10; A02:3; A11:3
+AI_main	32 Wano	19	subtitles/main/32 Wano/19/wano 19 he.ass	387	16	41.34	15.50	A01:10; A03:2; A12:1
+AI_main	32 Wano	29	subtitles/main/32 Wano/29/wano 29 he.ass	277	11	39.71	50.54	A01:6; A13:3; A15:1
+AI_main	14 Skypiea	03	subtitles/main/14 Skypiea/03/skypiea 03 he.ass	354	14	39.55	25.42	A01:6; A04:4; A11:2
+AI_main	30 Whole Cake Island	27	subtitles/main/30 Whole Cake Island/27/wci 27 he.ass	420	16	38.10	7.14	A01:14; A11:2
+AI_main	32 Wano	28	subtitles/main/32 Wano/28/wano 28 he.ass	292	11	37.67	17.12	A01:2; A06:2; A02:1
+AI_main	24 Post War	07	subtitles/main/24 Post War/07/postwar 07 he.ass	483	18	37.27	18.63	A01:5; A06:3; A05:2
+AI_main	32 Wano	18	subtitles/main/32 Wano/18/wano 18 he.ass	523	19	36.33	17.21	A01:10; A05:2; A09:2
+AI_main	08 Reverse Mountain	02	subtitles/main/08 Reverse Mountain/02/reversemountain 02 he.ass	523	19	36.33	22.94	A01:14; A11:2; A17:1
+AI_main	14 Skypiea	14	subtitles/main/14 Skypiea/14/skypiea 14 he.ass	360	13	36.11	16.67	A01:6; A07:2; A11:1
+AI_main	17 Enies Lobby	10	subtitles/main/17 Enies Lobby/10/enieslobby 10 he.ass	277	10	36.10	18.05	A01:6; A05:2; A09:1
+AI_main	32 Wano	17	subtitles/main/32 Wano/17/wano 17 he.ass	449	16	35.63	6.68	A08:9; A01:4; A07:2
+AI_main	06 Arlong Park	10	subtitles/main/06 Arlong Park/10/arlongpark 10 he.ass	309	11	35.60	16.18	A01:3; A12:2; A09:1
+AI_main	30 Whole Cake Island	09	subtitles/main/30 Whole Cake Island/09/wci 09 he.ass	313	11	35.14	35.14	A07:3; A01:3; A11:2
+AI_main	14 Skypiea	05	subtitles/main/14 Skypiea/05/skypiea 05 he.ass	317	11	34.70	15.77	A04:3; A01:2; A11:2
+AI_main	32 Wano	30	subtitles/main/32 Wano/30/wano 30 he.ass	319	11	34.48	15.67	A01:3; A05:2; A02:2
+AI_main	33 Egghead	17	subtitles/main/33 Egghead/17/egghead 17 he.ass	264	9	34.09	30.30	A03:2; A06:2; A13:2
+AI_main	32 Wano	09	subtitles/main/32 Wano/09/wano 09 he.ass	353	12	33.99	25.50	A07:2; A08:2; A06:2
+AI_main	14 Skypiea	24	subtitles/main/14 Skypiea/24/skypiea 24 he.ass	302	10	33.11	16.56	A01:6; A04:2; A03:1
+AI_main	17 Enies Lobby	09	subtitles/main/17 Enies Lobby/09/enieslobby 09 he.ass	492	16	32.52	20.33	A01:6; A05:2; A07:2
+AI_main	11 Drum Island	02	subtitles/main/11 Drum Island/02/drumisland 02 he.ass	590	19	32.20	10.17	A01:15; A02:1; A12:1
+AI_main	10 Little Garden	03	subtitles/main/10 Little Garden/03/littlegarden 03 he.ass	409	13	31.78	4.89	A01:9; A06:1; A12:1
+AI_main	32 Wano	32	subtitles/main/32 Wano/32/wano 32 he.ass	189	6	31.75	31.75	A01:2; A07:1; A06:1
+AI_main	16 Water Seven	08	subtitles/main/16 Water Seven/08/waterseven 08 he.ass	379	12	31.66	29.02	A01:8; A04:2; A03:1
+AI_main	32 Wano	21	subtitles/main/32 Wano/21/wano 21 he.ass	462	14	30.30	17.32	A01:7; A06:2; A02:2
+AI_main	10 Little Garden	05	subtitles/main/10 Little Garden/05/littlegarden 05 he.ass	363	11	30.30	19.28	A01:5; A13:2; A03:2
+AI_main	16 Water Seven	03	subtitles/main/16 Water Seven/03/waterseven 03 he.ass	634	19	29.97	36.28	A01:13; A02:3; A06:1
+AI_main	14 Skypiea	25	subtitles/main/14 Skypiea/25/skypiea 25 he.ass	267	8	29.96	7.49	A01:3; A15:1; A06:1
+AI_main	31 Reverie	03	subtitles/main/31 Reverie/03/reverie 03 he.ass	401	12	29.93	19.95	A01:5; A02:4; A07:2
+AI_main	17 Enies Lobby	03	subtitles/main/17 Enies Lobby/03/enieslobby 03 he.ass	274	8	29.20	10.95	A01:4; A02:3; A17:1
+AI_main	32 Wano	40	subtitles/main/32 Wano/40/wano 40 he.ass	446	13	29.15	17.94	A17:2; A05:2; A07:2
+AI_main	12 Alabasta	10	subtitles/main/12 Alabasta/10/alabasta 10 he.ass	446	13	29.15	22.42	A01:11; A11:2
+AI_main	14 Skypiea	02	subtitles/main/14 Skypiea/02/skypiea 02 he.ass	347	10	28.82	34.58	A02:5; A11:2; A07:1
+AI_main	07 Loguetown	02	subtitles/main/07 Loguetown/02/loguetown 02 he.ass	490	14	28.57	24.49	A01:9; A11:2; A06:1
+AI_main	32 Wano	46	subtitles/main/32 Wano/46/wano 46 he.ass	390	11	28.21	25.64	A01:4; A07:2; A06:2
+AI_main	12 Alabasta	12	subtitles/main/12 Alabasta/12/alabasta 12 he.ass	284	8	28.17	21.13	A01:3; A11:2; A07:1
+AI_main	14 Skypiea	25	subtitles/main/14 Skypiea/25/skypiea 25 alternate he.ass	329	9	27.36	18.24	A01:3; A06:2; A15:1
+AI_main	30 Whole Cake Island	15	subtitles/main/30 Whole Cake Island/15/wci 15 he.ass	440	12	27.27	22.73	A01:5; A07:3; A03:1
+AI_main	32 Wano	23	subtitles/main/32 Wano/23/wano 23 he.ass	405	11	27.16	22.22	A01:3; A06:2; A07:2
+AI_main	14 Skypiea	11	subtitles/main/14 Skypiea/11/skypiea 11 he.ass	442	12	27.15	22.62	A08:5; A01:2; A12:2
+AI_main	32 Wano	36	subtitles/main/32 Wano/36/wano 36 he.ass	407	11	27.03	9.83	A01:8; A06:2; A04:1
+AI_main	32 Wano	14	subtitles/main/32 Wano/14/wano 14 he.ass	446	12	26.91	20.18	A01:4; A08:2; A11:2
+AI_main	32 Wano	05	subtitles/main/32 Wano/05/wano 05 he.ass	335	9	26.87	8.96	A07:5; A01:3; A13:1
+AI_main	16 Water Seven	02	subtitles/main/16 Water Seven/02/waterseven 02 he.ass	447	12	26.85	46.98	A02:5; A03:2; A01:2
+AI_main	32 Wano	50	subtitles/main/32 Wano/50/wano 50 he.ass	373	10	26.81	18.77	A05:5; A06:2; A11:2
+AI_main	32 Wano	06	subtitles/main/32 Wano/06/wano 06 he.ass	226	6	26.55	17.70	A01:2; A09:1; A07:1
+AI_main	14 Skypiea	13	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	377	10	26.53	21.22	A01:3; A13:2; A04:1
+AI_main	14 Skypiea	16	subtitles/main/14 Skypiea/16/skypiea 16 he.ass	378	10	26.46	18.52	A01:6; A05:2; A18:1
+AI_main	00 Cover Stories and Specials	02	subtitles/main/00 Cover Stories and Specials/02/The Trials of KobyMeppo he.ass	195	5	25.64	15.38	A14:1; A08:1; A02:1
+AI_main	16 Water Seven	06	subtitles/main/16 Water Seven/06/waterseven 06 he.ass	473	12	25.37	19.03	A01:5; A17:2; A02:2
+AI_main	31 Reverie	01	subtitles/main/31 Reverie/01/reverie 01 he.ass	560	14	25.00	14.29	A05:4; A01:4; A13:1
+AI_main	30 Whole Cake Island	22	subtitles/main/30 Whole Cake Island/22/wci 22 he.ass	320	8	25.00	6.25	A17:4; A01:3; A13:1
+AI_main	11 Drum Island	08	subtitles/main/11 Drum Island/08/drumisland 08 he.ass	487	12	24.64	24.64	A01:4; A06:3; A07:3
+AI_main	14 Skypiea	04	subtitles/main/14 Skypiea/04/skypiea 04 he.ass	407	10	24.57	19.66	A01:5; A11:2; A12:1
+AI_main	25 Return to Sabaody	03	subtitles/main/25 Return to Sabaody/03/rts 03 he.ass	501	12	23.95	17.96	A01:6; A11:2; A06:1
+AI_main	12 Alabasta	19	subtitles/main/12 Alabasta/19/alabasta 19 he.ass	507	12	23.67	29.59	A11:3; A05:3; A01:2
+AI_main	30 Whole Cake Island	24	subtitles/main/30 Whole Cake Island/24/wci 24 he.ass	297	7	23.57	10.10	A09:3; A01:2; A05:2
+AI_main	32 Wano	38	subtitles/main/32 Wano/38/wano 38 he.ass	298	7	23.49	10.07	A01:2; A11:1; A03:1
+AI_main	16 Water Seven	15	subtitles/main/16 Water Seven/15/waterseven 15 he.ass	511	12	23.48	15.66	A01:6; A07:2; A17:1
+AI_main	32 Wano	48	subtitles/main/32 Wano/48/wano 48 he.ass	385	9	23.38	20.78	A02:6; A07:1; A12:1
+AI_main	30 Whole Cake Island	18	subtitles/main/30 Whole Cake Island/18/wci 18 he.ass	428	10	23.36	51.40	A01:5; A08:2; A07:1
+AI_main	32 Wano	39	subtitles/main/32 Wano/39/wano 39 he.ass	474	11	23.21	35.86	A01:4; A02:3; A05:1
+AI_main	30 Whole Cake Island	29	subtitles/main/30 Whole Cake Island/29/wci 29 he.ass	388	9	23.20	23.20	A01:7; A03:1; A07:1
+AI_main	24 Post War	06	subtitles/main/24 Post War/06/postwar 06 he.ass	561	13	23.17	23.17	A03:4; A01:3; A04:2
+AI_main	32 Wano	37	subtitles/main/32 Wano/37/wano 37 he.ass	522	12	22.99	11.49	A01:4; A05:3; A09:2
+AI_main	14 Skypiea	22	subtitles/main/14 Skypiea/22/skypiea 22 he.ass	356	8	22.47	11.24	A01:4; A02:2; A18:1
+AI_main	32 Wano	43	subtitles/main/32 Wano/43/wano 43 he.ass	401	9	22.44	17.46	A01:5; A05:2; A06:1
+AI_main	10 Little Garden	02	subtitles/main/10 Little Garden/02/littlegarden 02 he.ass	312	7	22.44	19.23	A11:3; A12:1; A06:1
+AI_main	24 Post War	08	subtitles/main/24 Post War/08/postwar 08 he.ass	854	19	22.25	12.88	A13:6; A01:5; A08:3
+AI_main	30 Whole Cake Island	25	subtitles/main/30 Whole Cake Island/25/wci 25 he.ass	415	9	21.69	24.10	A01:6; A11:2; A02:1
+AI_main	24 Post War	01	subtitles/main/24 Post War/01/postwar 01 he.ass	372	8	21.51	34.95	A13:3; A15:1; A07:1
+AI_main	32 Wano	34	subtitles/main/32 Wano/34/wano 34 he.ass	281	6	21.35	21.35	A17:1; A01:1; A05:1
+AI_main	16 Water Seven	13	subtitles/main/16 Water Seven/13/waterseven 13 he.ass	333	7	21.02	18.02	A01:2; A11:2; A06:1
+AI_main	14 Skypiea	20	subtitles/main/14 Skypiea/20/skypiea 20 he.ass	287	6	20.91	31.36	A01:2; A05:2; A06:1
+AI_main	00 Cover Stories and Specials	04	subtitles/main/00 Cover Stories and Specials/04/One Piece Fan Letter he.ass	431	9	20.88	6.96	A01:4; A11:2; A03:1
+AI_main	33 Egghead	08	subtitles/main/33 Egghead/08/egghead 08 he.ass	432	9	20.83	6.94	A02:3; A06:1; A08:1
+AI_main	00 Cover Stories and Specials	03	subtitles/main/00 Cover Stories and Specials/03/If You Could Go Anywhere... The Adventures of the Straw Hats he.ass	241	5	20.75	16.60	A01:2; A02:1; A06:1
+AI_main	30 Whole Cake Island	08	subtitles/main/30 Whole Cake Island/08/wci 08 he.ass	193	4	20.73	20.73	A11:2; A04:1; A03:1
+AI_main	16 Water Seven	09	subtitles/main/16 Water Seven/09/waterseven 09 he.ass	483	10	20.70	28.99	A11:4; A01:2; A09:2
+AI_main	33 Egghead	08	subtitles/main/33 Egghead/08/egghead 08 extended he.ass	444	9	20.27	6.76	A02:3; A06:1; A08:1
+AI_fedew	19 Thriller Bark	13	subtitles/fedew/19 Thriller Bark/13/thrillerbark 13 he.ass	247	5	20.24	8.10	A11:2; A04:1; A15:1
+AI_main	30 Whole Cake Island	31	subtitles/main/30 Whole Cake Island/31/wci 31 he.ass	297	6	20.20	30.30	A01:2; A07:1; A12:1
+AI_main	11 Drum Island	05	subtitles/main/11 Drum Island/05/drumisland 05 he.ass	595	12	20.17	16.81	A01:3; A07:3; A11:2
+AI_main	16 Water Seven	14	subtitles/main/16 Water Seven/14/waterseven 14 he.ass	349	7	20.06	20.06	A02:2; A01:2; A06:1
+AI_main	14 Skypiea	21	subtitles/main/14 Skypiea/21/skypiea 21 he.ass	352	7	19.89	19.89	A01:3; A06:1; A09:1
+AI_main	07 Loguetown	01	subtitles/main/07 Loguetown/01/loguetown 01 he.ass	403	8	19.85	9.93	A01:5; A07:1; A03:1
+AI_main	16 Water Seven	07	subtitles/main/16 Water Seven/07/waterseven 07 he.ass	303	6	19.80	33.00	A11:1; A06:1; A01:1
+AI_main	16 Water Seven	18	subtitles/main/16 Water Seven/18/waterseven 18 he.ass	355	7	19.72	19.72	A01:3; A13:2; A12:1
+AI_main	30 Whole Cake Island	07	subtitles/main/30 Whole Cake Island/07/wci 07 he.ass	359	7	19.50	16.71	A07:2; A06:1; A18:1
+AI_main	30 Whole Cake Island	20	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	308	6	19.48	9.74	A01:3; A12:1; A15:1
+AI_main	11 Drum Island	07	subtitles/main/11 Drum Island/07/drumisland 07 he.ass	468	9	19.23	19.23	A01:7; A03:1; A11:1
+AI_main	16 Water Seven	10	subtitles/main/16 Water Seven/10/waterseven 10 he.ass	365	7	19.18	27.40	A01:3; A07:2; A06:1
+AI_main	32 Wano	45	subtitles/main/32 Wano/45/wano 45 he.ass	367	7	19.07	8.17	A01:4; A07:1; A13:1
+AI_main	32 Wano	15	subtitles/main/32 Wano/15/wano 15 he.ass	476	9	18.91	25.21	A01:3; A09:1; A07:1
+AI_main	30 Whole Cake Island	01	subtitles/main/30 Whole Cake Island/01/wci 01 he.ass	371	7	18.87	43.13	A11:2; A07:1; A05:1
+AI_main	12 Alabasta	03	subtitles/main/12 Alabasta/03/alabasta 03 he.ass	375	7	18.67	21.33	A11:2; A04:2; A01:1
+AI_main	30 Whole Cake Island	26	subtitles/main/30 Whole Cake Island/26/wci 26 he.ass	429	8	18.65	30.30	A06:2; A01:2; A05:1
+AI_main	25 Return to Sabaody	02	subtitles/main/25 Return to Sabaody/02/rts 02 he.ass	483	9	18.63	35.20	A01:3; A11:1; A13:1
+AI_main	16 Water Seven	05	subtitles/main/16 Water Seven/05/waterseven 05 he.ass	162	3	18.52	12.35	A04:2; A11:1
+AI_main	30 Whole Cake Island	19	subtitles/main/30 Whole Cake Island/19/wci 19 he.ass	379	7	18.47	26.39	A11:3; A01:3; A05:1
+AI_main	30 Whole Cake Island	02	subtitles/main/30 Whole Cake Island/02/wci 02 he.ass	379	7	18.47	36.94	A01:6; A12:1
+AI_main	09 Whisky Peak	02	subtitles/main/09 Whisky Peak/02/whiskypeak 02 he.ass	651	12	18.43	26.11	A01:5; A03:3; A17:1
+AI_main	13 Jaya	01	subtitles/main/13 Jaya/01/jaya 01 he.ass	326	6	18.40	30.67	A11:3; A01:2; A03:1
+AI_main	32 Wano	02	subtitles/main/32 Wano/02/wano 02 extended he.ass	330	6	18.18	24.24	A03:1; A05:1; A12:1
+AI_main	16 Water Seven	12	subtitles/main/16 Water Seven/12/waterseven 12 he.ass	393	7	17.81	35.62	A01:5; A13:1; A11:1
+AI_main	17 Enies Lobby	08	subtitles/main/17 Enies Lobby/08/enieslobby 08 he.ass	450	8	17.78	15.56	A01:3; A05:3; A06:1
+AI_main	13 Jaya	02	subtitles/main/13 Jaya/02/jaya 02 he.ass	510	9	17.65	31.37	A01:3; A02:2; A04:1
+AI_main	30 Whole Cake Island	11	subtitles/main/30 Whole Cake Island/11/wci 11 he.ass	289	5	17.30	6.92	A01:3; A04:1; A11:1
+AI_main	32 Wano	16	subtitles/main/32 Wano/16/wano 16 he.ass	348	6	17.24	11.49	A03:3; A12:1; A01:1
+AI_fedew	20 Sabaody Archipelago	02	subtitles/fedew/20 Sabaody Archipelago/02/sabaody 02 he.ass	349	6	17.19	37.25	A04:2; A12:1; A05:1
+AI_main	30 Whole Cake Island	14	subtitles/main/30 Whole Cake Island/14/wci 14 he.ass	350	6	17.14	14.29	A01:5; A08:1
+AI_main	30 Whole Cake Island	05	subtitles/main/30 Whole Cake Island/05/wci 05 he.ass	351	6	17.09	11.40	A01:4; A11:2
+AI_main	12 Alabasta	04	subtitles/main/12 Alabasta/04/alabasta 04 he.ass	352	6	17.05	19.89	A01:2; A06:1; A05:1
+AI_main	11 Drum Island	03	subtitles/main/11 Drum Island/03/drumisland 03 he.ass	418	7	16.75	14.35	A01:4; A07:1; A08:1
+AI_main	32 Wano	08	subtitles/main/32 Wano/08/wano 08 he.ass	479	8	16.70	0.00	A11:2; A06:2; A05:1
+AI_main	32 Wano	42	subtitles/main/32 Wano/42/wano 42 he.ass	480	8	16.67	8.33	A06:3; A12:1; A18:1
+AI_main	05 Baratie	09	subtitles/main/05 Baratie/09/baratie 09 he.ass	242	4	16.53	16.53	A11:2; A09:1; A07:1
+AI_main	24 Post War	03	subtitles/main/24 Post War/03/postwar 03 he.ass	548	9	16.42	12.77	A11:4; A02:3; A03:1
+AI_main	14 Skypiea	17	subtitles/main/14 Skypiea/17/skypiea 17 he.ass	367	6	16.35	2.72	A01:2; A07:1; A08:1
+AI_fedew	20 Sabaody Archipelago	03	subtitles/fedew/20 Sabaody Archipelago/03/sabaody 03 he.ass	369	6	16.26	8.13	A12:2; A18:1; A15:1
+AI_main	16 Water Seven	16	subtitles/main/16 Water Seven/16/waterseven 16 he.ass	433	7	16.17	13.86	A01:3; A17:2; A11:2
+AI_main	12 Alabasta	01	subtitles/main/12 Alabasta/01/alabasta 01 he.ass	311	5	16.08	32.15	A01:2; A04:1; A12:1
+AI_fedew	18 Post-Enies Lobby	02	subtitles/fedew/18 Post-Enies Lobby/02/postenieslobby 02 he.ass	625	10	16.00	20.80	A11:4; A06:3; A15:2
+AI_main	16 Water Seven	04	subtitles/main/16 Water Seven/04/waterseven 04 he.ass	313	5	15.97	12.78	A01:2; A04:2; A11:1
+AI_main	30 Whole Cake Island	35	subtitles/main/30 Whole Cake Island/35/wci 35 he.ass	376	6	15.96	18.62	A11:3; A01:2; A09:1
+AI_main	13 Jaya	04	subtitles/main/13 Jaya/04/jaya 04 he.ass	318	5	15.72	31.45	A17:2; A01:2; A12:1
+AI_main	32 Wano	02	subtitles/main/32 Wano/02/wano 02 he.ass	320	5	15.62	25.00	A03:1; A12:1; A07:1
+AI_main	06 Arlong Park	05	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	448	7	15.62	15.62	A01:4; A08:2; A05:1
+AI_fedew	17 Enies Lobby	21	subtitles/fedew/17 Enies Lobby/21/enieslobby 21 he.ass	257	4	15.56	11.67	A07:2; A03:1; A11:1
+AI_main	25 Return to Sabaody	01	subtitles/main/25 Return to Sabaody/01/rts 01 he.ass	580	9	15.52	17.24	A01:5; A05:1; A18:1
+AI_fedew	17 Enies Lobby	05	subtitles/fedew/17 Enies Lobby/05/enieslobby 05 he.ass	388	6	15.46	23.20	A01:2; A04:2; A08:1
+AI_fedew	20 Sabaody Archipelago	07	subtitles/fedew/20 Sabaody Archipelago/07/sabaody 07 he.ass	327	5	15.29	27.52	A08:1; A11:1; A01:1
+AI_fedew	19 Thriller Bark	01	subtitles/fedew/19 Thriller Bark/01/thrillerbark 01 he.ass	463	7	15.12	4.32	A12:5; A03:1; A01:1
+AI_fedew	19 Thriller Bark	10	subtitles/fedew/19 Thriller Bark/10/thrillerbark 10 he.ass	331	5	15.11	9.06	A01:2; A04:1; A08:1
+AI_main	12 Alabasta	20	subtitles/main/12 Alabasta/20/alabasta 20 he.ass	530	8	15.09	5.66	A02:2; A11:2; A01:2
+AI_main	30 Whole Cake Island	17	subtitles/main/30 Whole Cake Island/17/wci 17 he.ass	333	5	15.02	36.04	A01:3; A03:1; A08:1
+AI_main	32 Wano	44	subtitles/main/32 Wano/44/wano 44 he.ass	400	6	15.00	10.00	A01:1; A13:1; A07:1
+AI_main	30 Whole Cake Island	28	subtitles/main/30 Whole Cake Island/28/wci 28 he.ass	339	5	14.75	11.80	A04:4; A01:1
+AI_main	30 Whole Cake Island	13	subtitles/main/30 Whole Cake Island/13/wci 13 he.ass	347	5	14.41	31.70	A03:1; A01:1; A02:1
+AI_main	12 Alabasta	21	subtitles/main/12 Alabasta/21/alabasta 21 he.ass	281	4	14.23	17.79	A01:3; A11:1
+AI_main	33 Egghead	12	subtitles/main/33 Egghead/12/egghead 12 he.ass	355	5	14.08	19.72	A06:2; A05:1; A17:1
+AI_main	14 Skypiea	18	subtitles/main/14 Skypiea/18/skypiea 18 he.ass	429	6	13.99	20.98	A07:2; A01:2; A11:2
+AI_main	12 Alabasta	17	subtitles/main/12 Alabasta/17/alabasta 17 he.ass	430	6	13.95	23.26	A06:2; A01:2; A07:2
+AI_fedew	17 Enies Lobby	18	subtitles/fedew/17 Enies Lobby/18/enieslobby 18 he.ass	215	3	13.95	0.00	A04:1; A07:1; A01:1
+AI_main	32 Wano	13	subtitles/main/32 Wano/13/wano 13 he.ass	360	5	13.89	13.89	A15:3; A14:1; A11:1
+AI_main	30 Whole Cake Island	32	subtitles/main/30 Whole Cake Island/32/wci 32 he.ass	360	5	13.89	16.67	A01:2; A14:1; A07:1
+AI_main	08 Reverse Mountain	01	subtitles/main/08 Reverse Mountain/01/reversemountain 01 he.ass	289	4	13.84	10.38	A01:3; A03:1
+AI_main	24 Post War	04	subtitles/main/24 Post War/04/postwar 04 he.ass	437	6	13.73	18.31	A01:3; A08:1; A09:1
+AI_main	32 Wano	25	subtitles/main/32 Wano/25/wano 25 he.ass	367	5	13.62	10.90	A01:3; A08:1; A12:1
+AI_main	32 Wano	26	subtitles/main/32 Wano/26/wano 26 he.ass	370	5	13.51	5.41	A01:4; A06:1
+AI_main	30 Whole Cake Island	34	subtitles/main/30 Whole Cake Island/34/wci 34 he.ass	445	6	13.48	22.47	A01:3; A11:2; A17:1
+AI_main	32 Wano	51	subtitles/main/32 Wano/51/wano 51 he.ass	297	4	13.47	13.47	A08:2; A13:1; A09:1
+AI_fedew	17 Enies Lobby	08	subtitles/fedew/17 Enies Lobby/08/enieslobby 08 he.ass	451	6	13.30	8.87	A03:2; A06:2; A02:1
+AI_main	06 Arlong Park	05	subtitles/main/06 Arlong Park/05/arlongpark 05 extended he.ass	454	6	13.22	11.01	A01:3; A08:2; A05:1
+AI_main	30 Whole Cake Island	39	subtitles/main/30 Whole Cake Island/39/wci 39 he.ass	306	4	13.07	13.07	A15:2; A03:1; A01:1
+AI_fedew	17 Enies Lobby	20	subtitles/fedew/17 Enies Lobby/20/enieslobby 20 he.ass	309	4	12.94	16.18	A04:3; A14:1
+AI_main	10 Little Garden	01	subtitles/main/10 Little Garden/01/littlegarden 01 he.ass	387	5	12.92	12.92	A06:1; A11:1; A07:1
+AI_main	06 Arlong Park	03	subtitles/main/06 Arlong Park/03/arlongpark 03 he.ass	387	5	12.92	20.67	A01:1; A18:1; A07:1
+AI_main	17 Enies Lobby	05	subtitles/main/17 Enies Lobby/05/enieslobby 05 he.ass	388	5	12.89	30.93	A05:2; A13:1; A04:1
+AI_main	30 Whole Cake Island	12	subtitles/main/30 Whole Cake Island/12/wci 12 he.ass	311	4	12.86	28.94	A11:2; A07:1; A01:1
+AI_main	33 Egghead	15	subtitles/main/33 Egghead/15/egghead 15 he.ass	468	6	12.82	19.23	A02:2; A13:1; A05:1
+AI_main	24 Post War	02	subtitles/main/24 Post War/02/postwar 02 he.ass	548	7	12.77	18.25	A01:3; A17:2; A11:1
+AI_main	12 Alabasta	11	subtitles/main/12 Alabasta/11/alabasta 11 he.ass	402	5	12.44	12.44	A07:1; A18:1; A03:1
+AI_main	30 Whole Cake Island	21	subtitles/main/30 Whole Cake Island/21/wci 21 he.ass	409	5	12.22	9.78	A01:4; A09:1
+AI_main	33 Egghead	16	subtitles/main/33 Egghead/16/egghead 16 he.ass	328	4	12.20	15.24	A17:1; A06:1; A07:1
+AI_main	32 Wano	47	subtitles/main/32 Wano/47/wano 47 he.ass	410	5	12.20	31.71	A11:3; A13:1; A01:1
+AI_fedew	17 Enies Lobby	09	subtitles/fedew/17 Enies Lobby/09/enieslobby 09 he.ass	493	6	12.17	24.34	A11:2; A01:2; A09:1
+AI_fedew	19 Thriller Bark	21	subtitles/fedew/19 Thriller Bark/21/thrillerbark 21 he.ass	414	5	12.08	14.49	A06:4; A04:1
+AI_fedew	19 Thriller Bark	09	subtitles/fedew/19 Thriller Bark/09/thrillerbark 09 he.ass	414	5	12.08	21.74	A03:2; A11:1; A12:1
+AI_main	06 Arlong Park	04	subtitles/main/06 Arlong Park/04/arlongpark 04 he.ass	415	5	12.05	12.05	A11:2; A12:1; A01:1
+AI_main	16 Water Seven	01	subtitles/main/16 Water Seven/01/waterseven 01 he.ass	507	6	11.83	31.56	A18:3; A12:1; A01:1
+AI_main	14 Skypiea	06	subtitles/main/14 Skypiea/06/skypiea 06 he.ass	425	5	11.76	18.82	A01:4; A06:1
+AI_main	30 Whole Cake Island	23	subtitles/main/30 Whole Cake Island/23/wci 23 he.ass	351	4	11.40	2.85	A01:3; A14:1
+AI_main	32 Wano	41	subtitles/main/32 Wano/41/wano 41 he.ass	441	5	11.34	22.68	A06:2; A03:1; A14:1
+AI_main	13 Jaya	05	subtitles/main/13 Jaya/05/jaya 05 he.ass	353	4	11.33	17.00	A01:2; A12:1; A11:1
+AI_main	32 Wano	55	subtitles/main/32 Wano/55/wano 55 he.ass	179	2	11.17	33.52	A01:2
+AI_main	32 Wano	12	subtitles/main/32 Wano/12/wano 12 he.ass	180	2	11.11	5.56	A08:1; A01:1
+AI_fedew	19 Thriller Bark	14	subtitles/fedew/19 Thriller Bark/14/thrillerbark 14 he.ass	272	3	11.03	7.35	A01:1; A05:1; A08:1
+AI_main	17 Enies Lobby	07	subtitles/main/17 Enies Lobby/07/enieslobby 07 he.ass	366	4	10.93	27.32	A11:1; A01:1; A06:1
+AI_main	14 Skypiea	08	subtitles/main/14 Skypiea/08/skypiea 08 he.ass	554	6	10.83	23.47	A07:3; A03:1; A11:1
+AI_main	10 Little Garden	04	subtitles/main/10 Little Garden/04/littlegarden 04 he.ass	465	5	10.75	10.75	A01:3; A11:1; A02:1
+AI_main	33 Egghead	19	subtitles/main/33 Egghead/19/egghead 19 he.ass	467	5	10.71	10.71	A11:2; A01:2; A07:1
+AI_fedew	17 Enies Lobby	19	subtitles/fedew/17 Enies Lobby/19/enieslobby 19 he.ass	375	4	10.67	2.67	A06:1; A08:1; A09:1
+AI_main	33 Egghead	19	subtitles/main/33 Egghead/19/egghead 19 extended he.ass	470	5	10.64	10.64	A11:2; A01:2; A07:1
+AI_main	16 Water Seven	17	subtitles/main/16 Water Seven/17/waterseven 17 he.ass	383	4	10.44	13.05	A11:1; A05:1; A04:1
+AI_fedew	19 Thriller Bark	17	subtitles/fedew/19 Thriller Bark/17/thrillerbark 17 he.ass	383	4	10.44	18.28	A06:1; A15:1; A02:1
+AI_fedew	20 Sabaody Archipelago	05	subtitles/fedew/20 Sabaody Archipelago/05/sabaody 05 he.ass	686	7	10.20	27.70	A12:4; A03:2; A07:1
+AI_main	32 Wano	03	subtitles/main/32 Wano/03/wano 03 he.ass	393	4	10.18	22.90	A03:2; A01:2
+AI_main	11 Drum Island	01	subtitles/main/11 Drum Island/01/drumisland 01 he.ass	396	4	10.10	17.68	A03:2; A04:1; A01:1
+AI_main	32 Wano	01	subtitles/main/32 Wano/01/wano 01 he.ass	299	3	10.03	16.72	A01:2; A07:1
+AI_fedew	19 Thriller Bark	03	subtitles/fedew/19 Thriller Bark/03/thrillerbark 03 he.ass	598	6	10.03	11.71	A12:2; A08:1; A04:1
+AI_main	14 Skypiea	07	subtitles/main/14 Skypiea/07/skypiea 07 he.ass	300	3	10.00	13.33	A01:2; A09:1
+AI_main	14 Skypiea	01	subtitles/main/14 Skypiea/01/skypiea 01 he.ass	302	3	9.93	19.87	A01:1; A04:1; A06:1
+AI_main	13 Jaya	06	subtitles/main/13 Jaya/06/jaya 06 he.ass	203	2	9.85	14.78	A11:1; A01:1
+AI_fedew	17 Enies Lobby	01	subtitles/fedew/17 Enies Lobby/01/enieslobby 01 he.ass	409	4	9.78	24.45	A07:2; A08:1; A11:1
+AI_fedew	19 Thriller Bark	11	subtitles/fedew/19 Thriller Bark/11/thrillerbark 11 he.ass	314	3	9.55	12.74	A01:2; A04:1
+AI_fedew	19 Thriller Bark	20	subtitles/fedew/19 Thriller Bark/20/thrillerbark 20 he.ass	422	4	9.48	14.22	A07:1; A15:1; A17:1
+AI_main	32 Wano	24	subtitles/main/32 Wano/24/wano 24 he.ass	213	2	9.39	18.78	A06:1; A13:1
+AI_fedew	19 Thriller Bark	15	subtitles/fedew/19 Thriller Bark/15/thrillerbark 15 he.ass	323	3	9.29	3.10	A06:1; A04:1; A01:1
+AI_main	33 Egghead	10	subtitles/main/33 Egghead/10/egghead 10 he.ass	541	5	9.24	9.24	A15:2; A06:1; A05:1
+AI_fedew	17 Enies Lobby	23	subtitles/fedew/17 Enies Lobby/23/enieslobby 23 he.ass	327	3	9.17	15.29	A18:2; A11:1
+AI_main	13 Jaya	07	subtitles/main/13 Jaya/07/jaya 07 he.ass	328	3	9.15	36.59	A12:1; A13:1; A05:1
+AI_main	30 Whole Cake Island	38	subtitles/main/30 Whole Cake Island/38/wci 38 he.ass	440	4	9.09	15.91	A08:2; A01:2
+AI_fedew	19 Thriller Bark	19	subtitles/fedew/19 Thriller Bark/19/thrillerbark 19 he.ass	440	4	9.09	2.27	A15:1; A01:1; A06:1
+AI_main	32 Wano	11	subtitles/main/32 Wano/11/wano 11 he.ass	111	1	9.01	0.00	A02:1
+AI_main	30 Whole Cake Island	36	subtitles/main/30 Whole Cake Island/36/wci 36 he.ass	334	3	8.98	8.98	A01:2; A11:1
+AI_main	30 Whole Cake Island	16	subtitles/main/30 Whole Cake Island/16/wci 16 he.ass	337	3	8.90	17.80	A01:2; A03:1
+AI_main	33 Egghead	14	subtitles/main/33 Egghead/14/egghead 14 he.ass	451	4	8.87	4.43	A07:2; A08:1; A04:1
+AI_main	32 Wano	53	subtitles/main/32 Wano/53/wano 53 he.ass	339	3	8.85	14.75	A06:1; A12:1; A04:1
+AI_main	32 Wano	52	subtitles/main/32 Wano/52/wano 52 he.ass	341	3	8.80	0.00	A01:2; A08:1
+AI_main	16 Water Seven	11	subtitles/main/16 Water Seven/11/waterseven 11 he.ass	455	4	8.79	24.18	A08:1; A12:1; A01:1
+AI_main	30 Whole Cake Island	37	subtitles/main/30 Whole Cake Island/37/wci 37 he.ass	342	3	8.77	17.54	A01:3
+AI_main	24 Post War	05	subtitles/main/24 Post War/05/postwar 05 he.ass	460	4	8.70	21.74	A17:2; A05:1; A12:1
+AI_fedew	17 Enies Lobby	15	subtitles/fedew/17 Enies Lobby/15/enieslobby 15 he.ass	241	2	8.30	4.15	A07:1; A11:1
+AI_fedew	20 Sabaody Archipelago	04	subtitles/fedew/20 Sabaody Archipelago/04/sabaody 04 he.ass	606	5	8.25	14.85	A12:3; A01:1; A06:1
+AI_main	33 Egghead	05	subtitles/main/33 Egghead/05/egghead 05 he.ass	486	4	8.23	14.40	A08:2; A02:1; A01:1
+AI_main	30 Whole Cake Island	33	subtitles/main/30 Whole Cake Island/33/wci 33 he.ass	368	3	8.15	8.15	A01:1; A07:1; A11:1
+AI_main	30 Whole Cake Island	03	subtitles/main/30 Whole Cake Island/03/wci 03 he.ass	368	3	8.15	13.59	A11:2; A01:1
+AI_main	33 Egghead	04	subtitles/main/33 Egghead/04/egghead 04 he.ass	499	4	8.02	8.02	A03:1; A04:1; A02:1
+AI_fedew	19 Thriller Bark	16	subtitles/fedew/19 Thriller Bark/16/thrillerbark 16 he.ass	376	3	7.98	10.64	A03:2; A01:1
+AI_fedew	17 Enies Lobby	14	subtitles/fedew/17 Enies Lobby/14/enieslobby 14 he.ass	253	2	7.91	3.95	A06:1; A08:1
+AI_main	13 Jaya	08	subtitles/main/13 Jaya/08/jaya 08 he.ass	260	2	7.69	0.00	A12:1; A17:1
+AI_main	32 Wano	49	subtitles/main/32 Wano/49/wano 49 extended he.ass	395	3	7.59	15.19	A08:3
+AI_fedew	20 Sabaody Archipelago	06	subtitles/fedew/20 Sabaody Archipelago/06/sabaody 06 he.ass	395	3	7.59	55.70	A01:1; A12:1; A09:1
+AI_main	11 Drum Island	04	subtitles/main/11 Drum Island/04/drumisland 04 he.ass	270	2	7.41	18.52	A01:2
+AI_fedew	21 Amazon Lily	04	subtitles/fedew/21 Amazon Lily/04/amazonlily 04 he.ass	544	4	7.35	14.71	A06:1; A15:1; A11:1
+AI_main	11 Drum Island	06	subtitles/main/11 Drum Island/06/drumisland 06 he.ass	409	3	7.33	9.78	A01:3
+AI_fedew	17 Enies Lobby	17	subtitles/fedew/17 Enies Lobby/17/enieslobby 17 he.ass	276	2	7.25	7.25	A18:2
+AI_fedew	22 Impel Down	02	subtitles/fedew/22 Impel Down/02/impeldown 02 he.ass	419	3	7.16	16.71	A15:2; A01:1
+AI_fedew	23 Marineford	08	subtitles/fedew/23 Marineford/08/marineford 08 he.ass	280	2	7.14	7.14	A04:1; A06:1
+AI_fedew	17 Enies Lobby	10	subtitles/fedew/17 Enies Lobby/10/enieslobby 10 he.ass	291	2	6.87	17.18	A05:2
+AI_fedew	17 Enies Lobby	16	subtitles/fedew/17 Enies Lobby/16/enieslobby 16 he.ass	292	2	6.85	20.55	A11:2
+AI_main	32 Wano	55	subtitles/main/32 Wano/55/wano 55 extended he.ass	301	2	6.64	16.61	A01:2
+AI_main	01 Romance Dawn	01	subtitles/main/01 Romance Dawn/01/romancedawn 01 he.ass	309	2	6.47	3.24	A06:1; A17:1
+AI_main	06 Arlong Park	08	subtitles/main/06 Arlong Park/08/arlongpark 08 he.ass	311	2	6.43	12.86	A11:1; A01:1
+AI_main	12 Alabasta	02	subtitles/main/12 Alabasta/02/alabasta 02 he.ass	472	3	6.36	16.95	A01:1; A06:1; A12:1
+AI_fedew	18 Post-Enies Lobby	05	subtitles/fedew/18 Post-Enies Lobby/05/postenieslobby 05 he.ass	320	2	6.25	0.00	A04:2
+AI_main	30 Whole Cake Island	06	subtitles/main/30 Whole Cake Island/06/wci 06 he.ass	322	2	6.21	24.84	A11:1; A01:1
+AI_fedew	17 Enies Lobby	13	subtitles/fedew/17 Enies Lobby/13/enieslobby 13 he.ass	331	2	6.04	6.04	A11:1; A01:1
+AI_fedew	20 Sabaody Archipelago	10	subtitles/fedew/20 Sabaody Archipelago/10/sabaody 10 he.ass	333	2	6.01	15.02	A12:2
+AI_fedew	19 Thriller Bark	08	subtitles/fedew/19 Thriller Bark/08/thrillerbark 08 he.ass	335	2	5.97	8.96	A08:1; A06:1
+AI_fedew	20 Sabaody Archipelago	08	subtitles/fedew/20 Sabaody Archipelago/08/sabaody 08 he.ass	342	2	5.85	8.77	A12:1; A04:1
+AI_main	33 Egghead	01	subtitles/main/33 Egghead/01/egghead 01 he.ass	356	2	5.62	5.62	A11:1; A07:1
+HUMAN	05 Baratie	03	subtitles/main/05 Baratie/03/baratie 03 He.ass	559	3	5.37	8.94	A01:3
+AI_main	32 Wano	49	subtitles/main/32 Wano/49/wano 49 he.ass	387	2	5.17	15.50	A08:2
+AI_main	17 Enies Lobby	01	subtitles/main/17 Enies Lobby/01/enieslobby 01 he.ass	409	2	4.89	17.11	A07:2
+AI_fedew	18 Post-Enies Lobby	04	subtitles/fedew/18 Post-Enies Lobby/04/postenieslobby 04 he.ass	437	2	4.58	6.86	A06:2
+AI_main	32 Wano	56	subtitles/main/32 Wano/56/wano 56 he.ass	224	1	4.46	4.46	A01:1
+AI_fedew	22 Impel Down	07	subtitles/fedew/22 Impel Down/07/impeldown 07 he.ass	470	2	4.26	10.64	A15:2
+AI_main	33 Egghead	14	subtitles/main/33 Egghead/14/egghead 14 extended he.ass	485	2	4.12	2.06	A07:1; A13:1
+AI_main	33 Egghead	09	subtitles/main/33 Egghead/09/egghead 09 he.ass	487	2	4.11	8.21	A06:1; A07:1
+AI_fedew	19 Thriller Bark	22	subtitles/fedew/19 Thriller Bark/22/thrillerbark 22 he.ass	251	1	3.98	15.94	A11:1
+AI_main	06 Arlong Park	09	subtitles/main/06 Arlong Park/09/arlongpark 09 he.ass	253	1	3.95	15.81	A08:1
+AI_main	12 Alabasta	16	subtitles/main/12 Alabasta/16/alabasta 16 he.ass	258	1	3.88	3.88	A01:1
+AI_fedew	17 Enies Lobby	03	subtitles/fedew/17 Enies Lobby/03/enieslobby 03 he.ass	274	1	3.65	10.95	A14:1
+AI_main	12 Alabasta	13	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	275	1	3.64	29.09	A06:1
+AI_main	13 Jaya	03	subtitles/main/13 Jaya/03/jaya 03 he.ass	277	1	3.61	3.61	A01:1
+AI_main	17 Enies Lobby	06	subtitles/main/17 Enies Lobby/06/enieslobby 06 he.ass	288	1	3.47	10.42	A01:1
+AI_fedew	17 Enies Lobby	06	subtitles/fedew/17 Enies Lobby/06/enieslobby 06 he.ass	288	1	3.47	6.94	A08:1
+AI_fedew	20 Sabaody Archipelago	11	subtitles/fedew/20 Sabaody Archipelago/11/sabaody 11 he.ass	289	1	3.46	20.76	A12:1
+AI_fedew	23 Marineford	07	subtitles/fedew/23 Marineford/07/marineford 07 he.ass	293	1	3.41	20.48	A05:1
+AI_fedew	17 Enies Lobby	22	subtitles/fedew/17 Enies Lobby/22/enieslobby 22 he.ass	293	1	3.41	10.24	A05:1
+AI_main	33 Egghead	06	subtitles/main/33 Egghead/06/egghead 06 he.ass	300	1	3.33	0.00	A11:1
+AI_main	33 Egghead	02	subtitles/main/33 Egghead/02/egghead 02 he.ass	301	1	3.32	6.64	A07:1
+AI_fedew	19 Thriller Bark	04	subtitles/fedew/19 Thriller Bark/04/thrillerbark 04 he.ass	301	1	3.32	16.61	A07:1
+AI_main	33 Egghead	20	subtitles/main/33 Egghead/20/egghead 20 he.ass	304	1	3.29	3.29	A03:1
+HUMAN	04 Gaimon	01	subtitles/main/04 Gaimon/01/gaimon 01 He.ass	308	1	3.25	3.25	A07:1
+AI_main	30 Whole Cake Island	10	subtitles/main/30 Whole Cake Island/10/wci 10 he.ass	311	1	3.22	16.08	A01:1
+AI_fedew	19 Thriller Bark	12	subtitles/fedew/19 Thriller Bark/12/thrillerbark 12 he.ass	318	1	3.14	6.29	A12:1
+HUMAN	17 Enies Lobby	04	subtitles/main/17 Enies Lobby/04/enieslobby 04 He.ass	320	1	3.12	6.25	A17:1
+AI_fedew	17 Enies Lobby	12	subtitles/fedew/17 Enies Lobby/12/enieslobby 12 he.ass	321	1	3.12	9.35	A01:1
+AI_fedew	21 Amazon Lily	03	subtitles/fedew/21 Amazon Lily/03/amazonlily 03 he.ass	323	1	3.10	18.58	A06:1
+AI_fedew	20 Sabaody Archipelago	09	subtitles/fedew/20 Sabaody Archipelago/09/sabaody 09 he.ass	338	1	2.96	20.71	A06:1
+AI_main	30 Whole Cake Island	30	subtitles/main/30 Whole Cake Island/30/wci 30 he.ass	343	1	2.92	20.41	A01:1
+AI_main	16 Water Seven	19	subtitles/main/16 Water Seven/19/waterseven 19 he.ass	343	1	2.92	14.58	A04:1
+AI_fedew	19 Thriller Bark	06	subtitles/fedew/19 Thriller Bark/06/thrillerbark 06 he.ass	360	1	2.78	11.11	A08:1
+AI_fedew	19 Thriller Bark	07	subtitles/fedew/19 Thriller Bark/07/thrillerbark 07 he.ass	365	1	2.74	27.40	A06:1
+AI_fedew	17 Enies Lobby	07	subtitles/fedew/17 Enies Lobby/07/enieslobby 07 he.ass	366	1	2.73	40.98	A13:1
+AI_fedew	22 Impel Down	04	subtitles/fedew/22 Impel Down/04/impeldown 04 he.ass	372	1	2.69	29.57	A06:1
+AI_main	30 Whole Cake Island	04	subtitles/main/30 Whole Cake Island/04/wci 04 he.ass	378	1	2.65	29.10	A12:1
+AI_fedew	18 Post-Enies Lobby	01	subtitles/fedew/18 Post-Enies Lobby/01/postenieslobby 01 he.ass	378	1	2.65	7.94	A02:1
+AI_fedew	21 Amazon Lily	05	subtitles/fedew/21 Amazon Lily/05/amazonlily 05 he.ass	384	1	2.60	18.23	A04:1
+AI_fedew	22 Impel Down	01	subtitles/fedew/22 Impel Down/01/impeldown 01 he.ass	385	1	2.60	25.97	A07:1
+HUMAN	03 Syrup Village	04	subtitles/main/03 Syrup Village/04/syrupvillage 04 He.ass	396	1	2.53	2.53	A06:1
+AI_fedew	21 Amazon Lily	02	subtitles/fedew/21 Amazon Lily/02/amazonlily 02 he.ass	396	1	2.53	12.63	A05:1
+AI_fedew	20 Sabaody Archipelago	01	subtitles/fedew/20 Sabaody Archipelago/01/sabaody 01 he.ass	401	1	2.49	32.42	A15:1
+AI_fedew	19 Thriller Bark	02	subtitles/fedew/19 Thriller Bark/02/thrillerbark 02 he.ass	401	1	2.49	4.99	A01:1
+AI_main	16 Water Seven	20	subtitles/main/16 Water Seven/20/waterseven 20 he.ass	408	1	2.45	14.71	A07:1
+AI_main	12 Alabasta	18	subtitles/main/12 Alabasta/18/alabasta 18 he.ass	409	1	2.44	4.89	A01:1
+AI_main	33 Egghead	11	subtitles/main/33 Egghead/11/egghead 11 he.ass	420	1	2.38	19.05	A14:1
+AI_fedew	17 Enies Lobby	11	subtitles/fedew/17 Enies Lobby/11/enieslobby 11 he.ass	429	1	2.33	9.32	A04:1
+AI_main	03 Syrup Village	01	subtitles/main/03 Syrup Village/01/syrupvillage 01 he.ass	464	1	2.16	2.16	A07:1
+AI_fedew	18 Post-Enies Lobby	03	subtitles/fedew/18 Post-Enies Lobby/03/postenieslobby 03 he.ass	487	1	2.05	14.37	A15:1
+AI_main	33 Egghead	07	subtitles/main/33 Egghead/07/egghead 07 he.ass	489	1	2.04	12.27	A11:1
+AI_fedew	22 Impel Down	08	subtitles/fedew/22 Impel Down/08/impeldown 08 he.ass	509	1	1.96	3.93	A07:1
+AI_main	33 Egghead	18	subtitles/main/33 Egghead/18/egghead 18 he.ass	408	0	0.00	9.80	
+AI_main	33 Egghead	13	subtitles/main/33 Egghead/13/egghead 13 he.ass	171	0	0.00	17.54	
+AI_main	33 Egghead	13	subtitles/main/33 Egghead/13/egghead 13 extended he.ass	190	0	0.00	15.79	
+AI_main	33 Egghead	03	subtitles/main/33 Egghead/03/egghead 03 he.ass	373	0	0.00	8.04	
+AI_main	32 Wano	57	subtitles/main/32 Wano/57/wano 57 he.ass	310	0	0.00	0.00	
+AI_main	32 Wano	54	subtitles/main/32 Wano/54/wano 54 he.ass	426	0	0.00	7.04	
+AI_main	32 Wano	07	subtitles/main/32 Wano/07/wano 07 he.ass	296	0	0.00	20.27	
+AI_main	32 Wano	04	subtitles/main/32 Wano/04/wano 04 he.ass	173	0	0.00	0.00	
+AI_main	17 Enies Lobby	02	subtitles/main/17 Enies Lobby/02/enieslobby 02 he.ass	242	0	0.00	20.66	
+HUMAN	06 Arlong Park	07	subtitles/main/06 Arlong Park/07/arlongpark 07 He.ass	344	0	0.00	0.00	
+HUMAN	06 Arlong Park	06	subtitles/main/06 Arlong Park/06/arlongpark 06 He.ass	354	0	0.00	5.65	
+AI_main	06 Arlong Park	02	subtitles/main/06 Arlong Park/02/arlongpark 02 he.ass	310	0	0.00	0.00	
+AI_main	06 Arlong Park	01	subtitles/main/06 Arlong Park/01/arlongpark 01 he.ass	471	0	0.00	12.74	
+HUMAN	05 Baratie	08	subtitles/main/05 Baratie/08/baratie 08 He.ass	240	0	0.00	0.00	
+HUMAN	05 Baratie	07	subtitles/main/05 Baratie/07/baratie 07 He.ass	335	0	0.00	2.99	
+HUMAN	05 Baratie	06	subtitles/main/05 Baratie/06/baratie 06 He.ass	392	0	0.00	2.55	
+HUMAN	05 Baratie	05	subtitles/main/05 Baratie/05/baratie 05 He.ass	271	0	0.00	3.69	
+HUMAN	05 Baratie	04	subtitles/main/05 Baratie/04/baratie 04 He.ass	266	0	0.00	11.28	
+HUMAN	05 Baratie	02	subtitles/main/05 Baratie/02/baratie 02 He.ass	475	0	0.00	6.32	
+HUMAN	05 Baratie	01	subtitles/main/05 Baratie/01/baratie 01 He.ass	454	0	0.00	6.61	
+HUMAN	03 Syrup Village	07	subtitles/main/03 Syrup Village/07/syrupvillage 07 He.ass	260	0	0.00	3.85	
+HUMAN	03 Syrup Village	06	subtitles/main/03 Syrup Village/06/syrupvillage 06 He.ass	209	0	0.00	4.78	
+HUMAN	03 Syrup Village	05	subtitles/main/03 Syrup Village/05/syrupvillage 05 He.ass	325	0	0.00	0.00	
+HUMAN	03 Syrup Village	03	subtitles/main/03 Syrup Village/03/syrupvillage 03 He.ass	371	0	0.00	0.00	
+HUMAN	03 Syrup Village	02	subtitles/main/03 Syrup Village/02/syrupvillage 02 He.ass	324	0	0.00	3.09	
+AI_main	02 Orange Town	03	subtitles/main/02 Orange Town/03/orangetown 03 he.ass	383	0	0.00	0.00	
+HUMAN	02 Orange Town	02	subtitles/main/02 Orange Town/02/orangetown 02 He.ass	513	0	0.00	1.95	
+AI_main	02 Orange Town	01	subtitles/main/02 Orange Town/01/orangetown 01 he.ass	409	0	0.00	7.33	
+AI_main	01 Romance Dawn	04	subtitles/main/01 Romance Dawn/04/romancedawn 04 he.ass	259	0	0.00	7.72	
+AI_main	01 Romance Dawn	03	subtitles/main/01 Romance Dawn/03/romancedawn 03 he.ass	436	0	0.00	4.59	
+AI_main	01 Romance Dawn	02	subtitles/main/01 Romance Dawn/02/romancedawn 02 he.ass	263	0	0.00	0.00	
+HUMAN	00 Cover Stories and Specials	01	subtitles/main/00 Cover Stories and Specials/01/The Adventures of Buggy's Crew He.ass	258	0	0.00	3.88	
+AI_fedew	23 Marineford	06	subtitles/fedew/23 Marineford/06/marineford 06 he.ass	301	0	0.00	6.64	
+AI_fedew	23 Marineford	05	subtitles/fedew/23 Marineford/05/marineford 05 he.ass	341	0	0.00	5.87	
+AI_fedew	23 Marineford	04	subtitles/fedew/23 Marineford/04/marineford 04 he.ass	222	0	0.00	9.01	
+AI_fedew	23 Marineford	03	subtitles/fedew/23 Marineford/03/marineford 03 he.ass	121	0	0.00	0.00	
+AI_fedew	23 Marineford	02	subtitles/fedew/23 Marineford/02/marineford 02 he.ass	337	0	0.00	2.97	
+AI_fedew	23 Marineford	01	subtitles/fedew/23 Marineford/01/marineford 01 he.ass	358	0	0.00	8.38	
+AI_fedew	22 Impel Down	10	subtitles/fedew/22 Impel Down/10/impeldown 10 he.ass	343	0	0.00	17.49	
+AI_fedew	22 Impel Down	09	subtitles/fedew/22 Impel Down/09/impeldown 09 he.ass	487	0	0.00	6.16	
+AI_fedew	22 Impel Down	06	subtitles/fedew/22 Impel Down/06/impeldown 06 he.ass	435	0	0.00	13.79	
+AI_fedew	22 Impel Down	05	subtitles/fedew/22 Impel Down/05/impeldown 05 he.ass	461	0	0.00	26.03	
+AI_fedew	22 Impel Down	03	subtitles/fedew/22 Impel Down/03/impeldown 03 he.ass	568	0	0.00	3.52	
+AI_fedew	21 Amazon Lily	01	subtitles/fedew/21 Amazon Lily/01/amazonlily 01 he.ass	374	0	0.00	16.04	
+AI_fedew	19 Thriller Bark	18	subtitles/fedew/19 Thriller Bark/18/thrillerbark 18 he.ass	314	0	0.00	6.37	
+AI_fedew	19 Thriller Bark	05	subtitles/fedew/19 Thriller Bark/05/thrillerbark 05 he.ass	309	0	0.00	16.18	
+AI_fedew	17 Enies Lobby	25	subtitles/fedew/17 Enies Lobby/25/enieslobby 25 he.ass	167	0	0.00	0.00	
+AI_fedew	17 Enies Lobby	24	subtitles/fedew/17 Enies Lobby/24/enieslobby 24 he.ass	419	0	0.00	23.87	
+AI_fedew	17 Enies Lobby	02	subtitles/fedew/17 Enies Lobby/02/enieslobby 02 he.ass	242	0	0.00	8.26	

@@ -58,7 +58,7 @@ The AI kept attack lines untranslated; the human translates them, keeps the `{\f
 - «הדבר הזה חזק רצח!» → «המתקפות שלו חזקות ממש!»; «בול בפוני!» → «בול פגיעה!»; «תאכלו עפר» → «תאכלו אבק».
 - «לכי לעזאזל, נאמי!» → «מה נסגר איתך, נאמי?!»; «סגור.» → «בשמחה.»
 - Metaphor localized: «הרוח החלה לנשוב לטובתי» → «כף המאזניים החלה לנטות לצד שלי»; «רוחות העולם כולו נושבות לטובתי» → «כף המאזניים של כל העולם נוטה לכיוון שלי».
-- Inverted-literal English untangled: «עד כדי כך עמוק החטא של קיומך!» → «זה כמה הקיום שלך הוא חטא!»; «אתה מדבר גבוה בשביל מת!» → «אתה בהחלט תופס מעצמך יחסית לאיש מת!».
+- Inverted-literal English untangled: «עד כדי כך עמוק החטא של קיומך!» → «זה כמה הקיום שלך הוא חטא!»; «אתה מדבר גבוה בשביל מת!» → «בשביל מת, יש לך פה גדול!» (the gold's «אתה בהחלט תופס מעצמך יחסית לאיש מת!» untangles the English but reads written; see §1.8).
 - "Guys": «הבחורים האלה» → «החבר'ה האלו / ההם».
 
 #### English tells — grammatical Hebrew that still sounds translated
@@ -95,6 +95,23 @@ Three look-alikes are NOT nif'al and keep their spelling:
 - Line breaks rebalanced for even line lengths (max ~44 chars/line); `{\q2}` added at end of line or before `\N` on long lines — never at the start of the event (AI habit).
 - **No italics**: AI used `{\i1}…{\i0}` 6 times for English-style stress; human uses 0 — emphasis is expressed through word order and word choice.
 
+### 1.8 Register: formal ≠ literary (research 2026-11-03)
+Source: `reports/Natural Hebrew anime subtitles.md` (15 researchers: Israeli subtitling history and style guides, Hebrew fansubs and dubs, Netflix's official One Piece Hebrew, the OPUS subtitle corpus, our fix history, blind reads of 12 episodes). Phrase table: `docs/translation-phrasebook.md`.
+- **Why lines read "written":** the model maps English phrases one-to-one (Well → ובכן, Indeed → אכן, As expected of → כצפוי מ…, by → על ידי), and when a line feels formal or polite it reaches for book Hebrew. Voice cards that said only "formal / dry / cold" made it worse, and the blind-review prompt never asked about register.
+- **Israeli practice:** TV subtitles dropped the elevated norm decades ago; Netflix and Amazon require each character's spoken register and idiom-for-idiom rendering. Netflix's own One Piece Hebrew has zero כצפוי and zero אסיר תודה.
+- **Owner rulings (2026-11-03):**
+  - Formal speakers (Jinbe, Sengoku, Whitebeard, Rayleigh, Mihawk, Magellan, narrator) are **strict**: complete sentences, no slang, polite address, never book Hebrew.
+  - **By voice:** everyone may say לעזאזל and הו/או. A hesitant «ובכן...», מעולם, «שמי X» and «לחשוב ש…» belong to formal speakers only. Old lines are not edited just for these.
+  - «זה רע!» → «זה לא טוב!» stays (§1.5).
+- **Global NEVER list** (every speaker except the deliberately pompous: Celestial Dragons, Hannyabal, Disco, Kumadori, Ivankov's proclamations): היכן, כיצד, מדוע, האם opening a question, אינו/אינני/אינך, הנני, אשר, כעת/עתה, אכן, כה, אנא, ייתכן, ציווה, חרפה, הכריע, יתרה מזאת, כצפוי/כמצופה מ…, אסיר תודה, suffixed possessives on everyday nouns (אנשיי, חבריו, אביך), a suffix plus של (הוצאתו להורג של…). The human gold uses each at most 0.14 times per 1,000 lines; `lint-subs.js` warns on them (`register "…"`).
+- **Not banned** (the human uses them as much or more): תודה לך, מה לעזאזל, אני מצטער, אני מניח, אחרי הכל, זה הכל, a bare הולך להיות, ללא, עבור, כלפי, באמצעות, אף, ביותר, מכיוון ש, formal commands (התחבא!, הסתלק!).
+- **Rules:**
+  1. Idioms exact or plain: נושף בעורף (never נושם), שיחק לנו המזל / היה לנו מזל (never יצא לנו מזל), הלך עלינו (never נגמר לנו for "we're done for").
+  2. Condense by cutting fillers, vocatives and subject pronouns, never by going up a register. Book forms save 0–5 characters; the 44-character limit never needs them.
+  3. Fix by re-voicing in everyday words, never by swapping in one higher word: «אנשים שלי!» → «חבר'ה!», not «אנשיי!».
+  4. Natural ≠ slang. The gold has no סבבה, תכלס or וואלה; its colour is curses and particles (לעזאזל איתך, ממזר, חתיכת…, בחיי, אין מצב, ככה). Keep יאללה to street voices.
+  5. Soldiers and guards answer «כן, המפקד!»; «כן, אדוני» is for butlers and waiters.
+
 ---
 
 ## 2. Rules for an AI translator (imperative)
@@ -118,6 +135,7 @@ Three look-alikes are NOT nif'al and keep their spelling:
 16. In the **Credits** style, write Hebrew role names in **reversed (visual) letter order** («עריכת וידאו» stored as «ואדיו תכירע»); leave Latin names untouched.
 17. Merge consecutive short events into one when they form one sentence; mark cross-event sentence continuation with a leading «...» on the second event.
 18. Keep subtitle lines balanced; max ~44 characters per rendered line.
+19. **Register: formal ≠ literary.** No word from the §1.8 NEVER list unless the speaker is deliberately pompous; stock phrases per `docs/translation-phrasebook.md`; condense by cutting, fix by re-voicing.
 
 ---
 

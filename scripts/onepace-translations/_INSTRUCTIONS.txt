@@ -5,23 +5,48 @@ Format: JSON array [{"i":0,"he":"..."}, ...] — one object per cue in <ID>.cues
 
 WRAP: max 2 lines, ≤44 Hebrew chars/line, break at WORD boundaries only. Prefer even lines.
 
-THREE GATES — apply on the FIRST write, not a later rewrite. Every dialogue cue.
+FOUR GATES — apply on the FIRST write, not a later rewrite. Every dialogue cue.
 Captions/notes: keep house signs; only touch if calque or wrong.
 
 1) UN-CALQUE — spoken Israeli, not English word order.
-   אני אהיה זה שייקח את הראש שלו → אני אקטע לו את הראש
-   ממשלת העולם קוראת לי פיראט ששונא פיראטים → בממשלה אומרים שאני פיראט ששונא פיראטים
+   אני אהיה זה שייקח את הראש שלו → אני אוריד לו את הראש
+   הממשלה העולמית קוראת לי פיראט ששונא פיראטים → בממשלה אומרים שאני פיראט ששונא פיראטים
    הם כדלקמן → drop; just list them
    עכבר לכוד הוא דבר מפחיד → גם עכבר בפינה יכול לנשוך
-   זה רע. מסוכן פה יותר מידי → רע פה. יותר מידי מסוכן
+   זה רע. מסוכן פה יותר מידי → זה לא טוב. פה ממש מסוכן!
    Short punches (מה?! / לעזאזל! / אין מצב!) stay.
+   Stock phrases: docs/translation-phrasebook.md (As expected of X → לא סתם… / אין עליך;
+   I see → הבנתי; Well, → טוב / נו, or drop it; Indeed → נכון / באמת;
+   We're done for → הלך עלינו; Takes me back → איזה זיכרונות; I'm grateful → תודה / אני מודה לך).
 
-2) VOICE — 3–5 words per recurring speaker BEFORE cue 0; same mouth all episode.
-   Jinbe: short, heavy, formal (no יאללה). Ace: calm, tired. Luffy: blunt.
-   Buggy: loud coward. Magellan: dry warden. Bon Clay: theatrical, male verbs, כובע-צ'אן.
+2) VOICE — a card per recurring speaker BEFORE cue 0; same mouth all episode.
+   Card = register in 3 words + SAY (~5 words) + NEVER (~5 words) + one model line.
+   Adjectives alone ("formal", "dry", "cold") made the model reach for book Hebrew.
+   CEILING for every speaker: formal = complete sentences, no slang, polite address
+   (אדוני, אדון X, סליחה, בבקשה). Formal ≠ literary: weight comes from short, firm
+   everyday words.
+   GLOBAL NEVER (every speaker except the pompous ones below): היכן, כיצד, מדוע,
+   האם (question), אינו/אינני/אינך, הנני, אשר, כעת/עתה, אכן, כה, אנא, ציווה, חרפה,
+   הכריע, יתרה מזאת, כצפוי/כמצופה מ…, אסיר תודה, suffixed possessives on everyday
+   nouns (אנשיי, חבריו, אביך).
+   FORMAL SPEAKERS ONLY: a hesitant ובכן..., מעולם, שמי X, לחשוב ש…
+   EVERYONE: לעזאזל!, הו/או.
+   POMPOUS (elevated Hebrew IS the joke, one elevated item per line): Celestial Dragons,
+   Hannyabal, Disco, Kumadori, Ivankov's proclamations.
+   Jinbe: calm, complete, short. SAY אני חייב לך / תסמוך עלי / אל תדאג / לא אתן ל…
+     NEVER יאללה, אחי, היכן, אכן, חרפה. Model: «ביבשה אני פחות חזק, אבל...»
+   Magellan: cold, bureaucratic. SAY בסמכותי כסוהר / זה מביך / זה לא יקרה / תדווחו
+     NEVER חרפה, בנחת, להכריע. Model: «בתור סוהר, זה מביך אותי מאוד.»
+   Sengoku: barked orders. SAY זו פקודה / חייבים / בכל מחיר / אל תצחיק אותי
+     NEVER ראשו של…, אני פוקד עליך. Model: «תנתקו את השידור הזה! זו פקודה!»
+   Marines/guards/PA: IDF register. SAY כן, המפקד! / קיבלתי! / אש! / להתקדם!
+     NEVER כן, אדוני! (that is for butlers and waiters).
+   Brook/Robin/Rayleigh: polite, modern. SAY בבקשה / סלחו לי / הרשו לי / טוב,
+     NEVER לו יכולתי, יתרה מזאת.
+   Luffy/Zoro/Nami/Franky/Usopp: casual. NEVER מעולם, ובכן, אכן, כאשר, אם כי, מכיוון ש.
+   Ace: calm, tired. Buggy: loud coward. Bon Clay: theatrical, male verbs, כובע-צ'אן.
    Iva: first person ווי (not אני); Vyou=אתה; Vwe=אנחנו; camp.
-   Sadi/Inazuma (these eps): feminine. Crocodile: cold. Blackbeard: lazy then threat.
-   Guards/PA: clipped military.
+   Sadi/Inazuma: feminine. Crocodile: cold (cold ≠ literary). Blackbeard: lazy then threat.
 
 3) YOU + SPLIT ATTACKS
    one male אתה / one female את / mixed group אתם / all-female אתן.
@@ -31,6 +56,13 @@ Captions/notes: keep house signs; only touch if calque or wrong.
    Gear Second / Rubber / Jet / Bazooka → גיר שני / גומי-גומי / סילון / בזוקה
    Never swap; never restack גומי-גומי onto the last card if prior cards already have it.
 
+4) REGISTER — read each line aloud as that character: would a Hebrew dub actor say it?
+   - A GLOBAL NEVER word the speaker's card doesn't allow → re-voice the line.
+   - Idioms exact or plain: נושף בעורף (never נושם), שיחק לנו המזל, הלך עלינו.
+   - Condense by CUTTING (fillers, vocatives, subject pronouns, "well/now/you know"),
+     never by going up a register (אנו, אינו, suffixed possessives).
+   - Fix a line by re-voicing it in everyday words, never by swapping in one higher word.
+
 HOUSE STYLE (docs/translation-learnings.md):
 - Spoken Israeli Hebrew. Translate the SCENE not the English calque.
 - זאת→זו ; האלה→האלו ; הכול→הכל ; יותר מדי→יותר מידי ; די→דיי ; עליי→עלי
@@ -38,7 +70,9 @@ HOUSE STYLE (docs/translation-learnings.md):
 - Huh?! → הא?!   Huh?/Hm? → הממ?   Man!/Jeez! → בחיי!   Whoa → בנאדם!
 - -san male → אדון NAME ; female → גברת NAME
 - -sama male → אדון NAME ; female Kuja superiors → אדונתי NAME (מריגולד-sama → אדונתי מריגולד)
-- Marines/Navy = הצי ; HQ = מפקדת הצי ; World Government = ממשלת העולם
+- Marines/Navy = הצי ; HQ = מפקדת הצי ; World Government = הממשלה העולמית
+- Devil Fruit = פרי שטן (pl. פירות שטן) ; Vice Admiral = סגן אדמירל
+- Knight of the Sea (Jinbe) = אביר הים ; Yes, sir! (soldiers, guards) = כן, המפקד!
 - Warlord of the Sea = לוחם הים (m) / לוחמת הים (f, Hancock). The Seven = שבעת לוחמי הים
 - Calm Belt = הרצועה השקטה
 - Haki = האקי ; Conqueror's Haki / Haki of the chosen ones = האקי של המלכים
@@ -109,6 +143,6 @@ SELF-CHECK before writing:
 3. No word split across \\N
 4. Female Kuja groups = אתן
 5. Valid JSON (ensure_ascii=False)
-6. Three gates ran (un-calque, voice, you/split-attacks) — not a literal first draft
+6. Four gates ran (un-calque, voice, you/split-attacks, register) — not a literal first draft
 
 Write the file with json.dump(..., ensure_ascii=False, indent=None) as a compact array, or indent=0 one object per line. Compact single-line array like SAB_1.he.json is fine.

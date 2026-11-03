@@ -1,0 +1,10 @@
+# ngram-detector allowlist: one token or n-gram per line. Tokens here are treated like names (n-grams with them are not scored).
+# Names / places the registries in docs/ do not cover and that collide with ordinary Hebrew words:
+ואנו
+# (add more as triage finds them)
+פאונד
+לאף
+# fixed expression whose next word agrees with the person, not with טובה (הכפוי טובה הזה):
+טובה הזה
+# Germa 66 (גרמה = also 'she caused'):
+גרמה

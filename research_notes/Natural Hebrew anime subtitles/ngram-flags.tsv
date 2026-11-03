@@ -1,0 +1,501 @@
+rank	file	ass_line	dlg_idx	score	worst_ngram	obs	expected	kind	slor	min_local	reg	reg_worst	format	text	judgment_top100
+1	subtitles/fedew/22 Impel Down/03/impeldown 03 he.ass	461	419	2.80	לעזאזל אותך	3	2534.2	bi	-0.98	-3.07	0.00			לעזאזל אותך!	TRUE calque
+2	subtitles/main/12 Alabasta/20/alabasta 20 he.ass	259	219	2.68	אתה כולו	0	473.3	bi	0.49	-0.80	0.00			משהו קרה? / אתה כולו מיוזע.	TRUE grammar
+3	subtitles/main/16 Water Seven/03/waterseven 03 he.ass	333	297	2.55	אני למדי	1	706.2	bi	0.00	-3.25	0.24	עד		אני למדי מופתע שהצוות שלכם הגיע / עד כאן בספינה במצב כזה.	TRUE register
+4	subtitles/main/10 Little Garden/02/littlegarden 02 he.ass	153	117	2.52	על אתכם	2	990.3	bi	-0.14	-3.09	0.15	על		אני מדבר על אתכם שניים!	TRUE calque
+5	subtitles/main/33 Egghead/11/egghead 11 he.ass	301	264	2.50	הם לכאן	2	944.5	bi	0.30	-0.39	0.81	הגיעו גם		הגיעו גם הם לכאן.	BORDERLINE word-order
+6	subtitles/main/11 Drum Island/04/drumisland 04 he.ass	305	270	2.47	בוואו שהוא	1	588.6	bi	0.45	-2.63	0.00			סאנג'י! בואו שהוא יצטרף אלינו!	TRUE calque
+7	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	72	35	2.46	עם זה נגמר	1	582.1	tri	0.25	-1.55	0.10	עם		טוב. עם זה נגמר, אף אחד לא יוכל / לעלות לכאן זמן מה.	TRUE calque
+8	subtitles/main/12 Alabasta/14/alabasta 14 he.ass	148	114	2.46	שצריך לי	1	575.1	bi	0.39	-3.16	0.00			כנראה שלא, וזו / בדיוק הסיבה שצריך לי את פלוטון.	TRUE grammar
+9	subtitles/main/14 Skypiea/04/skypiea 04 he.ass	103	65	2.43	אפשר גם אני	0	271.2	tri	0.62	-2.62	0.16	גם		אז, אפשר גם אני / לבקש ממך טובה?	TRUE grammar
+10	subtitles/main/32 Wano/35/wano 35 he.ass	198	159	2.42	ראיתי שלום	0	264.6	bi	0.31	-0.96	0.28	לפני כן		מעולם לא ראיתי שלום לפני כן.	TRUE collocation
+11	subtitles/main/32 Wano/41/wano 41 he.ass	415	380	2.39	על זה יפהפה	0	244.8	tri	0.66	0.00	1.55	חיפה		יאסואיה חיפה על זה יפהפה...	TRUE wrong-word
+12	subtitles/main/32 Wano/54/wano 54 he.ass	364	326	2.23	עד כמה שנים	3	685.9	tri	0.36	-0.79	0.24	עד		לא ידענו שאדון אודן / מת עד כמה שנים אחרי כן.	TRUE calque
+13	subtitles/fedew/22 Impel Down/08/impeldown 08 he.ass	436	396	2.23	לעזאזל עליה	0	170.2	bi	-0.20	-0.80	0.00			לעזאזל עליה!	TRUE calque
+14	subtitles/main/14 Skypiea/05/skypiea 05 he.ass	257	221	2.22	מה בדיוק כאן	0	164.3	tri	-0.06	-0.80	0.00			אבל מה בדיוק כאן המבחן?	TRUE word-order
+15	subtitles/main/13 Jaya/02/jaya 02 he.ass	531	494	2.20	ימים הזה	1	317.1	bi	0.06	-2.90	0.80	בעידן		בעידן של ימים הזה, אלו / שאמורים להיות המתאימים ביותר לשיט	TRUE garbled
+16	subtitles/main/30 Whole Cake Island/18/wci 18 he.ass	435	390	2.19	צוחק אותו	1	311.6	bi	0.29	-2.89	0.00			הוא אפילו צוחק אותו דבר.	BORDERLINE colloquial
+17	subtitles/main/32 Wano/06/wano 06 he.ass	49	12	2.19	זו הסיפור	0	155.3	bi	-0.18	-0.80	0.41	עיר		זו הסיפור מאחורי עיר בקורה.	TRUE agreement
+18	subtitles/main/33 Egghead/12/egghead 12 he.ass	326	288	2.17	עובד אותי	3	593.6	bi	0.34	-1.55	0.24	עד		אתה עובד אותי עד מוות פה!	TRUE calque
+19	subtitles/main/01 Romance Dawn/02/romancedawn 02 he.ass	69	29	2.17	ניקח כן	1	294.2	bi	-0.26	-2.87	0.00			לא נהרוג אתכם, אבל את כל /  !ניקח כן מה שיש לכם אנחנו	TRUE format-reversed
+20	subtitles/main/32 Wano/39/wano 39 he.ass	77	39	2.16	בשמחה לי	0	145.0	bi	-0.14	-0.80	0.80	השליטים		אפילו הלוויתנים מצפים בשמחה לי / ום שבו שני השליטים ייפגשו שוב...	TRUE format-split-word
+21	subtitles/fedew/17 Enies Lobby/17/enieslobby 17 he.ass	251	207	2.15	במהלך כל כך	1	282.4	tri	-0.03	-2.75	1.25	במהלך		אני לא מאמין שהפסדתם / במהלך כל כך טיפשי כמו הזה!	TRUE calque
+22	subtitles/fedew/18 Post-Enies Lobby/04/postenieslobby 04 he.ass	362	329	2.14	תודה על שם	0	138.4	tri	0.35	-0.63	1.05	על שם		תודה על שם כל כך מעולה!	BORDERLINE ambiguity
+23	subtitles/main/33 Egghead/14/egghead 14 extended he.ass	290	252	2.13	מי עליה	1	268.5	bi	-0.63	-2.17	0.00			מי עליה?!	FALSE ellipsis
+24	subtitles/main/33 Egghead/14/egghead 14 he.ass	255	218	2.13	מי עליה	1	268.5	bi	-0.63	-2.17	0.00			מי עליה?!	FALSE ellipsis
+25	subtitles/main/30 Whole Cake Island/24/wci 24 he.ass	144	106	2.12	אני הטירה	0	130.4	bi	0.77	-0.80	0.53	הטירה		אני הטירה הזאת. / היא חזקה, אבל לא בלתי מנוצחת.	FALSE fantasy-context
+26	subtitles/main/32 Wano/19/wano 19 he.ass	67	30	2.12	הדבר לכאן	0	129.6	bi	-0.03	-0.80	0.08	הביאו		הביאו את הדבר לכאן!	BORDERLINE register
+27	subtitles/main/12 Alabasta/21/alabasta 21 he.ass	96	58	2.11	המון פשוט	0	127.2	bi	-0.00	-0.80	0.16	גם		גם אם אנחנו רק המון פשוט.	TRUE collocation
+28	subtitles/main/32 Wano/18/wano 18 he.ass	271	232	2.10	אם לא עובד	1	253.7	tri	-0.05	-1.69	0.00			אם לא עובד, מתים ברעב!	TRUE register
+29	subtitles/main/32 Wano/48/wano 48 he.ass	366	329	2.10	<s> תעמוד בדרכי	0	125.7	tri	0.68	-0.80	0.16	גם		תעמוד בדרכי, ואקח גם את שלך.	TRUE calque
+30	subtitles/main/32 Wano/14/wano 14 he.ass	356	316	2.10	פשוט שמי	0	124.1	bi	0.03	-0.80	0.00			אני לא גבר! אוטוקו זה פשוט שמי!	BORDERLINE register
+31	subtitles/main/30 Whole Cake Island/36/wci 36 he.ass	342	303	2.09	מה שיגעון	0	121.5	bi	-0.14	-0.80	0.00			מה שיגעון!	TRUE calque
+32	subtitles/main/14 Skypiea/22/skypiea 22 he.ass	63	28	2.09	יש כתוב	1	243.0	bi	-0.04	-2.78	0.00			יש כתוב עליו משהו...	TRUE grammar
+33	subtitles/fedew/17 Enies Lobby/07/enieslobby 07 he.ass	171	139	2.07	בקלות אותו	0	115.2	bi	0.13	-0.82	0.24	בקלות אותו		אבל ראית כמה בקלות אותו / צ'יף אידיוט הפר את העסקה שלך.	TRUE word-order
+34	subtitles/main/16 Water Seven/04/waterseven 04 he.ass	85	48	2.06	אלה בעיה	0	114.3	bi	0.20	-0.80	0.24	אלה בעיה		צרה! אלה בעיה רצינית!	TRUE agreement
+35	subtitles/main/14 Skypiea/21/skypiea 21 he.ass	119	81	2.06	אלוהים עליו	2	344.7	bi	-0.62	-2.63	0.00			אלוהים עליו!	TRUE calque
+36	subtitles/main/24 Post War/06/postwar 06 he.ass	137	100	2.06	<s> בטח רעב	1	226.1	tri	0.52	-1.17	0.00			בטח רעב. הבאתי קצת אוכל.	TRUE grammar
+37	subtitles/main/16 Water Seven/05/waterseven 05 he.ass	124	89	2.04	נגד אותך	2	329.7	bi	-0.00	-2.62	0.90	בהתקפות		לא הזהרתי אותך? אני משתמש רק / בהתקפות שעובדות נגד אותך!	TRUE grammar
+38	subtitles/main/13 Jaya/01/jaya 01 he.ass	85	49	2.04	אי עליו	0	108.8	bi	-0.00	-0.80	0.27	ים		מדהים! אז יש ים צף / בשמיים עם אי עליו!	TRUE calque
+39	subtitles/main/16 Water Seven/20/waterseven 20 he.ass	217	189	2.02	המפקד אחר	0	104.3	bi	0.64	-0.80	0.00			תיידעי את המפקד אחר כך...	BORDERLINE register
+40	subtitles/fedew/22 Impel Down/03/impeldown 03 he.ass	546	504	2.02	צריך נגד	1	208.9	bi	-0.13	-2.72	0.52	נגד		אני צריך... אני צריך נגד! שיט!	TRUE wrong-word
+41	subtitles/main/16 Water Seven/02/waterseven 02 he.ass	198	161	2.00	אני בצורת	1	200.1	bi	0.12	-2.70	0.64	בצורת		זה אמור להיות בסדר אם אני בצורת האדם שלי.	BORDERLINE word-order
+42	subtitles/main/16 Water Seven/12/waterseven 12 he.ass	347	310	2.00	עם לקרוא	3	399.1	bi	-0.31	-2.52	0.10	עם		שוב עם לקרוא לו "פלאנקי"!	TRUE calque
+43	subtitles/fedew/22 Impel Down/01/impeldown 01 he.ass	292	171	2.00	שמעתי בשביל	0	98.2	bi	0.37	-0.80	0.00			שמעתי בשביל מה באתם.	TRUE calque
+44	subtitles/main/31 Reverie/01/reverie 01 he.ass	558	521	1.99	הבשורה הטובה ביותר	1	196.1	tri	0.95	-0.03	0.66	הטובה ביותר		אוה, זו הבשורה הטובה ביותר! אני לא יכולה לחכות!	TRUE calque
+45	subtitles/main/32 Wano/08/wano 08 he.ass	355	319	1.99	את צמא	1	196.1	bi	0.28	-2.69	0.00			אני מרגיש את צמא הדם שלך.	FALSE rare-but-fine
+46	subtitles/fedew/23 Marineford/01/marineford 01 he.ass	396	338	1.99	וכל אם	2	293.7	bi	-0.44	-2.56	0.21	וכל אם		בדקנו כל תינוק וכל אם. / כלום.	FALSE rare-but-fine
+47	subtitles/fedew/22 Impel Down/03/impeldown 03 he.ass	47	16	1.99	כבר עצמו	0	96.3	bi	0.26	-0.80	0.35	עצמו		וכשכולם כבר עצמו עיניים מרוב ייאוש...	FALSE rare-but-fine
+48	subtitles/main/12 Alabasta/03/alabasta 03 he.ass	137	100	1.97	נמצאת קדימה	0	92.3	bi	0.45	-0.80	0.00			התשובה נמצאת קדימה.	TRUE calque
+49	subtitles/main/16 Water Seven/03/waterseven 03 he.ass	414	378	1.97	מריח אם	0	91.8	bi	0.14	-1.17	0.60	של		מה אני מריח אם לא ריח של פיראטים?	TRUE calque
+50	subtitles/fedew/17 Enies Lobby/09/enieslobby 09 he.ass	194	162	1.97	עליה להם	0	91.5	bi	0.47	-0.80	0.00			אני רוצה לדווח עליה להם.	BORDERLINE word-order
+51	subtitles/main/32 Wano/45/wano 45 he.ass	260	221	1.96	על מגיעים	2	273.6	bi	0.32	-2.53	0.53	דיווח		לא היה שום דיווח על מגיעים חדשים / מנמל מוגורה...	TRUE calque
+52	subtitles/fedew/23 Marineford/07/marineford 07 he.ass	294	243	1.96	אני בכבודו	0	89.6	bi	0.87	-0.80	0.00			כן, זה אני בכבודו ובעצמו!	FALSE idiom
+53	subtitles/fedew/23 Marineford/07/marineford 07 he.ass	313	262	1.96	אני בכבודו	0	89.6	bi	0.87	-0.80	0.00			כן, זה אני בכבודו ובעצמו!	FALSE idiom
+54	subtitles/main/32 Wano/19/wano 19 he.ass	163	126	1.95	נו יכולים	0	88.9	bi	0.39	-0.40	0.06	כי		כי כולם ערומים ואנח / נו יכולים לראות הכל.	TRUE format-split-word
+55	subtitles/fedew/17 Enies Lobby/09/enieslobby 09 he.ass	99	67	1.94	עצרנו לא	1	174.7	bi	-0.26	-2.64	0.73	חוקרי		עצרנו לא מעט / חוקרי פונגליפים בכל העולם,	FALSE rare-but-fine
+56	subtitles/fedew/18 Post-Enies Lobby/01/postenieslobby 01 he.ass	417	369	1.94	את מושך	3	349.4	bi	0.58	-2.07	0.52	ביותר		ותייגה את מושך החוטים דראגון / כפושע המסוכן ביותר בעולם,	TRUE calque
+57	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	335	297	1.93	זו מצב	1	167.4	bi	0.76	-2.62	0.26	בלתי צפוי		יש לנו בעיה גדולה יותר! / זו מצב בלתי צפוי, מאמא!	TRUE agreement
+58	subtitles/main/32 Wano/12/wano 12 he.ass	125	89	1.93	זו מצב	1	167.4	bi	-0.87	-2.62	0.49	הייתה זו		הייתה זו מצב קרוב!	TRUE agreement
+59	subtitles/main/06 Arlong Park/10/arlongpark 10 he.ass	256	224	1.92	בטח עשית </s>	0	83.1	tri	-0.39	-1.02	0.00			לא, בטח עשית!	TRUE calque
+60	subtitles/fedew/22 Impel Down/03/impeldown 03 he.ass	389	349	1.92	ממני שלום	2	246.6	bi	-0.15	-2.49	0.00			אם תראה את אייס תגיד לו ממני שלום, / ושנשתה ביחד אם עוד נתראה בחיים!	FALSE rare-but-fine
+61	subtitles/fedew/19 Thriller Bark/01/thrillerbark 01 he.ass	280	238	1.91	באמת עין	0	80.6	bi	0.29	-0.80	0.52	לאיכות		יש לך באמת עין לאיכות.	BORDERLINE calque
+62	subtitles/main/14 Skypiea/16/skypiea 16 he.ass	177	139	1.91	מחוץ גם	1	161.8	bi	0.06	-2.61	0.16	גם		יש המון מהומה / מחוץ גם כן.	TRUE garbled
+63	subtitles/main/13 Jaya/03/jaya 03 he.ass	222	187	1.89	שהוא בשעה	0	76.8	bi	0.90	-0.80	0.44	שתים עשרה		בואו נראה... אני הייתי אומר / שהוא בשעה שתים עשרה!	TRUE calque
+64	subtitles/fedew/17 Enies Lobby/14/enieslobby 14 he.ass	154	114	1.89	רוצה באוויר	0	76.8	bi	0.44	-0.86	0.00			עכשיו אתה לא יכול לזוז איך שאתה רוצה באוויר!	BORDERLINE word-order
+65	subtitles/main/32 Wano/42/wano 42 he.ass	499	462	1.89	תרשו לי את	1	154.3	tri	1.08	-1.73	0.11	את תשומת		אם תרשו לי את תשומת לבכם...!	TRUE calque
+66	subtitles/main/30 Whole Cake Island/01/wci 01 he.ass	193	153	1.89	חצי יום טוב	0	76.4	tri	0.40	-0.52	0.60	הים		חצי יום טוב! הים הוא לא מקום גדול?	TRUE garbled
+67	subtitles/main/32 Wano/21/wano 21 he.ass	260	221	1.89	לצאת איתך על	0	75.8	tri	0.83	0.00	0.15	על		תן לי לצאת איתך על הספינה שלך.	TRUE calque
+68	subtitles/main/12 Alabasta/21/alabasta 21 he.ass	314	276	1.88	בסדר בים	0	75.5	bi	0.11	-0.80	0.52	בים		אגב, גברת הנווטת... / הכל בסדר בים עכשיו?	FALSE rare-but-fine
+69	subtitles/main/30 Whole Cake Island/01/wci 01 he.ass	69	29	1.88	אם לא מרגיש	1	151.5	tri	0.33	-1.68	0.00			אם לא מרגיש טוב, / נחזור מיד.	TRUE grammar
+70	subtitles/main/11 Drum Island/07/drumisland 07 he.ass	381	344	1.88	אני סובב	1	150.9	bi	-0.08	-2.58	0.58	ועלה		קפטן אני סובב בחן הרחק מהסכנה / ועלה על הקונדור!	TRUE garbled
+71	subtitles/main/32 Wano/55/wano 55 extended he.ass	342	301	1.88	נכנס באמת	1	150.3	bi	-0.54	-2.57	0.44	העולם		העולם נכנס באמת / לעידן הפיראטים הגדול!	BORDERLINE word-order
+72	subtitles/main/32 Wano/55/wano 55 he.ass	220	179	1.88	נכנס באמת	1	150.3	bi	-0.54	-2.57	0.44	העולם		העולם נכנס באמת / לעידן הפיראטים הגדול!	BORDERLINE word-order
+73	subtitles/main/32 Wano/37/wano 37 he.ass	397	361	1.88	השנייה אותו	1	149.1	bi	0.79	-0.86	0.85	השנייה		בפעם השנייה אותו יום, / נותרתי ללא מילים.	TRUE calque
+74	subtitles/main/32 Wano/46/wano 46 he.ass	306	267	1.87	אנחנו מפקד	0	73.2	bi	0.28	-0.80	0.68	מפקד		כן! אנחנו מפקד צ'ופר ו / אוסופ הגנר שמנהלים את ה-Brachio-Tank 5!	FALSE theatrical
+75	subtitles/fedew/23 Marineford/07/marineford 07 he.ass	103	58	1.87	תעוף לי </s>	1	147.1	tri	0.21	-2.25	0.00			עכשיו תעוף לי!	FALSE slang-fine
+76	subtitles/main/12 Alabasta/02/alabasta 02 he.ass	237	201	1.86	אתה עשן	1	145.3	bi	-0.60	-2.56	0.23	אתה עשן		אולי אתה עשן,	FALSE fantasy-context
+77	subtitles/main/00 Cover Stories and Specials/02/The Trials of KobyMeppo he.ass	156	118	1.86	מי גמור	2	215.2	bi	-0.17	-2.43	0.00			הא?! מי גמור?!	FALSE ellipsis
+78	subtitles/main/14 Skypiea/15/skypiea 15 he.ass	66	31	1.86	אותי ארוחת	3	286.5	bi	0.58	-2.38	0.00			פעם אחת הם אפילו האכילו אותי ארוחת צהריים!	BORDERLINE colloquial
+79	subtitles/main/13 Jaya/04/jaya 04 he.ass	334	298	1.86	חוקר שלי	0	70.8	bi	0.10	-0.80	0.27	חוקר		חבר חוקר שלי / הראה לי דג שמיים חי.	TRUE calque
+80	subtitles/main/13 Jaya/07/jaya 07 he.ass	193	155	1.86	כמה הזדמנות	1	142.3	bi	0.49	-2.55	0.00			ולמה לא?! אתה לא יכול להכחיש / כמה הזדמנות מדהימה זו!	TRUE calque
+81	subtitles/main/12 Alabasta/14/alabasta 14 he.ass	183	149	1.85	למה תצטרך	1	141.3	bi	-0.86	-2.55	0.00			פוניגליף... למה תצטרך...?	BORDERLINE grammar
+82	subtitles/main/12 Alabasta/14/alabasta 14 he.ass	250	216	1.85	להגן בדיוק	0	69.8	bi	0.48	-0.80	0.95	האמנות		שיא האמנות בחרב הוא להגן בדיוק על מה שרוצים להגן עליו / 	BORDERLINE register
+83	subtitles/main/16 Water Seven/09/waterseven 09 he.ass	330	294	1.84	גם הצהריים	0	68.7	bi	0.14	-0.80	0.16	גם		ראיתי אותה גם הצהריים!	FALSE colloquial-fine
+84	subtitles/main/25 Return to Sabaody/01/rts 01 he.ass	395	352	1.84	<s> רק מבקשת	2	207.6	tri	0.08	-2.35	0.00			לא זה... רק מבקשת שתלך בלי /  לומר "להתראות" באמת.	TRUE garbled
+85	subtitles/fedew/19 Thriller Bark/09/thrillerbark 09 he.ass	144	105	1.84	כף הוא	1	138.1	bi	-0.76	-2.54	0.29	כף		שם החבר שנשבענו לפגוש שוב על אותו כף הוא...	BORDERLINE register
+86	subtitles/main/07 Loguetown/02/loguetown 02 he.ass	111	74	1.84	עוד מתחיל	1	138.0	bi	-0.77	-2.54	0.00			הכיף עוד מתחיל.	TRUE calque
+87	subtitles/main/16 Water Seven/03/waterseven 03 he.ass	584	548	1.84	אתה הצינור	0	68.1	bi	0.26	-0.80	0.00			הא?! אתה הצינור הזה מקודם!	BORDERLINE word-order
+88	subtitles/main/07 Loguetown/01/loguetown 01 he.ass	236	198	1.84	בכלל ככה	1	135.8	bi	0.19	-2.53	0.00			לעזאזל! אני לא מתקדם בכלל ככה!	FALSE rare-but-fine
+89	subtitles/main/12 Alabasta/01/alabasta 01 he.ass	53	17	1.83	קראו לי מה	0	67.0	tri	0.43	-0.48	0.00			טוב, קראו לי מה שתרצו.	BORDERLINE register
+90	subtitles/main/14 Skypiea/08/skypiea 08 he.ass	399	360	1.83	<s> כבר משהו	2	201.5	tri	-0.61	-2.22	0.00			כבר משהו מאחוריך!	TRUE garbled
+91	subtitles/main/17 Enies Lobby/05/enieslobby 05 he.ass	287	250	1.82	אלה אתכם	0	65.6	bi	0.34	-0.80	0.00			קחו את אלה אתכם.	TRUE register
+92	subtitles/main/33 Egghead/04/egghead 04 he.ass	235	198	1.82	של פגעתי	0	65.4	bi	0.82	-0.80	0.60	של		תפסיק עם השטויות של 'פגעתי בה, היא אמיתית'!	FALSE quote
+93	subtitles/main/30 Whole Cake Island/13/wci 13 he.ass	271	233	1.82	תהיה עצמי	0	64.4	bi	0.36	-1.41	0.02	הרגיל		אל תתן לילדה כזו יפה להיות עצובה! / תהיה עצמי הרגיל!	TRUE calque
+94	subtitles/main/30 Whole Cake Island/15/wci 15 he.ass	396	358	1.81	בכל שקרה	0	63.9	bi	0.44	-0.80	0.77	בהתאם		הוא האשים אותך בכל שקרה, / והתעלל בך בהתאם.	TRUE grammar
+95	subtitles/main/16 Water Seven/19/waterseven 19 he.ass	50	15	1.81	מביאים לא	3	257.0	bi	0.75	-0.92	0.96	ברית		ונראה שהם מביאים לא מעט בעלי ברית.	FALSE rare-but-fine
+96	subtitles/fedew/19 Thriller Bark/06/thrillerbark 06 he.ass	307	268	1.81	את חמורה	3	256.3	bi	-0.15	-1.07	0.36	חמורה עם		את חמורה עם קומאשי כמו תמיד...	TRUE calque
+97	subtitles/main/30 Whole Cake Island/10/wci 10 he.ass	98	61	1.81	רוצה ספרי	1	126.9	bi	0.49	-2.50	0.91	וכלי		אתה רוצה ספרי בישול וכלי מטבח?	FALSE rare-but-fine
+98	subtitles/main/14 Skypiea/09/skypiea 09 he.ass	185	147	1.80	כשהייתי אלוהים	0	62.6	bi	-0.31	-0.80	0.00			כשהייתי אלוהים,	FALSE fantasy-context
+99	subtitles/main/24 Post War/08/postwar 08 he.ass	434	396	1.80	קפטן מאוד	1	125.5	bi	0.13	-2.50	0.00			נשמע כמו קפטן מאוד מסובך!	TRUE calque
+100	subtitles/main/24 Post War/03/postwar 03 he.ass	451	409	1.80	גדולה לכם	0	62.2	bi	0.47	-0.80	0.00			כן, ויש לי משימה גדולה לכם הלילה.	BORDERLINE word-order
+101	subtitles/main/24 Post War/04/postwar 04 he.ass	90	51	1.80	אותו לאיבוד	0	61.8	bi	0.07	-0.80	0.00			לזרוק אותו לאיבוד יהיה בזבוז!	
+102	subtitles/main/32 Wano/44/wano 44 he.ass	87	48	1.79	למה לשרוד	0	61.1	bi	1.06	-1.53	0.84	השנים		למה לשרוד את עשרים השנים האחרונות / אם לא כדי לחדד את הכישורים שלי?	
+103	subtitles/main/10 Little Garden/01/littlegarden 01 he.ass	396	359	1.79	למה תמשיכו	0	60.1	bi	0.63	-1.80	0.00			למה תמשיכו / כל כך הרבה זמן?!	
+104	subtitles/main/30 Whole Cake Island/09/wci 09 he.ass	334	294	1.79	בן מבטיח	0	60.1	bi	-0.04	-0.80	0.00			איבדתי בן מבטיח!	
+105	subtitles/main/16 Water Seven/13/waterseven 13 he.ass	90	55	1.78	לכו יותר	2	178.4	bi	0.09	-1.82	0.18	יותר פנימה		אל תעצרו! לכו יותר פנימה!	
+106	subtitles/fedew/17 Enies Lobby/25/enieslobby 25 he.ass	96	53	1.78	מה קרה ככה	2	178.4	tri	0.69	-2.08	0.00			היי, מה קורה?! / מה קרה ככה פתאום?!	
+107	subtitles/main/07 Loguetown/02/loguetown 02 he.ass	361	324	1.77	אני ייפגע	1	117.9	bi	0.58	-0.43	0.16	גם		אני לא יכול לסבך אותה בזה, / גם אם אני ייפגע!	
+108	subtitles/main/32 Wano/14/wano 14 he.ass	133	93	1.77	הם גררו </s>	0	58.1	tri	0.12	-0.84	0.15	גררו		כמה אבנים הם גררו?	
+109	subtitles/main/32 Wano/41/wano 41 he.ass	331	296	1.77	הקיום את	0	57.7	bi	-0.08	-0.80	0.25	הקיום		מחקתי מן הקיום את / רוצחי הוריך.	
+110	subtitles/main/24 Post War/06/postwar 06 he.ass	363	326	1.77	למי אחר	0	57.3	bi	-0.23	-0.80	0.00			למי אחר?	
+111	subtitles/fedew/17 Enies Lobby/17/enieslobby 17 he.ass	96	52	1.76	שזה שעבר	0	56.5	bi	-0.12	-1.19	0.23	דרכן		אבל נראה שזה שעבר דרכן הוא האמיתי, / הא?	
+112	subtitles/main/14 Skypiea/05/skypiea 05 he.ass	180	144	1.76	חוץ כזה	0	56.4	bi	0.35	-2.04	0.10	עם		לא נוכל להוריד את הסירה למים / עם חוץ כזה.	
+113	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	267	232	1.76	<s> על מרחק	1	113.6	tri	-0.07	-1.08	0.67	קצר		מיראז'! זה לא... / על מרחק כזה קצר!	
+114	subtitles/main/12 Alabasta/04/alabasta 04 he.ass	242	204	1.75	אמורה זו	1	112.2	bi	-0.26	-2.45	0.39	אואזיס		לא הייתה אמורה זו /  להיות אואזיס, ויוי?	
+115	subtitles/main/14 Skypiea/12/skypiea 12 he.ass	242	205	1.75	לעולם למטה	0	55.5	bi	-0.30	-0.80	0.32	שאבדה		שאבדה לעולם למטה!	
+116	subtitles/main/12 Alabasta/15/alabasta 15 he.ass	250	217	1.75	שלא קרב	0	54.7	bi	0.58	-0.80	0.30	קרב		אנחנו כבר לא רוצים ניצחון, / ובטח שלא קרב!	
+117	subtitles/main/09 Whisky Peak/02/whiskypeak 02 he.ass	261	225	1.74	אתה בדרכנו	0	54.5	bi	-0.24	-0.80	0.00			אתה בדרכנו.	
+118	subtitles/main/32 Wano/17/wano 17 he.ass	402	367	1.74	מכאיב את	2	164.2	bi	-0.09	-2.31	0.00			זה מכאיב את הלב!	
+119	subtitles/main/32 Wano/08/wano 08 he.ass	272	236	1.74	אני ספיד	0	53.6	bi	-0.06	-0.80	0.60	של		אני ספיד, הדליין של פיראטי החיה!	
+120	subtitles/fedew/23 Marineford/05/marineford 05 he.ass	273	227	1.73	של הינה	1	107.6	bi	0.40	-2.43	0.60	של		כל מה שעובר דרך הגוף של הינה... / ננעל חזק.	
+121	subtitles/main/32 Wano/13/wano 13 he.ass	370	335	1.73	זה בידיים ריקות	0	52.8	tri	0.54	-0.80	0.16	גם		אילחם גם אם זה בידיים ריקות!	
+122	subtitles/main/31 Reverie/02/reverie 02 he.ass	242	206	1.73	כלום שלוש	1	106.5	bi	0.64	-2.43	0.11	שלוש שנים		כנראה שלא אטרח! לא אכלתי / כלום שלוש שנים!	
+123	subtitles/main/24 Post War/02/postwar 02 he.ass	353	316	1.73	לאן הוא שם	0	52.5	tri	0.53	-0.31	0.00			אתה בטח יודע / לאן הוא שם אותו, נכון?	
+124	subtitles/main/24 Post War/05/postwar 05 he.ass	147	109	1.72	רוצה שאני הייתי	1	104.2	tri	0.27	-1.60	0.14	במקומו		מה?! אתה רוצה שאני הייתי מת במקומו?!	
+125	subtitles/main/30 Whole Cake Island/07/wci 07 he.ass	301	265	1.72	רוצה מזמן	2	156.7	bi	0.24	-1.89	0.68	יצירת		יצירת קשר משפחתי עם הווינסמוקים  / היא משהו שמאמא רוצה מזמן.	
+126	subtitles/main/32 Wano/01/wano 01 he.ass	216	183	1.72	למה תכניס	0	51.4	bi	0.75	-0.71	0.08	ברורה		לופי, למה תכניס / את הצוות שלך לסכנה כל כך ברורה?	
+127	subtitles/main/24 Post War/02/postwar 02 he.ass	79	42	1.72	עצמתי עין על	0	51.4	tri	0.44	-0.80	0.33	עבירות		עצמתי עין על / מי-יודע-כמה עבירות שלכם.	
+128	subtitles/main/32 Wano/55/wano 55 extended he.ass	280	239	1.72	מה אמרת שתהיה	0	51.3	tri	0.71	0.00	0.00			תגיד לנו שוב מה אמרת שתהיה...	
+129	subtitles/main/32 Wano/55/wano 55 he.ass	142	101	1.72	מה אמרת שתהיה	0	51.3	tri	0.71	0.00	0.00			תגיד לנו שוב מה אמרת שתהיה...	
+130	subtitles/fedew/22 Impel Down/03/impeldown 03 he.ass	238	202	1.71	מה כובע	3	206.0	bi	-0.53	-2.07	0.00			מה כובע הקש לופי רוצה?	
+131	subtitles/main/24 Post War/08/postwar 08 he.ass	461	423	1.71	לזוז יהיה	1	102.0	bi	-0.03	-2.41	0.00			רק לזוז יהיה  / מספיק! אז תזוז כבר!	
+132	subtitles/main/09 Whisky Peak/01/whiskypeak 01 he.ass	145	110	1.71	אי מצחיק	0	50.4	bi	-0.07	-0.83	0.00			אבל זה ממש אי מצחיק.	
+133	subtitles/fedew/22 Impel Down/08/impeldown 08 he.ass	129	94	1.71	לעזאזל עליהם	1	101.3	bi	-0.36	-2.40	0.00			לעזאזל עליהם... תירו!	
+134	subtitles/main/06 Arlong Park/08/arlongpark 08 he.ass	194	158	1.71	האף שאתה	0	50.1	bi	0.98	-0.80	0.00			אני אשבור את האף שאתה כל כך גאה בו!	
+135	subtitles/fedew/22 Impel Down/09/impeldown 09 he.ass	385	349	1.70	עוד הרצפה	0	49.0	bi	-0.20	-1.28	0.00			כן, כל עוד הרצפה לא רותחת...	
+136	subtitles/fedew/19 Thriller Bark/21/thrillerbark 21 he.ass	227	187	1.70	קרה לבקש	0	48.6	bi	0.57	-0.80	0.18	בקשות		מה קרה לבקש בקשות?	
+137	subtitles/main/32 Wano/16/wano 16 he.ass	100	64	1.69	בוואו בצד	0	48.4	bi	0.30	-0.80	0.00			לא בטוח כאן. בואו בצד הזה!	
+138	subtitles/main/10 Little Garden/05/littlegarden 05 he.ass	150	113	1.69	נשמיע </s>	1	97.5	eos	-0.78	-2.39	0.39	ראש		מוכן, ראש? / נשמיע.	
+139	subtitles/fedew/19 Thriller Bark/05/thrillerbark 05 he.ass	227	189	1.69	עד כדי להפוך	1	97.1	tri	0.59	-0.80	0.24	עד		מעולם לא התכוונתי להגיע / עד כדי להפוך את לבי לברזל!	
+140	subtitles/main/13 Jaya/01/jaya 01 he.ass	175	139	1.69	לדבר משוגע	0	47.9	bi	-0.15	-0.94	0.00			אתם ממש מכניסים אותנו / לדבר משוגע כאן.	
+141	subtitles/main/06 Arlong Park/09/arlongpark 09 he.ass	196	160	1.69	על ימות	3	193.8	bi	-0.18	-2.21	0.44	העולם		ברגע שנלמד הכל על ימות העולם מהמפות האלו,	
+142	subtitles/main/24 Post War/06/postwar 06 he.ass	561	524	1.69	היחיד האלו	1	96.3	bi	-0.15	-2.38	0.22	למולדת		לו רק הצלחנו להחזיר את מפלצות המרפק היחיד האלו / למולדת שלנו,	
+143	subtitles/fedew/20 Sabaody Archipelago/08/sabaody 08 he.ass	319	283	1.69	לא שקראו	0	47.4	bi	0.45	-0.80	0.41	מלך		זה לא שקראו לו מלך הפיראטים כל הזמן.	
+144	subtitles/main/30 Whole Cake Island/27/wci 27 he.ass	45	8	1.68	זה לא בת	2	142.4	tri	0.19	-2.15	0.27	ים		ברוק! זה לא בת ים?!	
+145	subtitles/fedew/23 Marineford/04/marineford 04 he.ass	194	144	1.68	שלום חושבים	1	93.7	bi	-0.26	-2.37	0.38	שלא הכירו		ילדים שלא הכירו שלום חושבים / אחרת מילדים שלא הכירו מלחמה.	
+146	subtitles/main/11 Drum Island/05/drumisland 05 he.ass	602	568	1.67	אצל אפילו	0	46.1	bi	0.64	-0.80	0.80	מדינה		אני אהיה רופא שיכול  / לרפא הכל. אני אצל אפילו מדינה!	
+147	subtitles/main/33 Egghead/03/egghead 03 he.ass	316	279	1.67	גם אני מתחנן	2	139.0	tri	0.28	-0.36	0.16	גם		גם אני מתחנן!	
+148	subtitles/main/24 Post War/07/postwar 07 he.ass	396	357	1.67	מי הקו	0	45.5	bi	0.01	-0.80	0.33	הגדול		על מי הקו הגדול...	
+149	subtitles/main/32 Wano/39/wano 39 he.ass	107	69	1.66	חושב לפגוש	2	137.5	bi	0.46	-2.24	0.00			אני חושב לפגוש את ווי / יטביירד לפני שאמות.	
+150	subtitles/main/14 Skypiea/02/skypiea 02 he.ass	300	265	1.66	אנא אמר	0	44.4	bi	0.23	-0.80	0.40	אנא אמר		כן. אנא אמר לו משהו.	
+151	subtitles/fedew/17 Enies Lobby/14/enieslobby 14 he.ass	198	158	1.65	אתכם בטוח	1	88.9	bi	1.04	-2.35	0.20	עורך		שמישהו יביא לי עורך דין! אני אתבע אתכם בטוח!	
+152	subtitles/fedew/19 Thriller Bark/21/thrillerbark 21 he.ass	362	319	1.65	חטפה לא	1	88.7	bi	0.19	-2.35	0.06	הספינה		מצטער להטריד אותך, אדון קרוקוס, אבל... / טוב, הספינה שלנו חטפה לא רע שם...	
+153	subtitles/main/16 Water Seven/02/waterseven 02 he.ass	289	252	1.65	בוואו נמצא </s>	3	178.3	tri	0.27	-2.20	0.37	שמו		בכל אופן, בואו נמצא... אמ... אה... / איך שמו שוב?	
+154	subtitles/main/32 Wano/56/wano 56 he.ass	181	144	1.65	כמה איתכם	0	43.6	bi	0.19	-0.46	0.00			אני בטוח שהבאתם כמה איתכם, נכון?	
+155	subtitles/fedew/22 Impel Down/06/impeldown 06 he.ass	140	106	1.65	לא השאול	0	43.5	bi	0.02	-0.80	0.00			זה לא השאול...	
+156	subtitles/main/16 Water Seven/09/waterseven 09 he.ass	180	144	1.65	<s> תתייאשו	0	43.5	bos	0.43	-0.80	0.00			תתייאשו ותראו את הפנים שלכם!	
+157	subtitles/main/30 Whole Cake Island/20/wci 20 he.ass	238	200	1.65	חייב מוות	0	43.5	bi	0.20	-0.80	0.00			אתה חייב מוות.	
+158	subtitles/main/32 Wano/21/wano 21 he.ass	102	63	1.64	תהלוכת </s>	1	87.3	eos	0.17	-1.94	1.25	במהלך		הם עשו סצנה במהלך / האויראן תהלוכת.	
+159	subtitles/main/33 Egghead/10/egghead 10 he.ass	193	156	1.64	זאת תגידו	0	42.9	bi	0.20	-0.80	0.39	בסוף		בכל זאת תגידו לי בסוף?	
+160	subtitles/main/30 Whole Cake Island/24/wci 24 he.ass	108	70	1.64	לבוא לכם	1	86.8	bi	0.59	-2.34	0.00			אני מקווה שאתם ממזרים מוכנים / למה שעומד לבוא לכם.	
+161	subtitles/main/32 Wano/31/wano 31 he.ass	67	31	1.64	אנחנו לא יוצא	2	130.2	tri	0.59	-1.34	1.31	מדינות		גם אנחנו לא יוצא דופן, אבל מריבות בין / מדינות לא נפתרות בקלות.	
+162	subtitles/main/32 Wano/38/wano 38 he.ass	59	22	1.64	נמצא האחרון	0	42.6	bi	0.43	-0.80	0.00			ויש לי תחושה איפה נמצא האחרון.	
+163	subtitles/main/32 Wano/14/wano 14 he.ass	97	57	1.64	אל המזל	1	86.1	bi	-0.04	-1.01	0.00			אביסו...? כמו אל המזל, נכון?	
+164	subtitles/fedew/20 Sabaody Archipelago/03/sabaody 03 he.ass	40	3	1.64	חיסלת לא	0	42.5	bi	-0.28	-0.80	0.00			חיסלת לא מעט מדגי-המעוף.	
+165	subtitles/main/14 Skypiea/01/skypiea 01 he.ass	197	162	1.63	הרבה איי	3	171.4	bi	0.26	-2.15	0.02	או		ו"אי או שניים"? זאת אומרת / שיש הרבה איי שמיים?!	
+166	subtitles/main/13 Jaya/05/jaya 05 he.ass	67	32	1.63	אמיתי להם	1	84.4	bi	0.78	-2.32	0.05	או יותר		פחות או יותר. עדיין / אין הסבר אמיתי להם.	
+167	subtitles/main/30 Whole Cake Island/10/wci 10 he.ass	306	269	1.63	הוא תחילה	1	84.4	bi	-0.37	-2.32	0.75	תחילה		היום הוא תחילה חדשה  / למשפחת וינסמוק.	
+168	subtitles/main/00 Cover Stories and Specials/02/The Trials of KobyMeppo he.ass	198	160	1.63	באמת מקרים	0	41.5	bi	0.42	-0.80	0.11	מקרים		שניכם באמת מקרים אבודים.	
+169	subtitles/main/14 Skypiea/14/skypiea 14 he.ass	52	14	1.63	נראה צרות	0	41.5	bi	0.38	-0.80	0.00			לעזאזל! איך כלב יכול לזוז  / ככה?! זה נראה צרות!	
+170	subtitles/main/33 Egghead/14/egghead 14 extended he.ass	277	239	1.63	לכו ממש	1	83.8	bi	-0.75	-1.79	0.41	למרכז		לכו ממש למרכז!	
+171	subtitles/main/32 Wano/23/wano 23 he.ass	363	329	1.63	כך שמעתי עליו	0	41.3	tri	0.50	-0.37	0.00			אז אתה קמאזו שכל כך שמעתי עליו, / הא?!	
+172	subtitles/main/30 Whole Cake Island/17/wci 17 he.ass	39	2	1.63	מכיוון הזה	1	83.5	bi	0.39	-2.32	0.67	מכיוון		זה עתה שמעתי רעש חזק מכיוון הזה!	
+173	subtitles/main/30 Whole Cake Island/28/wci 28 he.ass	90	54	1.63	זו החוף	0	41.2	bi	-0.09	-0.80	0.41	החוף		זו החוף! לכו ל-סאני !	
+174	subtitles/main/24 Post War/06/postwar 06 he.ass	134	97	1.62	זו סיפור	3	166.7	bi	0.62	-2.02	0.00			זו סיפור ארוך.	
+175	subtitles/main/30 Whole Cake Island/02/wci 02 he.ass	48	9	1.62	זו סיפור	3	166.7	bi	0.45	-2.02	1.38	של הצי		נלחם בצבאות הרשע של גרמה 66. / זו סיפור על גיבור של הצי!	
+176	subtitles/main/32 Wano/28/wano 28 he.ass	242	207	1.62	זו סיפור	3	166.7	bi	0.72	-2.02	1.36	של הכוחות		זו סיפור ארוך, אבל אומדן גס / של הכוחות הנוכחיים שלנו הוא...	
+177	subtitles/main/06 Arlong Park/09/arlongpark 09 he.ass	249	213	1.62	זאת קרב	1	82.8	bi	-0.15	-2.32	0.30	קרב		זאת קרב די אינטנסיבי!	
+178	subtitles/main/12 Alabasta/02/alabasta 02 he.ass	259	223	1.62	זאת קרב	1	82.8	bi	-0.35	-2.32	0.91	בין		זאת קרב בין / להבה לעשן?!	
+179	subtitles/main/33 Egghead/14/egghead 14 extended he.ass	461	423	1.62	זה אינטרסים	0	40.9	bi	0.98	-0.40	0.65	משותפים		זה אינטרסים משותפים!	
+180	subtitles/main/33 Egghead/14/egghead 14 he.ass	426	389	1.62	זה אינטרסים	0	40.9	bi	0.98	-0.40	0.65	משותפים		זה אינטרסים משותפים!	
+181	subtitles/main/32 Wano/07/wano 07 he.ass	47	11	1.62	תזמון גרוע יותר	1	82.7	tri	0.77	-0.20	0.01	יכול היה		אחי, לא יכול היה להיות תזמון גרוע יותר!	
+182	subtitles/main/12 Alabasta/12/alabasta 12 he.ass	119	86	1.62	אדם חייבת	2	124.4	bi	0.82	-0.36	0.46	לבני אדם		אהבה היא הכל. / לבני אדם חייבת להיות אהבה.	
+183	subtitles/main/33 Egghead/11/egghead 11 he.ass	204	167	1.62	איפה יורק	2	124.1	bi	-0.52	-1.93	0.43	יורק		איפה יורק?	
+184	subtitles/main/06 Arlong Park/05/arlongpark 05 extended he.ass	420	381	1.62	עשית נפלא	0	40.6	bi	-0.26	-0.80	0.00			עשית נפלא.	
+185	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	420	381	1.62	עשית נפלא	0	40.6	bi	-0.26	-0.80	0.00			עשית נפלא.	
+186	subtitles/main/16 Water Seven/01/waterseven 01 he.ass	457	419	1.62	שנושא את זה	0	40.4	tri	0.46	-1.61	0.16	שנושא את		יש בעיה / אם אני זה שנושא את זה?	
+187	subtitles/main/07 Loguetown/01/loguetown 01 he.ass	315	277	1.62	אותו ציד	0	40.4	bi	0.54	-0.80	1.01	פרסים		זה מזכיר לי את / אותו ציד פרסים!	
+188	subtitles/main/12 Alabasta/19/alabasta 19 he.ass	400	362	1.61	שעת ארוחת בוקר	1	81.1	tri	0.41	-0.88	0.00			וזו לא שעת ארוחת בוקר. / זה ערב מוקדם.	
+189	subtitles/main/32 Wano/08/wano 08 he.ass	512	476	1.61	שלושת כאן	0	39.9	bi	-0.04	-0.80	0.49	שלושת		ואנחנו שלושת כאן.	
+190	subtitles/fedew/19 Thriller Bark/22/thrillerbark 22 he.ass	263	223	1.61	זה קורעים	0	39.9	bi	0.69	-1.21	0.09	למשפחה		מה שעושים זה קורעים חתיכות ונותנים / אותן לחברים או למשפחה אם הם עוזבים.	
+191	subtitles/main/32 Wano/27/wano 27 he.ass	232	198	1.61	<s> רוצה כלום	1	80.7	tri	-0.62	-1.99	0.00			אני היה... רוצה כלום יותר...	
+192	subtitles/main/12 Alabasta/03/alabasta 03 he.ass	235	198	1.61	נסבל את	2	121.2	bi	0.14	-2.18	0.21	נסבל את		אני לא מסוגל להמשיך. לא נסבל את החום.	
+193	subtitles/fedew/19 Thriller Bark/03/thrillerbark 03 he.ass	369	327	1.61	באמת השער	0	39.7	bi	0.61	-0.80	0.00			מעניין אם זה באמת השער לגיהינום?	
+194	subtitles/main/14 Skypiea/23/skypiea 23 he.ass	52	13	1.61	אז אלים	0	39.7	bi	-0.20	-0.40	0.00			אז אלים...	
+195	subtitles/main/11 Drum Island/03/drumisland 03 he.ass	307	273	1.61	ארור אותך	0	39.5	bi	-0.42	-0.80	0.00			ארור אותך!	
+196	subtitles/main/16 Water Seven/17/waterseven 17 he.ass	341	303	1.61	אחרי שמעת	1	79.6	bi	0.22	-2.30	0.01	כדי		אחרי שמעת שרובין שיקרה  / ונאסרה כדי להציל אותנו,	
+197	subtitles/main/16 Water Seven/17/waterseven 17 he.ass	349	311	1.61	אחרי שמעת	1	79.6	bi	-0.41	-1.90	0.11	רובין		אחרי שמעת מה רובין הרגישה...	
+198	subtitles/main/14 Skypiea/25/skypiea 25 alternate he.ass	274	235	1.61	להגיע עלינו	0	39.3	bi	0.58	-0.80	0.60	של		עידן חדש של אלופים / עומד להגיע עלינו!	
+199	subtitles/fedew/19 Thriller Bark/11/thrillerbark 11 he.ass	45	6	1.60	לפני קצת </s>	1	79.4	tri	-0.17	-1.96	0.00			כן, גנבת לי את הצל לפני קצת.	
+200	subtitles/main/16 Water Seven/06/waterseven 06 he.ass	176	138	1.60	לפני קצת </s>	1	79.4	tri	0.15	-1.96	0.74	המספנה		משם הם הלכו / לאי המספנה לפני קצת.	
+201	subtitles/main/32 Wano/18/wano 18 he.ass	397	358	1.60	לפני קצת </s>	1	79.4	tri	-0.65	-1.96	0.00			הסופרסטאר קווין הגיע לפני קצת!	
+202	subtitles/main/32 Wano/46/wano 46 he.ass	322	283	1.60	לפני קצת </s>	1	79.4	tri	-0.07	-1.96	0.00			היי, לא ראינו את סאנג'י לפני קצת?	
+203	subtitles/main/12 Alabasta/10/alabasta 10 he.ass	214	177	1.60	זו דג	0	38.8	bi	0.70	-0.80	0.00			זו דג חתול סנדורני נדיר! / כמעט אף פעם לא רואים אותו!	
+204	subtitles/main/30 Whole Cake Island/34/wci 34 he.ass	215	179	1.60	את בסדר באמת	1	78.5	tri	-0.20	-2.32	0.00			מאמא... את בסדר באמת?!	
+205	subtitles/main/24 Post War/04/postwar 04 he.ass	246	207	1.60	מספיק מילה	0	38.7	bi	0.72	-0.80	0.01	כדי		כפי שאמרתי, מספיק מילה אחת / כדי לקבל מה שאני רוצה.	
+206	subtitles/main/07 Loguetown/02/loguetown 02 he.ass	73	36	1.59	אבל שתגיע	0	38.4	bi	0.23	-0.40	0.20	לאימונים		אבל שתגיע לאימונים.	
+207	subtitles/main/16 Water Seven/02/waterseven 02 he.ass	243	206	1.59	בערך כל כך	3	155.6	tri	0.53	-1.40	0.48	מליון		שיערתי שזה בערך כל כך הרבה  / מההתחלה, אבל אז הוא אמר לנו "100 מליון."	
+208	subtitles/main/07 Loguetown/03/loguetown 03 he.ass	260	225	1.59	הגעת רגע	0	38.1	bi	0.38	-1.37	0.17	מאוחר		אה, הנה אתה, זורו! / אבל הגעת רגע מאוחר מדי!	
+209	subtitles/fedew/21 Amazon Lily/02/amazonlily 02 he.ass	420	377	1.59	כל אכנס	0	38.1	bi	0.36	-0.80	0.11	לבניין		טוב! קודם כל אכנס לבניין גבוה!	
+210	subtitles/main/10 Little Garden/04/littlegarden 04 he.ass	370	335	1.59	ולא סיכוי	0	37.9	bi	-0.02	-1.85	0.00			אין לך לא זמן / ולא סיכוי לנצח!	
+211	subtitles/fedew/17 Enies Lobby/19/enieslobby 19 he.ass	292	245	1.59	זה שמאוחר	0	37.7	bi	0.54	-1.07	0.40	זה שמאוחר		אתה זה שמאוחר מדי בשבילו.	
+212	subtitles/main/25 Return to Sabaody/03/rts 03 he.ass	198	161	1.59	כי האמיתי	1	76.1	bi	-0.46	-2.28	0.06	כי		כי האמיתי מת!	
+213	subtitles/main/14 Skypiea/25/skypiea 25 alternate he.ass	191	152	1.59	בדיוק הספינה	0	37.5	bi	0.44	-0.80	0.06	הספינה		לאן בדיוק הספינה הזו מועדת?	
+214	subtitles/main/14 Skypiea/17/skypiea 17 he.ass	356	319	1.59	לאן אחרת	1	75.9	bi	-0.14	-1.69	0.43	לאותה		לאן אחרת?! לאותה ספינה!	
+215	subtitles/main/32 Wano/06/wano 06 he.ass	51	14	1.58	קורה עמוק	0	37.3	bi	0.16	-0.80	0.48	בעיר		משהו קורה עמוק יותר בעיר.	
+216	subtitles/main/32 Wano/18/wano 18 he.ass	166	127	1.58	ננוח את	0	37.3	bi	0.17	-0.80	0.35	בבית מרחץ		למה לא ננוח את עצמותינו בבית מרחץ?	
+217	subtitles/main/30 Whole Cake Island/12/wci 12 he.ass	283	244	1.58	היא הנישואים	1	75.3	bi	0.89	-2.27	0.74	לבין		אבל עכשיו, העדיפות הראשונה שלנו / היא הנישואים בינך לבין פודינג.	
+218	subtitles/fedew/19 Thriller Bark/03/thrillerbark 03 he.ass	498	456	1.58	כבר יש דברים	0	37.1	tri	0.45	-0.73	0.25	לצוות		לצוות שלנו כבר יש דברים / מוזרים כמו תנשובן ורובוט!	
+219	subtitles/main/14 Skypiea/08/skypiea 08 he.ass	212	173	1.58	ידיים מזה	0	37.1	bi	-0.25	-0.80	0.00			אני מסיר ידיים מזה. / תיענשו, באמת!	
+220	subtitles/fedew/22 Impel Down/09/impeldown 09 he.ass	449	413	1.58	תנו פה	1	75.0	bi	-0.35	-2.27	0.00			כולכם, תנו פה רוח!	
+221	subtitles/main/33 Egghead/11/egghead 11 he.ass	161	124	1.57	דבר אחורה	1	74.1	bi	0.31	-2.27	0.09	יכולות		הן יכולות להחזיר כל דבר אחורה!	
+222	subtitles/main/05 Baratie/09/baratie 09 he.ass	257	221	1.57	אמור להגיד שלום	1	73.9	tri	0.27	-0.40	0.00			לא אמור להגיד שלום?	
+223	subtitles/main/30 Whole Cake Island/19/wci 19 he.ass	76	19	1.57	שניות הזה	3	148.0	bi	0.27	-2.09	0.30	החמש		לא יהיה קל ליצור / את פתח החמש שניות הזה במסיבה-רֵרו.	
+224	subtitles/main/14 Skypiea/15/skypiea 15 he.ass	326	291	1.57	זו כוח	3	147.9	bi	-0.49	-2.09	0.69	זו כוח		זו כוח מטורף!	
+225	subtitles/main/24 Post War/07/postwar 07 he.ass	341	302	1.57	זו כוח	3	147.9	bi	-0.64	-2.09	0.69	זו כוח		זו כוח שנקרא האקי...	
+226	subtitles/main/30 Whole Cake Island/23/wci 23 he.ass	330	289	1.57	זו כוח	3	147.9	bi	0.16	-2.09	0.79	ה		מה ה... / האם זו כוח של פרי השטן?	
+227	subtitles/main/14 Skypiea/05/skypiea 05 he.ass	160	124	1.57	הייתה המזל	0	36.2	bi	0.53	-0.80	0.29	הטוב		מה אם רק אחת מהן / הייתה המזל הטוב?!	
+228	subtitles/main/32 Wano/09/wano 09 he.ass	116	79	1.57	המתים לעשות	0	36.0	bi	-0.61	-2.07	0.00			אבל מה יכולים המתים לעשות?	
+229	subtitles/fedew/17 Enies Lobby/11/enieslobby 11 he.ass	149	96	1.56	תרצה לעזור לך	1	72.4	tri	0.68	-0.20	0.16	גם		גם אם היא לא תרצה לעזור לך,	
+230	subtitles/main/11 Drum Island/02/drumisland 02 he.ass	287	250	1.56	בשביל כשהוא	0	35.7	bi	0.33	-0.80	0.00			אז אולי זה בשביל כשהוא מת!	
+231	subtitles/fedew/17 Enies Lobby/01/enieslobby 01 he.ass	402	370	1.56	אז זה לזה	1	72.4	tri	-0.39	-1.76	0.00			אז זה לזה...	
+232	subtitles/fedew/20 Sabaody Archipelago/01/sabaody 01 he.ass	106	66	1.56	זרמי </s>	3	145.4	eos	-0.52	-2.08	0.66	זרמי		זרמי... נחש?	
+233	subtitles/main/24 Post War/03/postwar 03 he.ass	59	17	1.56	נמצא ארוחת	0	35.6	bi	0.44	-1.32	0.08	בני		נהיה בני שלוש-עשרה אז. בוא נמצא ארוחת ערב.	
+234	subtitles/main/32 Wano/18/wano 18 he.ass	451	412	1.56	הרבה צוחק	2	108.6	bi	-0.42	-2.13	0.00			אתה ממש הרבה צוחק.	
+235	subtitles/main/32 Wano/05/wano 05 he.ass	150	114	1.56	חדשה בעיר הזאת	0	35.5	tri	0.96	-0.55	0.48	בעיר		גם אני חדשה בעיר הזאת.	
+236	subtitles/main/32 Wano/48/wano 48 he.ass	207	170	1.56	הם שנתחיל	0	35.5	bi	0.20	-1.11	0.39	הקרב	reversed?	!לא אנחנו הם שנתחיל את הקרב הזה	
+237	subtitles/main/32 Wano/02/wano 02 he.ass	134	99	1.56	אפשר גם לי	0	35.4	tri	0.08	-0.54	0.16	גם		היי, אפשר גם לי אחד?!	
+238	subtitles/fedew/18 Post-Enies Lobby/05/postenieslobby 05 he.ass	328	274	1.56	לספוג הוא	0	35.2	bi	0.29	-0.94	0.11	הנוסף		הדבר הנוסף שהאפלה שלי / יכולה לספוג הוא...	
+239	subtitles/main/30 Whole Cake Island/17/wci 17 he.ass	227	190	1.56	לך נגדך	1	70.9	bi	-0.24	-2.25	0.68	מפקד		היו לך נגדך כל השומרים האלו, / ואפילו מפקד מתוק היה שם...	
+240	subtitles/main/33 Egghead/19/egghead 19 extended he.ass	237	198	1.56	אם חשובים	1	70.8	bi	-0.01	-1.50	0.60	של		אם חשובים לכם החיים של יורק,	
+241	subtitles/main/33 Egghead/19/egghead 19 he.ass	234	195	1.56	אם חשובים	1	70.8	bi	-0.01	-1.50	0.60	של		אם חשובים לכם החיים של יורק,	
+242	subtitles/fedew/22 Impel Down/02/impeldown 02 he.ass	132	95	1.55	גם את הכל	3	142.5	tri	0.03	-1.48	0.69	ניתן		טוב, בואו ניתן היום גם את הכל בחפירה!	
+243	subtitles/main/16 Water Seven/03/waterseven 03 he.ass	391	355	1.55	בוא כשאתה	1	70.5	bi	0.69	-2.25	0.10	ספינה חדשה		בוא כשאתה מוכן לקנות / ספינה חדשה. אני אדאג לך.	
+244	subtitles/main/30 Whole Cake Island/09/wci 09 he.ass	108	68	1.55	הוא השטויות	3	141.2	bi	0.03	-2.07	0.00			מה שאתה אומר הוא השטויות  / שכל הפסדנים מפטפטים, סאנג'י.	
+245	subtitles/main/16 Water Seven/15/waterseven 15 he.ass	108	75	1.55	הרכבת אתם	0	34.5	bi	1.20	-0.80	0.92	האי		אי אפשר לשוט במזג אוויר כזה, אז אם תפספסו / את הרכבת אתם תקועים על האי הזה.	
+246	subtitles/main/16 Water Seven/15/waterseven 15 he.ass	200	167	1.55	הרכבת אתם	0	34.5	bi	1.22	-0.80	0.92	האי		אי אפשר לשוט במזג אוויר כזה, אז אם תפספסו / את הרכבת אתם תקועים על האי הזה.	
+247	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	246	209	1.55	בטוח שלכם	3	140.3	bi	0.75	-1.05	0.19	מיני		ובכן, אני בטוח שלכם הגבירים / יש כל מיני דברים להגיד,	
+248	subtitles/fedew/18 Post-Enies Lobby/02/postenieslobby 02 he.ass	279	240	1.55	השיער רוצה	3	139.6	bi	0.66	-2.07	0.00			אדום השיער רוצה להיפגש איתך	
+249	subtitles/main/16 Water Seven/11/waterseven 11 he.ass	131	98	1.54	אמרת מחכה	0	34.0	bi	-0.32	-1.06	0.00			מי אמרת מחכה למי / ואיפה?	
+250	subtitles/main/24 Post War/08/postwar 08 he.ass	891	853	1.54	מבטיח שוב	1	68.8	bi	0.05	-1.70	0.00			אני מבטיח שוב...	
+251	subtitles/main/33 Egghead/06/egghead 06 he.ass	250	212	1.54	למה קומה	0	33.9	bi	0.02	-0.80	0.00	עזר		למה קומה עזר לנו?!	
+252	subtitles/main/16 Water Seven/18/waterseven 18 he.ass	38	1	1.54	בן הבית	3	138.3	bi	-0.30	-1.66	0.60	של		בן הבית האהוב של אי הצלפים,	
+253	subtitles/main/16 Water Seven/18/waterseven 18 he.ass	52	15	1.54	בן הבית	3	138.3	bi	-0.37	-2.06	0.60	של		♪ בן הבית האהוב של אי הצלפים, ♪	
+254	subtitles/main/12 Alabasta/18/alabasta 18 he.ass	408	371	1.54	הייתה לי ספק	0	33.8	tri	0.82	0.00	0.13	הייתה		מעולם לא הייתה לי ספק!	
+255	subtitles/fedew/19 Thriller Bark/13/thrillerbark 13 he.ass	129	87	1.54	לא הרבה שנים	3	138.0	tri	-0.16	-0.42	0.10	שנים		לא הרבה שנים...	
+256	subtitles/main/12 Alabasta/21/alabasta 21 he.ass	276	238	1.54	בחוץ מפה	0	33.7	bi	-0.20	-0.98	0.00			עשי מהלך לא נכון אחד / ואת בחוץ מפה!	
+257	subtitles/main/00 Cover Stories and Specials/02/The Trials of KobyMeppo he.ass	171	133	1.54	מה חלאה	2	102.9	bi	0.62	-1.77	0.00			מה חלאה חסרת תועלת  / כמוך יכולה לעשות לי?!	
+258	subtitles/main/00 Cover Stories and Specials/02/The Trials of KobyMeppo he.ass	176	138	1.54	מה חלאה	2	102.9	bi	0.34	-1.77	0.00			תפסיק לטעות! / מה חלאה כמוך יכולה לעשות?!	
+259	subtitles/main/00 Cover Stories and Specials/03/If You Could Go Anywhere... The Adventures of the Straw Hats he.ass	253	215	1.54	<s> את ניקו	0	33.6	tri	-0.38	-0.80	0.89	ניקו רובין		את ניקו רובין?!	
+260	subtitles/main/14 Skypiea/02/skypiea 02 he.ass	319	284	1.54	אבל חפץ	0	33.6	bi	0.59	-0.80	0.32	מסוגל להניע		אבל חפץ כזה לא אמור / להיות מסוגל להניע וייבר.	
+261	subtitles/main/32 Wano/32/wano 32 he.ass	87	52	1.54	לא גאו	0	33.5	bi	0.67	-0.80	0.60	בפרסום		ראשית, הם שנאו אחד את השני כל כך שהם / לא גאו בפרסום הישגיהם.	
+262	subtitles/main/01 Romance Dawn/02/romancedawn 02 he.ass	221	181	1.54	כמה מול	2	102.5	bi	-0.26	-2.11	0.31	מול		זה גם לא הוגן להילחם כמה מול אחד!	
+263	subtitles/fedew/19 Thriller Bark/22/thrillerbark 22 he.ass	58	20	1.54	האוקינוס יודע	0	33.4	bi	0.45	-0.80	0.62	האוקינוס		טוב, אני מניח שרק האוקיינוס יודע את זה!	
+264	subtitles/fedew/23 Marineford/02/marineford 02 he.ass	83	31	1.54	בן צוות	1	67.6	bi	0.48	-2.23	0.15	על		אני סומך עליך כמו על בן צוות!	
+265	subtitles/main/10 Little Garden/03/littlegarden 03 he.ass	144	108	1.54	בן צוות	1	67.6	bi	0.24	-2.23	0.29	לו גם		לא, אבל נראה שהוא בן צוות. / בואו נגרום לו גם להיעלם!	
+266	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	59	22	1.53	בלי טיפש	0	33.2	bi	0.62	-0.80	0.44	העולם		העולם מקום טוב יותר / בלי טיפש כמוהו.	
+267	subtitles/main/32 Wano/49/wano 49 extended he.ass	153	115	1.53	שהיא קפטן	1	67.3	bi	0.37	-2.23	0.60	של		שמעתי שהיא קפטן פיראטים מעבר לים / עם שם רע בדיוק כמו של קאידו!	
+268	subtitles/main/32 Wano/49/wano 49 he.ass	145	107	1.53	שהיא קפטן	1	67.3	bi	0.23	-2.23	0.51	מעבר לים		שמעתי שהיא קפטן פיראטים מעבר לים / עם שם רע לא פחות מקאידו!	
+269	subtitles/fedew/20 Sabaody Archipelago/06/sabaody 06 he.ass	418	375	1.53	הגיע לי את	3	134.9	tri	-0.07	-1.20	0.00			הגיע לי את זה...	
+270	subtitles/fedew/19 Thriller Bark/11/thrillerbark 11 he.ass	303	255	1.53	נראה שכמוך	0	32.9	bi	0.29	-0.80	0.02	ומתגנב		לעזאזל... אתה סתם מתחבא ומתגנב, / איש בלתי נראה שכמוך...	
+271	subtitles/main/24 Post War/08/postwar 08 he.ass	156	118	1.53	אין מה שהוא	2	100.7	tri	0.30	-1.10	0.00			אין מה שהוא יכול לעשות עכשיו.	
+272	subtitles/main/30 Whole Cake Island/35/wci 35 he.ass	47	11	1.53	מתקפה יש	0	32.9	bi	-0.17	-0.80	0.15	מתקפה		לכל מתקפה יש כוונה...	
+273	subtitles/main/30 Whole Cake Island/36/wci 36 he.ass	126	87	1.53	מתקפה יש	0	32.9	bi	-0.17	-0.80	0.15	מתקפה		לכל מתקפה יש כוונה...	
+274	subtitles/main/24 Post War/08/postwar 08 he.ass	573	535	1.53	אותי הנשק	3	134.4	bi	-0.22	-2.05	0.00			אבל יותר עניין  / אותי הנשק שמצאתי כאן.	
+275	subtitles/main/32 Wano/37/wano 37 he.ass	45	9	1.53	לך פירושו	0	32.8	bi	0.27	-0.80	0.39	פירושו		השם שאני נותן לך פירושו חסר תחרות...	
+276	subtitles/main/10 Little Garden/03/littlegarden 03 he.ass	107	71	1.53	סליחה על שם	0	32.8	tri	0.08	-0.80	1.05	על שם		סליחה על שם הקוד. / אני אמן פיסול צנוע.	
+277	subtitles/main/24 Post War/08/postwar 08 he.ass	837	799	1.53	נמצאים שיש	0	32.7	bi	0.61	-0.80	0.86	לרוב		לרוב נמצאים שיש להם את הכוח הזה.	
+278	subtitles/main/24 Post War/07/postwar 07 he.ass	190	152	1.53	חושב להראות	2	100.2	bi	0.52	-1.63	0.60	של		אני חושב להראות להם קודם את בית / הקפה של בנות הים. הוא ממש בטרנד!	
+279	subtitles/main/32 Wano/35/wano 35 he.ass	157	118	1.53	הכל שרצית	0	32.7	bi	0.31	-0.80	0.00			זה הכל שרצית להגיד?!	
+280	subtitles/main/11 Drum Island/01/drumisland 01 he.ass	411	373	1.53	<s> קחת	0	32.5	bos	-0.28	-0.80	0.00			קחת לך זמן!	
+281	subtitles/main/12 Alabasta/17/alabasta 17 he.ass	455	418	1.52	היא מדרגות	0	32.5	bi	0.72	-0.80	0.51	הראשונה		אלא אם כן אתה עף, הדרך היחידה פנימה / היא מדרגות בגב הקומה הראשונה.	
+282	subtitles/main/10 Little Garden/04/littlegarden 04 he.ass	252	217	1.52	לסכן על	1	65.9	bi	0.44	-2.22	0.15	על		בדיוק כמו שפרים / צריכים לסכן על גלימות אדומות,	
+283	subtitles/main/14 Skypiea/12/skypiea 12 he.ass	321	284	1.52	שמור את האמת	0	32.4	tri	0.61	-0.80	0.00			"שמור את האמת בלבך, / ואל תדבר עליה.	
+284	subtitles/main/14 Skypiea/15/skypiea 15 he.ass	366	331	1.52	שמור את האמת	0	32.4	tri	0.61	-0.80	0.00			שמור את האמת בלבך, / ואל תדבר עליה.	
+285	subtitles/main/14 Skypiea/24/skypiea 24 he.ass	185	146	1.52	שמור את האמת	0	32.4	tri	0.52	-0.80	0.00			"שמור את האמת בליבך, / ואל תדבר עליה.	
+286	subtitles/main/31 Reverie/01/reverie 01 he.ass	136	99	1.52	מכיוון שם	1	65.7	bi	0.25	-2.22	0.67	מכיוון		הא?! יש אווירה קודרת / אפילו יותר שמגיעה מכיוון שם!	
+287	subtitles/main/16 Water Seven/16/waterseven 16 he.ass	155	117	1.52	כך שלישי	1	65.7	bi	0.27	-2.22	0.46	גל		גל שני... אחר כך שלישי...	
+288	subtitles/fedew/22 Impel Down/04/impeldown 04 he.ass	241	206	1.52	שמעת מזה	1	65.6	bi	0.05	-2.21	0.00			מה לעזאזל?! איך שמעת מזה "אף גדול"?!	
+289	subtitles/main/30 Whole Cake Island/08/wci 08 he.ass	71	35	1.52	דיברו אתה	2	98.8	bi	0.28	-2.09	0.30	מבלי שראו		כולם האחרים נזרקו החוצה, מבלי שראו אי פעם את מאמא או דיברו אתה!	
+290	subtitles/main/00 Cover Stories and Specials/04/One Piece Fan Letter he.ass	124	87	1.52	ידעתי לחכות	0	32.2	bi	0.70	-1.35	0.50	בנמל		כך ידעתי לחכות לך בנמל / כדי שאוכל להעביר לך את המכתב הזה!"	
+291	subtitles/main/14 Skypiea/05/skypiea 05 he.ass	163	127	1.52	אם לא נכונה	0	32.0	tri	0.39	0.00	0.00			אם לא נכונה? המממ...	
+292	subtitles/fedew/20 Sabaody Archipelago/05/sabaody 05 he.ass	114	67	1.52	ביותר בכל זאת	3	130.7	tri	0.78	-0.20	0.66	הטובה ביותר		טוב, יופי לך. / יושר זו הדרך הטובה ביותר בכל זאת.	
+293	subtitles/main/07 Loguetown/03/loguetown 03 he.ass	119	84	1.52	בגלל זה לבד	0	31.9	tri	0.76	-0.23	0.00			בגלל זה לבד הצלחתי / סוף סוף למצוא את הצוות שלי.	
+294	subtitles/main/24 Post War/03/postwar 03 he.ass	63	21	1.51	הצלת אותך	1	63.9	bi	0.08	-2.20	0.06	כי		הצלת אותך רק כי / הוא בלע אותך שלם.	
+295	subtitles/fedew/20 Sabaody Archipelago/03/sabaody 03 he.ass	192	148	1.51	מעניין יום	1	63.8	bi	0.15	-2.20	0.06	סוף די		אולי מצפה לו סוף די מעניין יום אחד...	
+296	subtitles/main/16 Water Seven/12/waterseven 12 he.ass	233	196	1.51	גם נסגר	0	31.3	bi	-0.33	-0.80	0.72	הספינות		בית הספינות שלו גם נסגר.	
+297	subtitles/main/32 Wano/21/wano 21 he.ass	399	360	1.51	פשוט יתר	0	31.2	bi	0.78	-0.84	1.08	אחרונה		לאכול כל טיפה אחרונה של / אושירוקו מרק היה פשוט יתר על המידה!	
+298	subtitles/fedew/22 Impel Down/09/impeldown 09 he.ass	509	473	1.50	לב מים	0	31.0	bi	-0.20	-0.40	0.00			לב מים...	
+299	subtitles/main/30 Whole Cake Island/05/wci 05 he.ass	112	72	1.50	רוצה אסון	1	62.6	bi	0.22	-2.19	0.24	נוסף		רגע! אני לא רוצה אסון נוסף!	
+300	subtitles/main/24 Post War/06/postwar 06 he.ass	455	418	1.50	את הגנוב	0	30.7	bi	0.11	-0.80	0.17	ויש לה		ויש לה שוב את הגנוב!	
+301	subtitles/main/32 Wano/54/wano 54 he.ass	197	159	1.50	כי לחדר	2	93.8	bi	0.79	-2.07	0.06	כי		נוכל להתחבא כאן לרגע / כי לחדר הזה כבר מזמן לא שמים לב.	
+302	subtitles/main/16 Water Seven/06/waterseven 06 he.ass	228	190	1.50	דוק אחד	1	62.0	bi	0.16	-2.19	0.71	מסוימים		אפשר להיכנס דרך דוק אחד, אבל רק / גורמים מעורבים ועיתונאים מסוימים מורשים.	
+303	subtitles/main/16 Water Seven/06/waterseven 06 he.ass	393	355	1.50	דוק אחד	1	62.0	bi	-0.42	-2.19	0.60	של		זה הפורמנים של דוק אחד!	
+304	subtitles/main/12 Alabasta/19/alabasta 19 he.ass	337	299	1.50	מתחרה לך	0	30.4	bi	0.83	-0.90	0.59	למרות		אני לא מתחרה לך / למרות גילך הצעיר.	
+305	subtitles/fedew/23 Marineford/02/marineford 02 he.ass	156	104	1.49	תפסתי שאתה	1	61.5	bi	0.43	-0.42	0.60	של		לא תפסתי שאתה שליח של אלוהים!	
+306	subtitles/main/14 Skypiea/23/skypiea 23 he.ass	127	88	1.49	<s> עוד חי	3	123.9	tri	-0.26	-1.12	0.00			אני... עוד חי?	
+307	subtitles/main/24 Post War/07/postwar 07 he.ass	462	423	1.49	קישוט את	1	61.3	bi	0.97	-2.19	1.04	תחילת		במקום זאת, זה מצביע על כך שהוא קישוט את הפעמון / כדי להכריז על תחילת עידן חדש.	
+308	subtitles/main/06 Arlong Park/02/arlongpark 02 he.ass	293	254	1.49	שמישהו אפשר	1	61.1	bi	0.14	-2.18	0.51	אפשר לו		אני מתכוון שמישהו אפשר לו לברוח.	
+309	subtitles/main/32 Wano/19/wano 19 he.ass	84	47	1.49	תוכלו לה	0	30.0	bi	0.53	-0.87	0.54	הוא מתוכנן		וכמובן הוא מתוכנן כך שלא תוכלו לה / וריד אותו בכוח, אז אל תנסו!	
+310	subtitles/main/09 Whisky Peak/01/whiskypeak 01 he.ass	459	424	1.49	אחד הידיים	3	122.9	bi	0.18	-2.01	0.00			קשרתי את אחד הידיים שלך!	
+311	subtitles/fedew/17 Enies Lobby/01/enieslobby 01 he.ass	251	219	1.49	חסר לילה	0	29.7	bi	-0.48	-0.80	0.00			אי חסר לילה?	
+312	subtitles/main/09 Whisky Peak/01/whiskypeak 01 he.ass	451	416	1.48	אני באמת מפחיד	0	29.5	tri	0.02	-2.06	0.21	מכמה		תטעם טעם טוב מכמה  / אני באמת מפחיד!	
+313	subtitles/main/32 Wano/19/wano 19 he.ass	345	308	1.48	היא נוצר	0	29.5	bi	0.36	-1.36	0.84	נוצר		במילים אחרות, היא נוצר / ה דרך הקרבות שריומה נלחם בהם!	
+314	subtitles/main/33 Egghead/20/egghead 20 he.ass	342	304	1.48	פעמיים בטוח	0	29.3	bi	0.22	-0.80	0.14	שמעבר		חשבתי שמעבר דרך המחסום / פעמיים בטוח יהרוג אותי!	
+315	subtitles/fedew/21 Amazon Lily/02/amazonlily 02 he.ass	92	57	1.48	האיש איתה	0	29.2	bi	0.35	-0.80	0.00			האיש איתה! תהרגו אותו!	
+316	subtitles/fedew/17 Enies Lobby/12/enieslobby 12 he.ass	96	47	1.48	מה זה בחדר	1	59.3	tri	0.40	-1.98	0.00			בכל מקרה, מה זה בחדר הזה?	
+317	subtitles/main/16 Water Seven/18/waterseven 18 he.ass	359	322	1.48	תדעו מה </s>	0	29.1	tri	0.25	-0.57	0.00			תדעו מה? אתה בעצם לא רע!	
+318	subtitles/main/14 Skypiea/13/skypiea 13 he.ass	229	192	1.48	נראה שש	2	88.8	bi	0.73	-1.65	1.00	שנות		נראה שש שנות השירות הנאמן שלהם / מגיעות לסיומן.	
+319	subtitles/main/12 Alabasta/04/alabasta 04 he.ass	186	148	1.48	<s> כבר מאחר	2	88.7	tri	-0.19	-0.62	0.02	מאחר		אוי! הלילה... כבר מאחר!	
+320	subtitles/main/12 Alabasta/15/alabasta 15 he.ass	349	316	1.47	הצלת הכל	0	28.8	bi	-0.13	-0.80	0.41	האידיאלים		בסוף, האידיאלים האופטימיים שלך / על הצלת הכל...	
+321	subtitles/main/33 Egghead/13/egghead 13 extended he.ass	152	114	1.47	משתולל לא	1	58.4	bi	0.24	-0.67	0.00			הוא משתולל לא רע...	
+322	subtitles/main/33 Egghead/13/egghead 13 he.ass	152	114	1.47	משתולל לא	1	58.4	bi	0.13	-0.67	0.00			הוא משתולל לא מעט...	
+323	subtitles/fedew/23 Marineford/02/marineford 02 he.ass	165	113	1.47	איפה זקן	1	58.2	bi	0.35	-1.60	0.00			איפה זקן לבן? תמצאו אותו!	
+324	subtitles/main/14 Skypiea/16/skypiea 16 he.ass	303	265	1.47	הקדוש בסדר	2	87.6	bi	-0.10	-2.04	0.45	חברי		חברי המשמר הקדוש בסדר?!	
+325	subtitles/main/32 Wano/31/wano 31 he.ass	294	258	1.47	חיי הולכת	0	28.5	bi	-0.27	-1.05	0.00			כל תכנית חיי הולכת לטמיון!	
+326	subtitles/main/33 Egghead/01/egghead 01 he.ass	227	189	1.47	לעבוד אותנו	2	87.4	bi	0.33	-2.04	0.24	עד		אתה יכול לעבוד אותנו עד מוות בחינם!	
+327	subtitles/fedew/19 Thriller Bark/12/thrillerbark 12 he.ass	42	3	1.47	עוד לפני רגע	0	28.4	tri	0.35	-0.80	0.17	עוד לפני		עוד לפני רגע ברחת ממני...	
+328	subtitles/main/31 Reverie/03/reverie 03 he.ass	248	213	1.47	זו כבוד	3	116.6	bi	0.03	-1.99	0.49	נפטון		מלך נפטון, זו כבוד לראות אותך שוב!	
+329	subtitles/fedew/20 Sabaody Archipelago/04/sabaody 04 he.ass	238	204	1.47	עולות לא	2	87.1	bi	0.15	-2.04	0.06	שהן עולות		להגיד שהן עולות לא ממש עוזר...	
+330	subtitles/main/32 Wano/24/wano 24 he.ass	79	45	1.47	עליך בעיות	0	28.3	bi	-0.13	-0.40	0.00			הפלינו עליך בעיות כשנתפסנו!	
+331	subtitles/fedew/17 Enies Lobby/13/enieslobby 13 he.ass	224	174	1.47	בטוח מעניין	1	57.5	bi	-0.45	-2.16	0.00			הפיראט הזה בטוח מעניין!	
+332	subtitles/main/25 Return to Sabaody/03/rts 03 he.ass	252	215	1.46	אתה התשיעי	0	28.1	bi	-0.00	-0.40	0.79	התשיעי		היי, לופי, אתה התשיעי.	
+333	subtitles/main/33 Egghead/15/egghead 15 he.ass	175	136	1.46	אוצרות זה	1	57.1	bi	0.55	-0.36	0.14	אוצרות		ציד אוצרות זה מירוץ אחרי הכל!	
+334	subtitles/fedew/22 Impel Down/02/impeldown 02 he.ass	237	199	1.46	הכל בהרבה	0	27.9	bi	0.37	-0.80	0.15	על		הבנתי! זה מקל על הכל בהרבה!	
+335	subtitles/fedew/21 Amazon Lily/04/amazonlily 04 he.ass	303	265	1.46	עשוי כך	2	85.5	bi	0.27	-2.03	0.26	עשוי		הסימן עשוי כך שאי אפשר לדעת...	
+336	subtitles/main/12 Alabasta/18/alabasta 18 he.ass	142	105	1.46	תכנס את זה	0	27.8	tri	0.37	0.00	0.27	לראש		תכנס את זה לראש!	
+337	subtitles/main/14 Skypiea/14/skypiea 14 he.ass	151	113	1.46	הצלחתי לצאת מכאן	0	27.7	tri	1.00	0.00	0.00			לא הצלחתי לצאת מכאן.	
+338	subtitles/fedew/20 Sabaody Archipelago/05/sabaody 05 he.ass	469	399	1.46	הזה מצוות	2	85.1	bi	-0.13	-2.03	0.00			האיש הזה מצוות כובע הקש, / צייד הפיראטים זורו.	
+339	subtitles/main/16 Water Seven/09/waterseven 09 he.ass	383	347	1.45	עושה לחקור	0	27.5	bi	0.88	-0.80	0.59	ההיסטוריה		כל מה שאני עושה לחקור את ההיסטוריה,	
+340	subtitles/fedew/19 Thriller Bark/10/thrillerbark 10 he.ass	139	100	1.45	כמה הרוחות	2	84.3	bi	0.47	-2.02	0.24	עד		עד עכשיו אתם בטח מבינים / כמה הרוחות האלו נוראיות!	
+341	subtitles/main/32 Wano/05/wano 05 he.ass	183	147	1.45	אף מילה גסה	0	27.4	tri	0.74	-0.33	0.15	על		לא יפלט ממני אף מילה גסה שתיאמר / על השוגון!	
+342	subtitles/main/32 Wano/15/wano 15 he.ass	239	201	1.45	מאחר שאתה עושה	0	27.3	tri	0.76	-1.50	0.52	עשרה פעמים		מאחר שאתה עושה עשרה פעמים / יותר עבודה מכל אחד אחר,	
+343	subtitles/fedew/21 Amazon Lily/04/amazonlily 04 he.ass	357	319	1.45	עד הפה	1	55.4	bi	-0.13	-2.14	0.24	עד		גברים תוחבים מקלות אכילה / מהאף עד הפה	
+344	subtitles/fedew/17 Enies Lobby/01/enieslobby 01 he.ass	254	222	1.45	אי המשפט	0	27.1	bi	-0.33	-0.80	0.38	המשפט		זה אי המשפט.	
+345	subtitles/fedew/17 Enies Lobby/06/enieslobby 06 he.ass	227	192	1.45	אי המשפט	0	27.1	bi	0.33	-1.06	0.38	המשפט		בלתי נסלח! הם העזו  / לבזות את אי המשפט?!	
+346	subtitles/fedew/17 Enies Lobby/21/enieslobby 21 he.ass	58	11	1.45	אי המשפט	0	27.1	bi	-0.46	-1.06	0.55	לחלוטין את		תשמידו לחלוטין את אי המשפט, אניאס לובי!	
+347	subtitles/fedew/18 Post-Enies Lobby/05/postenieslobby 05 he.ass	36	0	1.45	אי המשפט	0	27.1	bi	0.99	-0.80	0.38	המשפט		אם כבר מדברים על אי המשפט אניאס לובי,	
+348	subtitles/main/17 Enies Lobby/01/enieslobby 01 he.ass	258	222	1.45	אי המשפט	0	27.1	bi	-0.33	-0.80	0.38	המשפט		זה אי המשפט.	
+349	subtitles/main/14 Skypiea/10/skypiea 10 he.ass	67	29	1.45	תפסיק לעקוב </s>	0	27.1	tri	0.69	-0.97	0.00			תפסיק לעקוב! תרפה ממני!	
+350	subtitles/main/07 Loguetown/02/loguetown 02 he.ass	452	415	1.45	אתה ירייה	3	111.0	bi	0.38	-1.97	0.60	של		אתה ירייה מצוינת. / לא פחות ממה שמצפים מבנו של יאסופ.	
+351	subtitles/fedew/17 Enies Lobby/24/enieslobby 24 he.ass	393	345	1.45	את הספינה כבר	0	27.0	tri	0.96	-0.97	0.06	הספינה		מטומטמים שכמותכם?! תטביעו / את הספינה כבר!	
+352	subtitles/main/32 Wano/39/wano 39 he.ass	65	27	1.45	תודה אליכם	1	54.8	bi	0.10	-2.14	0.06	אלא		אין לי אלא הכרת תודה אליכם!	
+353	subtitles/main/30 Whole Cake Island/30/wci 30 he.ass	200	163	1.44	אז חלאה	0	26.8	bi	1.01	-0.80	0.34	אותו לדו		אז חלאה כמוך / שמאתגרת אותו לדו קרב	
+354	subtitles/main/32 Wano/35/wano 35 he.ass	234	195	1.44	האם החוף	0	26.8	bi	0.01	-0.40	0.41	החוף		האם החוף הזה קלול?	
+355	subtitles/main/32 Wano/17/wano 17 he.ass	409	374	1.44	זו פשע	1	54.6	bi	0.39	-1.74	0.89	ללא קשר		לסרב לשוגון זו פשע חמור, / ללא קשר למעמד!	
+356	subtitles/main/12 Alabasta/13/alabasta 13 he.ass	70	35	1.44	<s> נחצה </s>	1	54.4	tri	-0.33	-2.13	0.00			נחצה? לא, לא נחצה.	
+357	subtitles/fedew/19 Thriller Bark/22/thrillerbark 22 he.ass	171	132	1.44	נתיב היה	0	26.7	bi	0.49	-1.29	0.22	נתיב		אותו נתיב היה היחיד שיכולנו / ללכת בו כדי לחזור אליך.	
+358	subtitles/main/13 Jaya/06/jaya 06 he.ass	224	187	1.44	ההם כאן	0	26.6	bi	0.05	-1.10	0.00			הצהריים! / הבחורים ההם כאן, הם–	
+359	subtitles/main/30 Whole Cake Island/23/wci 23 he.ass	175	135	1.44	יהיה העסקה	0	26.6	bi	0.49	-0.80	0.00			אז זה יהיה העסקה האחרונה שלי. אני צריכה שתשלם לי במלואו.	
+360	subtitles/main/30 Whole Cake Island/30/wci 30 he.ass	114	77	1.44	אתם רוצים להפריע	0	26.5	tri	0.75	0.00	0.00			אתם רוצים להפריע ללופי?!	
+361	subtitles/main/13 Jaya/02/jaya 02 he.ass	511	474	1.44	שם צדקת	1	53.9	bi	-0.61	-2.13	0.00			היי, שם צדקת בי.	
+362	subtitles/main/14 Skypiea/22/skypiea 22 he.ass	273	238	1.44	כולם האחרונים	0	26.4	bi	0.49	-0.80	0.62	שבהם		החוצפה של / כולם האחרונים שבהם...	
+363	subtitles/fedew/18 Post-Enies Lobby/02/postenieslobby 02 he.ass	483	443	1.44	קשוח יהיה	0	26.3	bi	-0.11	-1.21	0.00			הכי קשוח יהיה אני	
+364	subtitles/fedew/21 Amazon Lily/05/amazonlily 05 he.ass	183	145	1.44	היטב האלו	1	53.6	bi	-0.61	-2.13	1.29	הקשורים		את "קשרי הרוח" הקשורים היטב האלו!	
+365	subtitles/main/32 Wano/33/wano 33 he.ass	123	87	1.43	כמו שעבר	2	80.4	bi	-0.05	-2.00	0.70	הנמל		הנמל הזה נראה כמו שעבר מתקפה!	
+366	subtitles/fedew/22 Impel Down/07/impeldown 07 he.ass	406	368	1.43	<s> את אייס	0	26.1	tri	0.02	-1.32	0.22	לנקודת		את אייס כבר ילוו לנקודת המסירה.	
+367	subtitles/fedew/22 Impel Down/05/impeldown 05 he.ass	215	179	1.43	<s> תתייסר	0	26.1	bos	-0.20	-0.40	0.00			תתייסר 24 שעות...	
+368	subtitles/main/32 Wano/57/wano 57 he.ass	57	17	1.43	יום האש	0	26.0	bi	-0.40	-0.80	0.02	האש		יום האש...	
+369	subtitles/main/32 Wano/37/wano 37 he.ass	451	415	1.43	מכל עצמך	0	26.0	bi	-0.51	-1.64	0.00			תן מכל עצמך!	
+370	subtitles/fedew/22 Impel Down/08/impeldown 08 he.ass	93	59	1.43	לבן מתכוון	0	25.9	bi	0.79	-1.07	0.73	ההוצאה		אם זקן לבן מתכוון לעצור אותם, / הוא יתקוף כמה שעות לפני ההוצאה להורג!	
+371	subtitles/main/14 Skypiea/20/skypiea 20 he.ass	73	36	1.43	ממש שווה כלום	0	25.9	tri	0.12	-1.00	0.41	הזהב		לנו הזהב לא ממש שווה כלום!	
+372	subtitles/fedew/23 Marineford/07/marineford 07 he.ass	226	176	1.43	אז להקריב	0	25.9	bi	0.29	-0.87	0.00			אז להקריב את שלך לא מזיז לך.	
+373	subtitles/main/32 Wano/21/wano 21 he.ass	242	203	1.43	ילד שעות	1	52.6	bi	-0.31	-2.12	0.09	המכשפות		הוא שם! זה ילד שעות המכשפות!	
+374	subtitles/main/32 Wano/21/wano 21 he.ass	322	283	1.43	ילד שעות	1	52.6	bi	-0.84	-1.72	0.09	המכשפות		ילד שעות המכשפות הטרדן,	
+375	subtitles/main/32 Wano/21/wano 21 he.ass	326	287	1.43	ילד שעות	1	52.6	bi	0.51	-0.80	0.36	שנעצר		זה על ילד שעות המכשפות, / שנעצר לפני כמה ימים.	
+376	subtitles/main/32 Wano/21/wano 21 he.ass	340	301	1.43	ילד שעות	1	52.6	bi	-0.04	-2.12	0.09	המכשפות		ילד שעות המכשפות לא היה / גנב רגיל.	
+377	subtitles/main/32 Wano/21/wano 21 he.ass	354	315	1.43	ילד שעות	1	52.6	bi	0.03	-2.12	0.10	עם		מה נעשה / עם ילד שעות המכשפות?	
+378	subtitles/main/32 Wano/21/wano 21 he.ass	366	327	1.43	ילד שעות	1	52.6	bi	-0.26	-2.12	1.17	יחד עם		נצרף את ילד שעות המכשפות / למות יחד עם קומורסקי.	
+379	subtitles/main/32 Wano/21/wano 21 he.ass	464	425	1.43	ילד שעות	1	52.6	bi	-0.58	-2.12	0.95	בנוסף		בנוסף, תפסו את ילד שעות המכשפות, / גנב האמן שחלק את שללו עם העניים!	
+380	subtitles/main/32 Wano/21/wano 21 he.ass	466	427	1.43	ילד שעות	1	52.6	bi	-0.11	-2.12	0.09	המכשפות		ילד שעות המכשפות?! / אבל הוא לא יכול היה!	
+381	subtitles/fedew/23 Marineford/02/marineford 02 he.ass	317	265	1.43	מפקד כבר	0	25.8	bi	0.55	-0.80	0.68	מפקד		אין מפקד כבר המון זמן.	
+382	subtitles/fedew/21 Amazon Lily/03/amazonlily 03 he.ass	286	249	1.43	מנחשת לי	0	25.8	bi	-0.04	-0.80	0.24	תנועה		היא מנחשת לי כל תנועה!	
+383	subtitles/main/11 Drum Island/06/drumisland 06 he.ass	67	34	1.43	סיים להיות	0	25.7	bi	0.28	-0.80	1.17	הוא סיים		עכשיו הוא סיים להיות פיראט,	
+384	subtitles/main/32 Wano/48/wano 48 he.ass	110	73	1.43	הסגן כל	0	25.7	bi	0.68	-0.40	0.00		reversed?	!קאידו הסגן כל כך נדיב	
+385	subtitles/main/08 Reverse Mountain/01/reversemountain 01 he.ass	149	112	1.43	כן עולות	0	25.7	bi	-0.03	-0.80	0.84	ההר		התעלות כן עולות על ההר!	
+386	subtitles/main/06 Arlong Park/04/arlongpark 04 he.ass	176	138	1.43	שלנו האמיתית	0	25.6	bi	-0.06	-0.80	0.00			ממילא לא / אמא שלנו האמיתית!	
+387	subtitles/main/11 Drum Island/08/drumisland 08 he.ass	343	305	1.42	ועידה לא	1	52.1	bi	-0.21	-2.12	0.49	הייתה זו		איזו ועידה לא נעימה / הייתה זו.	
+388	subtitles/fedew/17 Enies Lobby/02/enieslobby 02 he.ass	97	67	1.42	אידיוט אמור	0	25.4	bi	0.78	-0.80	0.60	של		כל אידיוט אמור לדעת / מה המשמעות של פלישה למקום הזה!	
+389	subtitles/main/30 Whole Cake Island/28/wci 28 he.ass	203	167	1.42	<s> תושמדו	0	25.3	bos	-0.12	-0.90	1.13	על ידי		תושמדו על ידי מאמא	
+390	subtitles/fedew/18 Post-Enies Lobby/04/postenieslobby 04 he.ass	460	422	1.42	גבול לעשות	0	25.3	bi	0.07	-1.57	1.39	הוא ארגון		כל עוד הצי הוא ארגון, / יש גבול לעשות מה שאני רוצה	
+391	subtitles/main/30 Whole Cake Island/07/wci 07 he.ass	45	9	1.42	אף אחד אמיתי	2	77.8	tri	0.61	-1.41	0.00			אין ביניכם אף אחד אמיתי?!	
+392	subtitles/main/16 Water Seven/09/waterseven 09 he.ass	188	152	1.42	עם משתמשת	1	51.4	bi	0.08	-2.11	0.11	משתמשת		היא חזקה... מה עם משתמשת השוט הזאת?	
+393	subtitles/main/32 Wano/05/wano 05 he.ass	316	280	1.42	יכולה חתיכת	3	103.8	bi	-0.06	-1.94	0.00			איך יכולה חתיכת זבל חלשה כמוך...	
+394	subtitles/main/32 Wano/29/wano 29 he.ass	122	85	1.42	בעוד שלוש עשרה	0	25.2	tri	0.70	-1.37	0.52	עשרה שנים		בעוד שלוש עשרה שנים, / קרב גדול יתחיל מחדש!	
+395	subtitles/main/06 Arlong Park/01/arlongpark 01 he.ass	150	111	1.42	אהרוג מי	2	77.4	bi	0.15	-1.67	0.00			אני אהרוג מי שידווח / עליך למפקדה.	
+396	subtitles/main/14 Skypiea/04/skypiea 04 he.ass	41	3	1.42	שזה כניסה	0	25.1	bi	0.95	-1.17	0.61	בלתי חוקית		ואחרי שעברנו, / הם אומרים שזה כניסה בלתי חוקית?!	
+397	subtitles/main/13 Jaya/07/jaya 07 he.ass	294	256	1.42	זו מכתב	1	51.1	bi	-0.21	-2.11	0.00			אז זו מכתב ממנו?	
+398	subtitles/main/32 Wano/38/wano 38 he.ass	155	118	1.42	זו מכתב	1	51.1	bi	0.52	-2.11	0.58	בשם		זו מכתב התנצלות / ממישהו בשם ג'ויבוי.	
+399	subtitles/fedew/17 Enies Lobby/14/enieslobby 14 he.ass	96	56	1.41	ירח אם	1	50.8	bi	0.62	-2.10	0.33	המפל		אני יכול להשתמש בהליכת ירח אם אישאב לתוך המפל.	
+400	subtitles/fedew/17 Enies Lobby/17/enieslobby 17 he.ass	145	101	1.41	הזו צורך	0	24.8	bi	0.61	-1.16	0.22	אנרגיה		אולי להישאר בצורה הזו צורך / יותר מידי אנרגיה או משהו.	
+401	subtitles/main/32 Wano/02/wano 02 extended he.ass	140	105	1.41	ובקושי אני	0	24.8	bi	-0.08	-0.80	0.00			ובקושי אני מאמין...	
+402	subtitles/main/32 Wano/02/wano 02 he.ass	140	105	1.41	ובקושי אני	0	24.8	bi	-0.08	-0.80	0.00			ובקושי אני מאמין...	
+403	subtitles/fedew/22 Impel Down/05/impeldown 05 he.ass	305	267	1.41	צריכים נגד	2	76.4	bi	0.24	-1.56	0.52	נגד		זהו! אנחנו צריכים נגד!	
+404	subtitles/main/33 Egghead/05/egghead 05 he.ass	436	399	1.41	ד"ר יורק	0	24.7	bi	0.18	-0.80	0.43	יורק		עוד מנה בשבילך, ד"ר יורק.	
+405	subtitles/main/33 Egghead/05/egghead 05 he.ass	459	422	1.41	ד"ר יורק	0	24.7	bi	-0.27	-0.80	1.37	הרביעי של		זה מחזור החטיף, חרבון, שינה / הרביעי של ד"ר יורק היום!	
+406	subtitles/main/07 Loguetown/03/loguetown 03 he.ass	235	200	1.41	בסגנון על	3	101.8	bi	0.61	-1.93	1.33	ידי קפטן		הגיע הזמן שיוצא להורג / בסגנון על ידי קפטן באגי!	
+407	subtitles/main/16 Water Seven/15/waterseven 15 he.ass	95	62	1.41	אתן מכל	0	24.7	bi	0.43	-0.80	0.00			אני אתן מכל הלב!	
+408	subtitles/main/30 Whole Cake Island/02/wci 02 he.ass	248	208	1.41	שאנחנו בר	0	24.6	bi	0.46	-0.80	0.02	בר		כמה שאנחנו בר מזל...	
+409	subtitles/main/14 Skypiea/20/skypiea 20 he.ass	70	33	1.41	עמכם לא	0	24.5	bi	0.45	-0.80	0.47	על העיר		אבל האם עמכם לא הגן / על העיר כל הזמן הזה?	
+410	subtitles/main/00 Cover Stories and Specials/04/One Piece Fan Letter he.ass	172	135	1.41	בדרך עם זה	0	24.4	tri	0.20	-0.14	0.10	עם		מישהו בדרך עם זה.	
+411	subtitles/main/32 Wano/19/wano 19 he.ass	214	177	1.40	אנחנו עדיין מחפש	1	49.7	tri	0.27	-0.55	0.00			אנחנו עדיין מחפש–	
+412	subtitles/main/24 Post War/06/postwar 06 he.ass	111	74	1.40	ראית צוות	0	24.3	bi	0.07	-0.80	0.05	צוות		במקרה ראית צוות פיראטים כאן?	
+413	subtitles/main/14 Skypiea/08/skypiea 08 he.ass	456	417	1.40	<s> לא ירק	0	24.2	tri	0.07	-0.92	0.67	נמצאים באופן		לא ירק ולא אדמה / נמצאים באופן טבעי בשמיים.	
+414	subtitles/fedew/17 Enies Lobby/02/enieslobby 02 he.ass	118	88	1.40	כאילו אתן לך	1	49.4	tri	-0.11	-0.77	0.00			כאילו אתן לך!	
+415	subtitles/fedew/19 Thriller Bark/12/thrillerbark 12 he.ass	244	205	1.40	כאילו אתן לך	1	49.4	tri	-0.11	-0.77	0.00			כאילו אתן לך!	
+416	subtitles/main/33 Egghead/11/egghead 11 he.ass	75	38	1.40	<s> אמור לבוא	2	74.3	tri	0.19	-0.80	0.00			אחרי "תכשיטים!" אמור לבוא / "וואו, כל כך יפים!" לא זה!	
+417	subtitles/main/13 Jaya/02/jaya 02 he.ass	317	280	1.40	מנסה לבד	2	74.0	bi	0.02	-1.97	0.00			אפילו לא מנסה לבד?	
+418	subtitles/main/17 Enies Lobby/02/enieslobby 02 he.ass	264	228	1.40	מסיבת מר	0	23.9	bi	-0.40	-1.12	0.39	ראש		ראש, מסיבת מר לוצ'י הגיעה.	
+419	subtitles/main/13 Jaya/01/jaya 01 he.ass	82	46	1.39	שזה ים	1	48.6	bi	0.07	-2.08	0.29	מדויק		יותר מדויק לומר / שזה ים צף.	
+420	subtitles/main/13 Jaya/08/jaya 08 he.ass	84	45	1.39	גב בכל	1	48.6	bi	0.38	-2.08	0.00			לא משנה מה יקרה, נגבה / להם גב בכל מה שיש לנו!	
+421	subtitles/main/32 Wano/02/wano 02 extended he.ass	65	30	1.39	חד באמת	1	48.4	bi	0.18	-2.08	0.76	בעל השם		עכשיו ראיתם / עד כמה הלהב בעל השם הזה חד באמת!	
+422	subtitles/main/30 Whole Cake Island/39/wci 39 he.ass	104	62	1.39	אחריי צריך	3	97.3	bi	0.94	-1.91	0.00			לא אאשים אף אחד שיברח! / מי שהולך אחריי צריך להיות מוכן לכל דבר!	
+423	subtitles/main/30 Whole Cake Island/31/wci 31 he.ass	309	271	1.39	שרודפים לא	0	23.6	bi	-0.06	-0.86	0.88	באזור ים		זה מוזר. באזור ים הזה, / אין מצב שרודפים לא יגיעו!	
+424	subtitles/main/30 Whole Cake Island/03/wci 03 he.ass	41	4	1.39	אי בקרוב	1	48.1	bi	-0.07	-2.08	0.00			אל תדאג. נראה אי בקרוב.	
+425	subtitles/main/13 Jaya/07/jaya 07 he.ass	356	318	1.39	עכשיו כועס	3	96.9	bi	-0.33	-1.91	0.00			אני עכשיו כועס מאוד!	
+426	subtitles/main/14 Skypiea/15/skypiea 15 he.ass	37	2	1.39	אי האל	0	23.5	bi	0.12	-1.06	0.42	יארד		לוחמי השנדיאנים... / הם תוקפים את אי האל, אפר יארד,	
+427	subtitles/main/30 Whole Cake Island/07/wci 07 he.ass	286	250	1.39	אז שלחה	1	47.6	bi	0.24	-2.08	0.00			היא ידעה שתהיה לברולה צרות, / אז שלחה אותי.	
+428	subtitles/fedew/19 Thriller Bark/19/thrillerbark 19 he.ass	449	412	1.38	אתה ממש מולי	0	23.2	tri	0.35	-0.49	0.00			ועכשיו אתה ממש מולי, נכון?!	
+429	subtitles/main/32 Wano/19/wano 19 he.ass	392	355	1.38	תת לי	3	95.2	bi	0.29	-1.90	0.76	תת		אם אנצח את כובע קש, תוכל ל / תת לי את כל הכופתאות של האסירים?	
+430	subtitles/main/14 Skypiea/08/skypiea 08 he.ass	455	416	1.38	האי יכולה	0	23.1	bi	-0.04	-0.80	0.92	האי		עננות האי יכולה לתמוך בחיי צמח, / אבל לא ליצור אותם.	
+431	subtitles/main/32 Wano/20/wano 20 he.ass	195	157	1.38	אומרים שזה מצחיק	0	23.0	tri	0.83	-0.18	0.00			כולם אומרים שזה מצחיק! / למה אתה לא חושב?!	
+432	subtitles/main/30 Whole Cake Island/30/wci 30 he.ass	341	303	1.38	את שיפון	0	23.0	bi	1.00	-0.85	0.52	ביותר		בואו ניקח את הדרך הקצרה ביותר / לאסוף את שיפון!	
+433	subtitles/main/30 Whole Cake Island/38/wci 38 he.ass	270	228	1.38	את שיפון	0	23.0	bi	0.45	-0.80	0.19	שיפון		אני אביא את שיפון אחר כך!	
+434	subtitles/main/24 Post War/05/postwar 05 he.ass	258	220	1.38	מיד בזה	3	95.0	bi	-0.52	-1.90	0.00			תשקע מיד בזה!	
+435	subtitles/fedew/17 Enies Lobby/06/enieslobby 06 he.ass	60	25	1.38	סתום קדימה	1	46.9	bi	0.88	-0.77	0.00			יש מבוי סתום קדימה! / הוא ימות אם הוא יתנגש בו!	
+436	subtitles/main/14 Skypiea/12/skypiea 12 he.ass	48	11	1.38	להיעלם אחד	0	22.9	bi	0.86	-0.80	0.60	של		הקולות של כולם ממשיכים / להיעלם אחד אחרי השני...	
+437	subtitles/main/33 Egghead/19/egghead 19 extended he.ass	271	232	1.38	תקשיבו פה	1	46.7	bi	-0.17	-2.07	0.00			כולכם, תקשיבו פה!	
+438	subtitles/main/33 Egghead/19/egghead 19 he.ass	268	229	1.38	תקשיבו פה	1	46.7	bi	-0.17	-2.07	0.00			כולכם, תקשיבו פה!	
+439	subtitles/main/11 Drum Island/07/drumisland 07 he.ass	230	193	1.38	יכול מלך	3	94.4	bi	0.09	-1.90	0.41	מלך		אראה להם כמה גדול יכול מלך להיות!	
+440	subtitles/fedew/17 Enies Lobby/09/enieslobby 09 he.ass	504	472	1.38	אולי פעולה	2	70.6	bi	0.44	-0.88	1.22	ידי הממשלה		זו אולי פעולה מאושרת על ידי הממשלה, / אבל המבצע הזה עריץ מדי.	
+441	subtitles/fedew/19 Thriller Bark/19/thrillerbark 19 he.ass	427	390	1.38	מתיש לך	0	22.8	bi	-0.12	-0.80	0.23	שני		שכחת שגיר שני לבדו מתיש לך את הגוף?!	
+442	subtitles/fedew/19 Thriller Bark/11/thrillerbark 11 he.ass	342	293	1.38	טכניקת לא	1	46.5	bi	-0.17	-3.23	0.50	טכניקת		עכשיו, עם השמן הזה, אבצע את / "טכניקת לא תגיע לכאן" שלי!	
+443	subtitles/fedew/17 Enies Lobby/01/enieslobby 01 he.ass	217	185	1.38	למפקד מה	1	46.5	bi	0.61	-2.07	0.88	למפקד		אני אספר למפקד מה קרה, אז פשוט שב בשקט!	
+444	subtitles/main/17 Enies Lobby/01/enieslobby 01 he.ass	221	185	1.38	למפקד מה	1	46.5	bi	0.58	-2.07	0.88	למפקד		אני אספר למפקד מה קרה, אז שב בשקט!	
+445	subtitles/main/24 Post War/07/postwar 07 he.ass	272	234	1.38	ידיך על זה	1	46.5	tri	0.64	-0.96	0.15	על		זה מדהים! איך / שמת את ידיך על זה?!	
+446	subtitles/main/06 Arlong Park/09/arlongpark 09 he.ass	141	105	1.37	זה התנוחה	0	22.7	bi	0.44	-0.80	0.00			מה זה התנוחה הזאת?	
+447	subtitles/fedew/22 Impel Down/08/impeldown 08 he.ass	282	246	1.37	מה הם פה	2	69.9	tri	0.46	-1.53	0.00			אנחנו לא יודעים בשביל מה הם פה!	
+448	subtitles/main/11 Drum Island/03/drumisland 03 he.ass	397	363	1.37	אז את הנעליים	0	22.6	tri	0.53	-0.12	0.00			אז את הנעליים שלך!	
+449	subtitles/fedew/20 Sabaody Archipelago/11/sabaody 11 he.ass	288	253	1.37	תזוז לנו	2	69.6	bi	0.93	-0.71	0.00			תזוז לנו מהדרך!	
+450	subtitles/main/32 Wano/39/wano 39 he.ass	502	464	1.37	שצעדו </s>	0	22.5	eos	0.61	-0.80	0.23	שצעדו		השמש האדומה הבהירה האירה את  / גבם כלהבות בזמן שצעדו.	
+451	subtitles/main/14 Skypiea/02/skypiea 02 he.ass	193	158	1.37	<s> הם מים	1	46.0	tri	-0.65	-2.25	0.39	הם מים		הם מים הכחול.	
+452	subtitles/fedew/18 Post-Enies Lobby/02/postenieslobby 02 he.ass	60	23	1.37	מה לצי	0	22.4	bi	-0.14	-0.86	1.17	לצי		גם נאמי נעלמה, מאז ששמעה מה לצי היה לומר...	
+453	subtitles/main/06 Arlong Park/09/arlongpark 09 he.ass	190	154	1.37	כלום עצוב	0	22.4	bi	0.94	-0.80	0.00			אין כלום עצוב וחסר-טעם	
+454	subtitles/main/14 Skypiea/07/skypiea 07 he.ass	160	124	1.36	הוא בחוזקה	0	22.0	bi	0.78	-0.80	0.52	ביותר		הצעד החשוב ביותר / הוא בחוזקה, בגסות...	
+455	subtitles/main/32 Wano/53/wano 53 he.ass	244	206	1.36	מאבדת עם	0	22.0	bi	0.08	-0.40	0.42	כל סיבוב		מה שהאישה המסתחררת / מאבדת עם כל סיבוב...	
+456	subtitles/main/14 Skypiea/18/skypiea 18 he.ass	231	193	1.36	דעת אלוהים	0	22.0	bi	1.09	-0.80	0.26	את דעת		אמצא דרך להסיח את דעת אלוהים!	
+457	subtitles/main/14 Skypiea/03/skypiea 03 he.ass	396	359	1.36	עכשיו פושעים	0	21.9	bi	0.19	-0.80	0.11	מדרגה שנייה		אתם עכשיו פושעים מדרגה שנייה!	
+458	subtitles/main/32 Wano/37/wano 37 he.ass	414	378	1.36	במסע רק	0	21.8	bi	0.50	-0.80	0.31	לשנה		ללוות אותנו במסע רק לשנה!	
+459	subtitles/main/14 Skypiea/10/skypiea 10 he.ass	164	126	1.36	בלי אישי	0	21.8	bi	-0.32	-0.80	0.00			בלי אישי...	
+460	subtitles/main/32 Wano/39/wano 39 he.ass	174	136	1.36	ומחזיר </s>	3	90.3	eos	0.02	-1.88	0.17	לווה		דנג'ירו מסתובב / , לווה כסף ומחזיר.	
+461	subtitles/main/06 Arlong Park/08/arlongpark 08 he.ass	344	308	1.36	בהחלט ישר	0	21.8	bi	-0.27	-0.80	0.00			אתה בהחלט ישר.	
+462	subtitles/main/07 Loguetown/01/loguetown 01 he.ass	308	270	1.36	<s> הכושלת	2	67.3	bos	0.38	-1.53	0.50	הכושלת		הכושלת הזאת הצילה אותך!	
+463	subtitles/fedew/22 Impel Down/07/impeldown 07 he.ass	162	127	1.36	לממשלה מה	1	44.4	bi	-0.23	-2.05	0.54	לממשלה		לא, אין לממשלה מה להרוויח / מלהכעיס גם את זקן לבן וגם את דראגון!	
+464	subtitles/fedew/22 Impel Down/09/impeldown 09 he.ass	38	3	1.36	לממשלה מה	1	44.4	bi	0.23	-2.05	0.54	לממשלה		חשבתי שהכי משתלם להרוג אותך, / ולהראות לממשלה מה אני שווה.	
+465	subtitles/main/24 Post War/04/postwar 04 he.ass	388	349	1.36	לא לא ברח	0	21.6	tri	0.39	-2.01	0.24	דיוק		ליתר דיוק, הוא לא לא ברח...	
+466	subtitles/main/16 Water Seven/13/waterseven 13 he.ass	40	5	1.35	כבר תגרום	0	21.6	bi	0.04	-0.86	0.27	ים		רק בבגד ים כבר תגרום / לעוד התראת מציצן, תדע לך?	
+467	subtitles/fedew/23 Marineford/07/marineford 07 he.ass	186	140	1.35	ויש עוד יותר	1	44.1	tri	0.52	-0.79	0.11	עוד יותר		ויש עוד יותר משהיו אז!	
+468	subtitles/fedew/19 Thriller Bark/06/thrillerbark 06 he.ass	125	87	1.35	תדעו לא	3	89.2	bi	-0.07	-1.87	0.09	שעדיין		כדאי שעדיין תדעו לא להכעיס אותי.	
+469	subtitles/main/32 Wano/36/wano 36 he.ass	115	77	1.35	זה הרפתקאות	2	66.6	bi	0.38	-1.92	0.63	הרפתקאות		בגלל זה הרפתקאות כיפיות! / הן מציתות את הדמיון שלך!	
+470	subtitles/main/10 Little Garden/04/littlegarden 04 he.ass	248	213	1.35	אתה כוון	1	44.0	bi	-0.17	-2.04	0.00			לאן אתה כוון?!	
+471	subtitles/main/12 Alabasta/21/alabasta 21 he.ass	296	258	1.35	הייתה לו סיכוי	0	21.5	tri	0.67	0.00	0.13	הייתה		ממילא לא הייתה לו סיכוי...	
+472	subtitles/fedew/18 Post-Enies Lobby/02/postenieslobby 02 he.ass	244	205	1.35	לסגור את מה	3	88.8	tri	0.52	-1.80	0.00			הפעם, רציתי סוף סוף לסגור את מה שקרה באוהרה	
+473	subtitles/fedew/17 Enies Lobby/12/enieslobby 12 he.ass	203	153	1.35	לעזאזל הצורה	0	21.4	bi	0.22	-0.80	0.44	התווים		איך לעזאזל הצורה הזו משקפת / את התווים המרובעים שלו?	
+474	subtitles/main/30 Whole Cake Island/19/wci 19 he.ass	268	211	1.35	והחליף </s>	2	66.3	eos	-0.75	-1.92	0.91	והחליף		קום והחליף!	
+475	subtitles/main/32 Wano/35/wano 35 he.ass	228	189	1.35	אני קאפה	1	43.8	bi	-0.43	-1.48	0.07	קאפה		אני קאפה!	
+476	subtitles/main/32 Wano/18/wano 18 he.ass	405	366	1.35	<s> התרגשו	3	88.6	bos	-0.68	-1.47	0.00			התרגשו!	
+477	subtitles/main/32 Wano/18/wano 18 he.ass	425	386	1.35	<s> התרגשו	3	88.6	bos	-0.68	-1.47	0.00			התרגשו!	
+478	subtitles/fedew/17 Enies Lobby/08/enieslobby 08 he.ass	80	49	1.35	לראות חיי	3	88.4	bi	0.20	-1.87	0.24	אדם על		אבל אתה יכול לראות חיי אדם על מפה?!	
+479	subtitles/main/17 Enies Lobby/08/enieslobby 08 he.ass	84	48	1.35	לראות חיי	3	88.4	bi	0.08	-1.87	0.24	אדם על		אבל אפשר לראות חיי אדם על מפה?!	
+480	subtitles/main/32 Wano/01/wano 01 he.ass	235	202	1.35	מה תמנון	0	21.4	bi	0.08	-0.80	0.00			מה תמנון עושה כאן?!	
+481	subtitles/fedew/22 Impel Down/01/impeldown 01 he.ass	325	204	1.35	זהירה יותר מדי	0	21.3	tri	0.44	-0.53	0.00			את זהירה יותר מידי.	
+482	subtitles/main/31 Reverie/03/reverie 03 he.ass	81	46	1.35	איזו כוח	0	21.2	bi	0.04	-1.07	0.52	נגד		איזו כוח יכול לעמוד נגד / האימפרטורים ביג מום וקאידו?	
+483	subtitles/main/32 Wano/29/wano 29 he.ass	206	169	1.35	דחוף הרבה	0	21.2	bi	0.74	-1.60	0.01	יותר עומד		יש לי כל כך הרבה מה לספר לך, / אבל עניין דחוף הרבה יותר עומד לפנינו.	
+484	subtitles/fedew/21 Amazon Lily/05/amazonlily 05 he.ass	45	10	1.35	תציל לך	1	43.3	bi	0.44	-2.03	0.10	עם		אבל ההחלטה שלך ללכת עם הגבר הזה / תציל לך את החיים!	
+485	subtitles/main/07 Loguetown/02/loguetown 02 he.ass	454	417	1.35	אביך יום	1	43.3	bi	0.63	-2.03	0.00			תהיה בדיוק כמו / אביך יום אחד!	
+486	subtitles/main/33 Egghead/20/egghead 20 he.ass	222	184	1.34	אבל קומה	2	65.4	bi	0.75	-1.91	0.38	העצמי		תנבח כמה שאתה רוצה, אבל קומה / לעולם לא ישוב לתחושת העצמי שלו.	
+487	subtitles/fedew/20 Sabaody Archipelago/01/sabaody 01 he.ass	316	268	1.34	למכור את הבחור	0	21.1	tri	0.79	-0.27	0.00			את יודעת, קיימי, אנחנו ממש / עומדים למכור את הבחור הזה.	
+488	subtitles/main/17 Enies Lobby/10/enieslobby 10 he.ass	165	130	1.34	תסבכי </s>	2	65.3	eos	0.31	-1.91	0.51	הראשונה		אני האויבת שלך. אני אהיה הראשונה / שתרדוף אחרייך אם תסבכי.	
+489	subtitles/fedew/20 Sabaody Archipelago/10/sabaody 10 he.ass	318	276	1.34	התקפי לא	2	65.2	bi	0.36	-1.91	0.41	כוח התקפי		יש לך כוח התקפי לא רע, אבל...	
+490	subtitles/fedew/17 Enies Lobby/09/enieslobby 09 he.ass	253	221	1.34	אז מאת	1	43.1	bi	0.80	-1.63	1.28	מאת		אז מאת השנים האבודות אולי היא היסטוריה לא-נוחה, / שמטואטאת אל מתחת לשטיח על ידי בעלי הכוח.	
+491	subtitles/main/06 Arlong Park/08/arlongpark 08 he.ass	85	49	1.34	בי יחד	3	86.8	bi	0.08	-1.86	0.24	יחד		או שאת מתחברת לחלשים האלו ומנסה להילחם בי יחד.	
+492	subtitles/main/12 Alabasta/18/alabasta 18 he.ass	219	182	1.34	תוכנית חייבת	0	20.9	bi	1.09	-0.80	0.35	צפויות		כל תוכנית חייבת להתחשב / בנסיבות בלתי צפויות.	
+493	subtitles/main/14 Skypiea/24/skypiea 24 he.ass	253	214	1.34	פעם רוג'ר	0	20.9	bi	0.11	-1.38	0.14	שנתן		גברת צעירה, בחור הכובע הקש הזה / נותן לי את אותה תחושה שנתן פעם רוג'ר.	
+494	subtitles/main/30 Whole Cake Island/15/wci 15 he.ass	231	193	1.34	זמן לישון עם	0	20.9	tri	0.54	-0.80	0.33	כמות		אין לי זמן לישון עם כמות / הפצועים שיש בטירה עכשיו.	
+495	subtitles/main/24 Post War/04/postwar 04 he.ass	277	238	1.34	מישהו יוצאת	1	42.7	bi	0.26	-0.66	0.60	של		הי, רגע! סירה של מישהו יוצאת!	
+496	subtitles/main/06 Arlong Park/09/arlongpark 09 he.ass	221	185	1.34	הגדול בטוח	2	64.6	bi	0.43	-1.91	0.33	הגדול		אמאלה, זה הפחיד אותי. חשבתי  / שזה לופי אחי הגדול בטוח.	
+497	subtitles/main/06 Arlong Park/05/arlongpark 05 extended he.ass	111	72	1.34	עד הנה הוא	1	42.7	tri	0.13	-0.86	0.24	עד		הסיכוי שיגיעו / עד הנה הוא אפסי!	
+498	subtitles/main/06 Arlong Park/05/arlongpark 05 he.ass	111	72	1.34	עד הנה הוא	1	42.7	tri	0.13	-0.86	0.24	עד		הסיכוי שיגיעו / עד הנה הוא אפסי!	
+499	subtitles/main/17 Enies Lobby/10/enieslobby 10 he.ass	132	97	1.34	שמעי טוב	0	20.8	bi	-0.15	-0.80	0.11	רובין		שמעי טוב, רובין!	
+500	subtitles/fedew/19 Thriller Bark/05/thrillerbark 05 he.ass	136	98	1.34	אם הפכו	1	42.5	bi	0.73	-2.03	0.89	נשאו		גם אם הפכו אותו ליער, הם נשאו לכאן את / ארון המתים שלנו בזמן שהיינו מחוסרי הכרה.	

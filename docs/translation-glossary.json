@@ -295,6 +295,22 @@
     "Strong Right / Strong Hammer (Franky)": {
       "he": "ימין עוצמה / פטיש עוצמה",
       "note": "תבנית סבאודי (SAB_03/10). הקורפוס המוקדם התלבט בין ימני חזק לימין חזקה"
+    },
+    "World Government": {
+      "he": "הממשלה העולמית",
+      "note": "the human gold form; never ממשלת העולם (normalized 2026-11-03)"
+    },
+    "Knight of the Sea": {
+      "he": "אביר הים",
+      "note": "Jinbe epithet; never בכור הים (firstborn)"
+    },
+    "Vice Admiral": {
+      "he": "סגן אדמירל",
+      "note": "no hyphen"
+    },
+    "Swordsman": {
+      "he": "סייף",
+      "note": "pl. סייפים, f. סייפת; never חרבן (Hebrew slang for poop)"
     }
   },
   "captions": {
