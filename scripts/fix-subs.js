@@ -26,6 +26,7 @@ const { REGISTER } = require('./lint-subs.js');
 const REPO = path.join(__dirname, '..');
 const RLE = '‫';
 const norm = (s) => s.replace(/‫/g, '').replace(/\{[^}]*\}/g, '').split(/\\N|\n| \/ /).map((l) => l.trim()).join('\n').trim();
+const unhonor = (s) => norm(s).replace(/ ?[-־](?:סאן|קון|צ'אן|סאמה|סמה|דונו|san|kun|chan|sama|dono)(?![א-תA-Za-z])/g, '');
 const git = (args) => execFileSync('git', args, { cwd: REPO, encoding: 'utf8', maxBuffer: 1 << 28 }).split('\n').filter(Boolean);
 const HUMAN_DIRS = new Set(git(['ls-files', 'subtitles']).filter((f) => / He\.ass$/.test(f)).map(path.dirname));
 const HE_JSON_BUILT = /^subtitles\/fedew\/(18|19|20|21|22|23) /;
@@ -99,11 +100,19 @@ function apply(fixesPath) {
         if (Math.abs(assCs(p[1]) - at) > 1 || norm(p.slice(9).join(',')) !== norm(f.old)) return;
         hitsAss.push(k);
       });
+      // Some June .ass files still carry an honorific suffix (-סאן, -kun…) that
+      // their .srt dropped: match those by start time + text without it.
+      if (!hitsAss.length) ass.forEach((l, k) => {
+        if (!l.startsWith('Dialogue:')) return;
+        const p = l.split(',');
+        if (Math.abs(assCs(p[1]) - at) > 1 || /Caption|Title|Sign|Credit|Note|Song/i.test(p[3])) return;
+        if (unhonor(p.slice(9).join(',')) === unhonor(f.old)) hitsAss.push(k);
+      });
       // Mid-line tags: italic/bold/reset toggles are dropped (house style: no
       // italics in dialogue); whole-line ones (\an, \q, \t colour fades, colours)
       // move to the start, since a rewritten line has no "same spot"; anything
       // else (\alpha, \fax, \k, \pos…) is typesetting → refuse.
-      const DROP = /^\{\\(?:i[01]?|b[01]?|r)\}$/;
+      const DROP = /^\{(?:\\(?:i[01]?|b[01]?|r|fs\d*(?:\.\d+)?)|[^\\]*)\}$/; // italic/bold/reset toggles, or a {comment} (no backslash: never rendered)
       const HOIST = /^\{(?:\\(?:an\d|q\d|fad\(\d+,\d+\)|t\([^)]*\)|[1-4]?c&H[0-9A-Fa-f]+&))+\}$/;
       const midTags = (k) => (ass[k].split(',').slice(9).join(',').replace(/^(?:\{[^}]*\})*/, '').match(/\{[^}]*\}/g) || []);
       const inline = hitsAss.some((k) => midTags(k).some((t) => !DROP.test(t) && !HOIST.test(t)));
