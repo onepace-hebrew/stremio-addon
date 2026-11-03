@@ -100,16 +100,18 @@ function apply(fixesPath) {
         hitsAss.push(k);
       });
       // Mid-line tags: italic/bold/reset toggles are dropped (house style: no
-      // italics in dialogue); anything else (\alpha, \fax, \fn…) is typesetting → refuse.
-      const inline = hitsAss.some((k) => {
-        const rest = ass[k].split(',').slice(9).join(',').replace(/^(?:\{[^}]*\})*/, '');
-        return (rest.match(/\{[^}]*\}/g) || []).some((t) => !/^\{\\(?:i[01]?|b[01]?|r)\}$/.test(t));
-      });
+      // italics in dialogue); whole-line ones (\an, \q, \t colour fades, colours)
+      // move to the start, since a rewritten line has no "same spot"; anything
+      // else (\alpha, \fax, \k, \pos…) is typesetting → refuse.
+      const DROP = /^\{\\(?:i[01]?|b[01]?|r)\}$/;
+      const HOIST = /^\{(?:\\(?:an\d|q\d|fad\(\d+,\d+\)|t\([^)]*\)|[1-4]?c&H[0-9A-Fa-f]+&))+\}$/;
+      const midTags = (k) => (ass[k].split(',').slice(9).join(',').replace(/^(?:\{[^}]*\})*/, '').match(/\{[^}]*\}/g) || []);
+      const inline = hitsAss.some((k) => midTags(k).some((t) => !DROP.test(t) && !HOIST.test(t)));
       if (!hitsAss.length || inline) { failed.push(`${rel} #${f.cue}: ${inline ? 'inline tags in .ass' : 'no matching .ass event'}`); continue; }
       for (const k of hitsAss) {
         const p = ass[k].split(',');
         const text = p.slice(9).join(',');
-        const lead = text.match(/^(?:\{[^}]*\})*/)[0];
+        const lead = text.match(/^(?:\{[^}]*\})*/)[0] + midTags(k).filter((t) => HOIST.test(t)).join('');
         ass[k] = `${p.slice(0, 9).join(',')},${lead}${newLines.map((l) => RLE + l).join('\\N')}`;
       }
       c.lines.splice(c.t + 1, c.lines.length - c.t - 1, ...newLines.map((l) => RLE + l));
