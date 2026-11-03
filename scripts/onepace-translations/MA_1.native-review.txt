@@ -1,4 +1,4 @@
-sha256 87c094352e1c0fd77ae9362f011d7da1bde2ecb029c6a50867293689228f9a79
+sha256 bf70a0724c83b61836bf37ffebcdda9ce9b3212fce73e4dc8228d3255ad51f6f
 # 2026-10-18. Reviewer prompt: _NATIVE_REVIEW.txt. Flags triaged with the English open.
 # Round 1: two readers, full episode (375 lines). R1 27 flags, R2 26, 21 shared, union 32. All fixed.
 8 | fixed | נגמר לנו → הלך עלינו
@@ -47,3 +47,8 @@ sha256 87c094352e1c0fd77ae9362f011d7da1bde2ecb029c6a50867293689228f9a79
 304 | fixed | שורה ראשונה → קו ראשון
 358 | fixed | עשתה תרגיל
 370 | fixed | drop שנולד
+# 2026-11-03 research fixes + register re-read: fresh reader, register-aware prompt, changed lines ±3 (13-23, 99-105). 1 flag.
+16 | fixed | the logged "once again" fix had not landed: שוב, ברוך הבא אלינו → אז ברוך הבא לצוות!
+19 | fixed | גבר כמוך (romantic calque) → בדיוק מישהו כמוך חיפשתי
+20 | fixed | term: הממשלה העולמית
+102 | fixed | term: הממשלה העולמית

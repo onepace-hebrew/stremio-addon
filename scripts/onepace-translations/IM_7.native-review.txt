@@ -1,4 +1,4 @@
-sha256 387f87721507ef044b8219b8d21c11d3123b56c1f172d40da5f6ff698793c086
+sha256 896306b6a1bfedbca297a5fd05cfc9e6def4d5aac499e5b604b68bf5d8783da1
 # 2026-10-18. Reviewer prompt: _NATIVE_REVIEW.txt. Flags triaged with the English open.
 # Round 1: full episode, pre-fix HEAD version. 32 flagged.
 23 | fixed | "lent you strength" calque
@@ -51,3 +51,6 @@ sha256 387f87721507ef044b8219b8d21c11d3123b56c1f172d40da5f6ff698793c086
 365 | fixed | נפלנו בפח
 381 | fixed | doubled אחרי זה זה
 470 | fixed | missing object כלום
+# 2026-11-03 term normalization (ממשלת העולם → הממשלה העולמית) + register re-read: fresh reader, register-aware prompt, changed line ±3 (450-456). 1 flag.
+451 | fixed | היכן אמות → איפה למות (register; the old voice rewrite)
+453 | fixed | term: הממשלה העולמית
