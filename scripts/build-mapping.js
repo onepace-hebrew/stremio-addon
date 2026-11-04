@@ -276,6 +276,15 @@ function build() {
     'MA_6': 'fedew/23 Marineford/06/marineford 06 he',
     'MA_7': 'fedew/23 Marineford/07/marineford 07 he',
     'MA_8': 'fedew/23 Marineford/08/marineford 08 he',
+    'MA_9': 'fedew/23 Marineford/09/marineford 09 he',
+    'MA_10': 'fedew/23 Marineford/10/marineford 10 he',
+    'MA_11': 'fedew/23 Marineford/11/marineford 11 he',
+    'MA_12': 'fedew/23 Marineford/12/marineford 12 he',
+    'MA_13': 'fedew/23 Marineford/13/marineford 13 he',
+    'MA_14': 'fedew/23 Marineford/14/marineford 14 he',
+    'MA_15': 'fedew/23 Marineford/15/marineford 15 he',
+    'MA_16': 'fedew/23 Marineford/16/marineford 16 he',
+    'MA_17': 'fedew/23 Marineford/17/marineford 17 he',
   };
   for (const [id, stem] of Object.entries(ID_OVERRIDES)) {
     const parts = stem.split('/');

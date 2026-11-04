@@ -1,0 +1,800 @@
+[
+ {
+  "i": 0,
+  "style": "Main",
+  "name": "",
+  "text": "Destroy Navy HQ!"
+ },
+ {
+  "i": 1,
+  "style": "Main",
+  "name": "",
+  "text": "Stay out of my line of fire."
+ },
+ {
+  "i": 2,
+  "style": "Main",
+  "name": "",
+  "text": "Here he comes again!"
+ },
+ {
+  "i": 3,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Ice Ball!"
+ },
+ {
+  "i": 4,
+  "style": "Main",
+  "name": "",
+  "text": "– He froze Whitebeard!\\N– You did it!"
+ },
+ {
+  "i": 5,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, my..."
+ },
+ {
+  "i": 6,
+  "style": "Main",
+  "name": "",
+  "text": "Looks like I can't freeze a quake man..."
+ },
+ {
+  "i": 7,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Ice..."
+ },
+ {
+  "i": 8,
+  "style": "Main",
+  "name": "",
+  "text": "Admiral Kuzan!"
+ },
+ {
+  "i": 9,
+  "style": "Main",
+  "name": "",
+  "text": "– He stabbed him with Haki!\\N– Is Aokiji dead?!"
+ },
+ {
+  "i": 10,
+  "style": "Main",
+  "name": "",
+  "text": "No! Don't be ridiculous."
+ },
+ {
+  "i": 11,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Ice Block: Partisan!"
+ },
+ {
+  "i": 12,
+  "style": "Main",
+  "name": "",
+  "text": "Pops, get going!"
+ },
+ {
+  "i": 13,
+  "style": "Main",
+  "name": "",
+  "text": "I'm counting on you."
+ },
+ {
+  "i": 14,
+  "style": "Main",
+  "name": "",
+  "text": "Diamond Jozu..."
+ },
+ {
+  "i": 15,
+  "style": "Main",
+  "name": "",
+  "text": "We're almost there!"
+ },
+ {
+  "i": 16,
+  "style": "Main",
+  "name": "",
+  "text": "I can see the execution platform!"
+ },
+ {
+  "i": 17,
+  "style": "Main",
+  "name": "",
+  "text": "We've just gotta break through in the confusion!"
+ },
+ {
+  "i": 18,
+  "style": "Main",
+  "name": "",
+  "text": "I won't let you!"
+ },
+ {
+  "i": 19,
+  "style": "Main",
+  "name": "",
+  "text": "You're all gonna die here!"
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "",
+  "text": "A-Ace..."
+ },
+ {
+  "i": 21,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(500,0)\\pos(645,485)}Oris Plaza"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat Luffy..."
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "",
+  "text": "I, Momonga, stake my pride as a\\N Navy vice admiral on stopping you right here!"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "",
+  "text": "Vice admiral... So you're the same as Grandpa, huh?"
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Shave!"
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Moon Walk!"
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Gear...!"
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "",
+  "text": "Secon..."
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "",
+  "text": "Looks like you're out of energy!"
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Finger Pistol!"
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "",
+  "text": "Garp. Consider your position!"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "",
+  "text": "You gotta have more than just courage..."
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat Luffy,"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "",
+  "text": "without enough strength,\\N you can't save anyone, no matter how hard you try."
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "",
+  "text": "A-Ace..."
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "",
+  "text": " – Kill Whitebeard!\\N – We won't let you!"
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "",
+  "text": "Now will you please just disappear?"
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "",
+  "text": "Ace's little brother!"
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "",
+  "text": "Ace..."
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "",
+  "text": "Oh. Whitebeard's command has been dulled..."
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "",
+  "text": "To think that a man like you..."
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "",
+  "text": "would let such reckless trash..."
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "",
+  "text": "lead your attack."
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "",
+  "text": "We won't let you touch Pops!"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, how admirable..."
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "",
+  "text": "There he is! It's Straw Hat-boy!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "",
+  "text": "There he is, Jinbe!"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "",
+  "text": "Who's that?!"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "",
+  "text": "Where's that voice coming from?"
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "",
+  "text": "Don't you see me?!"
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "",
+  "text": "I'm Ivankov, dammit!"
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "",
+  "text": "Up there!"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "",
+  "text": "What's with the size of his face?!"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "",
+  "text": "It's Ivankov, from the Revolutionary Army!"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy-{\\i1}kun!{\\i0}"
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "",
+  "text": "Are you still alive, Straw Hat-boy?!"
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "",
+  "text": "I'm... I'm..."
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "",
+  "text": "not falling!"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "",
+  "text": "He fell!"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "",
+  "text": "What are you doing?!"
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "",
+  "text": "I'm sorry..."
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "",
+  "text": "What a noisy guy."
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "",
+  "text": "Iva-{\\i1}chan{\\i0}... Jinbe..."
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "",
+  "text": "Let me go, old man!"
+ },
+ {
+  "i": 65,
+  "style": "Main",
+  "name": "",
+  "text": "I'm... I'm... Let me go!"
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "",
+  "text": "He's done more than enough. Treat his wounds."
+ },
+ {
+  "i": 67,
+  "style": "Main",
+  "name": "",
+  "text": "Yessir!"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "",
+  "text": "I don't need that! There's no time!"
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "",
+  "text": "I've gotta go save him! Don't get in my way!"
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "",
+  "text": "Ace is... Ace is..."
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "",
+  "text": "Ace is...!"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "",
+  "text": "Ace is my only brother in the world!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "",
+  "text": "I'll..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "",
+  "text": "I'll definitely..."
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "",
+  "text": "definitely..."
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "",
+  "text": "save him!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy-{\\i1}kun!{\\i0} Hey!"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "",
+  "text": "This is awful..."
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "",
+  "text": "Please, Doctor!\\N Do whatever you can to keep him alive!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy-{\\i1}kun!{\\i0} Luffy-{\\i1}kun!{\\i0}"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "",
+  "text": "Hang in there, Luffy-{\\i1}kun!{\\i0}"
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "",
+  "text": "A bundle of spirit, who only knows how to talk big..."
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "",
+  "text": "Young and clumsy..."
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "",
+  "text": "I like fools like that..."
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "",
+  "text": "Those with no regard for their lives, advance!"
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "",
+  "text": "Here he comes! It's Whitebeard!"
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "",
+  "text": "If we just let you run wild as you please..."
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "",
+  "text": "the island won't be able to take it!"
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "",
+  "text": "Then try to protect it!"
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "",
+  "text": "Take care of Luffy-{\\i1}kun{\\i0} for me."
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "",
+  "text": "Jinbe, what about you?"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "",
+  "text": "I've chosen this as the place where I die!"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "",
+  "text": "We've gotta clear a path for Pops!"
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "",
+  "text": "These are swordsmen as well... However..."
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "",
+  "text": "Such pitiful weaklings!"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "",
+  "text": "Move!"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "",
+  "text": "Clear a path!"
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "",
+  "text": "I must go to where Luffy is!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "",
+  "text": "Do not interfere!"
+ },
+ {
+  "i": 100,
+  "style": "Main",
+  "name": "",
+  "text": "This is awful!"
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "",
+  "text": "Boa Hancock has started attacking indiscriminately again!"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Slave Arrow!"
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "",
+  "text": "The corpses keep piling up!"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "",
+  "text": "I won't let you get in Pops' way!"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "",
+  "text": "I don't think I'm very tasty, actually..."
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "",
+  "text": "I-I'm not done... Not yet..."
+ },
+ {
+  "i": 107,
+  "style": "Main",
+  "name": "",
+  "text": "Push them back!"
+ },
+ {
+  "i": 108,
+  "style": "Main",
+  "name": "",
+  "text": "That's..."
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "",
+  "text": "The pirates' allies from the shore!"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "",
+  "text": "Sorry for the wait!"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah, we've been waiting for you!"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "",
+  "text": "Dammit! We let far too many of them get into the plaza!"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "",
+  "text": "Uncle will yell at me!"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "",
+  "text": "Under the circumstances,\\N some casualties will be inevitable,"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "",
+  "text": "but try to avoid hitting our own allies."
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "",
+  "text": "Pacifista!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "",
+  "text": "Wait for me, Ace!"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "",
+  "text": "He's flying!"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "",
+  "text": "What are you doing?! Shoot him down!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "",
+  "text": "Our guns won't work!"
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "",
+  "text": "I don't care! Keep shooting!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "",
+  "text": "Commander Marco!"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "",
+  "text": "Nobody told you to jump in on your own!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "",
+  "text": "The Hero, Monkey D. Garp!"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "",
+  "text": "The legendary marine has finally made his move!"
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "",
+  "text": "Vice Admiral Garp!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "",
+  "text": "The vice admiral's in!"
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "",
+  "text": "He's the best guardian we have!"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "",
+  "text": "Gramps..."
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "",
+  "text": "Garp..."
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "",
+  "text": "If you want to get past me, you'll have to kill me!"
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "",
+  "text": "Dumb kids..."
+ }
+]

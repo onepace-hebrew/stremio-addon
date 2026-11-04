@@ -1,0 +1,9 @@
+sha256 acfd81cc4420e9a20446a127d454a6ba500356acd20ee1211fbb95f46581d6cb
+# 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
+76 | fixed | newsreader narration (abstract subject) re-voiced
+84 | fixed | רשע שנקרא פיראטים (biblical + English frame) → הם הרוע עצמו
+124 | fixed | שינה מהיסוד (op-ed) → שינה לגמרי
+227 | fixed | sarcastic thanks rendered word for word → תודה על ההתלהבות
+231 | fixed | מלחמה אחד על אחד (collocation) → להילחם בך אחד על אחד
+# Round 2: fresh reader, changed lines ±3 cues.
+123 | fixed (round 2) | בשביל רגע של אומץ (made courage the goal) → ולרגע קצר אחד היית אמיץ

@@ -1,0 +1,8 @@
+sha256 b9993649eb2efe41e93f4ca62ae2a4ae2ae30b9d2e8fd54a7cf0105c8111ba1c
+# 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
+32 | fixed | הזבל הכי גרוע (calque) → החלאה הכי גדולה
+120 | fixed | news-headline register re-voiced (Iva, ווי kept)
+143 | fixed | ספג חזיתית (stiff) → חטף ישר; soldiers say אדמירל קיזארו
+101 | fixed | term spelling only: מגמה (trend) → מאגמה (magma)
+# Round 2: fresh reader, changed lines ±3 cues.
+# round 2: fresh reader, changed lines ±3, 0 flags

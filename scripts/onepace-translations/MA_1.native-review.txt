@@ -1,4 +1,4 @@
-sha256 bf70a0724c83b61836bf37ffebcdda9ce9b3212fce73e4dc8228d3255ad51f6f
+sha256 46a039f28366c8be43c0d70bedd295e79431c19ef98a587e15f220bb33ce91b8
 # 2026-10-18. Reviewer prompt: _NATIVE_REVIEW.txt. Flags triaged with the English open.
 # Round 1: two readers, full episode (375 lines). R1 27 flags, R2 26, 21 shared, union 32. All fixed.
 8 | fixed | נגמר לנו → הלך עלינו
@@ -52,3 +52,14 @@ sha256 bf70a0724c83b61836bf37ffebcdda9ce9b3212fce73e4dc8228d3255ad51f6f
 19 | fixed | גבר כמוך (romantic calque) → בדיוק מישהו כמוך חיפשתי
 20 | fixed | term: הממשלה העולמית
 102 | fixed | term: הממשלה העולמית
+# 2026-11-04 register lint leftovers: soldiers' "Yes, sir" and a commander's bookish "my men". Fresh register-aware reader on the changed lines ±3: 0 flags on them, 5 on old neighbours, all fixed (final round).
+126 | fixed | soldier: כן, אדוני → כן, המפקד
+305 | fixed | להכריע את המלחמה → לקבוע מי ינצח במלחמה
+323 | fixed | אנשיי! (the gate's own bookish fix) → חיילים!
+334 | fixed | כן, אדוני → כן, המפקד
+338 | fixed | כן, אדוני → כן, המפקד
+302 | fixed | simile misread: the bay is crescent-shaped
+304 | fixed | fronted object, "first line of soldiers" calque → מהנמל רואים את השורה הראשונה
+307 | fixed | שומר without object → שומר עליה
+321 | fixed | near-miss הרוח הייתה בעדנו → הייתה לנו רוח גבית
+341 | fixed | suffix + של (הוצאתו להורג של) → ההוצאה להורג של

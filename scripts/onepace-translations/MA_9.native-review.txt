@@ -1,0 +1,9 @@
+sha256 947e97d2d52aecf10c5884cca682d527467365df54a650098ecfb0e8cbcbbc47
+# 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
+50 | fixed | נשאה (written verb, English frame) → היא הייתה הבית שלנו
+100 | fixed | אדון קיזארו (soldiers, -san calque) → אדמירל קיזארו
+111 | fixed | fronted English word order
+136 | fixed | טינה ל (book word, wrong pairing) → חשבון פתוח עם
+216 | fixed | נהרו (news verb) + English word order re-voiced
+# Round 2: fresh reader, changed lines ±3 cues.
+# round 2: fresh reader, changed lines ±3, 0 flags

@@ -1,0 +1,1484 @@
+[
+ {
+  "i": 0,
+  "style": "Main",
+  "name": "",
+  "text": "The Hero Garp is..."
+ },
+ {
+  "i": 1,
+  "style": "Main",
+  "name": "",
+  "text": "protecting the platform!"
+ },
+ {
+  "i": 2,
+  "style": "Main",
+  "name": "",
+  "text": "Don't get intimidated. It's just a name, you fools!"
+ },
+ {
+  "i": 3,
+  "style": "Main",
+  "name": "",
+  "text": "He's just an old marine."
+ },
+ {
+  "i": 4,
+  "style": "Main",
+  "name": "",
+  "text": "Since you're part of his generation,"
+ },
+ {
+  "i": 5,
+  "style": "Main",
+  "name": "",
+  "text": "you'd do well to pay attention to the enemy in front of you!"
+ },
+ {
+  "i": 6,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Crimson Dog Bite!"
+ },
+ {
+  "i": 7,
+  "style": "Main",
+  "name": "",
+  "text": "You keep destroying the city..."
+ },
+ {
+  "i": 8,
+  "style": "Main",
+  "name": "",
+  "text": "Like I said, try to protect it!"
+ },
+ {
+  "i": 9,
+  "style": "Title",
+  "name": "",
+  "text": "{\\fad(1000,200)}Monster"
+ },
+ {
+  "i": 10,
+  "style": "Main",
+  "name": "",
+  "text": "Make a path!"
+ },
+ {
+  "i": 11,
+  "style": "Main",
+  "name": "",
+  "text": "A path to Ace's rescue!"
+ },
+ {
+  "i": 12,
+  "style": "Main",
+  "name": "",
+  "text": "Those aggravating jerks came all the way here..."
+ },
+ {
+  "i": 13,
+  "style": "Main",
+  "name": "",
+  "text": "Not gonna happen, you monster!"
+ },
+ {
+  "i": 14,
+  "style": "Main",
+  "name": "",
+  "text": "We'll show you the power of the New World!"
+ },
+ {
+  "i": 15,
+  "style": "Main",
+  "name": "",
+  "text": "Now, hurry!"
+ },
+ {
+  "i": 16,
+  "style": "Main",
+  "name": "",
+  "text": "To the execution platform!"
+ },
+ {
+  "i": 17,
+  "style": "Main",
+  "name": "",
+  "text": "What is it, Fire Fist?"
+ },
+ {
+  "i": 18,
+  "style": "Thoughts",
+  "name": "",
+  "text": "Ace..."
+ },
+ {
+  "i": 19,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "Gol D. Roger?"
+ },
+ {
+  "i": 20,
+  "style": "Main",
+  "name": "",
+  "text": "You mean Gold Roger?"
+ },
+ {
+  "i": 21,
+  "style": "Main",
+  "name": "",
+  "text": "If I know him?"
+ },
+ {
+  "i": 22,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, don't you know why there's so many pirates causing trouble in the world?"
+ },
+ {
+  "i": 23,
+  "style": "Main",
+  "name": "",
+  "text": "It's all that Roger-guy's fault!"
+ },
+ {
+  "i": 24,
+  "style": "Main",
+  "name": "",
+  "text": "Roger's..."
+ },
+ {
+  "i": 25,
+  "style": "Main",
+  "name": "",
+  "text": "This is just what I've heard..."
+ },
+ {
+  "i": 26,
+  "style": "Main",
+  "name": "",
+  "text": "but seems he spouted some crap about a\\N\"great treasure\" just before they executed him..."
+ },
+ {
+  "i": 27,
+  "style": "Main",
+  "name": "",
+  "text": "So generations of pirates stupid enough\\Nto believe him started roaming the seas."
+ },
+ {
+  "i": 28,
+  "style": "Main",
+  "name": "",
+  "text": "It'd be better if that guy was never born!"
+ },
+ {
+  "i": 29,
+  "style": "Main",
+  "name": "",
+  "text": "He's scum!"
+ },
+ {
+  "i": 30,
+  "style": "Main",
+  "name": "",
+  "text": "From the platform, before he died, he sent pirates out to sea to do whatever the hell they wanted!"
+ },
+ {
+  "i": 31,
+  "style": "Main",
+  "name": "",
+  "text": "He was trouble when he was alive, and he's even more so now that he's dead!"
+ },
+ {
+  "i": 32,
+  "style": "Main",
+  "name": "",
+  "text": "He's the worst trash in the world! Remember that!"
+ },
+ {
+  "i": 33,
+  "style": "Main",
+  "name": "",
+  "text": "Huh? What's wrong?"
+ },
+ {
+  "i": 34,
+  "style": "Main",
+  "name": "",
+  "text": "Why are you getting so upset?"
+ },
+ {
+  "i": 35,
+  "style": "Main",
+  "name": "",
+  "text": "Say, who are you anyway, you little runt?"
+ },
+ {
+  "i": 36,
+  "style": "Main",
+  "name": "",
+  "text": "What were you doing down in the village, Ace?"
+ },
+ {
+  "i": 37,
+  "style": "Main",
+  "name": "",
+  "text": "There's a huge uproar down there because some delinquents were almost killed by a kid."
+ },
+ {
+  "i": 38,
+  "style": "Main",
+  "name": "",
+  "text": "What? And here I thought they were dead."
+ },
+ {
+  "i": 39,
+  "style": "Main",
+  "name": "",
+  "text": "What?! When you cause trouble, I'm the one who gets blamed, you know!"
+ },
+ {
+  "i": 40,
+  "style": "Main",
+  "name": "",
+  "text": "You listening to me, Ace?!"
+ },
+ {
+  "i": 41,
+  "style": "Main",
+  "name": "",
+  "text": "Sheesh! How could he push\\Nsuch a troublemaker on me?"
+ },
+ {
+  "i": 42,
+  "style": "Main",
+  "name": "",
+  "text": "You want to know about Roger, you say?"
+ },
+ {
+  "i": 43,
+  "style": "Main",
+  "name": "",
+  "text": "He was..."
+ },
+ {
+  "i": 44,
+  "style": "Main",
+  "name": "",
+  "text": "just a liar and a murderer!"
+ },
+ {
+  "i": 45,
+  "style": "Main",
+  "name": "",
+  "text": "\"Pirate King\"? Don't make me laugh!"
+ },
+ {
+  "i": 46,
+  "style": "Main",
+  "name": "",
+  "text": "He wasn't the Pirate King, more like the Bullshit King!"
+ },
+ {
+  "i": 47,
+  "style": "Main",
+  "name": "",
+  "text": "You can say that again!"
+ },
+ {
+  "i": 48,
+  "style": "Main",
+  "name": "",
+  "text": "Roger?"
+ },
+ {
+  "i": 49,
+  "style": "Main",
+  "name": "",
+  "text": "Don't say such disgusting\\Nnames, kid. You'll spoil my beer."
+ },
+ {
+  "i": 50,
+  "style": "Main",
+  "name": "",
+  "text": "Get lost."
+ },
+ {
+  "i": 51,
+  "style": "Main",
+  "name": "",
+  "text": "Why're you lookin' at me like that?!"
+ },
+ {
+  "i": 52,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! What are you doing, you damn brat?!"
+ },
+ {
+  "i": 53,
+  "style": "Main",
+  "name": "",
+  "text": "Why are you looking so beat down?"
+ },
+ {
+  "i": 54,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, Ace!"
+ },
+ {
+  "i": 55,
+  "style": "Main",
+  "name": "",
+  "text": "Looks like you've been causing a lot of trouble lately."
+ },
+ {
+  "i": 56,
+  "style": "Main",
+  "name": "",
+  "text": "Gramps..."
+ },
+ {
+  "i": 57,
+  "style": "Main",
+  "name": "",
+  "text": "You have a grandson, right?"
+ },
+ {
+  "i": 58,
+  "style": "Main",
+  "name": "",
+  "text": "Does he seem happy to you?"
+ },
+ {
+  "i": 59,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, you mean Luffy?"
+ },
+ {
+  "i": 60,
+  "style": "Main",
+  "name": "",
+  "text": "I'm raising him well."
+ },
+ {
+  "i": 61,
+  "style": "Main",
+  "name": "",
+  "text": "Gramps."
+ },
+ {
+  "i": 62,
+  "style": "Main",
+  "name": "",
+  "text": "Was it..."
+ },
+ {
+  "i": 63,
+  "style": "Main",
+  "name": "",
+  "text": "good that I was born?"
+ },
+ {
+  "i": 64,
+  "style": "Main",
+  "name": "",
+  "text": "Well, you..."
+ },
+ {
+  "i": 65,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "As long as you're alive, you'll figure it out eventually."
+ },
+ {
+  "i": 66,
+  "style": "Main",
+  "name": "",
+  "text": "Hurry and bring Straw Hat-boy to the ship!"
+ },
+ {
+  "i": 67,
+  "style": "Thoughts",
+  "name": "",
+  "text": "Now that it's come to this, vwe'll just have to save Ace-boy vourselves!"
+ },
+ {
+  "i": 68,
+  "style": "Main",
+  "name": "",
+  "text": "Iva{\\i1}-chan{\\i0}..."
+ },
+ {
+  "i": 69,
+  "style": "Main",
+  "name": "",
+  "text": "Vyou're still conscious?!"
+ },
+ {
+  "i": 70,
+  "style": "Main",
+  "name": "",
+  "text": "I have one last favor to ask of you..."
+ },
+ {
+  "i": 71,
+  "style": "Main",
+  "name": "",
+  "text": "Just a little further! We're coming now, Ace!"
+ },
+ {
+  "i": 72,
+  "style": "Main",
+  "name": "",
+  "text": "Clear a path!"
+ },
+ {
+  "i": 73,
+  "style": "Main",
+  "name": "",
+  "text": "I'm..."
+ },
+ {
+  "i": 74,
+  "style": "Main",
+  "name": "",
+  "text": "Dammit!"
+ },
+ {
+  "i": 75,
+  "style": "Main",
+  "name": "",
+  "text": "Ace{\\i1}-san{\\i0}, wait for me! I will save you even if it costs me my life!"
+ },
+ {
+  "i": 76,
+  "style": "Main",
+  "name": "",
+  "text": "Almost there!"
+ },
+ {
+  "i": 77,
+  "style": "Main",
+  "name": "",
+  "text": "Here we come, Ace!"
+ },
+ {
+  "i": 78,
+  "style": "Main",
+  "name": "",
+  "text": "Ace! We'll definitely save you!"
+ },
+ {
+  "i": 79,
+  "style": "Main",
+  "name": "",
+  "text": "Wait for us, Ace!"
+ },
+ {
+  "i": 80,
+  "style": "Main",
+  "name": "",
+  "text": "Don't you dare give up!"
+ },
+ {
+  "i": 81,
+  "style": "Main",
+  "name": "",
+  "text": "Dammit! What's wrong with me?! This isn't the time to..."
+ },
+ {
+  "i": 82,
+  "style": "Main",
+  "name": "",
+  "text": "Pops, my brother and my crew..."
+ },
+ {
+  "i": 83,
+  "style": "Main",
+  "name": "",
+  "text": "are falling, and yet..."
+ },
+ {
+  "i": 84,
+  "style": "Main",
+  "name": "",
+  "text": "\"One last favor\"?! Don't say such ominous things!"
+ },
+ {
+  "i": 85,
+  "style": "Main",
+  "name": "",
+  "text": "Please, give me..."
+ },
+ {
+  "i": 86,
+  "style": "Main",
+  "name": "",
+  "text": "I'm so happy..."
+ },
+ {
+  "i": 87,
+  "style": "Main",
+  "name": "",
+  "text": "my tears won't stop..."
+ },
+ {
+  "i": 88,
+  "style": "Main",
+  "name": "",
+  "text": "Even now that it's come to this..."
+ },
+ {
+  "i": 89,
+  "style": "Main",
+  "name": "",
+  "text": "I want to live..."
+ },
+ {
+  "i": 90,
+  "style": "Main",
+  "name": "",
+  "text": "Captain Buggy, you're awake!"
+ },
+ {
+  "i": 91,
+  "style": "Main",
+  "name": "",
+  "text": "You're alive!"
+ },
+ {
+  "i": 92,
+  "style": "Main",
+  "name": "",
+  "text": "Thank goodness!"
+ },
+ {
+  "i": 93,
+  "style": "Main",
+  "name": "",
+  "text": "What happened to me?"
+ },
+ {
+  "i": 94,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(0,350)}You were frozen by that Aokiji-guy."
+ },
+ {
+  "i": 95,
+  "style": "Main",
+  "name": "",
+  "text": "Oh no!"
+ },
+ {
+  "i": 96,
+  "style": "Main",
+  "name": "",
+  "text": "Hear me, Navy! You'd better prepare yourselves!"
+ },
+ {
+  "i": 97,
+  "style": "Main",
+  "name": "",
+  "text": "Don't think I'm the kind of man who'll let it end with this!"
+ },
+ {
+  "i": 98,
+  "style": "Main",
+  "name": "",
+  "text": "Yeah! We'll get our revenge before long! I'd expect no less from you!"
+ },
+ {
+  "i": 99,
+  "style": "Main",
+  "name": "",
+  "text": "Indeed, my friend!"
+ },
+ {
+  "i": 100,
+  "style": "Thoughts",
+  "name": "",
+  "text": "But... what am I gonna do?!"
+ },
+ {
+  "i": 101,
+  "style": "Main",
+  "name": "",
+  "text": "Move it, Magma-brat!"
+ },
+ {
+  "i": 102,
+  "style": "Main",
+  "name": "",
+  "text": "Damn it to Hell..."
+ },
+ {
+  "i": 103,
+  "style": "Main",
+  "name": "",
+  "text": "Pops!"
+ },
+ {
+  "i": 104,
+  "style": "Main",
+  "name": "",
+  "text": "So even you can't fight old age, huh?"
+ },
+ {
+  "i": 105,
+  "style": "Main",
+  "name": "",
+  "text": "Whitebeard!"
+ },
+ {
+  "i": 106,
+  "style": "Main",
+  "name": "",
+  "text": "The one thing we'd feared the most..."
+ },
+ {
+  "i": 107,
+  "style": "Flashbacks",
+  "name": "",
+  "text": "You want me to wear this equipment so the enemy will feel sorry for me or something?!"
+ },
+ {
+  "i": 108,
+  "style": "Thoughts",
+  "name": "",
+  "text": "Pops..."
+ },
+ {
+  "i": 109,
+  "style": "Main",
+  "name": "",
+  "text": "The battle is over once you let your guard down, even for a second!"
+ },
+ {
+  "i": 110,
+  "style": "Main",
+  "name": "",
+  "text": "Marco!"
+ },
+ {
+  "i": 111,
+  "style": "Main",
+  "name": "",
+  "text": "You just got distracted, didn't you?"
+ },
+ {
+  "i": 112,
+  "style": "Main",
+  "name": "",
+  "text": "Jozu!"
+ },
+ {
+  "i": 113,
+  "style": "Main",
+  "name": "",
+  "text": "Now, I guess it's time for me to send you off to the next world!"
+ },
+ {
+  "i": 114,
+  "style": "Main",
+  "name": "",
+  "text": "Pops!"
+ },
+ {
+  "i": 115,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, Pops..."
+ },
+ {
+  "i": 116,
+  "style": "Main",
+  "name": "",
+  "text": "What?!"
+ },
+ {
+  "i": 117,
+  "style": "Main",
+  "name": "",
+  "text": "Vyou want another shot of the Tension Hormones?!"
+ },
+ {
+  "i": 118,
+  "style": "Main",
+  "name": "",
+  "text": "That's too reckless!"
+ },
+ {
+  "i": 119,
+  "style": "Main",
+  "name": "",
+  "text": "It's hopeless! Vyou and Vi fought our way out of Impel Down together, didn't vwe?!"
+ },
+ {
+  "i": 120,
+  "style": "Main",
+  "name": "",
+  "text": "Vyour body has been fatally poisoned and\\Nthen brought back from the brink of death..."
+ },
+ {
+  "i": 121,
+  "style": "Main",
+  "name": "",
+  "text": "It's way beyond its limits!"
+ },
+ {
+  "i": 122,
+  "style": "Main",
+  "name": "",
+  "text": "Didn't Vi tell you before? The Tension Hormones are nothing but an emergency treatment!"
+ },
+ {
+  "i": 123,
+  "style": "Main",
+  "name": "",
+  "text": "If Vi keep deceiving vyour body, vyou really will die after this is all over!"
+ },
+ {
+  "i": 124,
+  "style": "Main",
+  "name": "",
+  "text": "As long as I've done all I can,"
+ },
+ {
+  "i": 125,
+  "style": "Main",
+  "name": "",
+  "text": "then I don't mind dying!"
+ },
+ {
+  "i": 126,
+  "style": "Main",
+  "name": "",
+  "text": "Please let me fight, Iva{\\i1}-chan{\\i0}!"
+ },
+ {
+  "i": 127,
+  "style": "Main",
+  "name": "",
+  "text": "Pops was done in!"
+ },
+ {
+  "i": 128,
+  "style": "Main",
+  "name": "",
+  "text": "Marco! Jozu!"
+ },
+ {
+  "i": 129,
+  "style": "Main",
+  "name": "",
+  "text": "If... I don't fight here..."
+ },
+ {
+  "i": 130,
+  "style": "Main",
+  "name": "",
+  "text": "If... I can't save Ace..."
+ },
+ {
+  "i": 131,
+  "style": "Main",
+  "name": "",
+  "text": "I'll..."
+ },
+ {
+  "i": 132,
+  "style": "Main",
+  "name": "",
+  "text": "end up wanting to die!"
+ },
+ {
+  "i": 133,
+  "style": "Main",
+  "name": "",
+  "text": "Please... Give me the power to fight!"
+ },
+ {
+  "i": 134,
+  "style": "Main",
+  "name": "",
+  "text": "And Vi'm telling vyou..."
+ },
+ {
+  "i": 135,
+  "style": "Main",
+  "name": "",
+  "text": "If Vi allow vyou to die, Vi won't be able to show my face to Dragon afterwards!"
+ },
+ {
+  "i": 136,
+  "style": "Main",
+  "name": "",
+  "text": "Vyou ignorant fool!"
+ },
+ {
+  "i": 137,
+  "style": "Main",
+  "name": "",
+  "text": "Ace..."
+ },
+ {
+  "i": 138,
+  "style": "Main",
+  "name": "",
+  "text": "Fine!"
+ },
+ {
+  "i": 139,
+  "style": "Main",
+  "name": "",
+  "text": "Do whatever the hell..."
+ },
+ {
+  "i": 140,
+  "style": "Main",
+  "name": "",
+  "text": "vyou want!"
+ },
+ {
+  "i": 141,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, you! What are you doing to Straw Hat?"
+ },
+ {
+  "i": 142,
+  "style": "Main",
+  "name": "",
+  "text": "S-Straw Hat's..."
+ },
+ {
+  "i": 143,
+  "style": "Main",
+  "name": "",
+  "text": "I-Impossible! I thought he was on the verge of death after taking Kizaru{\\i1}-san's{\\i0} attack head-on!"
+ },
+ {
+  "i": 144,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy..."
+ },
+ {
+  "i": 145,
+  "style": "Main",
+  "name": "",
+  "text": "Ace!"
+ },
+ {
+  "i": 146,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat-boy, once again, you better keep in mind..."
+ },
+ {
+  "i": 147,
+  "style": "Main",
+  "name": "",
+  "text": "that the next time you drop, you won't be able to bounce back!"
+ },
+ {
+  "i": 148,
+  "style": "Main",
+  "name": "",
+  "text": "Those guys!"
+ },
+ {
+  "i": 149,
+  "style": "Main",
+  "name": "",
+  "text": "Wait!"
+ },
+ {
+  "i": 150,
+  "style": "Main",
+  "name": "",
+  "text": "They're trying to execute Ace again!"
+ },
+ {
+  "i": 151,
+  "style": "Main",
+  "name": "",
+  "text": "Oh, well, my words can't change Straw Hat-boy's mind under these circumstances!"
+ },
+ {
+  "i": 152,
+  "style": "Main",
+  "name": "",
+  "text": "All I can do is keep them from beating him!"
+ },
+ {
+  "i": 153,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat?!"
+ },
+ {
+  "i": 154,
+  "style": "Main",
+  "name": "",
+  "text": "Straw Hat is coming!"
+ },
+ {
+  "i": 155,
+  "style": "Main",
+  "name": "",
+  "text": "Kill Straw Hat!"
+ },
+ {
+  "i": 156,
+  "style": "Main",
+  "name": "",
+  "text": "I'm gonna finish him!"
+ },
+ {
+  "i": 157,
+  "style": "Main",
+  "name": "",
+  "text": "It's not over! I won't let you pass through here!"
+ },
+ {
+  "i": 158,
+  "style": "Main",
+  "name": "",
+  "text": "If you wanna advance..."
+ },
+ {
+  "i": 159,
+  "style": "Main",
+  "name": "",
+  "text": "You gotta beat all of us!"
+ },
+ {
+  "i": 160,
+  "style": "Main",
+  "name": "",
+  "text": "We'll show you the spirit of the Navy!"
+ },
+ {
+  "i": 161,
+  "style": "Main",
+  "name": "",
+  "text": "Heads up!"
+ },
+ {
+  "i": 162,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Death Wink!"
+ },
+ {
+  "i": 163,
+  "style": "Main",
+  "name": "",
+  "text": "10 points! I'll back you up!"
+ },
+ {
+  "i": 164,
+  "style": "Main",
+  "name": "",
+  "text": "Thanks, Ivan{\\i1}-chan{\\i0}!"
+ },
+ {
+  "i": 165,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy{\\i1}-san{\\i0}..."
+ },
+ {
+  "i": 166,
+  "style": "Main",
+  "name": "",
+  "text": "Koby!"
+ },
+ {
+  "i": 167,
+  "style": "Main",
+  "name": "",
+  "text": "That's right! In order to\\Nlive as a Navy soldier,"
+ },
+ {
+  "i": 168,
+  "style": "Main",
+  "name": "",
+  "text": "I have to fight to change myself!"
+ },
+ {
+  "i": 169,
+  "style": "Main",
+  "name": "",
+  "text": "Because this is a battlefield!"
+ },
+ {
+  "i": 170,
+  "style": "Main",
+  "name": "",
+  "text": "I have to commit myself towards killing him!"
+ },
+ {
+  "i": 171,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Rubber-Rubber..."
+ },
+ {
+  "i": 172,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Shave!"
+ },
+ {
+  "i": 173,
+  "style": "Main",
+  "name": "",
+  "text": "{\\fad(150,150)}Bullet!"
+ },
+ {
+  "i": 174,
+  "style": "Thoughts",
+  "name": "",
+  "text": "He's as strong as I thought..."
+ },
+ {
+  "i": 175,
+  "style": "Main",
+  "name": "",
+  "text": "What is it this time?!"
+ },
+ {
+  "i": 176,
+  "style": "Main",
+  "name": "",
+  "text": "You guys are..."
+ },
+ {
+  "i": 177,
+  "style": "Main",
+  "name": "",
+  "text": "the Kuma imposters!"
+ },
+ {
+  "i": 178,
+  "style": "Main",
+  "name": "",
+  "text": "Monkey D. Luffy."
+ },
+ {
+  "i": 179,
+  "style": "Main",
+  "name": "",
+  "text": "Oh no! What a pain in the ass!"
+ },
+ {
+  "i": 180,
+  "style": "Main",
+  "name": "",
+  "text": "Hey you, watch out!"
+ },
+ {
+  "i": 181,
+  "style": "Main",
+  "name": "",
+  "text": "Boa Hancock. One of the Seven Warlords."
+ },
+ {
+  "i": 182,
+  "style": "Main",
+  "name": "",
+  "text": "Abort attack. Friendly operative."
+ },
+ {
+  "i": 183,
+  "style": "Main",
+  "name": "",
+  "text": "That's right! You guys are on the same side!"
+ },
+ {
+  "i": 184,
+  "style": "Main",
+  "name": "",
+  "text": "Thank you, Hancock!"
+ },
+ {
+  "i": 185,
+  "style": "Main",
+  "name": "",
+  "text": "She's the Empress, right?\\NHow do you know her?"
+ },
+ {
+  "i": 186,
+  "style": "Main",
+  "name": "",
+  "text": "Luffy! He called my name again..."
+ },
+ {
+  "i": 187,
+  "style": "Main",
+  "name": "",
+  "text": "Move aside, Boa Hancock."
+ },
+ {
+  "i": 188,
+  "style": "Main",
+  "name": "",
+  "text": "I don't want you to call my name!"
+ },
+ {
+  "i": 189,
+  "style": "Main",
+  "name": "",
+  "text": "P-Pops..."
+ },
+ {
+  "i": 190,
+  "style": "Main",
+  "name": "",
+  "text": "I-I'm on my way!"
+ },
+ {
+  "i": 191,
+  "style": "Main",
+  "name": "",
+  "text": "You are off guard!"
+ },
+ {
+  "i": 192,
+  "style": "Main",
+  "name": "",
+  "text": "Pops!"
+ },
+ {
+  "i": 193,
+  "style": "Main",
+  "name": "",
+  "text": "Things don't always go the way you want!"
+ },
+ {
+  "i": 194,
+  "style": "Main",
+  "name": "",
+  "text": "Of course, Marco the Phoenix regenerates!"
+ },
+ {
+  "i": 195,
+  "style": "Main",
+  "name": "",
+  "text": "Hey! It's your turn now!"
+ },
+ {
+  "i": 196,
+  "style": "Main",
+  "name": "",
+  "text": "Seastone?!"
+ },
+ {
+  "i": 197,
+  "style": "Main",
+  "name": "",
+  "text": "Commander Marco!"
+ },
+ {
+  "i": 198,
+  "style": "Main",
+  "name": "",
+  "text": "It looks painful!"
+ },
+ {
+  "i": 199,
+  "style": "Main",
+  "name": "",
+  "text": "Commander Jozu has been beaten, too!"
+ },
+ {
+  "i": 200,
+  "style": "Main",
+  "name": "",
+  "text": "They even beat our commanders one by one..."
+ },
+ {
+  "i": 201,
+  "style": "Main",
+  "name": "",
+  "text": "The Whitebeard Pirates are falling apart..."
+ },
+ {
+  "i": 202,
+  "style": "Main",
+  "name": "",
+  "text": "Pops!"
+ },
+ {
+  "i": 203,
+  "style": "Main",
+  "name": "",
+  "text": "You Fishman monster!"
+ },
+ {
+  "i": 204,
+  "style": "Main",
+  "name": "",
+  "text": "Let me go!"
+ },
+ {
+  "i": 205,
+  "style": "Main",
+  "name": "",
+  "text": "Now move it!"
+ },
+ {
+  "i": 206,
+  "style": "Main",
+  "name": "",
+  "text": "Everyone, attack Whitebeard!"
+ },
+ {
+  "i": 207,
+  "style": "Main",
+  "name": "",
+  "text": "Pops!"
+ },
+ {
+  "i": 208,
+  "style": "Main",
+  "name": "",
+  "text": "Pops!"
+ },
+ {
+  "i": 209,
+  "style": "Main",
+  "name": "",
+  "text": "Stay away!"
+ },
+ {
+  "i": 210,
+  "style": "Main",
+  "name": "",
+  "text": "These guys... do they really think..."
+ },
+ {
+  "i": 211,
+  "style": "Main",
+  "name": "",
+  "text": "they can beat me this easily?"
+ },
+ {
+  "i": 212,
+  "style": "Main",
+  "name": "",
+  "text": "I don't need any help because I'm..."
+ },
+ {
+  "i": 213,
+  "style": "Main",
+  "name": "",
+  "text": "I'm..."
+ },
+ {
+  "i": 214,
+  "style": "Main",
+  "name": "",
+  "text": "I'm Whitebeard!"
+ },
+ {
+  "i": 215,
+  "style": "Main",
+  "name": "",
+  "text": "M-Monster!"
+ },
+ {
+  "i": 216,
+  "style": "Main",
+  "name": "",
+  "text": "If I were to die..."
+ },
+ {
+  "i": 217,
+  "style": "Main",
+  "name": "",
+  "text": "I know exactly..."
+ },
+ {
+  "i": 218,
+  "style": "Main",
+  "name": "",
+  "text": "what it would mean!"
+ },
+ {
+  "i": 219,
+  "style": "Main",
+  "name": "",
+  "text": "Then, you know,"
+ },
+ {
+  "i": 220,
+  "style": "Main",
+  "name": "",
+  "text": "I can't allow myself to die until..."
+ },
+ {
+  "i": 221,
+  "style": "Main",
+  "name": "",
+  "text": "I see a bright future ahead for my sons!"
+ },
+ {
+  "i": 222,
+  "style": "Main",
+  "name": "",
+  "text": "Right, Ace?"
+ },
+ {
+  "i": 223,
+  "style": "Main",
+  "name": "",
+  "text": "Pops!"
+ },
+ {
+  "i": 224,
+  "style": "Main",
+  "name": "",
+  "text": "You just refuse to die!"
+ },
+ {
+  "i": 225,
+  "style": "Main",
+  "name": "",
+  "text": "What is it?!"
+ },
+ {
+  "i": 226,
+  "style": "Main",
+  "name": "",
+  "text": "W-What are they doing?!\\NGuarding the back of Whitebeard?!"
+ },
+ {
+  "i": 227,
+  "style": "Main",
+  "name": "",
+  "text": "Are they willing to die with Whitebeard?!"
+ },
+ {
+  "i": 228,
+  "style": "Main",
+  "name": "",
+  "text": "You people will never understand!"
+ },
+ {
+  "i": 229,
+  "style": "Main",
+  "name": "",
+  "text": "We'll defend Pops' glory!"
+ },
+ {
+  "i": 230,
+  "style": "Main",
+  "name": "",
+  "text": "You're getting too worked up, you fools!"
+ },
+ {
+  "i": 231,
+  "style": "Main",
+  "name": "",
+  "text": "If you wanna see the future,\\NI'll show you now, Whitebeard!"
+ },
+ {
+  "i": 232,
+  "style": "Main",
+  "name": "",
+  "text": "Do it!"
+ },
+ {
+  "i": 233,
+  "style": "Main",
+  "name": "",
+  "text": "Ace!"
+ },
+ {
+  "i": 234,
+  "style": "Main",
+  "name": "",
+  "text": "Ace!"
+ },
+ {
+  "i": 235,
+  "style": "Main",
+  "name": "",
+  "text": "That won't work!"
+ },
+ {
+  "i": 236,
+  "style": "Main",
+  "name": "",
+  "text": "Do you really think that would stop..."
+ },
+ {
+  "i": 237,
+  "style": "Main",
+  "name": "",
+  "text": "Behold, Whitebeard!"
+ },
+ {
+  "i": 238,
+  "style": "Main",
+  "name": "",
+  "text": "Stop it!"
+ },
+ {
+  "i": 239,
+  "style": "Main",
+  "name": "",
+  "text": "Stop it!"
+ },
+ {
+  "i": 240,
+  "style": "Main",
+  "name": "",
+  "text": "Stop it!"
+ },
+ {
+  "i": 241,
+  "style": "Main",
+  "name": "",
+  "text": "Here I come!"
+ },
+ {
+  "i": 242,
+  "style": "Main",
+  "name": "",
+  "text": "What did vyou just do?!"
+ },
+ {
+  "i": 243,
+  "style": "Main",
+  "name": "",
+  "text": "Conqueror's... Haki?!"
+ },
+ {
+  "i": 244,
+  "style": "Main",
+  "name": "",
+  "text": "Hey, hey! Seriously?!"
+ },
+ {
+  "i": 245,
+  "style": "Main",
+  "name": "",
+  "text": "How surprising..."
+ },
+ {
+  "i": 246,
+  "style": "Main",
+  "name": "",
+  "text": "That kid..."
+ }
+]

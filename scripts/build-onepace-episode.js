@@ -109,6 +109,15 @@ const EPISODES = {
   MA_6: { arc: '23 Marineford', nn: '06', stem: 'marineford 06 he', epLabel: 'Marineford 06' },
   MA_7: { arc: '23 Marineford', nn: '07', stem: 'marineford 07 he', epLabel: 'Marineford 07' },
   MA_8: { arc: '23 Marineford', nn: '08', stem: 'marineford 08 he', epLabel: 'Marineford 08' },
+  MA_9: { arc: '23 Marineford', nn: '09', stem: 'marineford 09 he', epLabel: 'Marineford 09' },
+  MA_10: { arc: '23 Marineford', nn: '10', stem: 'marineford 10 he', epLabel: 'Marineford 10' },
+  MA_11: { arc: '23 Marineford', nn: '11', stem: 'marineford 11 he', epLabel: 'Marineford 11' },
+  MA_12: { arc: '23 Marineford', nn: '12', stem: 'marineford 12 he', epLabel: 'Marineford 12' },
+  MA_13: { arc: '23 Marineford', nn: '13', stem: 'marineford 13 he', epLabel: 'Marineford 13' },
+  MA_14: { arc: '23 Marineford', nn: '14', stem: 'marineford 14 he', epLabel: 'Marineford 14' },
+  MA_15: { arc: '23 Marineford', nn: '15', stem: 'marineford 15 he', epLabel: 'Marineford 15' },
+  MA_16: { arc: '23 Marineford', nn: '16', stem: 'marineford 16 he', epLabel: 'Marineford 16' },
+  MA_17: { arc: '23 Marineford', nn: '17', stem: 'marineford 17 he', epLabel: 'Marineford 17' },
 };
 
 // Events DROPPED at extract (never in cues/he.json): fansub staff credits +

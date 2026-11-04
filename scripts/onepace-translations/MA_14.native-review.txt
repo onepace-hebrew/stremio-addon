@@ -1,0 +1,8 @@
+sha256 4db3e2494f946d4395a6e165818132b720531067ace7f562c8818818efb40416
+# 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
+4 | fixed | אדון אייס → אייס (battlefield shout; -san dropped)
+19 | fixed | circular English conditional re-voiced
+116 | fixed | subjectless question → הוא עוד בסדר?
+129 | fixed | זרע של שד (biblical) → ילד של שד
+# Round 2: fresh reader, changed lines ±3 cues.
+19 | fixed (round 2) | בחיים שלי read as 'ever' → אסכן את החיים שלי

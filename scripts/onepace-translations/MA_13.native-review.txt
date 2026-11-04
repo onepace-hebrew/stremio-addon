@@ -1,0 +1,11 @@
+sha256 94765078662f4bd06d1e4e82934bf0fa9e08e73e909570de5b56002dcb7077fe
+# 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
+29 | fixed | officialese תתבצע → נוציא אתכם להורג
+71 | fixed | המלחמה עלינו (ambiguous) → תשאירו לנו את המלחמה
+82 | fixed | fronted infinitive → אנחנו נחליט איפה נמות
+103 | fixed | 'that sounds sad' calque → אל תדבר ככה
+237 | fixed | מרוצה להיות (calque) → הסתפק בלהיות
+251 | fixed | broken idiom הפח שלי + English clause order
+271 | fixed | term spelling only: מגמה (trend) → מאגמה (magma)
+# Round 2: fresh reader, changed lines ±3 cues.
+74 | fixed (round 2) | sentence-initial ברור ש calque → אתה ממש מחפש למות

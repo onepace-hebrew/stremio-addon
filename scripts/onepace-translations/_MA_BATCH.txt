@@ -1,0 +1,73 @@
+ONE PACE HEBREW — Marineford MA_9–MA_17 (2026-11-04)
+Output: scripts/onepace-translations/<ID>.he.json
+Format: JSON array [{"i":0,"he":"..."}, ...] — SAME length as <ID>.cues.json, i = 0..N-1 in order.
+"he" = visible Hebrew only. Use \\N for line breaks. NO U+202B, NO ASS tags {..}, NO italics.
+Strip English TLC/recheck comments in trailing {..} — translate the spoken line only.
+Read first: .claude/skills/translating-one-pace-hebrew/SKILL.md, docs/translation-learnings.md (§1.5, §1.8),
+docs/translation-phrasebook.md, docs/characters.json. Full gate examples: _INSTRUCTIONS.txt.
+
+WRAP (dialogue): max 2 lines, ≤44 Hebrew chars/line, WORD boundaries only. Prefer even lines.
+CAPTIONS/Title: keep the English \\N structure. Song lyrics: copy earlier episodes' lines when the English matches.
+
+FOUR GATES — on the FIRST write, every dialogue cue.
+1) UN-CALQUE — spoken Israeli, not English word order. Stock phrases from the phrasebook:
+   As expected of X → לא סתם… / אין עליך ; I see → הבנתי ; Indeed → נכון / בדיוק ; Well, → טוב / נו, or drop it ;
+   We're done for → הלך עלינו ; It can't be! → לא יכול להיות! / אין מצב! ; Unforgivable → אתה תשלם על זה.
+2) VOICE — the cards below; same mouth all arc.
+3) YOU + SPLIT ATTACKS — אתה/את/אתם/אתן from the scene (±4 cues); split technique = one piece per card, English order.
+4) REGISTER — would a Hebrew dub actor say it? No word from the GLOBAL NEVER list unless the card allows it.
+   Idioms exact or plain. Condense by cutting, never by going up a register. Fix by re-voicing.
+
+GLOBAL NEVER (all except pompous speakers): היכן, כיצד, מדוע, האם (question), אינו/אינני/אינך, הנני, אשר,
+כעת/עתה, אכן, כה, אנא, ייתכן, ציווה, חרפה, הכריע, יתרה מזאת, כצפוי/כמצופה מ…, אסיר תודה,
+suffixed possessives on everyday nouns (אנשיי, חבריו, אביך, בניי), a suffix plus של.
+FORMAL ONLY: a hesitant ובכן..., מעולם, שמי X, לחשוב ש… ; EVERYONE: לעזאזל!, הו/או.
+CEILING: formal = complete sentences, no slang, polite address. Formal ≠ literary. No added slang (סבבה/וואלה/תכלס).
+
+VOICE CARDS (register · SAY · NEVER · model)
+- Whitebeard (זקן לבן): old giant, fatherly, few heavy words. SAY: הבנים שלי, ילדים, תקשיבו, אל תדאגו, גורארארא.
+  NEVER: בניי, הנני, אנשיי. Model: «הבנים שלי, תקשיבו טוב.»
+- Ace (אייס): calm, warm to Luffy, guilt. SAY: לופי, תודה, סליחה, אח קטן. NEVER: אכן, ובכן. Model: «תודה שאהבתם אותי.»
+- Luffy (לופי): blunt, simple, loud. NEVER: מעולם, ובכן, אכן, כאשר, אם כי, מכיוון ש. Model: «אני אציל את אייס!»
+- Sengoku (סנגוקו, אדמירל הצי): barked orders, broadcasts. SAY: זו פקודה, חייבים, בכל מחיר, לא לסגת.
+  NEVER: ראשו של…, אני פוקד עליך. Model: «תנתקו את השידור! זו פקודה!»
+- Garp (גארפ): gruff grandpa, torn. SAY: נכד שלי, טמבל, תזוז. NEVER: book words. Model: «תזוז, לופי!»
+- Akainu (אקאינו): cold zealot. SAY: צדק מוחלט, רשע צריך להיעלם, חלאות. NEVER: חרפה, ציווה. Model: «רשע חייב להיעלם.»
+- Aokiji (אאוקיג'י / קוזאן): lazy, dry, flat. Kizaru (קיזארו): drawling, mock-scared «אוו, מפחיד~».
+- Marco (מארקו), Jozu (ג'וזו), Vista (ויסטה): calm commanders, short. Squard (סקווארד): anguish, guilt.
+- Oars Jr. (אורס ג'וניור): giant, loyal, simple. Little Oars = same.
+- Ivankov (איבנקוב / איווה): first person ווי; Vyou=אתה; Vwe=אנחנו; camp; proclamations may be grand.
+- Jinbe (ג'ינביי): calm, complete, short. SAY: אני חייב לך, תסמוך עלי. NEVER: יאללה, אחי, היכן, אכן.
+- Crocodile (קרוקודייל): cold, sarcastic (cold ≠ literary). Mihawk (מיהוק): terse, cool.
+- Buggy (באגי): loud braggart coward. Mr. 3 (גלדינו): sneaky, nervous.
+- Blackbeard (זקן שחור): lazy laugh «זהההה», then threat. Shanks (שאנקס): calm authority, few words.
+- Coby (קובי): shaky but brave. Helmeppo (הלמפו): whiny.
+- Doflamingo (דופלמינגו): mocking «פופופו». Moria (מוריה): «קישישישי». Hancock (הנקוק, f): haughty; melts for Luffy.
+- Inazuma (אינאזומה, f now): cool. Smoker (סמוקר): gruff. Tashigi (טאשיגי, f). Momonga (מומונגה): stern officer.
+- Marines/guards/PA: IDF register. SAY: כן, המפקד! / קיבלתי! / אש! / להתקדם! NEVER: כן, אדוני!
+- Narrator: clear neutral Hebrew; no book words.
+
+TERMS (as MA_1–8 / glossary)
+Marines/Navy = הצי ; Navy HQ = מפקדת הצי ; Fleet Admiral = אדמירל הצי (סנגוקו) ; Admiral = אדמירל ; Vice Admiral = סגן אדמירל
+Seven Warlords = שבעת לוחמי הים ; Warlord = לוחם הים ; Four Emperors = ארבעת הקיסרים ; Red-Haired Shanks = שאנקס אדום השיער
+Whitebeard Pirates = פיראטי זקן לבן ; Division N commander = מפקד היחידה ה-N (מפקד היחידה הראשונה, מארקו)
+"Pops"/"Old Man" (Whitebeard) = אבא ; Moby Dick = המובי דיק ; Pacifista = פסיפיסטה (pl. פסיפיסטות)
+execution platform = במת ההוצאה להורג ; Absolute Justice = צדק מוחלט ; World Government = הממשלה העולמית
+Devil Fruit = פרי שטן ; Logia = לוגיה ; Tremor-Tremor Fruit = פרי הרעד-רעד ; Haki = האקי ; Conqueror's Haki = האקי של המלכים
+New World = העולם החדש ; Pirate King = מלך הפיראטים ; One Piece = הוואן פיס ; bounty = פרס / מודעת מבוקש
+Knight of the Sea (Jinbe) = אביר הים ; Straw Hat = כובע הקש ; Gum-Gum = גומי-גומי ; Gear Second = גיר שני
+Attacks in Hebrew; reuse earlier renderings (lookup below). Rank letters, CP9, PX-0 stay Latin.
+Spelling: הכל, האלו, זו, יותר מידי, דיי, עלי ; nif'al with yod (להילחם) ; -san → אדון/גברת ; no niqqud, no maqaf, no English.
+
+LOOKUP how MA_1–8 rendered something (English substring):
+node -e 'const fs=require("fs"),q=process.argv[1];for(const id of ["MA_1","MA_2","MA_3","MA_4","MA_5","MA_6","MA_7","MA_8"]){const e=JSON.parse(fs.readFileSync(`scripts/onepace-translations/${id}.cues.json`)),h=JSON.parse(fs.readFileSync(`scripts/onepace-translations/${id}.he.json`));e.forEach((c,i)=>{if(c.text.includes(q))console.log(id,i,c.text.replace(/\{[^}]*\}/g,""),"|",h[i]&&h[i].he)})}' "Ice Age"
+
+SIGNS: `node scripts/build-onepace-episode.js signs <ID>` writes <ID>.signs.json (typeset attack names); fill every
+"he" (reuse MA_2–5 signs.json renderings for repeated attacks; "" = show nothing). build refuses while one is null.
+
+SELF-CHECK before you stop:
+1. len(he.json)==len(cues.json); i runs 0..N-1; valid JSON (ensure_ascii=False)
+2. No Latin in dialogue except A/B/C, CP9, PX-n; no niqqud/maqaf; every line ≤44 chars, ≤2 lines, no word split across \\N
+3. Register lint on your he.json (fix every hit or keep it for a pompous speaker):
+   node -e 'const {REGISTER}=require("./scripts/lint-subs.js");for(const {i,he} of JSON.parse(require("fs").readFileSync(process.argv[1]))){for(const [re,w,h] of REGISTER)if(re.test(he.replace(/\\N/g," ")))console.log(i,w,"→",h,"|",he)}' scripts/onepace-translations/<ID>.he.json
+4. Four gates ran on every dialogue cue — not a literal draft.

@@ -1,0 +1,11 @@
+sha256 995f1ae4da17e5949dc1f3d967eacf8f27e5baf0ef26be51a4a4adf0e587700e
+# 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
+6 | fixed | 'we can confirm' newsroom calque → אושר
+16 | fixed | obituary set phrase הלכת לעולמך → הלכת
+117 | fixed | noun-heavy medical-report subject → Luffy as subject
+160 | fixed | שונה מהיסוד (written) → שונה לגמרי
+176 | fixed | ימי העולם (reads 'days of the world') → האוקיינוסים
+191 | fixed | כמה מכם שבא לכם (calque) → בכמה שתרצו
+204 | fixed | slogan with wrong-sense בשם → למען האנושות
+# Round 2: fresh reader, changed lines ±3 cues.
+# round 2: fresh reader, changed lines ±3, 0 flags

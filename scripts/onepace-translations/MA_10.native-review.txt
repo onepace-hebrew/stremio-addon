@@ -1,0 +1,7 @@
+sha256 a62be39e0facd8fb033156cf04bd1de323e611077177a483f33f598b03715927
+# 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
+23 | fixed | oath formula + near-miss מתחייב בכבוד → נשבע בכבוד שלי
+82 | fixed | כולו אש ופה גדול (broken coordination) → מלא אש, ורק יודע לדבר גבוה
+125 | fixed | headline register → גארפ האגדי סוף סוף נכנס לקרב
+# Round 2: fresh reader, changed lines ±3 cues.
+82 | fixed (round 2) | near-miss לדבר גבוה → לעשות רוח
