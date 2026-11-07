@@ -1,4 +1,4 @@
-sha256 7aa1fe3118837dc1a30deb2f77070e5dede891efa7313813c53f7d25fcbf56fb
+sha256 6185e1231ca1653ed639d17e24ac8f01079584f197d2a02976267939e91b1d54
 # 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
 50 | fixed | נשאה (written verb, English frame) → היא הייתה הבית שלנו
 100 | fixed | אדון קיזארו (soldiers, -san calque) → אדמירל קיזארו
@@ -7,5 +7,5 @@ sha256 7aa1fe3118837dc1a30deb2f77070e5dede891efa7313813c53f7d25fcbf56fb
 216 | fixed | נהרו (news verb) + English word order re-voiced
 # Round 2: fresh reader, changed lines ±3 cues.
 # round 2: fresh reader, changed lines ±3, 0 flags
-# 2026-11-07: owner ruling, Stamp attack = דריסה (was the office-stamp word). Attack call only; reader prompt exempts attack calls, so no blind round.
-125 | fixed | Stamp Gatling → גאטלינג דריסות (owner ruling)
+# 2026-11-07: owner ruling, Stamp attack = סטמפ, as in the official Netflix Hebrew subs (was the office-stamp word). Attack call only; reader prompt exempts attack calls, so no blind round.
+125 | fixed | Stamp Gatling → סטמפ גאטלינג (owner ruling)
