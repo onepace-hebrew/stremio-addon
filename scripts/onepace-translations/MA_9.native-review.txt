@@ -1,4 +1,4 @@
-sha256 6185e1231ca1653ed639d17e24ac8f01079584f197d2a02976267939e91b1d54
+sha256 08eef7bce3d189e07481e0674c7107f2e5ab75f17770581224b80549c19e67bb
 # 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
 50 | fixed | נשאה (written verb, English frame) → היא הייתה הבית שלנו
 100 | fixed | אדון קיזארו (soldiers, -san calque) → אדמירל קיזארו
@@ -9,3 +9,4 @@ sha256 6185e1231ca1653ed639d17e24ac8f01079584f197d2a02976267939e91b1d54
 # round 2: fresh reader, changed lines ±3, 0 flags
 # 2026-11-07: owner ruling, Stamp attack = סטמפ, as in the official Netflix Hebrew subs (was the office-stamp word). Attack call only; reader prompt exempts attack calls, so no blind round.
 125 | fixed | Stamp Gatling → סטמפ גאטלינג (owner ruling)
+# 2026-11-07: attack names set from docs/attack-names.json (owner rulings + Fable 5.1 naturalness review). Attack calls only; the reader prompt exempts attack calls, so no blind round.

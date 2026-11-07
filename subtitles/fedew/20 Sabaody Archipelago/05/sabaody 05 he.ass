@@ -33,7 +33,7 @@ Style: OP11 Lyrics,Guttman Kav,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.56,0:01:44.96,Main,Luffy,0,0,0,,{\fad(150,150)}‫גומי-גומי
+Dialogue: 0,0:01:42.56,0:01:44.96,Main,Luffy,0,0,0,,{\fad(150,150)}‫גומו גומו נו
 Dialogue: 0,0:01:45.30,0:01:47.70,Main,Luffy,0,0,0,,{\fad(150,150)}‫בזוקה!
 Dialogue: 0,0:01:53.98,0:01:54.60,Main,Luffy,0,0,0,,‫יופי.
 Dialogue: 0,0:01:55.10,0:01:56.00,Main,Luffy,0,0,0,,‫אתה בסדר?

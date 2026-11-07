@@ -1,4 +1,4 @@
-sha256 995f1ae4da17e5949dc1f3d967eacf8f27e5baf0ef26be51a4a4adf0e587700e
+sha256 e3f4018bbe525a40453440f1460676dbd7c1cb068286f6b1969e988ec99b4d30
 # 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
 6 | fixed | 'we can confirm' newsroom calque → אושר
 16 | fixed | obituary set phrase הלכת לעולמך → הלכת
@@ -9,3 +9,4 @@ sha256 995f1ae4da17e5949dc1f3d967eacf8f27e5baf0ef26be51a4a4adf0e587700e
 204 | fixed | slogan with wrong-sense בשם → למען האנושות
 # Round 2: fresh reader, changed lines ±3 cues.
 # round 2: fresh reader, changed lines ±3, 0 flags
+# 2026-11-07: attack names set from docs/attack-names.json (owner rulings + Fable 5.1 naturalness review). Attack calls only; the reader prompt exempts attack calls, so no blind round.

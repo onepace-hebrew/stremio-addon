@@ -1,0 +1,1184 @@
+[
+ {
+  "en": "Eisen Whip",
+  "he": "שוט ברזל",
+  "alternatives": [
+   "שוט אייזן"
+  ],
+  "why": "Ohm's iron-cloud whip. Our Skypiea dialogue already calls the cloud ענן ברזל, so Eisen = ברזל (Ru/Tr subs also translate 'iron').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "One, two, Jango",
+  "he": "אחת שתיים ג'אנגו",
+  "alternatives": [],
+  "why": "Exact One Pace human He.ass text (Syrup Village 03/05): Jango's hypnosis count.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Gigot",
+  "he": "ירך",
+  "alternatives": [
+   "ז'יגו"
+  ],
+  "why": "Owner rule 4: Sanji's cuts become Hebrew butchery words (gigot = leg of lamb). Human AP07 says ז'יגו, but that file stays untouched; the AL12 copy sits inside the Hebrew barrage (rows 37/56).",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Mole-Mole Impact",
+  "he": "התנגשות חפרפרת",
+  "alternatives": [
+   "חפרפרת חפרפרת: התנגשות"
+  ],
+  "why": "User is Miss Merry Christmas, not Usopp. Same episode already has התחמקות חפרפרת / דג חפרפרת, so Mole = חפרפרת; It/Ru 'Mole-Mole Impact/Strike'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Molehill Highway",
+  "he": "אוטוסטרדת המחילות",
+  "alternatives": [
+   "אוטוסטרדת החפרפרת"
+  ],
+  "why": "Miss Merry Christmas drags Usopp through her tunnels (Ru 'highway of mole burrows'). Molehill = מחילות, same in rows 5 and 75.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Molehill Junction Four",
+  "he": "צומת המחילות 4",
+  "alternatives": [
+   "צומת חפרפרת מספר 4"
+  ],
+  "why": "Miss Merry Christmas; JA Mogurazuka Yonban Kōsaten = molehill 4th intersection. Digits allowed.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Pound! Pound! Pound! Pound",
+  "he": "חבטה חבטה חבטה חבטה",
+  "alternatives": [
+   "בום בום בום בום"
+  ],
+  "why": "Usopp whacking the mole holes right after 'Usopp Pound' (row 8 = חבטת אוסופ); Ru/Tr translate it as 'strike'. Spaces stand in for the '!'s.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Pound! Pound! Pound! Pound! Pound",
+  "he": "חבטה חבטה חבטה חבטה חבטה",
+  "alternatives": [
+   "בום בום בום בום בום"
+  ],
+  "why": "Same chant as row 6 (Usopp Pound follow-up), five strikes.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Usopp Pound",
+  "he": "חבטת אוסופ",
+  "alternatives": [
+   "מהלומת אוסופ"
+  ],
+  "why": "Usopp's 5-ton hammer blow; Fr 'Usopp Pilon', Ru 'Usopp's strike'. Name-last order like vocab פטיש אוסופ.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Usopp Spell",
+  "he": "קללת אוסופ",
+  "alternatives": [
+   "כישוף אוסופ"
+  ],
+  "why": "He 'curses' the enemy with imagined pain; De 'Usopps Flüche' (curses), Ru 'Usopp's spell'.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "100 Million Volts Vari",
+  "he": "100 מליון וולט וארי",
+  "alternatives": [
+   "100 מליון וולט פריקה"
+  ],
+  "why": "Enel names moves after thunder gods, so Vari stays a name (rule 4). House already writes מליון וולט: וארי and the first card is already 100 מליון וולט (house spelling מליון 306 vs 24).",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "20 Million Volts Vari",
+  "he": "20 מליון וולט וארי",
+  "alternatives": [],
+  "why": "Same pattern as row 10.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "30 Million Volts Hino",
+  "he": "30 מליון וולט הינו",
+  "alternatives": [
+   "30 מליון וולט ציפור רעם"
+  ],
+  "why": "Hino = Iroquois thunder spirit, kept as a name (rule 4); the attack is a lightning bird (De/Ru/Tr 'thunder bird'). Risk: הינו also reads as formal 'is'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "60 Million Volts Thunder Serpent",
+  "he": "60 מליון וולט נחש רעם",
+  "alternatives": [
+   "60 מליון וולט ג'מבול"
+  ],
+  "why": "The English already translates JA Jamboule as Thunder Serpent; Thunder = רעם as in fan-manga Thunder Bagua.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Arm Point: Arm Boost",
+  "he": "נקודת זרוע: חיזוק זרועות",
+  "alternatives": [
+   "נקודת זרוע: חיזוק זרוע"
+  ],
+  "why": "Chopper's Rumble points: house and the same episode's dialogue use נקודת X for Point (נקודת זרוע ×6). Boost = JA kyōka (strengthening) = חיזוק.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Armée de l'Air Gum Shoot",
+  "he": "חיל האוויר: בעיטת גומי",
+  "alternatives": [
+   "ארמה דה ל'אר: גאם שוט"
+  ],
+  "why": "Sanji kicks Luffy as a projectile. Armée de l'Air = Air Force (Ru/Tr translate it); Shoot = Sanji's kick. Not a Gum-Gum move, so no גומו prefix.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Big Chop",
+  "he": "קיצוץ ענק",
+  "alternatives": [
+   "חיתוך ענק"
+  ],
+  "why": "A Bellamy pirate's blade hack (Es 'Gran corte', Ru 'big knife'); Chop = קיצוץ as in fan-manga קיצוץ קיצוץ.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Bombardier Arabesque",
+  "he": "ארבסק מפציץ",
+  "alternatives": [
+   "הפצצת ארבסק"
+  ],
+  "why": "Bon Clay. Arabesque is the Hebrew ballet word (house ברבור ארבסק); Bombardier = מפציץ, same as row 81.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Brain Point: Brain Boost",
+  "he": "נקודת מוח: חיזוק מוח",
+  "alternatives": [],
+  "why": "Chopper; house נקודת מוח; JA zunō kyōka = brain strengthening.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Briar Road",
+  "he": "שביל הקוצים",
+  "alternatives": [
+   "דרך הקוצים"
+  ],
+  "why": "JA Ibara Road = thorn road (Ru 'thorny path'); the whip user's move.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Burn Bazooka",
+  "he": "בזוקה בוערת",
+  "alternatives": [
+   "בזוקת להבות"
+  ],
+  "why": "Wyper; Ru 'fire bazooka', Tr 'burning bazooka'.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Buzzsaw",
+  "he": "גומו גומו נו... מסור עגול",
+  "alternatives": [
+   "מסור עגול"
+  ],
+  "why": "User is Luffy, not Crocodile: a 'Gum-Gum...' card comes before it, and Es reads 'Gomu Gomu no... Marunoko'. Fr/De/It/Ru all say circular saw. Rule 2 full form; the Buzzsaw! card itself gets מסור עגול.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Checkmate",
+  "he": "שח מט",
+  "alternatives": [],
+  "why": "Chess's arrow volley; De/Fr/Ru all say checkmate. Plain Hebrew chess term.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Cinco Fleurs",
+  "he": "5 פרחים",
+  "alternatives": [
+   "חמישה פרחים"
+  ],
+  "why": "Robin; follows the decided Doce Fleur = 12 פרחים (Netflix). Fr/Ru/Tr translate the number too.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Clone-Clone Montage",
+  "he": "שיבוט שיבוט מונטאז'",
+  "alternatives": [
+   "קלון-קלון מונטאז'"
+  ],
+  "why": "Bon Clay. Fruit-name prefix translated fan-manga style (clone = שיבוט, like קיצוץ קיצוץ). But the same episode's dialogue says פרי הקלון-קלון; the owner should pick one.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Connector Set",
+  "he": "מחבר מוכן",
+  "alternatives": [
+   "מחבר נעול"
+  ],
+  "why": "Franky's set-up call before Coup de Vent (Ru 'connector ready', Fr 'connector engaged'). Arguably not an attack.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Cool Shooter",
+  "he": "יריית קור",
+  "alternatives": [
+   "יורה קור"
+  ],
+  "why": "Cool = קור like Nami's כדור קור (house); Es 'ice pistol'; the next line says the gun froze.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Côtelette! Selle! Poitrine",
+  "he": "קוטלט סלה פואטרין",
+  "alternatives": [
+   "קוטלט אוכף חזה"
+  ],
+  "why": "Only exists in the human AP07 He.ass (ours has no copy), so rule 1 keeps the human text. The alternative is the rule-4 butchery set.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Diable Jambe: Extra Haché",
+  "he": "דיאבל ג'אמבה: טחון אקסטרה",
+  "alternatives": [
+   "דיאבל ג'אמבה: אקסטרה אשה"
+  ],
+  "why": "Diable Jambe from vocab. Haché = minced (Ar 'premium mince', Tr 'extra-ground mince'), translated per rule 4. House transliterates the Haché family (אשה); the owner should pick.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Dieciséis Fleurs",
+  "he": "16 פרחים",
+  "alternatives": [
+   "שישה עשר פרחים"
+  ],
+  "why": "Robin; same pattern as Doce Fleur = 12 פרחים (Tr '16 Çiçek').",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Discipline Fly Fishing",
+  "he": "עונש: דיג בחכה",
+  "alternatives": [
+   "משמעת: דיג בזבוב"
+  ],
+  "why": "Paulie punishes a crewman. JA ippon-zuri = pole-and-line fishing (It 'fishing with a rod').",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Drunken Swan Soiree",
+  "he": "נשף הברבור השיכור",
+  "alternatives": [
+   "ריקוד הברבור השיכור"
+  ],
+  "why": "Bon Clay; De 'dance party of the drunken swans'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Eisen Fan",
+  "he": "מניפת ברזל",
+  "alternatives": [
+   "מניפת אייזן"
+  ],
+  "why": "Ohm; Eisen = ברזל as row 0 (Ru 'iron fan').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Eisen Fleuret",
+  "he": "רומח ברזל",
+  "alternatives": [
+   "רומח אייזן"
+  ],
+  "why": "Ohm; fleuret = fencing foil, which Hebrew fencing calls רומח (Ru also renders it 'iron spear').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Eisen Fork",
+  "he": "מזלג ברזל",
+  "alternatives": [
+   "קלשון ברזל"
+  ],
+  "why": "Ohm; Ru 'iron pitchfork', Tr 'iron fork'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Fiddle Whomp",
+  "he": "חבטת כינור",
+  "alternatives": [
+   "פידל באנף"
+  ],
+  "why": "Dalton the bison. JA 'Fiddle Banff' (fiddle + Banff bison park, per the It note); Es 'violin attack'.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Fire Skate",
+  "he": "החלקת אש",
+  "alternatives": [
+   "גלגיליות אש"
+  ],
+  "why": "Two cards Fire.../Skate! (JA Faia.../Sukēto); Ru 'fire skates'. Our first card already says אש...",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Flanchet! Gigot! Selle! Queue",
+  "he": "בטן ירך אוכף זנב",
+  "alternatives": [
+   "פלנשה ז'יגו סלה קה"
+  ],
+  "why": "Rule 4 butchery set for Sanji vs Mr. 2 (AL12): Collier=צוואר (vocab), Flanchet=בטן, Jarret=שוק, Queue=זנב (fan-manga ch.1034 words), Quasi=שייטל (rump), Tendron=חזה (breast/brisket), Cuisseau=ירכה (fan-manga leg/round word), Gigot=ירך, Selle=אוכף. One word per '!' so the cards split cleanly.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Flash Dial",
+  "he": "דיאל הבזק",
+  "alternatives": [],
+  "why": "Usopp's Flash Dial; Dial = דיאל (house דיאל חלב), Ar 'flash dial'.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Flashily Reassemble",
+  "he": "התאחדות בוהקת",
+  "alternatives": [],
+  "why": "Exact One Pace human He.ass text (Cover Stories 01); matches the vocab Part-Part... Flashily Reassemble.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Franken-Sword V-for-Victory Flash",
+  "he": "חרב פרנקן: הבזק וי הניצחון",
+  "alternatives": [
+   "חרב פרנקן: הבזק הניצחון"
+  ],
+  "why": "Franky. V can't stay in Latin letters, so וי (the V/check sign); Fr 'Flash en V de la victoire'.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Frites Assorties",
+  "he": "מטוגנים מעורבים",
+  "alternatives": [
+   "מבחר מטוגנים"
+  ],
+  "why": "Sanji; JA Furitto Asoruti = assorted fry (Ru 'fried assortment'). Keeps the English card order Frites.../Assorties!",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Gear Fourth: Thunder Bagua",
+  "he": "גיר רביעי: רעם שמונת הסמלים",
+  "alternatives": [
+   "גיר רביעי: גומו גומו נו... רעם שמונת הסמלים"
+  ],
+  "why": "Gear Fourth = גיר רביעי (vocab); Thunder Bagua from the fan manga (רעם... שמונת... הסמלים). The shout has no Gum-Gum card, so no prefix; the owner should confirm.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "General Cannon",
+  "he": "תותח גנרל",
+  "alternatives": [
+   "תותח הגנרל"
+  ],
+  "why": "Franky; General = גנרל (vocab גנרל פרנקי, Netflix). Cards General.../Cannon!",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "General Launcher",
+  "he": "משגר גנרל",
+  "alternatives": [
+   "משגר הגנרל"
+  ],
+  "why": "Franky; same pattern as row 43 (Tr 'rocket launcher').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Ground Death",
+  "he": "מות האדמה",
+  "alternatives": [
+   "אדמת מוות"
+  ],
+  "why": "Crocodile: 'everything connected to this hand will shrivel up and die'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Ground Secco",
+  "he": "ייבוש האדמה",
+  "alternatives": [
+   "אדמה יבשה"
+  ],
+  "why": "Crocodile dries the ground ('The grass is drying up!'); secco = dry, translated per rule 4 (Tr 'Drying').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Guard Point: Guard Boost",
+  "he": "נקודת שמירה: חיזוק הגנה",
+  "alternatives": [
+   "נקודת הגנה: חיזוק הגנה"
+  ],
+  "why": "House already says נקודת שמירה ×3 for Guard Point; JA bōgyo kyōka = defense strengthening.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Gum-Gum Bursting Cactus Star",
+  "he": null,
+  "alternatives": [
+   "מתקפה מיוחדת: כוכב קקטוס מתפוצץ",
+   "גומו גומו נו... גאטלינג"
+  ],
+  "why": "Two simultaneous attacks merged (WS05 11:56-12:01): Usopp's 'Lethal... ...Bursting Cactus Star!' and Luffy's 'Gum-Gum... Gatling!'. The alternatives give each piece.",
+  "confidence": "high",
+  "verdict": "split"
+ },
+ {
+  "en": "Gum-Gum Crossbow",
+  "he": "גומו גומו נו... קשת מוצלבת",
+  "alternatives": [
+   "גומו גומו נו... רובה קשת"
+  ],
+  "why": "Rule 2. JA 'Bowgun' = crossbow (Ru/Tr 'arbalet').",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Gum-Gum Giant Axe",
+  "he": "גומו גומו נו... גרזן ענק",
+  "alternatives": [],
+  "why": "Rule 2. Giant = ענק as in vocab Giant Hammer/Scythe; Axe = גרזן as in vocab Battle Axe.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Gum-Gum Hook",
+  "he": "גומו גומו נו... קרס",
+  "alternatives": [
+   "גומו גומו נו... וו"
+  ],
+  "why": "Luffy hooks on to turn the snake (Fr 'hameçon', Ru/Tr 'hook'). קרס is a shoutable hook.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Happiness Punch",
+  "he": "אגרוף האושר",
+  "alternatives": [],
+  "why": "Nami; Es/Tr 'punch of happiness'.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Havoc Sonar",
+  "he": "סונאר הרס",
+  "alternatives": [
+   "סונאר ההרס"
+  ],
+  "why": "Shoujou's sound attack; Ar 'sonar of destruction'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Heavy Point: Weight Boost",
+  "he": "נקודת כובד: חיזוק שרירים",
+  "alternatives": [
+   "נקודת כובד: הגברת משקל"
+  ],
+  "why": "House נקודת כובד; JA kinryoku kyōka = muscle strengthening ('Weight Boost' in English).",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Hellfire Edge",
+  "he": "להב הגיהנום",
+  "alternatives": [
+   "להב אש הגיהנום"
+  ],
+  "why": "Holdem's flaming trick sword; house spelling גיהנום.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Jarret! Collier! Quasi! Flanchet! Gigot! Selle",
+  "he": "שוק צוואר שייטל בטן ירך אוכף",
+  "alternatives": [
+   "ז'ארה קולייר קזי פלנשה ז'יגו סלה"
+  ],
+  "why": "Rule 4 butchery set for Sanji vs Mr. 2 (AL12): Collier=צוואר (vocab), Flanchet=בטן, Jarret=שוק, Queue=זנב (fan-manga ch.1034 words), Quasi=שייטל (rump), Tendron=חזה (breast/brisket), Cuisseau=ירכה (fan-manga leg/round word), Gigot=ירך, Selle=אוכף. One word per '!' so the cards split cleanly.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Jerry Aurora Flicker Jab",
+  "he": "ג'רי: ג'אב זוהר מהבהב",
+  "alternatives": [
+   "ג'אב הזוהר המהבהב של ג'רי"
+  ],
+  "why": "Boxer Jerry; three cards Jerry.../Aurora Flicker.../Jab!. ג'אב is the Hebrew boxing word; aurora = זוהר.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Joue Shoot",
+  "he": "בעיטת לחי",
+  "alternatives": [
+   "ז'ואה שוט"
+  ],
+  "why": "Sanji's kick to Mr. 2's cheek (Ru 'shot to the cheek'). Rule 4: joue = לחי (also an Israeli beef cut).",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Jumping Point: Jumping Boost",
+  "he": "נקודת קפיצה: חיזוק קפיצה",
+  "alternatives": [],
+  "why": "Chopper; house נקודת קפיצה ×4.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Kick Pointe",
+  "he": "בעיטת פואנט",
+  "alternatives": [],
+  "why": "Bon Clay's ballet kick; פואנט is the Hebrew ballet word (It 'Calcio Pointe').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Kiten",
+  "he": "קיטן",
+  "alternatives": [
+   "חיית ברק"
+  ],
+  "why": "Enel's thunder-god name, kept per rule 4 (De 'Blitzwolf' and Ru 'thunder beast' translate it instead).",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Lethal Gatling",
+  "he": null,
+  "alternatives": [
+   "מתקפה מיוחדת: כוכב קקטוס מתפוצץ",
+   "גומו גומו נו... גאטלינג"
+  ],
+  "why": "Merged by mistake: Usopp's 'Lethal...' card + Luffy's 'Gatling!' card. Same WS05 moment as row 48.",
+  "confidence": "high",
+  "verdict": "split"
+ },
+ {
+  "en": "Lethal Pepper Star",
+  "he": "מתקפה מיוחדת: כוכב פלפל",
+  "alternatives": [
+   "כוכב פלפל קטלני"
+  ],
+  "why": "Lethal = fan-manga מתקפה מיוחדת: (vocab Lethal Exploding Star); Pepper Star = כוכב פלפל (vocab, Netflix).",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Lethal Red Serpent Star",
+  "he": "מתקפה מיוחדת: כוכב נחש אדום",
+  "alternatives": [
+   "כוכב נחש אדום קטלני"
+  ],
+  "why": "Lethal per the fan manga; Usopp's red signal flare. Our 'Lethal...' card currently says קטלני...",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Lethal Shuriken Meteor Shower",
+  "he": "מתקפה מיוחדת: מטר שוריקנים",
+  "alternatives": [
+   "מתקפה מיוחדת: מטר כוכבי נינג'ה"
+  ],
+  "why": "Lethal per the fan manga; Meteor Shower = מטר; shuriken is a known loanword.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Lethal Tabasco Star",
+  "he": "מתקפה מיוחדת: כוכב טבסקו",
+  "alternatives": [
+   "כוכב טבסקו מיוחד"
+  ],
+  "why": "Fan-manga Lethal pattern. The vocab also has Netflix 'Special Tabasco Star' = כוכב טבסקו מיוחד (same move); the owner should pick one pattern.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Lethal Uso-pper Hammer Comet",
+  "he": "מתקפה מיוחדת: שביט פטיש אוסו-פר",
+  "alternatives": [
+   "מתקפה מיוחדת: שביט פטיש אוסופ"
+  ],
+  "why": "Usopp+Chopper combo ('Uso-pper' pun; 'The rest is up to you, Chopper!'); Usopp Hammer = פטיש אוסופ (vocab).",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Marimo's Snow-Melting Arrow",
+  "he": "חץ מפשיר השלג של מארימו",
+  "alternatives": [
+   "חץ הפשרת השלג של מארימו"
+  ],
+  "why": "Chess+Kuromarimo; follows the house pattern הפתעת מארימו (De 'Marimo's snow-melt arrow').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Marimo's Super Surprise Quattro Axe Snow-Splitting Blade",
+  "he": "סופר הפתעת מארימו, גרזן קוואטרו: להב מפצל שלג",
+  "alternatives": [
+   "הפתעת העל של מארימו, גרזן קוואטרו: להב מפצל שלג"
+  ],
+  "why": "Three cards. Snow-Splitting = מפצל שלג (Netflix Snow Splitter); Quattro kept as a foreign word (rule 4).",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Marimo's Super Surprise Quattro Hammer",
+  "he": "סופר הפתעת מארימו: פטיש קוואטרו",
+  "alternatives": [
+   "סופר הפתעת מארימו: פטיש מרובע"
+  ],
+  "why": "Same naming as row 69 (De 'Super Überraschungsmarimo: Quattro Hammer').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Mascara Boomerang",
+  "he": "בומרנג מסקרה",
+  "alternatives": [],
+  "why": "Bon Clay; both words are everyday Hebrew loanwords.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Mil Fleurs: Gigantesco Mano Spank",
+  "he": "אלף פרחים: סטירת יד ענקית",
+  "alternatives": [
+   "1000 פרחים: סטירת יד ענקית"
+  ],
+  "why": "Robin. Fleur numbers translated like Doce Fleur = 12 פרחים; Tr 'thousand flowers: giant hand slap'. Our first card currently says מיל פלורס.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Milky Arrows",
+  "he": "חיצי חלב",
+  "alternatives": [
+   "חיצי ענן"
+  ],
+  "why": "Milky = cloud milk, matching vocab ענני חלב (Ru/Tr 'milk arrows').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Mole Banana! Mole Banana! Banana! Banana! Banana",
+  "he": "חפרפרת בננה חפרפרת בננה בננה בננה בננה",
+  "alternatives": [
+   "בננת חפרפרת בננת חפרפרת בננה בננה בננה"
+  ],
+  "why": "Miss Merry Christmas. House already has Mole Banana = חפרפרת בננה; spaces stand in for the '!'s.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Molehill Smoke Star",
+  "he": "כוכב עשן למחילות",
+  "alternatives": [
+   "כוכב עשן לחפרפרת"
+  ],
+  "why": "Usopp ('Lethal... Molehill... Smoke Star!') smokes out the mole's tunnels; Molehill = מחילות as in rows 4-5.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Munch-Munch Shock: Tongue Cannon",
+  "he": "הלם לעיסה-לעיסה: תותח לשון",
+  "alternatives": [
+   "מאנץ' מאנץ' שוק: תותח לשון"
+  ],
+  "why": "The same episode already says מפעל הלעיסה-לעיסה and the house has Munch-Munch Shock = הלם לעיסה-לעיסה. The vocab fruit name is Netflix's פרי המאנץ' מאנץ'; the owner should pick.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "New Year's Dragon Twister",
+  "he": null,
+  "alternatives": [
+   "ניגוח ראש השנה",
+   "מערבולת דרקון"
+  ],
+  "why": "Merged by mistake: Hatchan's 'New Year's...' card (human ניגוח...) + Zoro's 'Dragon Twister!' (AP07). Both are already in vocab.",
+  "confidence": "high",
+  "verdict": "split"
+ },
+ {
+  "en": "Octoshoes",
+  "he": "נעלי תמנון",
+  "alternatives": [],
+  "why": "JA Okutopakutsu = octopus shoes (Ar the same). Franky mutters it while sneaking, so it is likely a gadget, not an attack.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Ojos Fleurs",
+  "he": "פריחת עיניים",
+  "alternatives": [
+   "עיניים פורחות"
+  ],
+  "why": "Robin sprouts eyes to scout; Tr 'eyes from flowers'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Okama Chop",
+  "he": "מכת אוקמה",
+  "alternatives": [
+   "קיצוץ אוקמה"
+  ],
+  "why": "Bon Clay; house spelling אוקמה; De 'Okama-Hieb' (blow).",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Okama Kenpo: Bombardier",
+  "he": "קמפו אוקמה: מפציץ",
+  "alternatives": [
+   "קמפו אוקמה: בומברדייה"
+  ],
+  "why": "The first card is already קמפו אוקמה: (house); Bombardier = מפציץ.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Omnidirectional Snow Splitter",
+  "he": "מפצל שלג לכל הכיוונים",
+  "alternatives": [
+   "מפצל שלג רב כיווני"
+  ],
+  "why": "Netflix Snow Splitter = מפצל שלג; De 'eight-direction snow splitter'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Oni Dragon Twister",
+  "he": null,
+  "alternatives": [
+   "חיתוך השד",
+   "מערבולת דרקון"
+  ],
+  "why": "Merged by mistake: Zoro's 'Oni... Giri' (cut by Luffy's Bazooka) + a later 'Dragon Twister!' (WP02). Both are in vocab.",
+  "confidence": "high",
+  "verdict": "split"
+ },
+ {
+  "en": "Part-Part Cannon",
+  "he": "צ'ופ-צ'ופ תותח",
+  "alternatives": [],
+  "why": "Human He.ass and vocab Chop-Chop Cannon (same JA Bara Bara Hō).",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Phoenix Pyreapple",
+  "he": "עוף החול: אננס לוהט",
+  "alternatives": [
+   "אננס עוף החול"
+  ],
+  "why": "Marco's pineapple pun (De 'Phönix-Flamanas'); Phoenix = עוף החול (house אות עוף החול).",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Pound! Pound! Pound! Pound! Pound! Pound",
+  "he": "חבטה חבטה חבטה חבטה חבטה חבטה",
+  "alternatives": [
+   "בום בום בום בום בום בום"
+  ],
+  "why": "Same chant as rows 6-7, six strikes.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Queue! Jarret! Collier! Quasi",
+  "he": "זנב שוק צוואר שייטל",
+  "alternatives": [
+   "קה ז'ארה קולייר קזי"
+  ],
+  "why": "Rule 4 butchery set for Sanji vs Mr. 2 (AL12): Collier=צוואר (vocab), Flanchet=בטן, Jarret=שוק, Queue=זנב (fan-manga ch.1034 words), Quasi=שייטל (rump), Tendron=חזה (breast/brisket), Cuisseau=ירכה (fan-manga leg/round word), Gigot=ירך, Selle=אוכף. One word per '!' so the cards split cleanly.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Right-Angle Flash Bone Soir",
+  "he": "ברק הזווית הישרה: בון סואר",
+  "alternatives": [
+   "הבזק הזווית הישרה: בון סואר"
+  ],
+  "why": "T-Bone. The first card already says ברק הזווית הישרה; Bone Soir is a Bonsoir pun, so it is transliterated (JA Bōn Sowāru, Fr 'Bone-soir').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Ripe-Ripe Seduction Technique",
+  "he": "אמנות הפיתוי הבשל-בשל",
+  "alternatives": [
+   "טכניקת הפיתוי הבשל-בשל"
+  ],
+  "why": "Wano 49 already renders the same move ('Ripe-Ripe Enticement Arts') as אמנות הפיתוי הבשל-בשל.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Roar! Lion Fire",
+  "he": "שאג, אש האריה",
+  "alternatives": [
+   "שאגת אש האריה"
+  ],
+  "why": "Holdem; JA Hoero! Shishi no Hi = Roar! Lion's fire (De/Fr/Tr the same).",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Rope Action",
+  "he": "פעולת חבל",
+  "alternatives": [
+   "טכניקת חבל"
+  ],
+  "why": "Paulie; the house already uses פעולת חבל ×5.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Rope Action: Bowline Knot",
+  "he": "פעולת חבל: קשר באולין",
+  "alternatives": [
+   "פעולת חבל: קשר הצלה"
+  ],
+  "why": "Bowline = קשר באולין (sailing and scouting term); Fr 'nœud de chaise'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Round Turn",
+  "he": "כריכה מלאה",
+  "alternatives": [
+   "לולאה מלאה"
+  ],
+  "why": "Paulie wraps rope round a yagara bull; Ar 'wrapping the rope'.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Screw Drop Kick",
+  "he": "בעיטה מעופפת סיבובית",
+  "alternatives": [
+   "בעיטה מעופפת בורגית"
+  ],
+  "why": "Jerry drops the boxing ('You're not even boxing anymore!'); Ar 'spiral kick'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Seis Fleurs",
+  "he": "6 פרחים",
+  "alternatives": [
+   "שישה פרחים"
+  ],
+  "why": "Robin; same pattern as Doce Fleur = 12 פרחים (Ru/Tr 'six flowers').",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Selle",
+  "he": "אוכף",
+  "alternatives": [
+   "סלה"
+  ],
+  "why": "Sanji AL12 barrage. Rule 4 butchery: selle = saddle (as in אוכף טלה). Human AP07 has סלה.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Seven-Twenty-Pound Phoenix",
+  "he": "עוף החול 720 פאונד",
+  "alternatives": [
+   "פניקס 720 פאונד"
+  ],
+  "why": "Zoro (Pound Hō pun; JA nanahyaku-nijū pound hō). Digits allowed. Should match whatever the 36/108 Pound rows get.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Shango",
+  "he": "שאנגו",
+  "alternatives": [],
+  "why": "Enel's thunder-god name (Yoruba Shango), kept per rule 4.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Shotgun",
+  "he": "גומו גומו נו... רובה ציד",
+  "alternatives": [
+   "רובה ציד"
+  ],
+  "why": "Luffy's Gum-Gum Shotgun (Es 'Gomu Gomu no... y... Shotgun', Ru 'shotgun'). The card is a bare 'Shotgun!' after 'Gum-Gum Pistol!'; if there is no prefix card, use רובה ציד alone.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Slim Wapol",
+  "he": "וואפול רזה",
+  "alternatives": [],
+  "why": "De/Ru/Tr 'slim/thin Wapol'; house spelling וואפול.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Snow Powder Makeup",
+  "he": "איפור שלג אבקה",
+  "alternatives": [
+   "איפור שלג"
+  ],
+  "why": "Wapol's men camouflage in the snow ('The white disguise'); powder snow = שלג אבקה (De 'Pulverschnee-Make-up').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Strangle",
+  "he": "חניקה",
+  "alternatives": [],
+  "why": "Robin's Treinta Fleurs: Strangle (Fr/Ru/Tr 'strangling'); matches the house one-word finishers (סטירה, פיתול).",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Surprise Balls Ball Dragon",
+  "he": "כדורי הפתעה: דרקון כדורים",
+  "alternatives": [],
+  "why": "Satori; the first card is already כדורי הפתעה (house); De 'Balldrache'.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Surprise Billiard",
+  "he": "ביליארד הפתעה",
+  "alternatives": [],
+  "why": "Satori (De/Es 'surprise billiards').",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Swan Dash",
+  "he": "זינוק ברבור",
+  "alternatives": [
+   "דהירת ברבור"
+  ],
+  "why": "Bon Clay; Ru 'swan dash', Tr 'swan lunge'.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Tainted Meatball",
+  "he": "קציצה עבשה",
+  "alternatives": [],
+  "why": "One Pace human He.ass (Baratie 02), also the onepace-human source.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Tendron! Quasi! Collier! Flanchet! Cuisseau",
+  "he": "חזה שייטל צוואר בטן ירכה",
+  "alternatives": [
+   "טנדרון קזי קולייר פלנשה קויסו"
+  ],
+  "why": "Rule 4 butchery set for Sanji vs Mr. 2 (AL12): Collier=צוואר (vocab), Flanchet=בטן, Jarret=שוק, Queue=זנב (fan-manga ch.1034 words), Quasi=שייטל (rump), Tendron=חזה (breast/brisket), Cuisseau=ירכה (fan-manga leg/round word), Gigot=ירך, Selle=אוכף. One word per '!' so the cards split cleanly. The English card has a line break after Collier!.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Tendron! Quasi! Collier! Flanchet! Cuisseau! Jarret",
+  "he": "חזה שייטל צוואר בטן ירכה שוק",
+  "alternatives": [
+   "טנדרון קזי קולייר פלנשה קויסו ז'ארה"
+  ],
+  "why": "Rule 4 butchery set for Sanji vs Mr. 2 (AL12): Collier=צוואר (vocab), Flanchet=בטן, Jarret=שוק, Queue=זנב (fan-manga ch.1034 words), Quasi=שייטל (rump), Tendron=חזה (breast/brisket), Cuisseau=ירכה (fan-manga leg/round word), Gigot=ירך, Selle=אוכף. One word per '!' so the cards split cleanly.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "The Kingdom Bazooka",
+  "he": null,
+  "alternatives": [
+   "גומו גומו נו... בזוקה"
+  ],
+  "why": "Not an attack: narration ('The Kingdom of Drum... is about to fall!') merged with Luffy's 'Bazooka!', which is Gum-Gum Bazooka (vocab).",
+  "confidence": "high",
+  "verdict": "not-an-attack"
+ },
+ {
+  "en": "Triple Exploding Stars",
+  "he": "שלושה כוכבי אבק שריפה",
+  "alternatives": [
+   "כוכב אבק שריפה משולש"
+  ],
+  "why": "Exploding Star = כוכב אבק שריפה (vocab/fan manga, glossary Gunpowder Star).",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Two-Sword Style: Eisen Back",
+  "he": null,
+  "alternatives": [
+   "סגנון שתי חרבות: גל הנץ",
+   "מגן ברזל"
+  ],
+  "why": "Merged by mistake: Zoro's 'Two-Sword Style: Hawk... ...Surge!' (house גל הנץ) was cut by Ohm's 'Eisen Back!' (Ru 'iron defense'; next line 'An iron wall!').",
+  "confidence": "high",
+  "verdict": "split"
+ },
+ {
+  "en": "Two-Sword Style: Otoro",
+  "he": "סגנון שתי חרבות: אוטורו",
+  "alternatives": [
+   "סגנון שתי חרבות: טונה שמנה"
+  ],
+  "why": "Two-Sword Style from vocab; Otoro = tuna-belly sushi name, transliterated (rule 4; Es 'Outourou').",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Ulti-Meteor",
+  "he": "אולטי-מטאור",
+  "alternatives": [
+   "מטאור אולטי"
+  ],
+  "why": "Ulti's headbutt, a pun on her Ulti-Mortar (house אולטי מורטר); מטאור is a Hebrew word.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Walk Point: Limb Boost",
+  "he": "נקודת הליכה: חיזוק רגליים",
+  "alternatives": [
+   "נקודת הליכה: חיזוק גפיים"
+  ],
+  "why": "Chopper; house נקודת הליכה; JA kyakuryoku kyōka = leg strengthening.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Water Luffy",
+  "he": "לופי מים",
+  "alternatives": [],
+  "why": "The same episode's dialogue already says 'לופי מים'; Ru/Tr 'Water Luffy'.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Water-Water Pistol",
+  "he": "אקדח מים-מים",
+  "alternatives": [
+   "מים מים נו אקדח"
+  ],
+  "why": "Luffy's water parody of Gum-Gum Pistol (Es 'Mizu Mizu no...'); אקדח מים = water pistol. Not a Gum-Gum move, so no '...' (rule 5).",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Advanced Armament Haki: internal destruction (Ryuo)",
+  "he": "ריואו (פיצוץ פנימי)",
+  "alternatives": [
+   "ריואו (הרס מבפנים)"
+  ],
+  "why": "Rule 3 Haki format; Hebrew Wikipedia gives פיצוץ פנימי (הרס מבפנים). The vocab sibling row writes ריואו with niqqud and should drop it.",
+  "confidence": "medium",
+  "verdict": "ok"
+ },
+ {
+  "en": "Grandpa Fist (G-Ken)",
+  "he": "ג'י-קן",
+  "alternatives": [
+   "ג'יו-קן",
+   "אגרוף סבא"
+  ],
+  "why": "JA Jī Ken. Hebrew Wikipedia writes ג'יו-קן, which looks like a misspelling of Jī. Never called in our subs.",
+  "confidence": "low",
+  "verdict": "ok"
+ },
+ {
+  "en": "Kaido: Tornado / Dragon twister (?)",
+  "he": "מערבולת הרס הדרקון",
+  "alternatives": [],
+  "why": "Fan manga ch. 1037 (top precedence), with '!!!' stripped.",
+  "confidence": "high",
+  "verdict": "ok"
+ },
+ {
+  "en": "Prince Grus's clay-type fruit (name unconfirmed)",
+  "he": null,
+  "alternatives": [
+   "פרי השטן השולט בחימר"
+  ],
+  "why": "Not an attack: a description of an unnamed Devil Fruit (Hebrew Wikipedia). Never called.",
+  "confidence": "high",
+  "verdict": "not-an-attack"
+ },
+ {
+  "en": "Snow Splitter",
+  "he": "מפצל שלג",
+  "alternatives": [],
+  "why": "Netflix S02E08 Hebrew.",
+  "confidence": "high",
+  "verdict": "ok"
+ }
+]

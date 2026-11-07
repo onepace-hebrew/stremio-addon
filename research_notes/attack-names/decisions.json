@@ -1,0 +1,262 @@
+{
+ "Strong Right": {
+  "he": "ימנית חזקה",
+  "why": "ימין is masculine, so ימין חזקה is a gender error; ימנית חזקה is the boxing idiom a commentator shouts for a hard right (it is a rocket punch).",
+  "by": "fable-advice"
+ },
+ "Millet Dumpling Star": {
+  "he": "כוכב קיבי דנגו! קיבי דנגו",
+  "why": "Fans know the Wano item as קיבי דנגו and the existing policy row Lethal Millet Dumpling Star already says כוכב קיבי דנגו; כופתת דוחן is clunky to shout. If the owner wants the Wano dialogue word inste",
+  "by": "fable-advice"
+ },
+ "Three-Sword Style": {
+  "he": "סגנון שלוש החרבות",
+  "why": "חרב is feminine, so שלושת is a gender error (common in speech, wrong in edited subs); שלוש also matches the sibling rows שתי חרבות and חרב אחת. Drop the hyphen.",
+  "by": "fable-advice"
+ },
+ "10,000 Kilo Press": {
+  "he": "מכבש 10,000 קילו! גיליוטינת 10,000 קילו",
+  "why": "Press=מכבש (a 10,000-kilo steamroller) is natural; Guillotine=גיליוטינה. If the Guillotine card carries Lethal, prefix מתקפה מיוחדת: like Usopp.",
+  "by": "fable-advice"
+ },
+ "Bubble Master: Soap Sheep": {
+  "he": "אמנית הבועות: כבשת סבון! ענן כבשים: בועות מרגיעות",
+  "why": "Kalifa is a woman announcing herself, so אמנית not אמן; second move as proposed.",
+  "by": "fable-advice"
+ },
+ "Franky Radical Beam": {
+  "he": "קרן פרנקי הרדיקלית",
+  "why": "קרן פרנקי is definite (proper name), so the adjective needs the article: קרן פרנקי הרדיקלית. The cards split Franky... / Radical... / Beam, so the pieces are פרנקי... / קרן... / רדיקלית.",
+  "by": "fable-advice"
+ },
+ "Candy Wall": {
+  "he": "קיר ממתקים",
+  "why": "User is Perospero (Whole Cake Island), not Mr. 3, so Candy is correct; our WCI dialogue says ממתק/ממתקים about 3 to 1 over סוכרייה, and סוכרייה as a material sounds odd. Wall=קיר like Netflix קיר נר.",
+  "by": "fable-advice"
+ },
+ "Cannon Firing": {
+  "he": "תותחים, אש",
+  "why": "The Israeli command is תותחים, אש; ירי תותח is a noun phrase nobody shouts. Keeps English card order (Cannon... / Firing).",
+  "by": "fable-advice"
+ },
+ "Fishman Karate": {
+  "he": "קראטה אנשי הדג",
+  "why": "Netflix and Wikipedia both say אנשי הדג, and rows 135/136 already use it; drop the hyphen so the base is one form everywhere.",
+  "by": "fable-advice"
+ },
+ "Punk Gibson": {
+  "he": "פאנק גיבסון! סלאם גיבסון",
+  "why": "Both loanwords; as proposed.",
+  "by": "fable-advice"
+ },
+ "Shishi Kebab": {
+  "he": "שישליק",
+  "why": "שיש קבב means nothing in Hebrew (שיש is marble); שישליק is the Israeli word for shish kebab and even keeps the shishi sound. Use it for the bare Kebab card too.",
+  "by": "fable-advice"
+ },
+ "Yasakani Sacred Jewel": {
+  "he": "תכשיט יאסקאני הקדוש",
+  "why": "Parallel to מראת יאטה הקדושה (row 69); the comma version reads like a sentence, not a name.",
+  "by": "fable-advice"
+ },
+ "Age Skewer": {
+  "he": "שיפוד שנים",
+  "why": "שיפוד גיל reads as 'Gil's skewer' (גיל is a common first name); שנים (years) is what Toshi means and sounds like an attack.",
+  "by": "fable-advice"
+ },
+ "Candy Maiden": {
+  "he": "עלמת הממתקים",
+  "why": "Perospero; Iron Maiden is עלמת הברזל in Hebrew, so עלמת הממתקים keeps the pun; ממתקים as in rows 73/126.",
+  "by": "fable-advice"
+ },
+ "Candy Wave": {
+  "he": "גל ממתקים",
+  "why": "Perospero; ממתקים like the WCI dialogue and rows 73/125.",
+  "by": "fable-advice"
+ },
+ "Flame Commandment": {
+  "he": "צו הלהבה! צו הלהבה הגדול",
+  "why": "מצווה is a Jewish religious word and sounds comic in a fight; צו (decree) is punchy and neutral and still carries 'commandment'.",
+  "by": "fable-advice"
+ },
+ "Garb-Garb Technique": {
+  "he": "טכניקת בגד-בגד! בגד-בגד: חברת ההלבשה של קין",
+  "why": "Fruit double as in דלת-דלת; the shop gag reads better with the double first.",
+  "by": "fable-advice"
+ },
+ "Max 200 Million Volts: Vari": {
+  "he": "מיליון וולט: וארי! מקסימום 200 מיליון וולט: וארי",
+  "why": "Spelling מיליון; both pieces as proposed.",
+  "by": "fable-advice"
+ },
+ "Mole-Mole Impact": {
+  "he": "מכת חפרפרת",
+  "why": "User is Miss Merry Christmas; התנגשות is a traffic-collision word nobody shouts, מכה is; single חפרפרת matches her other moves in the episode.",
+  "by": "fable-advice"
+ },
+ "Pound! Pound! Pound! Pound": {
+  "he": "בום בום בום בום",
+  "why": "Nobody chants the noun חבטה; בום is what an Israeli kid shouts whacking mole holes.",
+  "by": "fable-advice"
+ },
+ "Pound! Pound! Pound! Pound! Pound": {
+  "he": "בום בום בום בום בום",
+  "why": "Same as the four-strike chant.",
+  "by": "fable-advice"
+ },
+ "Shooting Star Soba Kick": {
+  "he": "בעיטת סובה: כוכב נופל",
+  "why": "Three bare nouns in a row do not parse; the colon makes it 'Soba Kick: Shooting Star' like the other X: Y names.",
+  "by": "fable-advice"
+ },
+ "Shrouds and Ratline Knot": {
+  "he": "קשר סולם החבלים",
+  "why": "Ratlines are literally a rope ladder (סולם חבלים); 'masts and ropes knot' is vague. Sailors' word for shrouds (ונטות) is too obscure.",
+  "by": "fable-advice"
+ },
+ "Tenfold Axe": {
+  "he": "גרזן כפול עשר",
+  "why": "כפול עשר is how Israelis actually say 'x10' out loud; פי עשרה is textbook.",
+  "by": "fable-advice"
+ },
+ "Usopp Aah-eeh-aaaaaah": {
+  "he": "אוסופ אה-אי-אאאאאה",
+  "why": "It is the Tarzan yell; the current string drops the 'eeh' (אי) and the Hebrew Tarzan yell is written אה-אי-אה.",
+  "by": "fable-advice"
+ },
+ "Big Chop": {
+  "he": "חיתוך ענק",
+  "why": "קיצוץ is kitchen mincing and is already reserved for Sanji's Haché; a blade hack is חיתוך.",
+  "by": "fable-advice"
+ },
+ "Cien Fleur: Wing": {
+  "he": "100 פרחים: כנפיים",
+  "why": "Robin sprouts a pair; Hebrew says כנפיים, a single כנף sounds like one wing.",
+  "by": "fable-advice"
+ },
+ "Clone-Clone Montage": {
+  "he": "שיבוט-שיבוט מונטאז'",
+  "why": "Hyphenate like צ'ופ-צ'ופ and בשל-בשל. Prefer שיבוט over the dialogue's קלון-קלון: קלון means disgrace, so פרי הקלון-קלון reads 'the Shame-Shame fruit'; fix the dialogue line to match.",
+  "by": "fable-advice"
+ },
+ "General Cannon": {
+  "he": "תותח הגנרל",
+  "why": "Bare תותח גנרל reads like an adjective ('general-purpose cannon'); 'the General's cannon' is the natural Hebrew possessive for the General Franky mech.",
+  "by": "fable-advice"
+ },
+ "General Launcher": {
+  "he": "משגר הגנרל",
+  "why": "Same fix as General Cannon.",
+  "by": "fable-advice"
+ },
+ "Guard Point: Guard Boost": {
+  "he": "נקודת הגנה: חיזוק הגנה",
+  "why": "נקודת שמירה means a guard post (security shift) to Israelis; הגנה is the fighting word and the boost half already uses it, so this also removes the שמירה/הגנה mismatch. Touch the three house lines.",
+  "by": "fable-advice"
+ },
+ "Lethal Green Star: Devil": {
+  "he": "מתקפה מיוחדת: כוכב ירוק: שטן",
+  "why": "כוכב ירוק שטן reads 'green devil star'; the Pop Green sub-name needs its own colon like the Platanus row.",
+  "by": "fable-advice"
+ },
+ "Lethal Green Star: Platanus Shuriken": {
+  "he": "מתקפה מיוחדת: כוכב ירוק: פלאטאנוס שוריקן",
+  "why": "Hygiene: stray space before the colon. Optional: platanus is דולב in Hebrew (שוריקן דולב) if the owner wants plant names translated.",
+  "by": "fable-advice"
+ },
+ "Lethal Six Chain Viper Star": {
+  "he": "מתקפה מיוחדת: כוכב צפע כפול שש",
+  "why": "כוכב הצפע שש החוליות is broken Hebrew (noun pile with no linking word). Six-chain = six shots in a row; כפול שש is how kids say x6 and it shouts well.",
+  "by": "fable-advice"
+ },
+ "Lethal Uso-pper Hammer Comet": {
+  "he": "מתקפה מיוחדת: שביט פטיש אוסוצ'ופר",
+  "why": "The pun is Usopp+Chopper; אוסו פר is two meaningless words, while אוסוצ'ופר lands instantly for any Hebrew viewer.",
+  "by": "fable-advice"
+ },
+ "Mole Banana! Mole Banana! Banana! Banana! Banana": {
+  "he": "חפרפרת בננה! חפרפרת בננה! בננה! בננה! בננה",
+  "why": "Inner exclamation marks are already used in the Sanji butcher rows; without them the chant is an unreadable run-on.",
+  "by": "fable-advice"
+ },
+ "Pound! Pound! Pound! Pound! Pound! Pound": {
+  "he": "חבטה! חבטה! חבטה! חבטה! חבטה! חבטה",
+  "why": "Same chant word as Usopp Pound, with the inner exclamation marks the other chant rows use.",
+  "by": "fable-advice"
+ },
+ "Ripe-Ripe Seduction Technique": {
+  "he": "אמנות הפיתוי בשל-בשל",
+  "why": "Same JA move as Ripe-Ripe Enticement Arts; use one string. Dropping the ה avoids the gender clash (אמנות is feminine, בשל is masculine).",
+  "by": "fable-advice"
+ },
+ "Roar! Lion Fire": {
+  "he": "שאג! אש האריה",
+  "why": "It is a command to the lion then the attack name; the exclamation mark reads better than a comma and matches the other inner-! rows.",
+  "by": "fable-advice"
+ },
+ "Round Turn": {
+  "he": "ליפוף מלא",
+  "why": "כריכה is binding a book; wrapping rope around something is ליפוף.",
+  "by": "fable-advice"
+ },
+ "Snow Powder Makeup": {
+  "he": "פודרת שלג",
+  "why": "Makeup powder is פודרה in Hebrew, so 'snow powder' as makeup is one punchy word pair; איפור שלג אבקה is three stacked nouns.",
+  "by": "fable-advice"
+ },
+ "Triple Exploding Stars": {
+  "he": "כוכב אבק שריפה משולש",
+  "why": "X משולש is the standard Hebrew for triple-X and keeps the vocab noun intact; שלושה כוכבי... is a sentence, not a shout.",
+  "by": "fable-advice"
+ },
+ "Water-Water Pistol": {
+  "he": "מים מים נו... אקדח",
+  "why": "The whole joke is Luffy parodying גומו גומו נו... אקדח; mirroring the prefix makes the parody land for anyone who has heard it fifty times.",
+  "by": "fable-advice"
+ },
+ "Oni Giri": {
+  "he": "אוני גירי",
+  "why": "delegated pick: avoids a misreading",
+  "by": "claude"
+ },
+ "Pierna Fleur": {
+  "he": "פרחי רגליים",
+  "why": "delegated pick: avoids a misreading",
+  "by": "claude"
+ },
+ "Ojos Fleurs": {
+  "he": "פרחי עיניים",
+  "why": "delegated pick: avoids a misreading",
+  "by": "claude"
+ },
+ "Gum-Gum Bursting Cactus Star": {
+  "he": "מתקפה מיוחדת: כוכב קקטוס מתפוצץ! גומו גומו נו... גאטלינג",
+  "why": "Split confirmed: Usopp's Lethal card and Luffy's Gatling card.",
+  "by": "fable-advice"
+ },
+ "Lethal Gatling": {
+  "he": "מתקפה מיוחדת: כוכב קקטוס מתפוצץ! גומו גומו נו... גאטלינג",
+  "why": "Split confirmed, same moment as the Bursting Cactus Star row.",
+  "by": "fable-advice"
+ },
+ "New Year's Dragon Twister": {
+  "he": "ניגוח ראש השנה! מערבולת דרקון",
+  "why": "Split confirmed; both pieces already in vocab.",
+  "by": "fable-advice"
+ },
+ "Oni Dragon Twister": {
+  "he": "חיתוך השד! מערבולת דרקון",
+  "why": "Split confirmed with vocab terms. Note חיתוך השד can also be read as 'breast cut' (שד = breast and demon); vocab issue, not this row's.",
+  "by": "fable-advice"
+ },
+ "Two-Sword Style: Eisen Back": {
+  "he": "סגנון שתי חרבות: גל הנץ! מגן ברזל",
+  "why": "Split confirmed; מגן ברזל keeps Eisen = ברזל.",
+  "by": "fable-advice"
+ },
+ "Monster Point": {
+  "he": "נקודת מפלצת",
+  "why": "Wikipedia leaves it in English; our subs already said נקודת מפלצת",
+  "by": "claude"
+ }
+}

@@ -1,4 +1,4 @@
-sha256 b2bb96aedc351bc8147c384bfb4ad0c994b0fb33183731a92e8a6f920be8fecc
+sha256 8fdefc12c32689abfc9b09d1c5c551eb9d82a6cc7cfa3c1115789b52c16efb3a
 # 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
 38 | fixed | נבקעה (biblical) → נחצתה לשתיים
 124 | fixed | near-miss ינוח בשקט → ינוח בשלום; apposition reordered
@@ -8,3 +8,4 @@ sha256 b2bb96aedc351bc8147c384bfb4ad0c994b0fb33183731a92e8a6f920be8fecc
 235 | fixed | ספג צלקת של בריחה (calque) → no scar on his back, he never ran
 # Round 2: fresh reader, changed lines ±3 cues.
 233 | fixed (round 2) | גב גאה (calque) → הגב הזקוף; 235 re-joined to it
+# 2026-11-07: attack names set from docs/attack-names.json (owner rulings + Fable 5.1 naturalness review). Attack calls only; the reader prompt exempts attack calls, so no blind round.

@@ -1,4 +1,4 @@
-sha256 b9993649eb2efe41e93f4ca62ae2a4ae2ae30b9d2e8fd54a7cf0105c8111ba1c
+sha256 c19e9ef3203dce1ce002002bc732d06a6bd8c1754454ed374234489829bb5a87
 # 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
 32 | fixed | הזבל הכי גרוע (calque) → החלאה הכי גדולה
 120 | fixed | news-headline register re-voiced (Iva, ווי kept)
@@ -6,3 +6,4 @@ sha256 b9993649eb2efe41e93f4ca62ae2a4ae2ae30b9d2e8fd54a7cf0105c8111ba1c
 101 | fixed | term spelling only: מגמה (trend) → מאגמה (magma)
 # Round 2: fresh reader, changed lines ±3 cues.
 # round 2: fresh reader, changed lines ±3, 0 flags
+# 2026-11-07: attack names set from docs/attack-names.json (owner rulings + Fable 5.1 naturalness review). Attack calls only; the reader prompt exempts attack calls, so no blind round.

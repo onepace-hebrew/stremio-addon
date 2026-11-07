@@ -1,4 +1,4 @@
-sha256 94765078662f4bd06d1e4e82934bf0fa9e08e73e909570de5b56002dcb7077fe
+sha256 8e8507939e3c722e1ab9e61013853ad215d89e6e7485a5759e521997f1f3dd77
 # 2026-11-04. Reviewer prompt: _NATIVE_REVIEW.txt (register-aware). Reader A + reader B (REGISTER FOCUS), full episode; flags triaged with the English open.
 29 | fixed | officialese תתבצע → נוציא אתכם להורג
 71 | fixed | המלחמה עלינו (ambiguous) → תשאירו לנו את המלחמה
@@ -9,3 +9,4 @@ sha256 94765078662f4bd06d1e4e82934bf0fa9e08e73e909570de5b56002dcb7077fe
 271 | fixed | term spelling only: מגמה (trend) → מאגמה (magma)
 # Round 2: fresh reader, changed lines ±3 cues.
 74 | fixed (round 2) | sentence-initial ברור ש calque → אתה ממש מחפש למות
+# 2026-11-07: attack names set from docs/attack-names.json (owner rulings + Fable 5.1 naturalness review). Attack calls only; the reader prompt exempts attack calls, so no blind round.

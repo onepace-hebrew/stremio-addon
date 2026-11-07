@@ -1,4 +1,4 @@
-sha256 896306b6a1bfedbca297a5fd05cfc9e6def4d5aac499e5b604b68bf5d8783da1
+sha256 aacb02b094330cc5e285886862899d39535885d7315de492268479f65e7f1e36
 # 2026-10-18. Reviewer prompt: _NATIVE_REVIEW.txt. Flags triaged with the English open.
 # Round 1: full episode, pre-fix HEAD version. 32 flagged.
 23 | fixed | "lent you strength" calque
@@ -54,3 +54,4 @@ sha256 896306b6a1bfedbca297a5fd05cfc9e6def4d5aac499e5b604b68bf5d8783da1
 # 2026-11-03 term normalization (ממשלת העולם → הממשלה העולמית) + register re-read: fresh reader, register-aware prompt, changed line ±3 (450-456). 1 flag.
 451 | fixed | היכן אמות → איפה למות (register; the old voice rewrite)
 453 | fixed | term: הממשלה העולמית
+# 2026-11-07: attack names set from docs/attack-names.json (owner rulings + Fable 5.1 naturalness review). Attack calls only; the reader prompt exempts attack calls, so no blind round.
